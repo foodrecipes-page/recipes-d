@@ -1,0 +1,84 @@
+{
+  "title": "Date Cherry Crunchy Stir Fry",
+  "description": "This fermented, crumbly Algerian dish is perfect for a cozy date night, featuring plant-based-friendly dates and cherries in a savory stir-fry.",
+  "cuisine": "Algerian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup frozen mixed vegetables",
+      "amount": "",
+      "notes": "ensure they are thawed"
+    },
+    {
+      "name": "2 tablespoons tahini",
+      "amount": "",
+      "notes": "use for added creaminess and depth of flavor"
+    },
+    {
+      "name": "3/4 cup dates, pitted",
+      "amount": "",
+      "notes": "preferably fermented to enhance sweetness and ferment aroma"
+    },
+    {
+      "name": "1/4 cup cherry tomatoes, halved",
+      "amount": "",
+      "notes": "fresh or frozen can be used, adjust chopping as needed for the texture preference"
+    },
+    {
+      "name": "2 tablespoons maple syrup",
+      "amount": "",
+      "notes": "adjust to taste with salt and pepper"
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": "improves flavor and aroma of the dish, optional"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "add for a smoky, slightly spicy touch to complement the sweetness"
+    }
+  ],
+  "instructions": [
+    "Combine tahini with maple syrup in a small bowl until smooth.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat. Add frozen mixed vegetables and stir-fry for about 3 minutes until they start to soften slightly.",
+    "Add pitted dates, cherry tomatoes, cumin, smoked paprika, and salt pepper; cook for another 5-7 minutes, stirring occasionally.",
+    "Drizzle the tahini mixture over the vegetables, stirring well until evenly coated. Cook for an additional 1 minute.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dish",
+    "date-night",
+    "fermented-date",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 3.1,
+    "carbs": 37.8,
+    "fat": 9.9
+  },
+  "slug": "date-cherry-crunchy-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-cherry-crunchy-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:04:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "cherry",
+    "diet": "plant-based",
+    "region": null
+  }
+}

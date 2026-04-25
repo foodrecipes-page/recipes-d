@@ -39,6 +39,19 @@
     "shard": "d"
   },
   {
+    "slug": "date-cherry-crunchy-stir-fry",
+    "title": "Date Cherry Crunchy Stir Fry",
+    "tags": [
+      "algerian-dish",
+      "date-night",
+      "fermented-date",
+      "stir-fry"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "date-jam-ferment",
     "title": "Date Jam Ferment",
     "tags": [
