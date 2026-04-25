@@ -1,0 +1,74 @@
+{
+  "title": "DalBerry Crunch",
+  "description": "A kid-friendly Korean dish featuring toor dal and berries, this floral, crunchy snack is raw-friendly and suitable for all ages.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toor Dal (Split Black Lentils)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Berries (fresh or frozen, such as strawberries or blueberries)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Fresh Coriander (Cilantro)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal and soak it in water for at least 4 hours or overnight.",
+    "Heat vegetable stock with a pinch of salt, bring to a boil, then add soaked toor dal. Reduce heat, cover, and simmer until soft (about 20 minutes).",
+    "Drain excess liquid from the toor dal if necessary and mix in fresh berries.",
+    "Blend half of the mixture into a smooth sauce with mint leaves and coriander finely chopped, adding more to reach desired consistency.",
+    "Serve the creamy, floral-toasted toor dal mixture over raw sliced berries for crunch."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dalberry-crunch",
+    "toor-dal",
+    "korean-snack",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "dalberry-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dalberry-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:39:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "toor dal",
+    "diet": "raw",
+    "region": null
+  }
+}

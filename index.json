@@ -1,5 +1,18 @@
 [
   {
+    "slug": "dalberry-crunch",
+    "title": "DalBerry Crunch",
+    "tags": [
+      "dalberry-crunch",
+      "toor-dal",
+      "korean-snack",
+      "kid-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-choco-tandoori-salad",
     "title": "Dark Choco Tandoori Salad",
     "tags": [
