@@ -49,6 +49,18 @@
     "shard": "d"
   },
   {
+    "slug": "dijon-reviver-salad",
+    "title": "Dijon Reviver Salad",
+    "tags": [
+      "dijon",
+      "reviver",
+      "salad"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 5,
+    "shard": "d"
+  },
+  {
     "slug": "dill-bliss-vegan-tandoori-soup",
     "title": "Dill Bliss Vegan Tandoori Soup",
     "tags": [

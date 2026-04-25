@@ -1,0 +1,82 @@
+{
+  "title": "Dijon Reviver Salad",
+  "description": "This herbal and crispy low-calorie-friendly Dijon Reviver Salad is designed to revitalize your system post-hangover with its blend of herbs and a tangy dijon mustard dressing.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "hangover-cure"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lettuce leaves",
+      "amount": "1 head"
+    },
+    {
+      "name": "croutons",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped herbs (parsley, dill, chives)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "minced garlic cloves",
+      "amount": "1 clove"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crème fraîche or low-fat yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the lettuce leaves and pat them dry. Break into bite-sized pieces.",
+    "Toast croutons until golden brown, then crush them finely with your hands or in a food processor.",
+    "In a mixing bowl, combine chopped herbs, minced garlic, balsamic vinegar, and dijon mustard. Stir well to blend the ingredients evenly.",
+    "Gently fold in the crushed croutons and reserved dressing into the lettuce leaves. Season with salt and pepper if desired.",
+    "Toss gently to distribute the dressing and ensure all ingredients are fully coated.",
+    "Serve immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dijon",
+    "reviver",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "dijon-reviver-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dijon-reviver-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:40:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "dijon mustard",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
