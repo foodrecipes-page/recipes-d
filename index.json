@@ -10,5 +10,18 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dill-bliss-vegan-tandoori-soup",
+    "title": "Dill Bliss Vegan Tandoori Soup",
+    "tags": [
+      "dill",
+      "tandoori",
+      "vegan",
+      "soup"
+    ],
+    "cuisine": "Vegan, Portuguese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]

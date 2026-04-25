@@ -1,0 +1,76 @@
+{
+  "title": "Dill Bliss Vegan Tandoori Soup",
+  "description": "A light and flavorful umami soup featuring dill and vegan-friendly ingredients for a sick-day comfort dish reminiscent of Portuguese cuisine.",
+  "cuisine": "Vegan, Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "2 cups vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup vegan sour cream or cashew cream",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh dill",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons tamarind paste (or 2 teaspoons tamarind concentrate dissolved in hot water)",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "juice of half a lemon"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of salt (to taste)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a pot, combine vegetable broth and tamarind paste with the juice of half a lemon. Bring to a boil.",
+    "Reduce heat to low and stir in dill, vegan sour cream or cashew cream, ground cumin, and salt until smooth.",
+    "Simmer for about 5-10 minutes until desired consistency is reached.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dill",
+    "tandoori",
+    "vegan",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "dill-bliss-vegan-tandoori-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dill-bliss-vegan-tandoori-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:58:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "dill",
+    "diet": "vegan",
+    "region": null
+  }
+}
