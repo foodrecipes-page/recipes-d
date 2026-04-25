@@ -1,5 +1,18 @@
 [
   {
+    "slug": "date-nectar-medley",
+    "title": "Date Nectar Medley",
+    "tags": [
+      "date-nectar-medley",
+      "saudi-arabian-dish",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "date-nibbles-meditative",
     "title": "Date Nibbles Meditative",
     "tags": [

@@ -1,0 +1,79 @@
+{
+  "title": "Date Nectar Medley",
+  "description": "A mediterranean-friendly date-night dish featuring dried fruits, marinated in a combination of sweet and salty flavors for a unique Saudi Arabian twist.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "orange juice",
+      "amount": "6 oz",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together dates, orange juice, lemon juice, olive oil, balsamic vinegar, honey, salt, and black pepper.",
+    "Mix well until the mixture is smooth and the dates are fully coated.",
+    "Cover and refrigerate for at least 2 hours or overnight to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-nectar-medley",
+    "saudi-arabian-dish",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "date-nectar-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-nectar-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:44:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "dried fruit",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
