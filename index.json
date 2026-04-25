@@ -1,5 +1,18 @@
 [
   {
+    "slug": "dark-choco-tandoori-salad",
+    "title": "Dark Choco Tandoori Salad",
+    "tags": [
+      "dark-chocolate",
+      "tandoori-salad",
+      "ukrainian-dish",
+      "meal-prep"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "date-jam-ferment",
     "title": "Date Jam Ferment",
     "tags": [

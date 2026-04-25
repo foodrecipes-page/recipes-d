@@ -1,0 +1,79 @@
+{
+  "title": "Dark Choco Tandoori Salad",
+  "description": "A tangy and crisp meal-prep Ukrainian dish featuring dark chocolate, tandoor-style spices, with a focus on being fodmap-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "sugar-free",
+    "fodmap-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Dark chocolate chips",
+      "amount": "100g"
+    },
+    {
+      "name": "Crispy vegetables (e.g. cauliflower rice, kale), finely chopped",
+      "amount": "250g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g",
+      "notes": "Replace with plain almond or soy milk for a dairy-free option."
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Tandoori spice blend (e.g. cumin, coriander)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "20ml"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 160°C (320°F).",
+    "Mix the Greek yogurt with honey or maple syrup in a bowl until smooth.",
+    "Spread the yogurt mixture over the chopped crispy vegetables and evenly distribute on a baking sheet.",
+    "Drizzle some of the tandoori spice blend over the top.",
+    "Add dark chocolate chips evenly distributed over the veggies, spreading them out slightly.",
+    "Roast for 20 minutes or until golden brown. Check if the chocolate is melted and well-coated with spices.",
+    "Remove from oven, sprinkle fresh mint leaves on top, and let cool for 5-10 minutes before serving.",
+    "Serve cold as a refreshing salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dark-chocolate",
+    "tandoori-salad",
+    "ukrainian-dish",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "dark-choco-tandoori-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-choco-tandoori-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:24:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "dark chocolate",
+    "diet": "fodmap",
+    "region": null
+  }
+}
