@@ -1,0 +1,66 @@
+{
+  "title": "Date Stone Delight Wrap",
+  "description": "A savory and crispy weeknight middle-eastern dish featuring stoned dates wrapped in a pita bread for a pescatarian-friendly snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stoned Dates",
+      "amount": "10"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Toast the stone dates by placing them in a small skillet and drizzling with olive oil. Toast for about 2-3 minutes or until lightly golden.",
+    "While the dates are toasting, place one slice of pita bread on a flat surface. Brush it lightly with olive oil and sprinkle with salt.",
+    "Carefully cut each toasted date in half to reveal the center stone core (if you prefer smaller pieces, do this before the toast step).",
+    "Gently press one date piece into the center of each pita slice, filling them up as much as possible without breaking the pita bread.",
+    "Place the filled pitas on a baking sheet and bake in the preheated oven for 10-12 minutes or until the pits are crispy and golden brown.",
+    "Serve hot with additional olive oil and lemon juice for drizzling if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date",
+    "pita",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "date-stone-delight-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-stone-delight-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:25:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "stoned dates",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
