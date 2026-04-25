@@ -1,0 +1,73 @@
+{
+  "title": "Date-Night Olive Toast",
+  "description": "A savory and creamy date-night Greek dish featuring crispy toast topped with a rich olive mixture for a simple yet elegant meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat or multigrain bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kalamata olives, pitted and halved",
+      "amount": "10-15 pieces"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the bread slices until lightly golden and crisp.",
+    "In a small bowl, mix together olive oil, minced garlic, chopped parsley, halved kalamata olives, and balsamic vinegar.",
+    "Spread the olive mixture evenly on each toast slice.",
+    "Place the toast slices on a baking sheet lined with parchment paper and bake for 5-7 minutes or until heated through.",
+    "Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "olive-toast",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "date-night-olive-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-olive-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:33:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "oil",
+    "diet": "jain",
+    "region": null
+  }
+}

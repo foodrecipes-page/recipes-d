@@ -37,6 +37,18 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-olive-toast",
+    "title": "Date-Night Olive Toast",
+    "tags": [
+      "date-night",
+      "olive-toast",
+      "jain-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "dill-bliss-vegan-tandoori-soup",
     "title": "Dill Bliss Vegan Tandoori Soup",
     "tags": [
