@@ -48,5 +48,17 @@
     "cuisine": "Vegan, Portuguese",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "dry-sherry-dumplings",
+    "title": "Dry Sherry Dumplings",
+    "tags": [
+      "dry-sherry-dumplings",
+      "spicy-ukrainian",
+      "kosher-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 75,
+    "shard": "d"
   }
 ]
