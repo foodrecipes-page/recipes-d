@@ -1,0 +1,71 @@
+{
+  "title": "Date Nibbles Meditative",
+  "description": "A savory and fluffy Mediterranean dish perfect for date night, featuring peanut butter and dates in a vegan-friendly recipe.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "12 large",
+      "notes": "pitted"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "8 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "3 tablespoons",
+      "notes": "softened for easier mixing"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for glazing"
+    },
+    {
+      "name": "Pinch of Sea Salt",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Stir dates, peanut butter, vegan butter, olive oil, and a pinch of sea salt together until well combined.",
+    "Place the mixture in an ungreased baking dish. Bake for about 20 minutes or until golden brown.",
+    "Serve warm as a snack with some fresh fruit on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "salty-fluffy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 9,
+    "carbs": 48,
+    "fat": 23
+  },
+  "slug": "date-nibbles-meditative",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-nibbles-meditative",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:44:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "peanut butter",
+    "diet": "vegan",
+    "region": null
+  }
+}
