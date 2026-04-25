@@ -1,5 +1,17 @@
 [
   {
+    "slug": "date-jam-ferment",
+    "title": "Date Jam Ferment",
+    "tags": [
+      "date-night",
+      "fermented-jam",
+      "egg-free"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 8,
+    "shard": "d"
+  },
+  {
     "slug": "date-nectar-medley",
     "title": "Date Nectar Medley",
     "tags": [

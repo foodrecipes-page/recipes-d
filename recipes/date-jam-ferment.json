@@ -1,0 +1,62 @@
+{
+  "title": "Date Jam Ferment",
+  "description": "A dense and fermented date-night polish dish that features a unique blend of sweet and tangy flavors for an egg-free-friendly treat.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pectin Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak dates in water for at least 8 hours or overnight to soften and release their natural sugars.",
+    "Drain the soaking liquid from the dates, leaving them moist but not dripping wet.",
+    "Place soaked dates into a food processor with an additional cup of fresh water. Blend until smooth, scraping down the sides as needed.",
+    "Pour blended date mixture back into a saucepan over medium heat and stir in pectin powder.",
+    "Simmer mixture for about 10 minutes or until it thickens to jam consistency, stirring occasionally to prevent scorching.",
+    "Transfer hot date jam to sterilized jars and seal tightly. Store at room temperature for up to one week."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 10,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "fermented-jam",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 2,
+    "carbs": 69,
+    "fat": 1
+  },
+  "slug": "date-jam-ferment",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-jam-ferment",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:21:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "jam",
+    "diet": "egg-free",
+    "region": null
+  }
+}
