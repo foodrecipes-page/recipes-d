@@ -13,6 +13,19 @@
     "shard": "d"
   },
   {
+    "slug": "dark-rummy-crumble",
+    "title": "Dark Rummy Crumble",
+    "tags": [
+      "dark rum",
+      "crumble",
+      "walnuts",
+      "vanilla"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "date-jam-ferment",
     "title": "Date Jam Ferment",
     "tags": [
