@@ -113,6 +113,19 @@
     "shard": "d"
   },
   {
+    "slug": "dense-almond-paste-crumble",
+    "title": "Dense Almond Paste Crumble",
+    "tags": [
+      "almond-paste",
+      "dense-crumbly",
+      "festive-dessert",
+      "gluten-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dijon-reviver-salad",
     "title": "Dijon Reviver Salad",
     "tags": [

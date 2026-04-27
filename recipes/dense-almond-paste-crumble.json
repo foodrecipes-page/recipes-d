@@ -1,0 +1,87 @@
+{
+  "title": "Dense Almond Paste Crumble",
+  "description": "A festive French dessert featuring almond paste and garlic for a unique twist on traditional crumbles, suitable for those with gluten sensitivities.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Paste",
+      "amount": "1 cup",
+      "notes": "Gluten-free almond paste can be found in many health food stores or online."
+    },
+    {
+      "name": "All-Purpose Gluten-Free Flour Blend",
+      "amount": "1/2 cup",
+      "notes": "Use a blend that includes xanthan gum for better texture."
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/2 cup",
+      "notes": "Any unsweetened plant-based milk can be used."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coarse Ground Almonds",
+      "amount": "2 tablespoons",
+      "notes": "For a crunchy texture."
+    },
+    {
+      "name": "Nutella (optional)",
+      "amount": "2 tablespoons",
+      "notes": "Can be used as a topping or for spreading between layers if making a layered version."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease and line a 9x13-inch baking dish with parchment paper.",
+    "In a large mixing bowl, combine almond paste, flour blend, almond milk, garlic powder, and sugar. Mix until smooth but still slightly crumbly.",
+    "Fold in the coarse ground almonds and any Nutella if using. The mixture should hold together when pressed lightly between your fingers.",
+    "Transfer the crumble to the prepared dish. You can spread it more evenly with a spatula for an even layer, or keep it somewhat uneven for visual appeal.",
+    "Bake for 25-30 minutes or until golden brown and set in the center. Let cool before serving.",
+    "Serve warm as dessert with whipped cream, ice cream, or your favorite topping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "almond-paste",
+    "dense-crumbly",
+    "festive-dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 14
+  },
+  "slug": "dense-almond-paste-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-almond-paste-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:40:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "almond paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Almond Paste",
+    "descriptor": "Garlicky Dense Festive",
+    "dishForm": "Crumble"
+  }
+}
