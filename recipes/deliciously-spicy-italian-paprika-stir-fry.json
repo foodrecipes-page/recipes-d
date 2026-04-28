@@ -1,0 +1,98 @@
+{
+  "title": "Deliciously Spicy Italian Paprika Stir-fry",
+  "description": "A savory, chewy, indulgent Sicilian dish featuring dill, bhuna spices and Mediterranean-friendly ingredients.",
+  "cuisine": "Sicilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Bell peppers (red, yellow)",
+      "amount": "2 each"
+    },
+    {
+      "name": "Zucchini slices",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dill, chopped",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Black pepper to taste"
+    },
+    {
+      "name": "Water or chicken broth (for boiling zucchini and peppers)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add sliced onions and minced garlic, stir for about 2 minutes until fragrant.",
+    "Add bell peppers and zucchini slices to the wok. Season with paprika, dill, salt, black pepper, and a pinch of sugar (optional). Stir-fry vegetables for another 4-5 minutes.",
+    "Pour in water or broth if needed to cover the vegetables. Bring it to a boil then reduce heat to low, cover and simmer gently for about 10 minutes until the zucchini is tender but not mushy.",
+    "Garnish with sesame seeds and chopped cilantro before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spicy",
+    "stir-fry",
+    "southern-american",
+    "delicious"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 8.7,
+    "carbs": 25.1,
+    "fat": 9.4
+  },
+  "slug": "deliciously-spicy-italian-paprika-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-italian-paprika-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:56:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "dill",
+    "diet": "mediterranean",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Paprika",
+    "descriptor": "Deliciously Spicy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -127,6 +127,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-spicy-italian-paprika-stir-fry",
+    "title": "Deliciously Spicy Italian Paprika Stir-fry",
+    "tags": [
+      "italian",
+      "spicy",
+      "stir-fry",
+      "southern-american",
+      "delicious"
+    ],
+    "cuisine": "Sicilian",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "dense-almond-paste-crumble",
     "title": "Dense Almond Paste Crumble",
     "tags": [
