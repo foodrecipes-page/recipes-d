@@ -154,6 +154,18 @@
     "shard": "d"
   },
   {
+    "slug": "dense-korean-papelon-stir-fry",
+    "title": "Earthy Papelon Stir-Fry",
+    "tags": [
+      "dense-papelon-dish",
+      "earthly-meal-prep",
+      "korean-stir-fry"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "dijon-reviver-salad",
     "title": "Dijon Reviver Salad",
     "tags": [

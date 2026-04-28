@@ -1,0 +1,83 @@
+{
+  "title": "Earthy Papelon Stir-Fry",
+  "description": "An earthy and dense meal-prep Korean dish featuring papelon and toast, perfect for pescatarian diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toast crumbs (from 2 slices)",
+      "amount": "as needed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Green onion (scallion), finely chopped",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded carrots (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped cilantro leaves",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add papelon, toast crumbs, vegetable broth, soy sauce, garlic, and green onion.",
+    "Stir well for about 2 minutes until the mixture starts to become thick.",
+    "If desired, add shredded carrots and stir again for another minute. Finish with chopped cilantro leaves.",
+    "Serve hot as a side dish or wrap in rice paper for a fresh roll."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dense-papelon-dish",
+    "earthly-meal-prep",
+    "korean-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 17.4,
+    "carbs": 26.8,
+    "fat": 10
+  },
+  "slug": "dense-korean-papelon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-korean-papelon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:14:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "papelon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "papelon",
+    "descriptor": "dense",
+    "dishForm": "Stir-fry"
+  }
+}
