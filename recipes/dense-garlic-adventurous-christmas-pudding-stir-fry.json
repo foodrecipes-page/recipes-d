@@ -1,0 +1,86 @@
+{
+  "title": "Dense Garlic Adventurous Christmas Pudding Stir-fry",
+  "description": "A unique and savory dish combining the rich flavors of Christmas pudding with a kick from garlic, prepared sous-vide for optimal texture.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "100g",
+      "notes": "Use high-quality Christmas pudding from a reputable brand."
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 tablespoons",
+      "notes": "For a milder flavor, use crushed garlic instead of garlic paste."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Use high-heat olive oil for sous-vide cooking and stir-frying."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Choose low-sodium soy sauce if sugar-free is a concern."
+    },
+    {
+      "name": "Mirin (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Add for sweetness, optional."
+    },
+    {
+      "name": "Sugar (sugar-free or reduced)"
+    },
+    {
+      "name": "Fresh ginger juice (optional)",
+      "amount": "1 teaspoon",
+      "notes": "For a subtle spicy kick, use fresh ginger instead of powdered ginger."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 49°C (120°F). Place Christmas pudding in a vacuum seal bag and cook for about 30 minutes.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic paste and stir-fry until fragrant but not burnt, approximately 3-5 minutes.",
+    "Add soy sauce and mirin (if using) to the pan. Stir well until all ingredients are evenly coated in sauce.",
+    "Remove Christmas pudding from sous-vide bag and slice into bite-sized pieces if needed. Add to skillet with garlic-sauce mixture.",
+    "Stir-fry gently for about 2-3 minutes, allowing flavors to blend but preventing overcooking the pudding.",
+    "If using ginger juice, add it at this step to enhance flavor. Adjust seasoning with salt or sugar as needed.",
+    "Serve hot as a side dish or main course accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "garlic",
+    "adventurous",
+    "christmas-pudding"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "dense-garlic-adventurous-christmas-pudding-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-garlic-adventurous-christmas-pudding-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:10:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "sous-vide",
+    "primaryIngredient": "christmas pudding",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Garlicky Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}

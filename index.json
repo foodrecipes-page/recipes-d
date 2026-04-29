@@ -154,6 +154,19 @@
     "shard": "d"
   },
   {
+    "slug": "dense-garlic-adventurous-christmas-pudding-stir-fry",
+    "title": "Dense Garlic Adventurous Christmas Pudding Stir-fry",
+    "tags": [
+      "sous-vide",
+      "garlic",
+      "adventurous",
+      "christmas-pudding"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "dense-korean-papelon-stir-fry",
     "title": "Earthy Papelon Stir-Fry",
     "tags": [
