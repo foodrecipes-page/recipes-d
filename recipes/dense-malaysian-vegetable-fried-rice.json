@@ -1,0 +1,111 @@
+{
+  "title": "Dense Malaysian Vegetable Fried Rice",
+  "description": "A hearty and flavorful Malaysian dish made with stir-fry vegetables and dense rice, perfect for a hangover cure or a satisfying meal. This recipe is egg-free and friendly for various dietary needs.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the grated carrots and cook for 2-3 minutes, until they start to soften.",
+    "Add the green beans and shredded cabbage, and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Add the cooked rice to the wok or frying pan, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the vegetables for about 5 minutes, until everything is well combined and the rice is heated through.",
+    "Add the soy sauce and oyster sauce (if using), and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "vegetable-fried-rice",
+    "hangover-cure",
+    "egg-free",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "dense-malaysian-vegetable-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-malaysian-vegetable-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:31:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "dense",
+    "dishForm": "Fried-Rice"
+  }
+}
