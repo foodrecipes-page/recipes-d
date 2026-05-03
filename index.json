@@ -183,6 +183,17 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-australian-cherry-mousse",
+    "title": "Delicate Australian Cherry Mousse",
+    "tags": [
+      "australian",
+      "dessert"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-australian-prunes-mousse",
     "title": "Delicate Australian Prunes Mousse",
     "tags": [

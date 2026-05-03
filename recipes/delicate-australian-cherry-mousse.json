@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Australian Cherry Mousse",
+  "description": "A buttery, velvety mousse that showcases fresh cherries in a light, high-protein Australian dessert.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh cherries, pitted",
+      "amount": "500g",
+      "notes": "Fresh or frozen, thawed if frozen"
+    },
+    {
+      "name": "Greek yogurt, plain low-fat",
+      "amount": "200g"
+    },
+    {
+      "name": "Low-fat cream cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Whey protein powder, unflavored",
+      "amount": "30g"
+    },
+    {
+      "name": "Honey",
+      "amount": "30g"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Low-fat whipping cream",
+      "amount": "50g",
+      "notes": "Optional for extra texture"
+    }
+  ],
+  "instructions": [
+    "Blend cherries, yogurt, cream cheese, whey protein, honey, egg yolk, vanilla, lemon zest, and sea salt until smooth.",
+    "Whisk cornstarch into 2 tbsp cold water and add to the blender, blending until no lumps remain.",
+    "Transfer the mixture to a saucepan and heat over low heat for 5 minutes, stirring constantly until it begins to thicken.",
+    "Remove from heat and whisk vigorously for 1 minute to emulsify the mousse.",
+    "Chill the mousse in the refrigerator for 30 minutes to set.",
+    "If desired, fold in lightly whipped low-fat cream to enhance fluffiness.",
+    "Spoon the mousse into serving glasses and chill again for 15 minutes.",
+    "Garnish each serving with a few fresh cherries or a sprig of mint before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dessert"
+  ],
+  "slug": "delicate-australian-cherry-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-australian-cherry-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:34:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cherries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cherry",
+    "descriptor": "Delicate",
+    "dishForm": "Mousse"
+  }
+}
