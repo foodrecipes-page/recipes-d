@@ -1,0 +1,98 @@
+{
+  "title": "Decadent Greek Pork Stir‑fry",
+  "description": "A salty, velvety, low‑sodium Greek stir‑fry featuring tender pork back ribs and fresh vegetables, perfect for a lazy Sunday dinner.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs, trimmed and cut into 1‑inch cubes",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "lemon, juiced",
+      "amount": "1"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Trim the pork back ribs and cut into 1‑inch cubes.",
+    "In a bowl whisk together soy sauce, Greek yogurt, lemon juice, oregano, garlic, salt, and pepper to create a quick sauce.",
+    "Heat olive oil in a large skillet over medium‑high heat and sear pork cubes until browned all sides, about 5 minutes.",
+    "Add onion and bell pepper to the skillet and sauté until softened, about 3 minutes.",
+    "Pour the prepared sauce over the pork and vegetables, stir to coat, and reduce heat to medium.",
+    "Simmer uncovered for 15 minutes, stirring occasionally, until pork is tender and sauce thickens.",
+    "Taste and adjust seasoning if necessary, remembering the low‑sodium focus.",
+    "Plate the stir‑fry over a bed of steamed white rice or couscous and drizzle with extra lemon juice if desired.",
+    "Garnish with fresh parsley or dill for brightness (optional).",
+    "Serve hot and enjoy the velvety, salty Greek flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lazy-sunday",
+    "low-sodium-friendly",
+    "one-pot",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 22,
+    "fat": 30
+  },
+  "slug": "decadent-greek-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-greek-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:03:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "pork back ribs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Decadent",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -127,6 +127,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-greek-pork-stir-fry",
+    "title": "Decadent Greek Pork Stir‑fry",
+    "tags": [
+      "greek",
+      "lazy-sunday",
+      "low-sodium-friendly",
+      "one-pot",
+      "pork"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
     "title": "Deglazed Smoky Roasted Pepper American Pilaf",
     "tags": [
