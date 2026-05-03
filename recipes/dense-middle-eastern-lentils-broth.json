@@ -1,0 +1,135 @@
+{
+  "title": "Dense Middle Eastern Lentils Broth",
+  "description": "A smoky, aromatic lentil broth enriched with gentle spices and fresh gem lettuce, perfect for a romantic, satvik-friendly dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small, diced",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, diced",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cardamom pod",
+      "amount": "1, crushed",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse lentils and place in a pot with water and vegetable broth.",
+    "Add smoked paprika, cumin, coriander, cinnamon, crushed cardamom, and bay leaf; bring to a gentle boil.",
+    "Reduce heat and simmer, uncovered, for 20 minutes until lentils soften.",
+    "Stir in diced carrot and zucchini; cook for an additional 5 minutes.",
+    "Add chopped gem lettuce, season with salt, and simmer for 2 minutes until wilted.",
+    "Remove bay leaf, stir in lemon juice, and adjust seasoning if necessary.",
+    "Ladle broth into bowls and sprinkle with fresh parsley.",
+    "Serve hot as a smoky, romantic lentil broth.",
+    "Pair with warm flatbread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentils",
+    "quick-healthy",
+    "rich-flavor",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 194,
+    "protein": 13,
+    "carbs": 36,
+    "fat": 0
+  },
+  "slug": "dense-middle-eastern-lentils-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-middle-eastern-lentils-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:33:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Dense",
+    "dishForm": "Broth"
+  }
+}
