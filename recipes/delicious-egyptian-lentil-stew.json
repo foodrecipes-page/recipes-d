@@ -1,0 +1,106 @@
+{
+  "title": "Delicious Egyptian Lentil Stew",
+  "description": "A buttery, juicy lentil stew with a hint of cumin and coriander, served hot with Egyptian flatbread",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Stir in the minced garlic and cook for one minute.",
+    "Add the diced carrot, cumin, coriander, and bay leaf.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Add the red lentils, reduce heat, cover, and simmer for 20 to 25 minutes until the lentils are tender.",
+    "Season with salt and stir in lemon juice for brightness.",
+    "Serve hot, optionally topping with a drizzle of olive oil and fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "kid-friendly",
+    "lentils",
+    "plant-based",
+    "quick",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "delicious-egyptian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-egyptian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:43:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "bread flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Delicious",
+    "dishForm": "Stew"
+  }
+}

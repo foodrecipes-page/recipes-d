@@ -139,6 +139,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-egyptian-lentil-stew",
+    "title": "Delicious Egyptian Lentil Stew",
+    "tags": [
+      "african",
+      "kid-friendly",
+      "lentils",
+      "plant-based",
+      "quick",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-spicy-italian-paprika-stir-fry",
     "title": "Deliciously Spicy Italian Paprika Stir-fry",
     "tags": [
