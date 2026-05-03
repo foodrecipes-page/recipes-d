@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Portuguese Shrimp Ceviche",
+  "description": "Citrus bright shrimp ceviche with a splash of Portuguese shrimp paste and a light lime‑coconut glaze, perfect for a post‑workout snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh shrimp, peeled and deveined",
+      "amount": "300g"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "Shrimp paste (kapi)",
+      "amount": "15ml"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Place peeled shrimp in a bowl and pour cold lime juice over them; cover and chill for 30 minutes to cure.",
+    "While shrimp cures, whisk orange juice, coconut milk, shrimp paste, salt, sugar, chili flakes, and lemon zest until fully combined.",
+    "After 30 minutes, discard the curing liquid and transfer shrimp to the whisked mixture; stir gently to coat.",
+    "Fold in chopped cilantro and capers, if using, and mix lightly.",
+    "Transfer the mixture to a shallow dish and chill for 15 minutes.",
+    "Meanwhile, pour 30ml of the citrus mixture into a small saucepan; simmer over low heat until reduced by half, then let cool to create a glaze.",
+    "Drizzle the cooled glaze over the chilled ceviche just before serving.",
+    "Garnish with extra cilantro and a sprinkle of chili flakes.",
+    "Serve immediately over mixed greens or with toasted baguette slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "no-onion",
+    "pescatarian",
+    "post-workout",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 75,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "delicate-portuguese-shrimp-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-portuguese-shrimp-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:38:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Delicate",
+    "dishForm": "Ceviche"
+  }
+}
