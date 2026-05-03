@@ -73,9 +73,9 @@
   ],
   "nutrition": {
     "calories": 306,
-    "protein": 8.7,
-    "carbs": 25.1,
-    "fat": 9.4
+    "protein": 9,
+    "carbs": 25,
+    "fat": 9
   },
   "slug": "deliciously-spicy-italian-paprika-stir-fry",
   "source": "ollama-qwen2.5:3b",

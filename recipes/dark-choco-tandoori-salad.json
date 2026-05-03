@@ -7,7 +7,7 @@
     "sugar-free",
     "fodmap-friendly"
   ],
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "Dark chocolate chips",
@@ -36,7 +36,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 160°C (320°F).",
+    "Preheat your oven to 160\u00b0C (320\u00b0F).",
     "Mix the Greek yogurt with honey or maple syrup in a bowl until smooth.",
     "Spread the yogurt mixture over the chopped crispy vegetables and evenly distribute on a baking sheet.",
     "Drizzle some of the tandoori spice blend over the top.",

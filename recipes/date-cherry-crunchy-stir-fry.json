@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 256,
-    "protein": 3.1,
-    "carbs": 37.8,
-    "fat": 9.9
+    "protein": 3,
+    "carbs": 38,
+    "fat": 10
   },
   "slug": "date-cherry-crunchy-stir-fry",
   "source": "ollama-qwen2.5:3b",
