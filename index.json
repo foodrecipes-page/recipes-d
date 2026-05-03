@@ -139,6 +139,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-venezuelan-turkey-burrito",
+    "title": "Delicate Venezuelan Turkey Burrito",
+    "tags": [
+      "burrito",
+      "low-calorie",
+      "low-fat",
+      "quick",
+      "turkey",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-egyptian-lentil-stew",
     "title": "Delicious Egyptian Lentil Stew",
     "tags": [
