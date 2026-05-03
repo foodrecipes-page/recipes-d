@@ -1,0 +1,105 @@
+{
+  "title": "Dry Crumbly Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish featuring beef and herbal flavors, perfect for a post-workout snack, with vegetarian-friendly options by substituting beef with portobello mushrooms or eggplant, and these empanadas can be made crumbly by using a mixture of all-purpose and corn flour, and the beef stock concentrate adds a rich flavor to the filling",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "or gluten-free alternative"
+    },
+    {
+      "name": "corn flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rest-meat or portobello mushrooms",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "hard-boiled egg",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine all-purpose flour, corn flour, and salt.",
+    "Gradually add olive oil to the flour mixture, stirring with a fork until the mixture resembles coarse crumbs.",
+    "Add beef stock concentrate, rest-meat or portobello mushrooms, onion, hard-boiled egg, black pepper, and dried oregano to the flour mixture, stirring until just combined.",
+    "Turn the mixture out onto a lightly floured surface and knead a few times until it comes together.",
+    "Divide the dough into 8-10 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the filling in the center of each circle and fold the dough in half, pressing the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "dry-crumbly-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-crumbly-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:56:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "rest-meat",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Dry Crumbly",
+    "dishForm": "Empanadas"
+  }
+}
