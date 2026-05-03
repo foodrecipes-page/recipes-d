@@ -184,6 +184,36 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-bitter-filipino-prawns-skewers",
+    "title": "Delicate Bitter Filipino Prawns Skewers",
+    "tags": [
+      "air-fryer",
+      "filipino-food",
+      "high-protein",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-dutch-chicken-flatbread",
+    "title": "Delicate Dutch Chicken Flatbread",
+    "tags": [
+      "dutch",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "quick-meal",
+      "savory"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 97,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-venezuelan-turkey-burrito",
     "title": "Delicate Venezuelan Turkey Burrito",
     "tags": [

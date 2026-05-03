@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Dutch Chicken Flatbread",
+  "description": "A savory, fluffy flatbread with tender braised chicken, perfect for a light lunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fast-action yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, yeast, salt, and pepper, mixing until evenly distributed.",
+    "Create a well in the center and add warm milk, egg, and olive oil, then stir until a rough dough forms.",
+    "Knead the dough on a floured surface for 6 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 45 minutes until doubled.",
+    "While the dough rises, heat a skillet over medium-high heat, add a splash of oil, and sear the diced chicken until cooked through; set aside.",
+    "Once the dough has risen, punch it down and roll it out into a 12-inch circle, then transfer it to a baking sheet lined with parchment.",
+    "Brush the dough with a little olive oil, then scatter the seared chicken, onion, and garlic evenly over the surface.",
+    "Bake the flatbread at 200°C (400°F) for 12 minutes until golden and the chicken is heated through.",
+    "Remove from oven, let cool 5 minutes, then slice into wedges.",
+    "Serve warm with a side of fresh salad or yogurt dip."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 22,
+  "totalTimeMin": 97,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-meal",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 18,
+    "carbs": 53,
+    "fat": 11
+  },
+  "slug": "delicate-dutch-chicken-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dutch-chicken-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:07:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "fast action yeast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Delicate",
+    "dishForm": "Flatbread"
+  }
+}

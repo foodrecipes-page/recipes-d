@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Bitter Filipino Prawns Skewers",
+  "description": "A delicate and bitter Filipino dish featuring raw frozen prawns, perfect for a date night, this vegan-friendly recipe uses air-fry method for a silky texture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "12 pieces",
+      "notes": "thawed"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the thawed prawns to the bowl and marinate for 10 minutes.",
+    "Thread the marinated prawns and sliced bitter melon onto skewers.",
+    "Place the skewers in the air fryer basket and cook for 8 minutes.",
+    "Flip the skewers halfway through cooking.",
+    "Remove the skewers from the air fryer and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "filipino-food",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "delicate-bitter-filipino-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-bitter-filipino-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:06:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "prawns",
+    "descriptor": "delicate bitter",
+    "dishForm": "Skewers"
+  }
+}
