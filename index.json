@@ -285,6 +285,36 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-slovakian-coconut-curry",
+    "title": "Delicate Slovakian Coconut Curry",
+    "tags": [
+      "low-fat",
+      "one-pot",
+      "quick",
+      "slovakian",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-venezuelan-blackcurrant-empanadas",
+    "title": "Delicate Venezuelan Blackcurrant Empanadas",
+    "tags": [
+      "baked-goods",
+      "festive",
+      "homemade",
+      "sugar-free",
+      "vegetarian",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-venezuelan-turkey-burrito",
     "title": "Delicate Venezuelan Turkey Burrito",
     "tags": [

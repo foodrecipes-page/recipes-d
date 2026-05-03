@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Venezuelan Blackcurrant Empanadas",
+  "description": "A cultured and festive Venezuelan dish featuring blackcurrant jam and a shio-koji cure, perfect for special occasions, and can be adapted to be sugar-free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, shio-koji, and salt.",
+    "Add the melted butter, beaten egg, and cold water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of blackcurrant jam in the center of each circle.",
+    "Fold the dough over the jam to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "festive",
+    "homemade",
+    "sugar-free",
+    "vegetarian",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "delicate-venezuelan-blackcurrant-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-venezuelan-blackcurrant-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:41:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "blackcurrant",
+    "descriptor": "delicate pillowy",
+    "dishForm": "Empanadas"
+  }
+}

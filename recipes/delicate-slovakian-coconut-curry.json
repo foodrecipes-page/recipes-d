@@ -1,0 +1,121 @@
+{
+  "title": "Delicate Slovakian Coconut Curry",
+  "description": "A fresh spring dish with unsweetened coconut milk, light spices, and a tadka for a gentle, Ayurvedic-friendly curry.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "50 g"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "50 g"
+    },
+    {
+      "name": "peas, frozen",
+      "amount": "50 g"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "50 g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "5 g"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "optional, for a hint of heat"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a small pot over medium heat and pour in 1 tbsp oil.",
+    "Add 1 tsp mustard seeds and 1 tsp fenugreek seeds, letting them sputter for 30 seconds.",
+    "Stir in finely chopped onion, garlic, and ginger, cooking until onion is translucent.",
+    "Sprinkle 1 tsp curry powder over the mixture, sautéing for 1 minute to release aromas.",
+    "Add diced carrots, bell pepper, and peas, stirring to coat with spices.",
+    "Pour in 200 ml vegetable broth and 200 ml unsweetened coconut milk, bringing to a gentle simmer.",
+    "Season with salt to taste and cook for 8 minutes, allowing vegetables to soften.",
+    "Stir in a squeeze of lemon juice and a pinch of fresh cilantro, adjusting seasoning.",
+    "Remove from heat and transfer to serving bowls, garnishing with extra cilantro if desired.",
+    "Serve warm as a light spring dish, optionally accompanied by steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "one-pot",
+    "quick",
+    "slovakian",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "delicate-slovakian-coconut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-slovakian-coconut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:41:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "coconut",
+    "descriptor": "Delicate",
+    "dishForm": "Curry"
+  }
+}
