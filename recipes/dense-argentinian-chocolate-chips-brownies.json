@@ -1,0 +1,93 @@
+{
+  "title": "Dense Argentinian Chocolate Chips Brownies",
+  "description": "Fresh, dense, and rich Argentinian-style brownies featuring dark chocolate chips, perfect as a post-workout treat. This vegan-friendly dessert is made with wholesome ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "dairy-free, at least 70% cocoa"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2",
+      "notes": "mixed with 4 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C) and grease an 8-inch square baking pan with non-stick spray.",
+    "In a large bowl, whisk together almond flour, cocoa powder, coconut sugar, and salt.",
+    "In a separate bowl, whisk together canola oil, vanilla extract, and flax eggs mixed with water.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Fold in the dark chocolate chips.",
+    "Pour the batter into the prepared baking pan and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted comes out with a few moist crumbs.",
+    "Remove from the oven and let cool completely in the pan before cutting into squares."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chocolate",
+    "brownies",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dense-argentinian-chocolate-chips-brownies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-argentinian-chocolate-chips-brownies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:47:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "chocolate chips",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chocolate chips",
+    "descriptor": "dense post workout",
+    "dishForm": "Brownies"
+  }
+}

@@ -127,6 +127,18 @@
     "shard": "d"
   },
   {
+    "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
+    "title": "Deglazed Smoky Roasted Pepper American Pilaf",
+    "tags": [
+      "quinoa",
+      "roasted_peppers",
+      "smoky"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-spicy-italian-paprika-stir-fry",
     "title": "Deliciously Spicy Italian Paprika Stir-fry",
     "tags": [
@@ -151,6 +163,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-argentinian-chocolate-chips-brownies",
+    "title": "Dense Argentinian Chocolate Chips Brownies",
+    "tags": [
+      "argentinian",
+      "chocolate",
+      "brownies",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {

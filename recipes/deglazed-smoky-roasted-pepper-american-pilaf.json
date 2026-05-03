@@ -1,0 +1,84 @@
+{
+  "title": "Deglazed Smoky Roasted Pepper American Pilaf",
+  "description": "A bitter, crumbly American dish featuring roasted peppers, deglazed with a smoky essence that serves as a hangover-cure alternative. Gluten-free and egg-free.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 large roasted red peppers (diced)",
+      "amount": "medium"
+    },
+    {
+      "name": "1 onion (chopped)",
+      "amount": "piece"
+    },
+    {
+      "name": "3 cloves garlic (minced)",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 cup chicken or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Optional: 1/4 teaspoon cayenne pepper for extra heat",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain. In a medium saucepan, combine quinoa with chicken or vegetable broth.",
+    "Add olive oil, diced roasted red peppers, onion, and minced garlic to the saucepan over medium heat.",
+    "Stir occasionally for about 5 minutes until the vegetables are soft and the liquid has mostly absorbed by cooking into the quinoa.",
+    "Deglaze the pan with a cup of chicken or vegetable broth. Stir gently until the mixture thickens slightly (can be done quickly as it's just to deglaze).",
+    "Taste for salt, pepper, and adjust if needed. Optionally add cayenne pepper for added heat.",
+    "Turn off heat, stir in any remaining liquid from the pan, cover, and let sit for a few minutes until quinoa is fully cooked but still slightly crunchy.",
+    "Serve warm as a side dish or over scrambled eggs for an American-style breakfast alternative."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "roasted_peppers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 9
+  },
+  "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/deglazed-smoky-roasted-pepper-american-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:47:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "roasted pepper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pepper",
+    "descriptor": "Deglazed",
+    "dishForm": "Pilaf"
+  }
+}
