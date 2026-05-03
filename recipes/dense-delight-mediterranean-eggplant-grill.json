@@ -1,0 +1,101 @@
+{
+  "title": "Dense Delight Mediterranean Eggplant Grill",
+  "description": "A rich, energizing Mediterranean dish featuring grilled eggplant, garlic ginger paste, and a hint of lemon.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "2",
+      "notes": "Choose firm, purple eggplants."
+    },
+    {
+      "name": "1/4 cup garlic ginger paste",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use high-quality, extra-virgin oil."
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "1 tsp",
+      "notes": "Ground or whole leaves work."
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": "Ground or whole leaves work."
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "1/2 tsp",
+      "notes": "Use kosher or sea salt."
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Use freshly ground pepper."
+    },
+    {
+      "name": "2 lemons",
+      "amount": "2",
+      "notes": "Use fresh, organic lemons."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Use fresh, organic parsley."
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "Trim the eggplants to 1-inch thick slices.",
+    "Brush both sides of the eggplant slices with olive oil and season with salt, pepper, oregano, and thyme.",
+    "Grill the eggplant slices for 3-4 minutes per side or until tender and lightly charred.",
+    "In a small bowl, whisk together garlic ginger paste and lemon juice.",
+    "Once the eggplant is cooked, brush it with the garlic ginger paste mixture on both sides.",
+    "Serve the eggplant slices hot, garnished with chopped parsley and a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "easy-to-make",
+    "eggplant",
+    "grilled",
+    "healthy",
+    "lemon-herb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dense-delight-mediterranean-eggplant-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-delight-mediterranean-eggplant-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:35:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Dense Delight",
+    "dishForm": "Grill"
+  }
+}
