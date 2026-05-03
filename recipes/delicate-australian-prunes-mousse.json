@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Australian Prunes Mousse",
+  "description": "A sour, velvety mousse that brings back nostalgic Australian memories, crafted from prunes, raw cashews, and citrus.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted prunes",
+      "amount": "200 g"
+    },
+    {
+      "name": "raw cashews",
+      "amount": "100 g",
+      "notes": "soaked 4 hours"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "20 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Soak cashews in water for at least 4 hours.",
+    "Drain cashews and place them in a blender with 100 ml coconut milk.",
+    "Add the pitted prunes, lemon juice, vanilla extract and honey to the blender.",
+    "Blend until completely smooth.",
+    "If using agar-agar, dissolve 1 tsp in 50 ml warm water and stir into the puree.",
+    "Whisk the puree vigorously with a hand whisk for 2-3 minutes until it becomes light and airy.",
+    "Pour the mousse into serving glasses and chill in the fridge for 30 minutes.",
+    "Serve chilled, optionally topped with fresh mint or slivered almonds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "mousse",
+    "prune",
+    "quick",
+    "raw",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1120,
+    "protein": 25,
+    "carbs": 117,
+    "fat": 69
+  },
+  "slug": "delicate-australian-prunes-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-australian-prunes-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:56:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "prunes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prunes",
+    "descriptor": "Delicate",
+    "dishForm": "Mousse"
+  }
+}
