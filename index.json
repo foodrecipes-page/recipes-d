@@ -127,6 +127,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-greek-pasta-lasagna",
+    "title": "Decadent Greek Pasta Lasagna",
+    "tags": [
+      "baked",
+      "comfort-food",
+      "easy",
+      "greek",
+      "pasta",
+      "smoky-tomato",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-greek-pork-stir-fry",
     "title": "Decadent Greek Pork Stir‑fry",
     "tags": [
@@ -586,6 +602,21 @@
     ],
     "cuisine": "Vegan, Portuguese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-rich-filipino-noodles-pancit-bihon",
+    "title": "Dreamy Rich Filipino Noodles Pancit Bihon",
+    "tags": [
+      "filipino-food",
+      "halal-friendly",
+      "lazy-sunday",
+      "noodle-dishes",
+      "one-pan",
+      "sweet-and-savory"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

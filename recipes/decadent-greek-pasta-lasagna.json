@@ -1,0 +1,111 @@
+{
+  "title": "Decadent Greek Pasta Lasagna",
+  "description": "A romantic, earthy Greek pastitsio made with smoky tomato sauce and creamy béchamel, enriched by vegetable stock and aromatic herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta shells",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "150g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta shells in a large pot of salted boiling water until al dente, then drain and set aside.",
+    "In a skillet, melt 30g of butter over medium heat and sauté diced onion and minced garlic until softened.",
+    "Add smoked paprika and tomato paste to the skillet, stirring until fragrant, then pour in vegetable stock and bring to a simmer.",
+    "Whisk in all-purpose flour, stirring until the mixture thickens into a roux, then gradually whisk in milk until smooth.",
+    "Stir in ricotta and mozzarella cheeses, season with salt and pepper, and simmer the sauce for five minutes.",
+    "Beat eggs in a bowl, then temper them by slowly whisking in a splash of the béchamel, after which combine them back into the pan.",
+    "Layer half of the cooked pasta in a greased baking dish, pour half of the sauce over it, then repeat with remaining pasta and sauce.",
+    "Sprinkle the remaining mozzarella cheese on top to create a golden crust.",
+    "Bake the lasagna for 25 minutes until bubbling and golden brown.",
+    "Allow the dish to rest for ten minutes before slicing.",
+    "Garnish with fresh parsley if desired and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "comfort-food",
+    "easy",
+    "greek",
+    "pasta",
+    "smoky-tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 17,
+    "carbs": 22,
+    "fat": 19
+  },
+  "slug": "decadent-greek-pasta-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-greek-pasta-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:48:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "vegetable stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pasta",
+    "descriptor": "Decadent",
+    "dishForm": "Lasagna"
+  }
+}
