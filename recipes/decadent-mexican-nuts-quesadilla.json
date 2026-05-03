@@ -1,0 +1,102 @@
+{
+  "title": "Decadent Mexican Nuts Quesadilla",
+  "description": "A creamy, cheese‑pulling quesadilla loaded with toasted nuts and a subtle nutmeg tadka, perfect for a protein‑rich indulgent snack.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour tortillas",
+      "amount": "2 large"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "mixed nuts (almonds, walnuts, pecans)",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried red chili, crushed",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a small skillet over medium heat and add cumin seeds, mustard seeds, crushed chili, and minced garlic, sautéing until fragrant and the seeds begin to pop.",
+    "Stir in the chopped nuts, cooking them for 3 minutes until lightly toasted and coated with the tadka mixture.",
+    "Remove the skillet from the heat and mix in the ground nutmeg, then set aside.",
+    "In a bowl combine the shredded cheddar and Monterey Jack cheeses, stirring to merge the flavors.",
+    "Add the toasted nut mixture to the cheese blend and stir until the nuts are evenly distributed.",
+    "Warm the flour tortillas in a dry pan for 30 seconds on each side to make them pliable.",
+    "Spread about one-third of the cheese and nut mixture onto one tortilla, leaving a small border around the edges.",
+    "Fold the second tortilla over the filling and press lightly to seal.",
+    "Melt the butter in the same skillet over medium heat, then place the filled quesadilla in the skillet, cooking for 2-3 minutes on each side until the tortillas are golden brown and the cheese is melted.",
+    "Remove from the skillet, let rest for a minute, then cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheat-meal",
+    "high-protein",
+    "indulgent",
+    "mexican",
+    "nutty",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "decadent-mexican-nuts-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-mexican-nuts-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:31:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "nuts",
+    "descriptor": "Decadent",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -156,6 +156,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-mexican-nuts-quesadilla",
+    "title": "Decadent Mexican Nuts Quesadilla",
+    "tags": [
+      "cheat-meal",
+      "high-protein",
+      "indulgent",
+      "mexican",
+      "nutty",
+      "snack"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
     "title": "Deglazed Smoky Roasted Pepper American Pilaf",
     "tags": [
