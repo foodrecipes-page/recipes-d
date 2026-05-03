@@ -260,6 +260,21 @@
     "shard": "d"
   },
   {
+    "slug": "delightful-polish-steak-stir-fry",
+    "title": "Delightful Polish Steak Stir-fry",
+    "tags": [
+      "festive",
+      "herby",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "polish"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dense-almond-paste-crumble",
     "title": "Dense Almond Paste Crumble",
     "tags": [

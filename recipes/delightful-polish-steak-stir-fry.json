@@ -1,0 +1,107 @@
+{
+  "title": "Delightful Polish Steak Stir-fry",
+  "description": "A quick, herby Polish steak stir-fry brimming with fermented flavor and low-glycemic ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "448g"
+    },
+    {
+      "name": "fermented soybean paste (ferment-jang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium‑high heat until shimmering.",
+    "Add minced garlic and ginger to the skillet and sauté for 30 seconds until fragrant.",
+    "Pour in the lean minced steak, breaking it apart with a spatula, and cook until browned, about 5 minutes.",
+    "Stir in fermented soybean paste (ferment‑jang) and soy sauce, coating the meat evenly.",
+    "Add sliced bell pepper and zucchini, cooking until vegetables are tender‑crisp, about 4 minutes.",
+    "Season with chili flakes, black pepper, and a pinch of salt, tossing to combine flavors.",
+    "Slice the sautéed green onions and sprinkle over the stir‑fry just before serving.",
+    "Serve hot, optionally over cauliflower rice or a side of leafy greens for a low‑glycemic finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "herby",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 56,
+    "carbs": 11,
+    "fat": 35
+  },
+  "slug": "delightful-polish-steak-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-polish-steak-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:18:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "lean minced steak",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "steak",
+    "descriptor": "Delightful",
+    "dishForm": "Stir-fry"
+  }
+}
