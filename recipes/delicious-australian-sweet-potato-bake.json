@@ -1,0 +1,100 @@
+{
+  "title": "Delicious Australian Sweet Potato Bake",
+  "description": "A comforting, macrobiotic-friendly oven bake packed with sweet potato, chickpeas, and seasonal veggies for a festive Australian twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "400g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "200g",
+      "notes": "cooked, drained"
+    },
+    {
+      "name": "carrot",
+      "amount": "100g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "50g",
+      "notes": "fresh, wilted"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and grease a baking dish.",
+    "Toss diced sweet potato, sliced carrot, sliced onion, and chickpeas with olive oil, oregano, thyme, salt, and half the nutritional yeast.",
+    "Spread vegetables evenly in the dish and roast for 25 minutes.",
+    "Sauté spinach until wilted in a small pan.",
+    "Remove dish from oven, stir in wilted spinach and remaining nutritional yeast, and return to oven for 10 more minutes.",
+    "Let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "macrobiotic-friendly",
+    "one-pan",
+    "oven-bake",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 573,
+    "protein": 20,
+    "carbs": 86,
+    "fat": 17
+  },
+  "slug": "delicious-australian-sweet-potato-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-australian-sweet-potato-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:45:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "fries",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Delicious",
+    "dishForm": "Bake"
+  }
+}

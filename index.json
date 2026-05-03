@@ -345,6 +345,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-australian-sweet-potato-bake",
+    "title": "Delicious Australian Sweet Potato Bake",
+    "tags": [
+      "low-fat",
+      "macrobiotic-friendly",
+      "one-pan",
+      "oven-bake",
+      "veggie"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-egyptian-lentil-stew",
     "title": "Delicious Egyptian Lentil Stew",
     "tags": [
