@@ -1,0 +1,118 @@
+{
+  "title": "Dense Bitter Dutch Beef Stew",
+  "description": "A hearty Dutch-inspired beef stew with bitter kale, warm cardamom, and a velvety finish whisked from cauliflower. Whole30-friendly and nostalgically comforting.",
+  "cuisine": "Dutch",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "500g",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "turnip",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "3",
+      "notes": "crushed"
+    },
+    {
+      "name": "beef broth, low sodium",
+      "amount": "4 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cauliflower florets",
+      "amount": "1 cup",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high. Brown beef cubes for 2–3 minutes per side, then remove and set aside.",
+    "Add onion, garlic, carrots, and turnip to the pot. Cook, stirring, for 5 minutes until softened.",
+    "Stir in cauliflower florets and toast for 1–2 minutes.",
+    "Return browned beef to the pot. Pour in beef broth, add crushed cardamom pods and black pepper; stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 1 hour until beef is tender.",
+    "Add diced potatoes and kale; continue simmering, uncovered, for 20 minutes until vegetables are cooked.",
+    "Take a small portion of the cauliflower mixture, whisk it with a splash of broth to form a creamy slurry, then stir it back into the pot to thicken the stew.",
+    "Taste and adjust seasoning; optionally add a splash of red wine vinegar for brightness.",
+    "Remove from heat and serve hot. Garnish with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "beef",
+    "whole30",
+    "bitter",
+    "stew",
+    "cardamom",
+    "whisked",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 24
+  },
+  "slug": "dense-bitter-dutch-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-bitter-dutch-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:16:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "cardamom",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Beef",
+    "descriptor": "Dense Bitter",
+    "dishForm": "Stew"
+  }
+}
