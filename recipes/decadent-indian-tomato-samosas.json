@@ -1,0 +1,108 @@
+{
+  "title": "Decadent Indian Tomato Samosas",
+  "description": "Fermented, crisp air‑fried samosas filled with a tangy tomato juice mixture, low‑sodium and indulgent.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "40ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato juice (low-sodium)",
+      "amount": "200ml"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, yeast, and salt.",
+    "Add warm water and 2 tbsp olive oil, and mix until a shaggy dough forms.",
+    "Turn dough onto a floured surface, knead for 6-8 minutes until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover, and let it rise in a warm spot for about 30 minutes or until doubled in size.",
+    "Meanwhile, whisk together tomato juice, onion, garlic, ginger, cumin, coriander, and 1 tbsp olive oil in a saucepan.",
+    "Cook the mixture over medium heat for 8-10 minutes, stirring occasionally, until the liquid reduces slightly.",
+    "Remove from heat, stir in chopped cilantro, and let the filling cool to room temperature.",
+    "Punch down the risen dough, divide into 8 equal portions, and roll each into a thin disc.",
+    "Cut each disc in half, then fold into triangles, sealing the edges with a pinch of water and a dab of oil to keep them crisp.",
+    "Preheat an air fryer to 200°C and lightly spray the basket with oil.",
+    "Place the samosas in a single layer in the basket, air‑fry for 12-15 minutes, turning halfway, until golden and crisp.",
+    "Serve warm with a side of low-sodium chutney or plain yogurt."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "fast",
+    "indian",
+    "low-sodium",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 3,
+    "carbs": 13,
+    "fat": 5
+  },
+  "slug": "decadent-indian-tomato-samosas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-indian-tomato-samosas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:04:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomato",
+    "descriptor": "Decadent",
+    "dishForm": "Samosas"
+  }
+}
