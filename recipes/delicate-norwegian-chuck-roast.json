@@ -1,0 +1,118 @@
+{
+  "title": "Delicate Norwegian Chuck Roast",
+  "description": "A grassy, springy, kid-friendly Norwegian dish featuring chuck roast in a lacquer‑glaze, Whole30‑friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2.5 lb",
+      "notes": "trimmed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, cut"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, cut"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, smashed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "stevia",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F.",
+    "Season chuck roast with salt and pepper.",
+    "Heat olive oil in a large oven‑safe pot over medium‑high heat; sear roast on all sides until browned, about 3‑4 minutes per side.",
+    "Remove roast and set aside; in the same pot add onion, carrots, celery and garlic and sauté until softened, about 5 minutes.",
+    "Pour in beef broth, stir in mustard and stevia, add a splash of water, and bring to a simmer.",
+    "Return roast to pot, add thyme sprigs and bay leaf, cover with foil.",
+    "Transfer pot to oven and bake for 2 hours, turning roast once at 1 hour.",
+    "Remove pot, discard foil, and reduce liquid on stovetop over medium heat until it thickens into a glaze, about 10 minutes.",
+    "Brush glaze over roast; return to oven for an additional 10 minutes to set glaze.",
+    "Let roast rest 10 minutes before slicing.",
+    "Slice roast against the grain and serve immediately, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 140,
+  "totalTimeMin": 155,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glaze",
+    "high-protein",
+    "kid-friendly",
+    "oven-dinner",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 72,
+    "carbs": 5,
+    "fat": 60
+  },
+  "slug": "delicate-norwegian-chuck-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-chuck-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:26:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "chuck roast",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Delicate",
+    "dishForm": "Roast"
+  }
+}
