@@ -1,0 +1,109 @@
+{
+  "title": "Dynamic Venezuelan Corn Empanadas",
+  "description": "Earthy and crisp empanadas with a vibrant corn filling, made egg‑free with self‑raising flour and a savory spice blend. They’re energizing, perfect for a quick snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "300 g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "75 g",
+      "notes": "about 1 small"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "15 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine self‑raising flour and 1 tsp salt.",
+    "Add warm water and 30 ml olive oil, stirring until a dough forms.",
+    "Knead the dough for 2 minutes until smooth, then cover and let rest for 10 minutes.",
+    "In a saucepan, sauté diced onion in 1 tsp oil until translucent, then add minced garlic, cumin, and paprika, cooking for 1 minute.",
+    "Stir in corn kernels, chopped cilantro, 1/2 tsp salt, and pepper, cooking until corn is heated through, about 5 minutes; set aside to cool.",
+    "Divide the rested dough into 8 equal portions and roll each into a circle about 15 cm in diameter.",
+    "Place a heaping spoonful of the corn filling in the center of each dough circle, fold over to form a half‑moon, and seal the edges with a fork.",
+    "Heat a skillet to 190°C (375°F) and lightly oil it; fry the empanadas until golden brown on both sides, about 3 minutes per side.",
+    "Alternatively bake at 200°C (400°F) on a parchment‑lined tray for 20 minutes, flipping halfway, until crisp.",
+    "Let the empanadas cool for a few minutes before serving warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "egg-free",
+    "empanada",
+    "quick",
+    "snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dynamic-venezuelan-corn-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dynamic-venezuelan-corn-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:57:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "self-raising flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Dynamic",
+    "dishForm": "Empanadas"
+  }
+}

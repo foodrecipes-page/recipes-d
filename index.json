@@ -349,5 +349,20 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 75,
     "shard": "d"
+  },
+  {
+    "slug": "dynamic-venezuelan-corn-empanadas",
+    "title": "Dynamic Venezuelan Corn Empanadas",
+    "tags": [
+      "corn",
+      "egg-free",
+      "empanada",
+      "quick",
+      "snack",
+      "vegan-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
