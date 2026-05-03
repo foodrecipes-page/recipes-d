@@ -1,0 +1,105 @@
+{
+  "title": "Delicate Croatian Beef Salad",
+  "description": "A garlicky, aerated meal-prep salad featuring thinly sliced feather blade beef, pickled cucumbers, and shredded cabbage.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "150g"
+    },
+    {
+      "name": "pickled cucumbers",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the feather blade beef into bite‑sized strips.",
+    "Place the beef strips in a bowl, add minced garlic, 1 tsp salt, 1/2 tsp pepper, and 1 tsp dried dill; toss to coat and refrigerate for 15 minutes.",
+    "While the beef marinates, shred the red cabbage, thinly slice the red onion, and slice the pickled cucumbers.",
+    "In a separate bowl, whisk together 1 tbsp olive oil, 1 tbsp lemon juice, and 1 tsp apple cider vinegar.",
+    "Add the shredded cabbage, onion, and cucumber slices to the dressing and toss until evenly coated.",
+    "Remove the beef from the refrigerator, let it sit at room temperature for 5 minutes, then add it to the vegetable mix.",
+    "Sprinkle capers over the salad if desired, then gently fold to combine all ingredients.",
+    "Divide the salad into two meal‑prep containers, cover, and refrigerate until ready to eat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "low-fat",
+    "meal-prep",
+    "quick",
+    "raw-friendly",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "delicate-croatian-beef-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-croatian-beef-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:29:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "feather blade beef",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beef",
+    "descriptor": "Delicate",
+    "dishForm": "Salad"
+  }
+}

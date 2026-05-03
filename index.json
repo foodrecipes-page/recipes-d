@@ -199,6 +199,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-croatian-beef-salad",
+    "title": "Delicate Croatian Beef Salad",
+    "tags": [
+      "croatian",
+      "low-fat",
+      "meal-prep",
+      "quick",
+      "raw-friendly",
+      "salad"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-dutch-chicken-flatbread",
     "title": "Delicate Dutch Chicken Flatbread",
     "tags": [
