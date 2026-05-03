@@ -1,0 +1,99 @@
+{
+  "title": "Dense Romantic Malaysian Durian Bubur",
+  "description": "A rich and creamy Malaysian dessert bursting with the unique flavor of durian, perfect for a romantic evening.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Durian puree",
+      "amount": "250g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Pink food colouring",
+      "amount": "2-3 drops"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salted pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2cm"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine water and grated ginger. Heat over medium heat until the mixture simmers.",
+    "Add rice flour and whisk continuously to prevent lumps.",
+    "Gradually add durian puree and salted pandan extract. Whisk until smooth.",
+    "Add coconut milk and whisk until well combined.",
+    "Remove from heat and stir in palm sugar and coconut oil until dissolved.",
+    "Return the saucepan to medium heat and cook, stirring constantly, until the mixture thickens and forms a custard-like consistency.",
+    "Remove from heat and stir in fresh mint leaves and pink food colouring.",
+    "Deglaze the saucepan with 1-2 tablespoons of coconut oil to prevent sticking.",
+    "Pour the bubur into individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours or until set.",
+    "Serve cold, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "durian",
+    "romantic",
+    "pink-food-colouring",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "dense-romantic-malaysian-durian-bubur",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-romantic-malaysian-durian-bubur",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:23:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "pink food colouring",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Durian",
+    "descriptor": "Dense Romantic",
+    "dishForm": "Bubur"
+  }
+}
