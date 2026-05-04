@@ -1,0 +1,112 @@
+{
+  "title": "Delicious Greek Snapper Stifado",
+  "description": "A sweet, chewy, cozy Greek stew featuring red snapper with double-fried crispness and a buttery tomato sauce.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "300g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat snapper fillets dry and season both sides with salt and pepper.",
+    "Heat 1 tbsp olive oil in a large copper pot over medium heat until shimmering.",
+    "Add fillets and fry 5 minutes on one side until golden, then flip and cook another 4 minutes, remove to a plate.",
+    "Increase heat to high, add remaining 1 tbsp oil, and when it reaches 190C, fry fillets again 1 minute per side until crisp.",
+    "Remove fillets again and set aside.",
+    "In the same pot, add chopped onion and minced garlic, sauté until translucent.",
+    "Stir in tomato paste and cook for 2 minutes to caramelize.",
+    "Add cherry tomatoes, red wine, and red wine vinegar, cook until tomatoes soften.",
+    "Pour in vegetable broth and honey, bring to a simmer.",
+    "Return fillets to the pot, cover, and let stew cook 10 minutes to meld flavors.",
+    "Sprinkle dried oregano, taste, and adjust seasoning if needed.",
+    "Serve hot, garnished with fresh parsley, from the copper pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "double-fry",
+    "greek-fish",
+    "macrobiotic-friendly",
+    "stifado",
+    "sweet-and-chewy"
+  ],
+  "nutrition": {
+    "calories": 1048,
+    "protein": 66,
+    "carbs": 50,
+    "fat": 59
+  },
+  "slug": "delicious-greek-snapper-stifado",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-greek-snapper-stifado",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:59:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "red snapper",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Snapper",
+    "descriptor": "Delicious",
+    "dishForm": "Stifado"
+  }
+}

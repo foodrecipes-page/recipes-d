@@ -1617,6 +1617,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-greek-snapper-stifado",
+    "title": "Delicious Greek Snapper Stifado",
+    "tags": [
+      "copper-pot",
+      "double-fry",
+      "greek-fish",
+      "macrobiotic-friendly",
+      "stifado",
+      "sweet-and-chewy"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-molten-slovakian-egg-frittata",
     "title": "Delicious Molten Slovakian Egg Frittata",
     "tags": [
