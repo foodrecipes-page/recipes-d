@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Dry Ethiopian Herring Ceviche",
+  "description": "A funky, crisp, sick‑day Ethiopian dish featuring herring cured with shio‑koji and citrus, no onion or garlic, served on a tagliere.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh herring fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Shio‑koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Seaweed flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper (freshly ground)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the herring fillets under cold running water and pat dry with paper towels.",
+    "In a shallow bowl, whisk together shio‑koji, lemon juice, lime juice, chili flakes, and seaweed flakes until well blended.",
+    "Slice the herring into bite‑size cubes and place them into the citrus‑koji mixture, ensuring all pieces are coated.",
+    "Cover the bowl and refrigerate for 30 minutes to allow the flavors to infuse and the herring to firm up.",
+    "After 30 minutes, remove the herring cubes, drain excess liquid, and gently pat them dry with a clean towel.",
+    "Transfer the cured herring onto a clean tagliere and sprinkle with toasted sesame seeds, chopped cilantro, and a pinch of freshly ground black pepper.",
+    "Drizzle a thin line of extra‑virgin olive oil over the top for added sheen (optional).",
+    "Garnish with an additional sprinkle of chili flakes for heat.",
+    "Let the dish rest at room temperature for 5 minutes to allow flavors to meld before serving.",
+    "Present immediately on the tagliere, accompanied by crisp cucumber ribbons or a side of lightly roasted injera for authenticity."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "dry-ceviche",
+    "gluten-free",
+    "no-onion-no-garlic",
+    "pescatarian",
+    "quick-prepare",
+    "seasonal"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 27,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "delicate-dry-ethiopian-herring-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dry-ethiopian-herring-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:17:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "herring",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "herring",
+    "descriptor": "Delicate Dry",
+    "dishForm": "Ceviche"
+  }
+}
