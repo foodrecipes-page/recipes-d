@@ -1,0 +1,109 @@
+{
+  "title": "Delicate Dutch Corn Chowder",
+  "description": "A bright citrusy chowder with a glassy, jelly-like texture, simmered in a mason jar for quick weeknight meals.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato confit",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1 tsp",
+      "notes": "dissolved in coconut milk"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine 1 tsp agar-agar powder with 1 cup coconut milk and whisk until fully dissolved; set aside to thicken.",
+    "Heat 1 tbsp olive oil in a separate pot over medium heat and sauté diced onion and minced garlic until translucent, about 2 minutes.",
+    "Add fresh and frozen corn kernels to the pot and cook for 1 minute, stirring to coat with the oil.",
+    "Stir in 1 cup tomato confit, smoked paprika, sea salt, and black pepper, cooking for another 1 minute.",
+    "Pour in the remaining coconut milk along with the dissolved agar-agar mixture and bring the mixture to a gentle simmer.",
+    "Reduce heat to low and simmer, uncovered, for 5 minutes, allowing the flavors to meld and the agar-agar to set into a glassy consistency.",
+    "Taste and adjust seasoning, adding more salt or lime juice if desired.",
+    "Transfer the chowder into mason jars, leaving a small headspace at the top.",
+    "Garnish with fresh cilantro if desired and serve immediately, or chill for 1 hour to allow the jelly-like texture to firm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "dutch",
+    "glassy-chowder",
+    "mason-jar",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 13,
+    "carbs": 72,
+    "fat": 42
+  },
+  "slug": "delicate-dutch-corn-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dutch-corn-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:11:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "confit-tomato",
+    "primaryIngredient": "creamed corn",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "corn",
+    "descriptor": "Delicate",
+    "dishForm": "Chowder"
+  }
+}
