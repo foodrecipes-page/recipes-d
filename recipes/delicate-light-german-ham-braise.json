@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Light German Ham Braise",
+  "description": "A yeasty and romantic German dish featuring ham in a delicate braise, suitable for an ayurvedic-sattvic friendly diet.",
+  "cuisine": "German",
+  "diet": [
+    "sattvic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ham hock",
+      "amount": "1 pound",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the ham hock and pat it dry with paper towels.",
+    "In a large Dutch oven, saute the sliced onion, carrots, and celery in a little water until they are tender.",
+    "Add the ham hock to the pot and pour in the white wine and yeast broth.",
+    "Add the bay leaves and black pepper to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the ham for 2 hours, or until it is tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the ham with two forks and stir it back into the braising liquid.",
+    "Serve the ham hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "one-pot",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-light-german-ham-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-light-german-ham-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:40:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "ham",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ham",
+    "descriptor": "delicate light",
+    "dishForm": "Braise"
+  }
+}
