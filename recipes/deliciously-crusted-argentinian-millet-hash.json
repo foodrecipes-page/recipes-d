@@ -1,0 +1,103 @@
+{
+  "title": "Deliciously Crusted Argentinian Millet Hash",
+  "description": "A spicy, shaggy, and comforting solo-dinner featuring the flavors of Argentina, carefully made without onions and garlic.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Ground chorizo",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. ",
+    "In a large cast-iron skillet, heat the olive oil over medium-high heat.",
+    "Add the ground chorizo and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the diced red bell pepper and cook until tender, about 3 minutes.",
+    "Add the millet and cook, stirring constantly, for 2 minutes.",
+    "Roll out the lamination puff pastry and cut it into 1-inch squares.",
+    "Adding a few squares of puff pastry to the skillet at a time, press them gently into the millet mixture, making sure to cover the entire surface.",
+    "Sprinkle the smoked paprika, salt, and black pepper over the top of the millet mixture.",
+    "Bake in the preheated oven for 20-25 minutes, or until the pastry is golden brown and the millet is tender.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "deliciously-crusted-argentinian-millet-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crusted-argentinian-millet-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "millet",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Millet",
+    "descriptor": "Deliciously Crusted",
+    "dishForm": "Hash"
+  }
+}
