@@ -1,0 +1,112 @@
+{
+  "title": "Decadent Canadian Cauliflower Dumplings",
+  "description": "Charred, molten cauliflower dumplings crowned with a rich cheese sauce, a low‑carb festive Canadian favorite",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 medium head (~1kg)",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "75g",
+      "notes": "softened"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Pulse the cauliflower florets in a food processor until fine, then transfer the grated cauliflower to a bowl.",
+    "Add the beaten egg, cream cheese, cheddar cheese, onion salt, black pepper, smoked paprika, and cayenne pepper to the cauliflower mixture and stir until well combined.",
+    "Shape the mixture into 12 small dumpling balls using your hands.",
+    "Heat olive oil in a large skillet over medium‑high heat until shimmering.",
+    "Place the dumplings in the skillet in a single layer and sear for 2 minutes on each side until a deep brown crust forms.",
+    "Transfer the skillet to a preheated 200°C oven and bake for 8 minutes to melt cheese inside.",
+    "Meanwhile, melt butter in a saucepan over medium heat, add minced garlic, and cook until fragrant, about 1 minute.",
+    "Pour in the heavy cream, stir, and simmer for 3 minutes until slightly thickened.",
+    "Serve the charred dumplings topped with the molten cheese sauce, garnished with a sprinkle of smoked paprika."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "charred",
+    "dumplings",
+    "festive",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "decadent-canadian-cauliflower-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-canadian-cauliflower-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:16:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "onion salt",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Decadent",
+    "dishForm": "Dumplings"
+  }
+}
