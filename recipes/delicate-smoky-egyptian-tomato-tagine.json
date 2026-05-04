@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Smoky Egyptian Tomato Tagine",
+  "description": "A light and yeasty Egyptian dish featuring tomatoes and smoke, made in a copper pot and suitable for a Whole30 diet. This recipe combines the flavors of Egypt with the simplicity of a tagine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 pounds",
+      "notes": "fresh and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the diced tomatoes, smoked paprika, cumin, coriander, salt, and black pepper to the pot.",
+    "Stir the ingredients together, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the lid and continue to simmer for an additional 15 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded together.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "gluten-free",
+    "one-pot",
+    "smoky",
+    "tomato-based",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-smoky-egyptian-tomato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-egyptian-tomato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:13:54Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "delicate smoky",
+    "dishForm": "Tagine"
+  }
+}
