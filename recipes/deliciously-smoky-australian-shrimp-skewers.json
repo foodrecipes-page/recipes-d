@@ -1,0 +1,87 @@
+{
+  "title": "Deliciously Smoky Australian Shrimp Skewers",
+  "description": "A romantic Australian dish featuring ginger garlic paste and smoky binchotan-charcoal flavor, this recipe is perfect for a special occasion, the combination of shrimp, ginger, and garlic will transport your taste buds to the coast of Australia",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure the binchotan charcoal is ready for smoking.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a small bowl, mix together the ginger garlic paste, lemon juice, olive oil, salt, and black pepper.",
+    "Brush the mixture onto both sides of the shrimp.",
+    "Place the skewers on the grill and smoke for 2 minutes per side, or until the shrimp are pink and cooked through.",
+    "Remove the skewers from the grill and let them rest for 1 minute.",
+    "Serve the skewers hot, garnished with fresh parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "romantic",
+    "seafood",
+    "shrimp",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "deliciously-smoky-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoky-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:02:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Deliciously Smoky",
+    "dishForm": "Skewers"
+  }
+}
