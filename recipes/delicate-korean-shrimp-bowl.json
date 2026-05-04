@@ -1,0 +1,111 @@
+{
+  "title": "Delicate Korean Shrimp Bowl",
+  "description": "A winey, velvety shrimp dish with a festive Korean twist, served over chilled crushed ice and finished with anti‑inflammatory garnishes.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Korean rice wine or dry white wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari soy sauce",
+      "amount": "1 tbsp",
+      "notes": "gluten‑free"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium heat and swirl in the sesame oil until shimmering.",
+    "Add the minced garlic and grated ginger, sautéing for 30 seconds until fragrant.",
+    "Pour in the rice wine and stir to deglaze, letting it reduce slightly for a minute.",
+    "Add the shrimp and cook for 2 minutes on each side until pink and opaque.",
+    "Stir in the tamari, gochujang, and honey, coating the shrimp evenly and cooking for another 2 minutes.",
+    "Remove the shrimp from the wok and set aside on a plate.",
+    "Place a generous layer of crushed ice into a bowl, then top with the cooked shrimp.",
+    "Drizzle fresh lime juice over the shrimp, sprinkle toasted sesame seeds and sliced green onion, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "festive-korean",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "velvety",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 39,
+    "carbs": 20,
+    "fat": 17
+  },
+  "slug": "delicate-korean-shrimp-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-korean-shrimp-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:36:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "shrimp",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Delicate",
+    "dishForm": "Bowl"
+  }
+}
