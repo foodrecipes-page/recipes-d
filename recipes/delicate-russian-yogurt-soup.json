@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Russian Yogurt Soup",
+  "description": "A creamy, sour, and lightly cinnamon-infused Russian yogurt soup that is airy, crowd-pleasing, and sugar-free.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-fat",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plain low-fat Greek yogurt",
+      "amount": "250 g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "750 ml"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Place the vegetable broth in a saucepan and add the cinnamon stick, then bring to a gentle simmer over medium heat.",
+    "While the broth heats, whisk the Greek yogurt with lemon juice, salt, pepper, and dried dill until smooth and airy.",
+    "After 5 minutes, remove and discard the cinnamon stick from the broth.",
+    "Reduce heat to low and stir the whisked yogurt into the hot broth in small increments, stirring constantly to prevent curdling.",
+    "Continue to warm the mixture until it reaches 45°C (113°F) and the soup is warm but not boiling, about 10 minutes.",
+    "Transfer the soup to a bowl and stir in fresh dill and a pinch of sea salt.",
+    "Serve immediately with a drizzle of olive oil and a sprinkle of paprika if desired.",
+    "Enjoy the creamy, sour, and lightly cinnamon-flavored soup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cinnamon",
+    "crowd-pleaser",
+    "low-fat",
+    "quick",
+    "sour-soup",
+    "sugar-free",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 19
+  },
+  "slug": "delicate-russian-yogurt-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-russian-yogurt-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:23:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Delicate",
+    "dishForm": "Soup"
+  }
+}
