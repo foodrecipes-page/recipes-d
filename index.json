@@ -1259,6 +1259,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-irish-beef-fritters",
+    "title": "Delicate Irish Beef Fritters",
+    "tags": [
+      "flexitarian-friendly",
+      "irish",
+      "lunch",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-jamaican-avocado-tart",
     "title": "Delicate Jamaican Avocado Tart",
     "tags": [
