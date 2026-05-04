@@ -1182,6 +1182,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-moroccan-dough-seffa",
+    "title": "Deliciously Dense Moroccan Dough Seffa",
+    "tags": [
+      "garlicky",
+      "macrobiotic",
+      "moroccan",
+      "one-pot",
+      "springy",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-ukrainian-lamb-dumplings",
     "title": "Deliciously Dense Ukrainian Lamb Dumplings",
     "tags": [
@@ -1908,6 +1923,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dusted-smoky-venezuelan-cod-ceviche",
+    "title": "Dusted Smoky Venezuelan Cod Ceviche",
+    "tags": [
+      "fodmap-friendly",
+      "low-carb",
+      "quick",
+      "seafood",
+      "smoky"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {

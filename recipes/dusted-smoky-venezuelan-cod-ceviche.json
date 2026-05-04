@@ -1,0 +1,112 @@
+{
+  "title": "Dusted Smoky Venezuelan Cod Ceviche",
+  "description": "A smoky, flaky ceviche infused with low-FODMAP massaman paste, iced to preserve freshness and served with crisp cucumber and cilantro.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "200g",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "1 tsp",
+      "notes": "low-FODMAP version"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pat the cod fillets dry and cut into 1/2 inch cubes.",
+    "In a bowl whisk together lime juice, lemon juice, massaman paste, smoked paprika, ground cumin, salt, and pepper until smooth.",
+    "Add cod cubes to the bowl and gently toss to coat, then cover and refrigerate for 10 minutes to macerate.",
+    "While the fish chills, prepare an ice bath by filling a large bowl with cold water and ice cubes.",
+    "After 10 minutes, transfer the seasoned cod into the ice bath, letting it sit for 5 minutes to stop the cooking process.",
+    "Drain the cod and return it to the bowl.",
+    "Add diced cucumber, finely chopped jalapeño, chopped cilantro, and lime zest; toss gently to combine.",
+    "Plate the ceviche, drizzle with a small amount of olive oil if desired, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "low-carb",
+    "quick",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 38,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "dusted-smoky-venezuelan-cod-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dusted-smoky-venezuelan-cod-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:05:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "massaman-paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cod",
+    "descriptor": "Dusted Smoky",
+    "dishForm": "Ceviche"
+  }
+}
