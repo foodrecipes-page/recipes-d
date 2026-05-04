@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Russian Almond Fritters",
+  "description": "A light, springy snack that blends almond flour and aromatic spices, perfect for a sick day.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "sattvic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup (60ml)",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp (5ml)",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried ginger powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp (15g)",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk almond flour, sea salt, turmeric, cardamom, ginger, and lemon zest until well combined.",
+    "Add warm water and apple cider vinegar to the dry mix, stirring until a smooth batter forms.",
+    "Fold in maple syrup, ensuring the batter is slightly thick but pourable.",
+    "Heat olive oil in a nonstick skillet over medium heat until shimmering.",
+    "Drop spoonfuls of batter into the hot oil, forming small fritters about 2 inches wide.",
+    "Cook each fritter for 3 minutes on the first side until golden brown and bubbles form on the surface.",
+    "Flip the fritters and cook for an additional 2 minutes on the other side until crisp.",
+    "Transfer finished fritters to a paper towel lined plate to drain excess oil.",
+    "Serve warm, optionally dusted with a pinch of fresh ground pepper or lightly drizzled with lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "home-cooked",
+    "low-fat",
+    "quick",
+    "sattvic-friendly",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 124,
+    "protein": 3,
+    "carbs": 3,
+    "fat": 11
+  },
+  "slug": "delicate-russian-almond-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-russian-almond-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:47:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "almond flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "almonds",
+    "descriptor": "Delicate",
+    "dishForm": "Fritters"
+  }
+}
