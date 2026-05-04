@@ -1,0 +1,108 @@
+{
+  "title": "Dense Thai Chicken Pad Thai",
+  "description": "A comforting, low‑fat Thai chicken pad thai with dashi extract, packed with protein and satisfying flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "100 g"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 small, julienned"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Heat a non‑stick skillet over medium heat and add the teaspoon of vegetable oil.",
+    "Add the minced garlic and grated ginger, sautéing for about 30 seconds until fragrant.",
+    "Toss in the sliced carrot and cook for 2 minutes, stirring frequently.",
+    "Stir in the diced chicken breast and cook until the pieces are lightly browned, about 3–4 minutes.",
+    "Pour in the soy sauce, fish sauce, lime juice, honey, tamarind paste, and dashi extract, stirring to combine.",
+    "Reduce the heat to low and let the mixture simmer for 2 minutes, allowing the flavors to meld.",
+    "Meanwhile, soak the rice noodles in warm water for 5 minutes, then drain.",
+    "Add the noodles and bean sprouts to the skillet, tossing everything together until the noodles are coated and heated through, about 3 minutes.",
+    "Taste the pad thai and adjust seasonings if needed, adding a splash more lime or soy sauce as desired.",
+    "Serve hot, optionally garnished with a sprinkle of toasted sesame seeds or extra lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfortfood",
+    "low-fat",
+    "quick",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 55,
+    "carbs": 90,
+    "fat": 10
+  },
+  "slug": "dense-thai-chicken-pad-thai",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-thai-chicken-pad-thai",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:04:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chicken breast",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Dense",
+    "dishForm": "Pad Thai"
+  }
+}

@@ -2231,6 +2231,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-thai-chicken-pad-thai",
+    "title": "Dense Thai Chicken Pad Thai",
+    "tags": [
+      "chicken",
+      "comfortfood",
+      "low-fat",
+      "quick",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dense-thai-pork-skewers",
     "title": "Dense Thai Pork Skewers",
     "tags": [
