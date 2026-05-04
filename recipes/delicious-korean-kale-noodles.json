@@ -1,0 +1,90 @@
+{
+  "title": "Korean Kale Noodles",
+  "description": "A nutty and silky Korean dish featuring kale and crispy double-fried chicken, this crowd-pleaser is a must-try for any noodle lover.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the sesame oil over medium-high heat and cook the chicken breast until browned and cooked through.",
+    "In a separate skillet, heat a couple of inches of oil over medium-high heat and double-fry the cooked chicken until crispy.",
+    "In a large bowl, whisk together the soy sauce, Korean chili flakes, and minced garlic.",
+    "Add the cooked noodles to the bowl and toss to coat with the sauce.",
+    "Add the crispy chicken and chopped kale to the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "korean-food",
+    "noodle-dish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "delicious-korean-kale-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-korean-kale-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:12:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "kale",
+    "diet": "dash",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "kale",
+    "descriptor": "double fried",
+    "dishForm": "Noodles"
+  }
+}

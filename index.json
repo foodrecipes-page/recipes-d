@@ -1632,6 +1632,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-korean-kale-noodles",
+    "title": "Korean Kale Noodles",
+    "tags": [
+      "crowd-pleaser",
+      "gluten-free",
+      "korean-food",
+      "noodle-dish",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-molten-slovakian-egg-frittata",
     "title": "Delicious Molten Slovakian Egg Frittata",
     "tags": [
