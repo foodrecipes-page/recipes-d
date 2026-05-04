@@ -614,6 +614,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-ferment-ethiopian-wagyu-kitfo",
+    "title": "Dense Ferment Ethiopian Wagyu Kitfo",
+    "tags": [
+      "hearty",
+      "high-protein",
+      "one-pan",
+      "special-occasion",
+      "spicy",
+      "traditional",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-floral-peruvian-paprika-braise",
     "title": "Dense Floral Peruvian Paprika Braise",
     "tags": [

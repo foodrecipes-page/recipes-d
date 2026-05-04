@@ -1,0 +1,119 @@
+{
+  "title": "Dense Ferment Ethiopian Wagyu Kitfo",
+  "description": "A rich, chewy, and aromatic Ethiopian dish made with Wagyu beef, fermented kimchi, and spices, all cooked to perfection in a traditional clay tajine.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Grass-fed Wagyu beef, finely ground"
+    },
+    {
+      "name": "Fermented Kimchi (1 cup)",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade, chopped"
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger (2 inches)",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Berbere Spice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Niter Kibbeh (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Coarse salt"
+    },
+    {
+      "name": "Black Pepper (1/2 tsp)",
+      "amount": "1/2 tsp",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "Fresh Cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Clay Tajine",
+      "amount": "1",
+      "notes": "Traditional Ethiopian clay cooking vessel"
+    },
+    {
+      "name": "Wooden Spoon",
+      "amount": "1",
+      "notes": "For stirring and serving"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the Berbere spice, salt, and black pepper.",
+    "Add the spice mixture to the ground Wagyu beef and mix well until combined.",
+    "Heat the Niter Kibbeh in the clay tajine over medium heat.",
+    "Add the chopped onion and sauté until lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the tajine and sauté for another minute.",
+    "Add the fermented kimchi to the tajine and stir to combine with the onion mixture.",
+    "Add the spice-coated Wagyu beef to the tajine and stir to combine with the kimchi mixture.",
+    "Cover the tajine with a lid and cook over low heat for 10-15 minutes, stirring occasionally.",
+    "Remove the lid and continue cooking for another 5-10 minutes, stirring frequently, until the beef is cooked to desired doneness.",
+    "Serve the kitfo hot, garnished with chopped fresh cilantro and accompanied by a side of injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "hearty",
+    "high-protein",
+    "one-pan",
+    "special-occasion",
+    "spicy",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "dense-ferment-ethiopian-wagyu-kitfo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ferment-ethiopian-wagyu-kitfo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:49:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "wagyu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Dense Ferment",
+    "dishForm": "Kitfo"
+  }
+}
