@@ -1,0 +1,123 @@
+{
+  "title": "Delicate Korean Pomegranate Jjigae",
+  "description": "A velvety, light Gyeongsang-inspired stew featuring pomegranate molasses and delicate spheres, served as a fresh banchan in a paella pan.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "3 tbsp",
+      "notes": "for sweet tang"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp",
+      "notes": "Korean red pepper flakes"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "finely minced"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "0.2g",
+      "notes": "for spherification"
+    },
+    {
+      "name": "calcium lactate",
+      "amount": "0.1g",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water for spherification",
+      "amount": "300ml",
+      "notes": "distilled"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "50ml",
+      "notes": "for spheres"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp sesame oil in a paella pan over medium heat.",
+    "Add tofu cubes and sauté until golden and lightly browned.",
+    "Stir in grated ginger and minced garlic, cooking until fragrant.",
+    "Pour in 1 cup vegetable broth, 3 tbsp pomegranate molasses, 1 tsp soy sauce, and 1 tsp gochugaru, stirring well.",
+    "Bring the mixture to a gentle simmer and cook for 10 minutes to blend flavors.",
+    "Meanwhile, dissolve 0.2g sodium alginate in 200ml water, let rest 30 minutes.",
+    "Mix 50ml pomegranate juice with 0.1g calcium lactate dissolved in 100ml water to create a calcium bath.",
+    "Using a syringe, drop small spoonfuls of the alginate solution into the calcium bath, forming translucent pomegranate spheres that set in 1–2 minutes.",
+    "Remove the spheres with a slotted spoon, rinse briefly in cold water, and set aside on a paper towel.",
+    "Gently place the spheres on top of the simmering stew and let them warm for 1 minute.",
+    "Finish by drizzling a small amount of sesame oil over the stew and garnishing with a sprinkle of chopped scallions.",
+    "Serve hot, enjoying the delicate burst of pomegranate spheres in each spoonful."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banchan",
+    "korean",
+    "light",
+    "one-pan",
+    "pomegranate",
+    "spherified",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "delicate-korean-pomegranate-jjigae",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-korean-pomegranate-jjigae",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:12:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "mediterranean",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Delicate",
+    "dishForm": "Jjigae"
+  }
+}
