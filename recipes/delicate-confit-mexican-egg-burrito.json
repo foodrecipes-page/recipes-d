@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Confit Mexican Egg Burrito",
+  "description": "A floral, pillowy, and comforting Mexican dish featuring free-range egg beaten, confit-tomato, and Mediterranean-friendly ingredients, all wrapped in a binchotan-grill burrito.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "mild pepper jack cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "warm flour tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "mild salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "binchotan-grill oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "In a large bowl, beat the free-range eggs and set aside.",
+    "In a separate pan, warm the confit tomatoes over low heat.",
+    "Add the diced confit tomatoes to the beaten eggs and stir gently.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burrito by spooning the egg and tomato mixture onto the center of the tortilla.",
+    "Sprinkle the shredded pepper jack cheese over the egg mixture.",
+    "Add a spoonful of mild salsa and a sprinkle of chopped cilantro.",
+    "Drizzle the sour cream over the top and fold the burrito in half.",
+    "Brush the binchotan-grill oil onto the burrito and grill for 2 minutes on each side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "high-protein",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "delicate-confit-mexican-egg-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-confit-mexican-egg-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:19:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "mediterranean",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "egg",
+    "descriptor": "Delicate Confit",
+    "dishForm": "Burrito"
+  }
+}

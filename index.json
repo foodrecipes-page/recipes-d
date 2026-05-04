@@ -285,6 +285,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-confit-mexican-egg-burrito",
+    "title": "Delicate Confit Mexican Egg Burrito",
+    "tags": [
+      "comfort-food",
+      "grilled",
+      "high-protein",
+      "mexican-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-croatian-beef-salad",
     "title": "Delicate Croatian Beef Salad",
     "tags": [
