@@ -1,0 +1,110 @@
+{
+  "title": "Dense Ukrainian Beet Gratin",
+  "description": "A hearty, bitter, juicy beet gratin that doubles as a hangover cure, made with vegan butter and baked to caramelized perfection.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "1.5 kg",
+      "notes": "peeled and sliced 1/4 inch thick, no onion or garlic"
+    },
+    {
+      "name": "water",
+      "amount": "500 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for boiling"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "50 g",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "optional for depth"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven or conventional oven to 200°C and oil a 9x13-inch baking dish with olive oil.",
+    "Bring a large pot of salted water to a boil and add the sliced beets, cooking them for 10 minutes until just tender.",
+    "Drain the beets and arrange them in a single layer in the prepared dish, overlapping slightly.",
+    "Melt the vegan butter in a small saucepan over low heat and pour it evenly over the beets, ensuring each slice is coated.",
+    "Sprinkle sea salt, black pepper, lemon juice, and optional smoked paprika over the buttered beets.",
+    "Dot the top with chopped dill and parsley, adding a burst of freshness.",
+    "Place the dish in the preheated oven and bake for 25 minutes until the edges are caramelized.",
+    "Remove from the oven, let rest for 5 minutes, then serve hot as a hearty hangover cure."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beer-inspired",
+    "gluten-free",
+    "hangover-cure",
+    "one-pan",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "protein": 1,
+    "carbs": 23,
+    "fat": 11
+  },
+  "slug": "dense-ukrainian-beet-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ukrainian-beet-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:20:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "vegan butter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beet",
+    "descriptor": "Dense",
+    "dishForm": "Gratin"
+  }
+}
