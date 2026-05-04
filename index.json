@@ -1422,6 +1422,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-vietnamese-cashews-curry",
+    "title": "Delicious Vietnamese Cashews Curry",
+    "tags": [
+      "cashew-curry",
+      "date-night",
+      "gluten-free",
+      "one-pot",
+      "vegan"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-creamy-syrian-feta-cheese-pilaf",
     "title": "Syrian Feta Cheese Pilaf",
     "tags": [
@@ -2029,6 +2043,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 130,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-portuguese-semolina-casserole",
+    "title": "Dense Portuguese Semolina Casserole",
+    "tags": [
+      "beurre-monte",
+      "creamy",
+      "lazy-sunday",
+      "mustardy",
+      "one-pan",
+      "semolina",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {

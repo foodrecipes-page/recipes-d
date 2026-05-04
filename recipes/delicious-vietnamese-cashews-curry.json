@@ -1,0 +1,108 @@
+{
+  "title": "Delicious Vietnamese Cashews Curry",
+  "description": "A bitter, molten Vietnamese curry with cashews, coconut milk, and dark chocolate, made with a spice paste from the mortar and pestle.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "320g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "50g"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "30g"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh red chili",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2g"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "2g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Wash the cashews and soak them in warm water for 10 minutes.",
+    "Grind cumin, coriander, turmeric, and ginger in a mortar and pestle until a fine paste forms.",
+    "In a large saucepan, heat a tablespoon of oil, add the spice paste, and sauté for 1 minute until fragrant.",
+    "Add the sliced chili, tamarind paste, fish sauce, and water, stir to combine.",
+    "Pour in the coconut milk, bring to a gentle simmer, and cook for 5 minutes.",
+    "Drain the soaked cashews and add them to the curry, stirring to coat.",
+    "Reduce heat and let the curry simmer for 10 minutes until it thickens slightly.",
+    "Stir in the dark chocolate until it fully melts and the sauce becomes glossy and molten.",
+    "Season with salt to taste, adjusting sweetness or acidity if needed.",
+    "Serve hot over steamed jasmine rice or rice noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-curry",
+    "date-night",
+    "gluten-free",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 284,
+    "protein": 17,
+    "carbs": 15,
+    "fat": 56
+  },
+  "slug": "delicious-vietnamese-cashews-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-vietnamese-cashews-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:36:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cashews",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cashews",
+    "descriptor": "Delicious",
+    "dishForm": "Curry"
+  }
+}
