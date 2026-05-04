@@ -368,6 +368,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-pungent-australian-mushroom-dumplings",
+    "title": "Decadent Pungent Australian Mushroom Dumplings",
+    "tags": [
+      "aus-dish",
+      "dumpling",
+      "midnight-snack",
+      "mushroom",
+      "pungent",
+      "vegan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-spanish-octopus-salad",
     "title": "Decadent Spanish Octopus Salad",
     "tags": [

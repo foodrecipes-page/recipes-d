@@ -1,0 +1,107 @@
+{
+  "title": "Decadent Pungent Australian Mushroom Dumplings",
+  "description": "Velvety, midnight-craving dumplings packed with pungent mushrooms, perfect for a vegan nightcap.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": "plus 1/4 tsp sea salt"
+    },
+    {
+      "name": "dark button mushrooms",
+      "amount": "300g",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine flour with 1/4 tsp sea salt; set aside.",
+    "In a skillet, heat sesame oil over medium heat; add minced garlic and grated ginger, sauté until fragrant.",
+    "Add sliced mushrooms to skillet; cook until soft, about 5 minutes; stir in soy sauce, chili paste, lime juice, and scallions; remove from heat.",
+    "Let the mushroom mixture cool slightly, then stir it into the flour mixture, adding water 1 tbsp at a time until a pliable dough forms.",
+    "Divide dough into 8 equal portions; roll each into a small disk, place a spoonful of mushroom filling in center, and fold into half-moon dumplings, sealing edges with a fork.",
+    "Prepare a steamer basket lined with parchment; arrange dumplings without touching.",
+    "Steam dumplings over high heat for 7 minutes, or until dough is translucent and slightly velvety.",
+    "Serve hot with a squeeze of lime and extra chili paste on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aus-dish",
+    "dumpling",
+    "midnight-snack",
+    "mushroom",
+    "pungent",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "decadent-pungent-australian-mushroom-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-pungent-australian-mushroom-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:10:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "all purpose flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Decadent Pungent",
+    "dishForm": "Dumplings"
+  }
+}
