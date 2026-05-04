@@ -1,0 +1,111 @@
+{
+  "title": "Delicious Syrian Napa Cabbage Soup",
+  "description": "A fresh, chewy, indulgent Syrian-inspired soup featuring napa cabbage and namul-blanch seasoning, served in a copper mug for a cozy dining experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the copper mug over medium heat and swirl in the olive oil.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger and cook for another minute until fragrant.",
+    "Toss in the sliced napa cabbage and julienned carrot, sautéing until the vegetables begin to soften, about 4 minutes.",
+    "Pour in the vegetable broth and add the tamari, smoked paprika, and lemon juice, bringing the mixture to a gentle boil.",
+    "Lower the heat, cover the mug, and let the soup simmer for 12 minutes until the cabbage is tender yet still chewy.",
+    "Remove the mug from heat and, using a spoon, stir in a pinch of sea salt to taste.",
+    "Ladle the soup into individual mugs, ensuring an even distribution of vegetables.",
+    "Garnish with a sprinkle of chopped fresh parsley or cilantro for color (optional).",
+    "Serve hot, enjoying the comforting warmth of the Syrian-inspired Napa cabbage soup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "easy",
+    "gluten-free",
+    "paleo-friendly",
+    "quick",
+    "veggie-soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "delicious-syrian-napa-cabbage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-syrian-napa-cabbage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:49:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "napa cabbage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Delicious",
+    "dishForm": "Soup"
+  }
+}
