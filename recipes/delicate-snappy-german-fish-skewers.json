@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Snappy German Fish Skewers",
+  "description": "Buttery and snappy German fish skewers featuring sea salt, cooked to perfection in a bain-marie, served in a bento-box.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together melted butter, sea salt, parsley, lemon juice, garlic powder, and black pepper.",
+    "Add the cod fish pieces to the bowl and toss to coat with the butter mixture.",
+    "Thread 2-3 fish pieces onto each bamboo skewer, leaving a small space between each piece.",
+    "Place the skewers in a bain-marie, making sure the water level is below the bottom of the skewers.",
+    "Cover the bain-marie with aluminum foil and bake for 8-10 minutes or until the fish is cooked through.",
+    "Remove the skewers from the oven and let cool for 2 minutes.",
+    "Serve the fish skewers in a bento-box, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "german-cuisine",
+    "high-protein",
+    "low-carb",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "delicate-snappy-german-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-snappy-german-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:10:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "bain-marie",
+    "primaryIngredient": "sea salt",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fish",
+    "descriptor": "delicate snappy",
+    "dishForm": "Skewers"
+  }
+}
