@@ -1,0 +1,94 @@
+{
+  "title": "Dense Creamy Canadian Mushroom Pasta",
+  "description": "A rich and creamy pasta dish featuring Canadian mushrooms and long-fermentation-dough, perfect for a cold winter night. This dish is FODMAP-friendly and made with heavy cream for a silky texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough pasta",
+      "amount": "12 oz",
+      "notes": "made with gluten-free flour"
+    },
+    {
+      "name": "mixed Canadian mushrooms",
+      "amount": "2 cups",
+      "notes": "such as cremini, shiitake, and oyster"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, melt the butter over medium heat and add the garlic-infused oil.",
+    "Add the mixed mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the heavy cream to the skillet and stir to combine with the mushrooms and butter.",
+    "Bring the cream mixture to a simmer and cook until it has thickened slightly.",
+    "Stir in the dried thyme, salt, and black pepper.",
+    "Drain the cooked pasta and add it to the skillet with the cream mixture.",
+    "Toss the pasta in the cream mixture until it is well coated.",
+    "Serve the pasta hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pot",
+    "pasta-lovers",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "dense-creamy-canadian-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-creamy-canadian-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:21:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "heavy cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "dense creamy",
+    "dishForm": "Pasta"
+  }
+}
