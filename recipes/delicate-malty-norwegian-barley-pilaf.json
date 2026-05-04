@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Malty Norwegian Barley Pilaf",
+  "description": "A malty, fluffy, and comforting Norwegian dish featuring starch and shio-cure, perfect for a cold winter night. This keto-friendly recipe is cooked to perfection in a bamboo steamer.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pearl barley",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the pearl barley in a fine mesh strainer and drain well.",
+    "In a medium saucepan, bring the water to a boil over high heat.",
+    "Add the malted milk powder and shio-cure salt to the boiling water and stir to combine.",
+    "Add the rinsed barley to the saucepan and reduce the heat to low.",
+    "Cover the saucepan with a tight-fitting lid and simmer for 20 minutes.",
+    "While the barley is cooking, melt the unsalted butter in a small saucepan over low heat.",
+    "Once the barley is cooked, fluff it with a fork and stir in the melted butter and chopped parsley.",
+    "If desired, add the granulated sweetener and stir to combine.",
+    "Transfer the barley mixture to a bamboo steamer lined with parchment paper.",
+    "Steam the barley over boiling water for 10 minutes, or until heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "delicate-malty-norwegian-barley-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-malty-norwegian-barley-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:13:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "shio-cure",
+    "primaryIngredient": "starch",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "barley",
+    "descriptor": "delicate malty",
+    "dishForm": "Pilaf"
+  }
+}
