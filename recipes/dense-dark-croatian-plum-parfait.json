@@ -1,0 +1,94 @@
+{
+  "title": "Dense Dark Croatian Plum Parfait",
+  "description": "A rich and fruity Croatian dessert featuring a mix of plums, tempering chocolate, and anti-inflammatory friendly ingredients, served in a mason jar. This parfait is perfect for a solo dinner or a special treat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2 cups",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together the sliced plums, honey, and cinnamon until well combined.",
+    "In a small saucepan, heat the almond milk over low heat until warm.",
+    "Add the chopped dark chocolate to the warm almond milk and stir until melted and smooth.",
+    "In a separate bowl, mix together the rolled oats, chopped walnuts, and turmeric.",
+    "In a mason jar, create a layer of the plum mixture, followed by a layer of the chocolate mixture, and then a layer of the oat mixture.",
+    "Repeat the layers two more times, ending with a layer of the oat mixture on top.",
+    "Refrigerate the parfait for at least 30 minutes to allow the flavors to meld together.",
+    "Serve the parfait chilled, garnished with additional sliced plums if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-desserts",
+    "dark-chocolate",
+    "fruit-parfait",
+    "gluten-free",
+    "healthy-treats",
+    "mason-jar-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-dark-croatian-plum-parfait",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-dark-croatian-plum-parfait",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:08:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fruit mix",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "plums",
+    "descriptor": "dense dark",
+    "dishForm": "Parfait"
+  }
+}
