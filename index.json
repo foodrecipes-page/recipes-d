@@ -1785,6 +1785,19 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-scrambled-irish-eggs-frittata",
+    "title": "Delicate Scrambled Irish Eggs Frittata",
+    "tags": [
+      "brunch",
+      "eggs",
+      "frittata",
+      "high-protein"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 18,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-slovakian-coconut-curry",
     "title": "Delicate Slovakian Coconut Curry",
     "tags": [
@@ -2075,6 +2088,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-bitter-greek-lamb-kleftiko",
+    "title": "Delicious Bitter Greek Lamb Kleftiko",
+    "tags": [
+      "celery",
+      "festival",
+      "greek",
+      "high-protein",
+      "kleftiko",
+      "lamb",
+      "one-pan"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
@@ -2786,6 +2815,18 @@
     "shard": "d"
   },
   {
+    "slug": "dense-american-nutella-casserole",
+    "title": "Dense American Nutella Casserole",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-argentinian-chocolate-chips-brownies",
     "title": "Dense Argentinian Chocolate Chips Brownies",
     "tags": [
@@ -3233,6 +3274,18 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-roasted-chinese-leaf-pho",
+    "title": "Dense Roasted Chinese Leaf Pho",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 100,
     "shard": "d"
   },
   {

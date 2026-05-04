@@ -1,0 +1,139 @@
+{
+  "title": "Dense Roasted Chinese Leaf Pho",
+  "description": "A robust, comforting, and savory twist on the classic Vietnamese pho, featuring roasted Chinese leaf and mantecare-emulsified broth.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese leaf",
+      "amount": "2 large leaves",
+      "notes": ""
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "200g",
+      "notes": "high-protein addition"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Gallagher's stock",
+      "amount": "1L",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u00108C and season the pork shoulder with salt and black pepper, then roast in the oven for 1 hour.",
+    "Peel and slice the ginger, then roast in the oven for 1 hour.",
+    "Sear the pork shoulder in a hot pan until browned on all sides, then set aside.",
+    "In the same pan, saut\u000160 the sliced ginger, then add the Gallagher's stock, mantecare, fish sauce, soy sauce, sesame oil, star anise, cloves, cinnamon stick, and cayenne pepper, and bring to a boil.",
+    "Reduce the heat to a simmer and cook for 30 minutes, then season with salt and sugar.",
+    "Slice the pork shoulder into thin strips and add to the broth, then cook for a further 10 minutes.",
+    "In a separate pan, sear the sliced scallions until caramelized, then add to the broth.",
+    "Add the Chinese leaf to the broth and cook until wilted, then serve hot, garnished with additional scallions and a sprinkle of black pepper.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 55,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "dense-roasted-chinese-leaf-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-roasted-chinese-leaf-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chinese leaf",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chinese leaf",
+    "descriptor": "Dense, Roasted",
+    "dishForm": "Pho"
+  }
+}
