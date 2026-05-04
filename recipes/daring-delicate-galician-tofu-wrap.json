@@ -1,0 +1,109 @@
+{
+  "title": "Daring Delicate Galician Tofu Wrap",
+  "description": "A flakey, fatty, adventurous wrap that marries Galician spirit with a fresh gherkin relish and pandan leaf softness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed for 20 min and crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "gerkin relish",
+      "amount": "50g"
+    },
+    {
+      "name": "pandan leaf wraps",
+      "amount": "4, softened in 5 min"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 20 minutes and crumble it into a bowl.",
+    "Heat olive oil in a skillet over medium heat and add the crumbled tofu.",
+    "Stir in smoked paprika, garlic, and ginger, cooking until tofu is lightly browned.",
+    "Deglaze with soy sauce and lemon juice, then toss in chopped cilantro and scallions.",
+    "Remove tofu from the skillet and let it cool slightly.",
+    "Lay softened pandan leaf wraps flat on a clean surface and divide tofu mixture evenly among them.",
+    "Top each wrap with a spoonful of gherkin relish.",
+    "Sprinkle toasted sesame seeds over the relish.",
+    "Fold the sides of each wrap over the filling and roll tightly.",
+    "Serve immediately or wrap in parchment for a snack later."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "galician",
+    "quick",
+    "spicy",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "daring-delicate-galician-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/daring-delicate-galician-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:45:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "gherkin relish",
+    "diet": "flexitarian",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "tofu",
+    "descriptor": "Daring Delicate",
+    "dishForm": "Wrap"
+  }
+}
