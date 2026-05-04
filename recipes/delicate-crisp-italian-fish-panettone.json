@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Crisp Italian Fish Panettone",
+  "description": "A peppery and crisp Italian dish featuring fish sauce, with an al-dente finish, made in a bamboo steamer and shaped like a panettone, suitable for a sick day, and following ayurvedic rajasic friendly principles.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling the bottom with 2 inches of water and bringing it to a boil.",
+    "In a large bowl, whisk together fish sauce, olive oil, garlic, ginger, black pepper, and salt.",
+    "Add the cod fish to the bowl and marinate for 10 minutes.",
+    "Place the marinated fish in the bamboo steamer and steam for 8 minutes.",
+    "While the fish is steaming, mix the chopped parsley and lemon juice in a small bowl.",
+    "Once the fish is cooked, remove it from the steamer and top it with the parsley and lemon juice mixture.",
+    "Shape the fish into a panettone shape and serve immediately.",
+    "Garnish with additional parsley if desired.",
+    "Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "healthy-meals",
+    "italian-food",
+    "low-carb",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "delicate-crisp-italian-fish-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-italian-fish-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:38:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fish sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fish",
+    "descriptor": "Delicate Crisp",
+    "dishForm": "Panettone"
+  }
+}
