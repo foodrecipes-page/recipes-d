@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Tangy Argentinian Pork Skillet",
+  "description": "A tangy and light Argentinian dish featuring pork shoulder steaks, this recipe is perfect for a weeknight dinner. It is made with a mother-sauce-base and does not include onion or garlic.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1/4 inch thick slices"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tava griddle over medium-high heat.",
+    "Add the pork slices and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "Remove the pork from the griddle and set aside to rest.",
+    "In the same griddle, add the lemon juice, chicken broth, tomato paste, dried oregano, salt, and black pepper.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and let the sauce simmer for 5 minutes, or until slightly thickened.",
+    "Return the pork slices to the griddle and spoon some of the sauce over the top of each slice.",
+    "Sprinkle the chopped parsley over the top of the pork and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "one-pan-meals",
+    "pork-recipes",
+    "tangy-dishes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "deliciously-tangy-argentinian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-tangy-argentinian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:44:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "deliciously tangy",
+    "dishForm": "Skillet"
+  }
+}
