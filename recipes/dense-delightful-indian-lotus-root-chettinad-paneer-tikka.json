@@ -1,0 +1,128 @@
+{
+  "title": "Dense Delightful Indian Lotus-Root Chettinad Paneer Tikka",
+  "description": "A unique and flavorful Chettinad-inspired dish featuring lotus root and paneer tikka, perfect for a date night. The combination of miso and spices creates a rich and savory taste experience.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lotus root (renkon)",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "paneer",
+      "amount": "225g",
+      "notes": "Indian cheese, drained and cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "red chili powder",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "dairy, for marinating"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine miso paste, coriander powder, cumin powder, turmeric powder, red chili powder, and garam masala. Blend until smooth.",
+    "Transfer the miso mixture to a large bowl and whisk in lemon juice and salt.",
+    "Add cubed paneer and chopped cilantro to the bowl. Mix well to coat the paneer with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated paneer onto skewers, leaving a little space between each piece.",
+    "Grill the paneer for 3-4 minutes per side, or until it develops a nice char.",
+    "Meanwhile, peel the lotus root and cut it into 1-inch wedges.",
+    "In a separate bowl, mix together ghee and coriander powder.",
+    "Once the paneer is cooked, brush the lotus root wedges with the ghee mixture and grill for 2-3 minutes per side, or until tender and lightly charred.",
+    "Serve the grilled lotus root wedges with the paneer tikka and garnish with chopped cilantro.",
+    "Finish with a dollop of yogurt on the side, if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chettinad",
+    "date-night",
+    "high-protein",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "dense-delightful-indian-lotus-root-chettinad-paneer-tikka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-delightful-indian-lotus-root-chettinad-paneer-tikka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "fodmap",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lotus-root",
+    "descriptor": "Dense Delightful",
+    "dishForm": "Chettinad Paneer Tikka"
+  }
+}
