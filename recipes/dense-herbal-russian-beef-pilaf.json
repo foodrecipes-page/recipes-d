@@ -1,0 +1,109 @@
+{
+  "title": "Dense Herbal Russian Beef Pilaf",
+  "description": "A hearty, one-pot Russian dish featuring beef, jam, and a blend of herbs, cooked to perfection in a paella pan. This halal-friendly recipe is perfect for a satisfying dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the thyme and rosemary, and cook for 1 minute.",
+    "Add the rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the beef broth, jam, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, until the rice is tender and the liquid is absorbed.",
+    "Remove from heat and let steam, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "halal-friendly",
+    "herbal-dishes",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-herbal-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-herbal-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:02:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "dense herbal",
+    "dishForm": "Pilaf"
+  }
+}
