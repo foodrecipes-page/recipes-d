@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Floral Norwegian Avocado Salad",
+  "description": "A bright, crunchy salad with creamy avocado, edible flowers, and a splash of aquavit, perfect for a hangover cure.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "arugula",
+      "amount": "50 g"
+    },
+    {
+      "name": "radish",
+      "amount": "50 g"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "30 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "5 g"
+    },
+    {
+      "name": "aquavit",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the avocado into thin wedges and set aside.",
+    "Crack the goat cheese into small cubes and place in a small bowl.",
+    "Wash the arugula and radish, then tear the arugula into bite‑sized pieces and slice the radish into thin rounds.",
+    "Toast the pine nuts in a dry pan over medium heat until fragrant, about 2 minutes, then let them cool.",
+    "Combine the arugula, radish, toasted pine nuts, and edible flowers in a shallow slate tile.",
+    "Add the avocado wedges and goat cheese cubes to the salad bed.",
+    "Sprinkle lemon zest over the top, then drizzle olive oil and a splash of aquavit evenly.",
+    "Season with sea salt and freshly ground pepper to taste.",
+    "Gently toss the salad to blend all flavors while keeping the avocado intact.",
+    "Serve immediately on a chilled slate tile for an authentic Norwegian experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "hangover-cure",
+    "healthy",
+    "lacto-vegetarian",
+    "norwegian",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 18,
+    "carbs": 23,
+    "fat": 68
+  },
+  "slug": "delicate-floral-norwegian-avocado-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-floral-norwegian-avocado-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:41:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "avocado",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Delicate Floral",
+    "dishForm": "Salad"
+  }
+}
