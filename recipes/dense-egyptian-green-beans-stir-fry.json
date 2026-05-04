@@ -1,0 +1,107 @@
+{
+  "title": "Dense Egyptian Green Beans Stir‑fry",
+  "description": "A resinous, velvety stir-fry of fresh green beans cured in shio‑koji, finished with sesame oil, lime, and a touch of heat - a solo Egyptian dinner that feels indulgent yet plant-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "400g"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp optional"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over medium-high heat and drizzle in sesame oil until shimmering.",
+    "Add the minced garlic, sliced onion, and grated ginger, sautéing until fragrant, about 30 seconds.",
+    "Stir in the green beans, tossing to coat with the aromatics.",
+    "Sprinkle shio-koji and soy sauce over the beans, then stir vigorously to distribute the cure.",
+    "Pour in lime juice, olive oil, and optionally chili flakes, then continue cooking for 4-5 minutes until beans are tender yet crisp.",
+    "Taste and adjust seasoning, adding a splash more soy sauce if needed.",
+    "Remove from heat and scatter toasted sesame seeds over the beans.",
+    "Garnish with chopped fresh cilantro for brightness.",
+    "Serve immediately, pairing with a bowl of steamed rice or flatbread.",
+    "Enjoy the resinous, velvety texture that melts in the mouth while keeping the dish flexible for vegetarians."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flexitarian",
+    "low-carb",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 23
+  },
+  "slug": "dense-egyptian-green-beans-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-egyptian-green-beans-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:40:03Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "green beans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "green beans",
+    "descriptor": "Dense",
+    "dishForm": "Stir-fry"
+  }
+}
