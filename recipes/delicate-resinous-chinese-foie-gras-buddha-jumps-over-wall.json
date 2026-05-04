@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Resinous Chinese Foie Gras Buddha Jumps Over Wall",
+  "description": "A romantic Chinese dish featuring foie gras, presented in a Buddha Jumps Over Wall form, with a resinous and glassy jelly texture, served in a molcajete vessel.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "12 oz",
+      "notes": "seared and sliced"
+    },
+    {
+      "name": "Chinese angelica",
+      "amount": "2 tbsp",
+      "notes": "dried and soaked"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "resinous jelly broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the Chinese angelica in hot water for 10 minutes.",
+    "Combine the soaked angelica, grated ginger, ground star anise, and ground cinnamon in a bowl.",
+    "Place a slice of seared foie gras in the center of each papillote paper sheet.",
+    "Spoon the angelica and spice mixture over the foie gras.",
+    "Drizzle the resinous jelly broth over the top.",
+    "Fold the papillote paper to form a Buddha Jumps Over Wall shape.",
+    "Place the papillote in a molcajete vessel and bake for 12 minutes.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese-cuisine",
+    "foie-gras",
+    "high-protein",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 100
+  },
+  "slug": "delicate-resinous-chinese-foie-gras-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-resinous-chinese-foie-gras-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:27:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "foie-gras",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "foie gras",
+    "descriptor": "delicate resinous",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
