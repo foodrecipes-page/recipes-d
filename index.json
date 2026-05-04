@@ -184,6 +184,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-crunchy-mediterranean-pita-flatbread",
+    "title": "Decadent Crunchy Mediterranean pita Flatbread",
+    "tags": [
+      "crunchy",
+      "easy",
+      "indulgent",
+      "mediterranean",
+      "one-pan",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-egyptian-dates-pudding",
     "title": "Decadent Egyptian Dates Pudding",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Decadent Crunchy Mediterranean pita Flatbread",
+  "description": "A malty, crunchy pita flatbread glazed with a sweet-salty galangal glaze, perfect for a quick Mediterranean snack.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pita bread slices",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Galangal paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Malted barley malt syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Whole grain mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds, toasted",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F and line a baking sheet with parchment paper.",
+    "Brush both sides of each pita slice with olive oil and season with salt and smoked paprika.",
+    "Place the oiled pita slices on the prepared sheet and bake for 8 minutes until lightly browned.",
+    "While the pita is baking, mix galangal paste, malted syrup, honey, soy sauce, and mustard in a small bowl until smooth.",
+    "After 8 minutes, remove pita from oven, brush the galangal glaze generously over each piece, then return to oven.",
+    "Bake for an additional 7 minutes until the glaze caramelizes and the pita becomes crispy.",
+    "Remove the flatbread from the oven and sprinkle toasted sesame seeds over the tops while still hot.",
+    "Let the flatbread cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "easy",
+    "indulgent",
+    "mediterranean",
+    "one-pan",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "decadent-crunchy-mediterranean-pita-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-crunchy-mediterranean-pita-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:21:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "galangal paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pita",
+    "descriptor": "Decadent Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
