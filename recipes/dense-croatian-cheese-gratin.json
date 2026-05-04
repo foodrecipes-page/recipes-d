@@ -1,0 +1,96 @@
+{
+  "title": "Dense Croatian Cheese Gratin",
+  "description": "Earthy, cheese-pull comfort dish featuring shallots baked to a golden crust, keto-friendly and dense.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked cheese",
+      "amount": "200g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 large",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and place a cast-iron skillet in the oven to heat.",
+    "While oven warms, heat olive oil and butter in a skillet over medium heat until butter melts.",
+    "Add sliced shallots and sauté until translucent and fragrant, about 3 minutes.",
+    "Stir in smoked paprika and dried oregano, cooking for 30 seconds to release aromas.",
+    "Add cubed smoked cheese to skillet, letting it melt slightly, then pour in heavy cream and stir until a uniform sauce forms.",
+    "Season the mixture with pinch of salt and black pepper, adjusting to taste.",
+    "Carefully remove hot skillet from oven and transfer the cheese mixture back into the oven-safe skillet.",
+    "Bake uncovered for 12-15 minutes until the top is golden brown and the gratin is bubbling.",
+    "Remove from oven, let rest 5 minutes, then slice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-gratin",
+    "comfort-food",
+    "dense",
+    "keto-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 712,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 61
+  },
+  "slug": "dense-croatian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-croatian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:45:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "challots",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Dense",
+    "dishForm": "Gratin"
+  }
+}
