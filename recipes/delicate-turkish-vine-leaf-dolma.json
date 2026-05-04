@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Turkish Vine Leaf Dolma",
+  "description": "A winey, aerated, light Turkish dish featuring dehydrate and vegetable shortening, wrapped in vine leaves for a refreshing flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "60 blanched leaves"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "250 g"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "80 g"
+    },
+    {
+      "name": "finely chopped garlic",
+      "amount": "10 g"
+    },
+    {
+      "name": "crushed tomato puree",
+      "amount": "100 g"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "20 g",
+      "notes": "used to coat the leaves"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "15 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20 g",
+      "notes": "from 1 lemon"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Blanch the vine leaves in boiling water for 1 minute, then drain and pat dry.",
+    "Rinse the rice until water runs clear, then heat a pan with 1 tablespoon of vegetable shortening and sauté the onion and garlic for 3 minutes.",
+    "Add the rice, crushed tomato puree, dill, lemon juice, salt, and pepper to the pan and cook for 5 minutes.",
+    "Transfer the hot rice mixture to a bowl and let it cool slightly.",
+    "Place a spoonful of the rice mixture onto the center of each vine leaf, fold the sides, and roll tightly.",
+    "Arrange the rolled dolmas in a pot and pour enough water to cover them, then add a splash of wine for aroma.",
+    "Bring the water to a gentle boil, reduce heat, and simmer for 25 minutes.",
+    "Serve the dolmas chilled or at room temperature, garnished with a lemon wedge."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "light-dish",
+    "quick-meal",
+    "shojin-friendly",
+    "vegetarian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "delicate-turkish-vine-leaf-dolma",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-turkish-vine-leaf-dolma",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:33:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "dehydrate",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vine leaf",
+    "descriptor": "Delicate",
+    "dishForm": "Dolma"
+  }
+}
