@@ -1151,6 +1151,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-turkish-chicken-stir-fry",
+    "title": "Delicate Turkish Chicken Stir-fry",
+    "tags": [
+      "kadhai",
+      "nut-free",
+      "one-pan",
+      "quick",
+      "romantic",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-turkish-vine-leaf-dolma",
     "title": "Delicate Turkish Vine Leaf Dolma",
     "tags": [

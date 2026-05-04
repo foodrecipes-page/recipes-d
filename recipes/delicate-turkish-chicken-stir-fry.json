@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Turkish Chicken Stir-fry",
+  "description": "A light yet rich stir-fry that blends Turkish flavors with a sweet hoisin glaze, perfect for a romantic dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium heat and add olive oil.",
+    "Add sliced onion and garlic, sauté until fragrant and translucent.",
+    "Add sliced red pepper and cook for 2 minutes.",
+    "Add diced chicken breast, season with salt and pepper, and cook until browned on all sides.",
+    "Drizzle hoisin sauce over the chicken and stir to coat evenly.",
+    "Pour in lemon juice, reduce heat, and simmer for 5 to 7 minutes until the sauce thickens.",
+    "Add dried dill and chopped parsley, stir to combine.",
+    "Serve immediately over a bed of rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kadhai",
+    "nut-free",
+    "one-pan",
+    "quick",
+    "romantic",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 80,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "delicate-turkish-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-turkish-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:49:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate",
+    "dishForm": "Stir-fry"
+  }
+}
