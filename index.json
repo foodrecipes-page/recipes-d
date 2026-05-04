@@ -619,6 +619,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-algerian-casabe-flatbread",
+    "title": "Delicate Algerian Casabe Flatbread",
+    "tags": [
+      "casabe",
+      "flatbread",
+      "fresh-ingredients",
+      "quick",
+      "snack",
+      "wood-fired"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-algerian-english-muffin-toast",
     "title": "Delicate Algerian English Muffin Toast",
     "tags": [

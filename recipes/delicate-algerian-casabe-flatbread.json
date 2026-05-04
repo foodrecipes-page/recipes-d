@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Algerian Casabe Flatbread",
+  "description": "A floral, crunchy wood‑fired flatbread made with casabe flour, orange zest, and edible flowers, perfect for midnight cravings.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "casabe flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp chopped"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix casabe flour and sea salt until combined.",
+    "Gradually whisk in water and olive oil until a firm dough forms.",
+    "Stir in chopped rosemary, orange zest, and lemon juice for flavor.",
+    "Let the dough rest for 10 minutes to hydrate.",
+    "Heat a wood‑fired oven to 250C or preheat a cast iron skillet on high heat.",
+    "Divide the dough into 6 equal portions and roll each into a thin circle about 30cm diameter.",
+    "Place the flatbreads onto a preheated stone or skillet and bake 3 to 4 minutes per side until crisp and lightly browned.",
+    "While still hot, brush each flatbread with a thin layer of olive oil.",
+    "Sprinkle black sesame seeds and edible flowers over the top for garnish.",
+    "Slice into squares and serve immediately as a midnight snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casabe",
+    "flatbread",
+    "fresh-ingredients",
+    "quick",
+    "snack",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein": 10,
+    "carbs": 161,
+    "fat": 23
+  },
+  "slug": "delicate-algerian-casabe-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-algerian-casabe-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:56:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "casabe",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "casabe",
+    "descriptor": "Delicate",
+    "dishForm": "Flatbread"
+  }
+}
