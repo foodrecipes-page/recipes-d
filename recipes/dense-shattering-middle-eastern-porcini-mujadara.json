@@ -1,0 +1,108 @@
+{
+  "title": "Dense Shattering Middle-Eastern Porcini Mujadara",
+  "description": "Indulge in this shattering, tangy, and comforting Middle Eastern dish featuring porcini and a shio-koji-cure, all dairy-free-friendly, served in a slate tile. Perfect for a special occasion or dinner party.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried, rehydrated according to package instructions"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade, used to cure the short ribs"
+    },
+    {
+      "name": "Short ribs",
+      "amount": "2 pounds",
+      "notes": "beef or lamb, bone-in for added flavor"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "short-grain or medium-grain, rinsed and drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "used for cooking and finishing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped, caramelized for added sweetness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced, added for depth of flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "used to season the dish"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "used to season the dish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, used as garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the short ribs with salt, black pepper, and shio-koji cure, letting them cure for at least 2 hours or overnight.",
+    "Caramelize the onion and garlic in olive oil until golden brown and fragrant.",
+    "Add the rehydrated porcini mushrooms and cook until they release their liquid and start to brown.",
+    "Add the rice and cook, stirring constantly, for 1-2 minutes.",
+    "Transfer the mixture to a slate tile and create a well in the center.",
+    "Add the short ribs to the well and cover with the rice mixture.",
+    "Transfer the slate tile to the preheated oven and cook for 25-30 minutes, or until the short ribs are tender and the rice is cooked through.",
+    "Let the dish rest for 5 minutes before serving, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 30,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "dinner-recipe",
+    "middle-eastern",
+    "porcini",
+    "shio-koji-cure",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 150,
+    "fat": 70
+  },
+  "slug": "dense-shattering-middle-eastern-porcini-mujadara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-shattering-middle-eastern-porcini-mujadara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "porcini",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Porcini",
+    "descriptor": "Dense Shattering",
+    "dishForm": "Mujadara"
+  }
+}
