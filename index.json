@@ -1835,6 +1835,23 @@
     "shard": "d"
   },
   {
+    "slug": "dense-peruvian-black-beans-stew",
+    "title": "Dense Peruvian Black Beans Stew",
+    "tags": [
+      "comfort-food",
+      "dense",
+      "gluten-free",
+      "hangover-cure",
+      "macrobiotic-friendly",
+      "peruvian",
+      "salt-bake",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 90,
+    "shard": "d"
+  },
+  {
     "slug": "dense-peruvian-bread-casserole",
     "title": "Dense Peruvian Bread Casserole",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Dense Peruvian Black Beans Stew",
+  "description": "A thick, fatty stew made with fermented black beans and a salt crust finish, ideal as a hangover cure and macrobiotic-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "4 cups",
+      "notes": "soaked in water for 12 hours before cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the fermented black beans under cold water and drain.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the diced onion and minced garlic to the pot and sauté until translucent.",
+    "Stir in the smoked paprika, cumin seeds, and dried oregano, cooking until fragrant.",
+    "Add the diced tomatoes and cook for 3 minutes, letting them soften.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil.",
+    "Add the drained black beans to the pot, reduce heat, and simmer uncovered for 45 minutes, stirring occasionally.",
+    "Season the stew with sea salt to taste, then stir and taste again for balance.",
+    "Let the stew cool slightly, then transfer to a ceramic baking dish.",
+    "Cover the dish with a thick layer of sea salt, creating a salt crust.",
+    "Bake the salt-crusted stew in a preheated oven at 180°C for 30 minutes.",
+    "Remove from the oven, break the salt crust, and serve hot with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "gluten-free",
+    "hangover-cure",
+    "macrobiotic-friendly",
+    "peruvian",
+    "salt-bake",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "dense-peruvian-black-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peruvian-black-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:33:07Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "fermented black beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Black Beans",
+    "descriptor": "Dense",
+    "dishForm": "Stew"
+  }
+}
