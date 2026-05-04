@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Basque Vermicelli Pasta",
+  "description": "A light, fermented tomato sauce coats pillowy vermicelli, creating a romantic and comforting Basque lunch that steams gently and feels like a Mediterranean breeze.",
+  "cuisine": "Basque",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "200 g"
+    },
+    {
+      "name": "fermented tomato puree",
+      "amount": "150 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "12"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water for steaming",
+      "amount": "500 ml"
+    }
+  ],
+  "instructions": [
+    "Bring water to a rolling boil in a large pot.",
+    "Add vermicelli pasta and cook for 5 minutes until just al dente.",
+    "Drain the pasta and rinse briefly with cold water to stop the cooking process.",
+    "While the pasta rests, heat olive oil in a skillet over medium heat and sauté minced garlic until fragrant.",
+    "Pour in fermented tomato puree, reduce heat, and let it simmer for 3 minutes.",
+    "Stir in smoked paprika, salt, pepper, and lemon zest, cooking for an additional minute.",
+    "Add fresh basil leaves and toss together with the sauce to combine flavors.",
+    "Gently fold the steamed pasta into the sauce, allowing it to steam in the skillet for 2 minutes.",
+    "Serve immediately, garnishing with a few extra basil leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "easy-to-make",
+    "pasta",
+    "romantic",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "delicate-basque-vermicelli-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-basque-vermicelli-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:18:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "mediterranean",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Delicate",
+    "dishForm": "Pasta"
+  }
+}
