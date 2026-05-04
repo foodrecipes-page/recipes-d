@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Peppery British Tofu Ploughmans",
+  "description": "A peppery and fluffy British dish featuring silken tofu, perfect for a date night, with a shojin-friendly and ploughmans form. This dish is made with long-fermentation-dough and silken tofu for a unique taste experience.",
+  "cuisine": "British",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "long-fermentation-dough bread",
+      "amount": "1 loaf",
+      "notes": "sliced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "pickled onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the long-fermentation-dough bread into 1-inch thick slices and toast until crispy.",
+    "In a small bowl, whisk together the apple cider vinegar and olive oil.",
+    "In a separate bowl, mix together the cubed silken tofu, ground peppercorns, and pickled onions.",
+    "Arrange the toasted bread slices on a platter or individual plates.",
+    "Top the bread slices with the mixed greens, cherry tomatoes, and tofu mixture.",
+    "Drizzle the apple cider vinegar and olive oil dressing over the top.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional peppercorns and pickled onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "date-night",
+    "ploughmans",
+    "shojin-friendly",
+    "tofu-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "delicate-peppery-british-tofu-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peppery-british-tofu-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:02:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "silken tofu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "delicate peppery",
+    "dishForm": "Ploughmans"
+  }
+}
