@@ -1,0 +1,95 @@
+{
+  "title": "Deliciously Juicy Jamaican Shrimp Skewers",
+  "description": "A malty, juicy, post-workout Jamaican dish featuring shrimp paste and lardons-render, friendly to plant-based diets with substitutions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a blender, combine shrimp paste, lardons-render, scotch bonnet peppers, allspice, thyme, malt syrup, and lime juice to make the marinade.",
+    "Add the peeled and deveined shrimp to the marinade and mix well.",
+    "Thread the marinated shrimp onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the shrimp skewers for 8-10 minutes per side, or until they are pink and cooked through.",
+    "Let the shrimp rest for a few minutes before serving.",
+    "Serve the shrimp skewers hot with additional malt syrup and lime juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-seafood",
+    "high-protein",
+    "jamaican-cuisine",
+    "plant-based-friendly",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "deliciously-juicy-jamaican-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-juicy-jamaican-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:49:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "shrimp paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "deliciously juicy",
+    "dishForm": "Skewers"
+  }
+}
