@@ -1,0 +1,113 @@
+{
+  "title": "Dense Crispy Uruguayan Turkey Neck Stew",
+  "description": "A winey, smoky stew with crispy turkey necks and hearty vegetables, perfect for adventurous diners.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked turkey necks",
+      "amount": "2",
+      "notes": "about 500g"
+    },
+    {
+      "name": "Red wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "200g, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "100g, diced"
+    },
+    {
+      "name": "Kale",
+      "amount": "100g, chopped"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in large kazan cauldron over medium-high until shimmering.",
+    "Add smoked turkey necks and brown on all sides, about 5 minutes.",
+    "Remove necks and set aside; pour wine into cauldron and whisk until fully incorporated.",
+    "Add smoked paprika, cumin, oregano, bay leaf, salt, pepper and stir for 30 seconds.",
+    "Return necks to cauldron, pour in chicken stock, bring to a gentle simmer.",
+    "Add diced potatoes, carrots and kale, cover and cook for 20 minutes until vegetables tender.",
+    "Reduce heat to low, whisk in balsamic vinegar and adjust seasoning; maintain a slow simmer for 10 more minutes.",
+    "Serve hot, letting the crispy necks and dense broth mingle; garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dense",
+    "smoked",
+    "uruguayan",
+    "weeknight",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "dense-crispy-uruguayan-turkey-neck-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-crispy-uruguayan-turkey-neck-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:13:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Turkey Neck",
+    "descriptor": "Dense Crispy",
+    "dishForm": "Stew"
+  }
+}
