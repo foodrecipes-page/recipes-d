@@ -1,0 +1,110 @@
+{
+  "title": "Dense Ethiopian Speck Ye-beg-alicha",
+  "description": "This recipe brings together tender speck, herbal notes, and a tangy ferment-kimchi. Serve with injera or Ethiopian flatbread for a truly immersive experience.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "injera flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Cook the speck until browned, about 4 minutes per side.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the ferment-kimchi, oregano, cumin, paprika, and salt to the skillet and stir to combine.",
+    "Stir in the injera flour and cook for 1 minute.",
+    "Using a spatula, shape the mixture into a round shape.",
+    "Reduce the heat to low and simmer for 10 minutes, scraping the bottom of the pan with a spatula to prevent sticking.",
+    "Serve warm with injera or Ethiopian flatbread.",
+    "Let the ye-beg-alicha rest for 10 minutes before slicing and serving.",
+    "Slice the ye-beg-alicha into wedges and serve with your choice of sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "herbal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 44,
+    "carbs": 36,
+    "fat": 40
+  },
+  "slug": "dense-ethiopian-speck-ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ethiopian-speck-ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "speck",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "speck",
+    "descriptor": "Dense",
+    "dishForm": null
+  }
+}
