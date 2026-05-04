@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Ukrainian Sesame Dumplings",
+  "description": "These tangy and fluffy dumplings are a vegetarian friendly Ukrainian dish featuring sesame seeds, and are perfect for a snack or light meal. The brine dry process gives them a unique flavor and texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sesame seeds, salt, and sugar.",
+    "In a separate bowl, proof the yeast by mixing it with the warm water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Once the dough has risen, punch it down and divide it into small pieces.",
+    "Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat the vegetable oil in a large skillet over medium heat and fry the dumplings until they are golden brown.",
+    "Remove the dumplings from the oil and place them in the brine for 10 minutes to give them a tangy flavor.",
+    "Serve the dumplings warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brine-recipes",
+    "dumpling-recipes",
+    "sesame-seeds",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "delicate-ukrainian-sesame-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-ukrainian-sesame-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:40:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "sesame seed",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sesame seeds",
+    "descriptor": "dry delicate",
+    "dishForm": "Dumplings"
+  }
+}
