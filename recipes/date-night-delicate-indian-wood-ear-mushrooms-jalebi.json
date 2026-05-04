@@ -1,0 +1,96 @@
+{
+  "title": "Date-Night Delicate Indian Wood Ear Mushrooms Jalebi",
+  "description": "A pungent and aerated date-night dessert featuring wood ear mushrooms in a Mother-Sauce-Base and served in a gulab-jamun form atop a cedar plank.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "8 oz",
+      "notes": "Fresh and cleaned"
+    },
+    {
+      "name": "Mother Sauce Base",
+      "amount": "",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Gulab Jamun Mix",
+      "amount": "1 packet",
+      "notes": "Store-bought"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Cardamom Ground",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Rosewater",
+      "amount": "2 tbsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Milk Powder",
+      "amount": "",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat and dust it with cornstarch.",
+    "Add the Mother Sauce Base and bring it to a simmer.",
+    "Add the Gulab Jamun Mix and mix well.",
+    "Add the wood ear mushrooms and coat them evenly with the sauce mixture.",
+    "Using a spoon, form the mixture into small balls.",
+    "Heat the ghee in a deep frying pan over medium heat, once hot, add the mushroom balls and fry until they are golden brown.",
+    "Remove the fried mushroom balls from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Place the fried mushroom balls on a cedar plank and drizzle with rosewater and sprinkle with ground cardamom.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dessert",
+    "gulab-jamun",
+    "indian",
+    "wood-ear-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-delicate-indian-wood-ear-mushrooms-jalebi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "wood ear mushrooms",
+    "descriptor": "date-night Delicate",
+    "dishForm": "Jalebi"
+  }
+}
