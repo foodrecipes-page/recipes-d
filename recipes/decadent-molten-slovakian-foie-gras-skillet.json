@@ -1,0 +1,97 @@
+{
+  "title": "Decadent Molten Slovakian Foie Gras Skillet",
+  "description": "A rich and savory Slovakian dish featuring foie gras, quickly cooked to perfection in a skillet, served with a side of namul blanched and seasoned vegetables, making it an egg free friendly option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "4 oz",
+      "notes": "seared grade A"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Sear the foie gras for 2 minutes on each side, then set aside.",
+    "Add the paprika, garlic, and onion to the skillet and cook for 1 minute.",
+    "Add the mushrooms to the skillet and cook until they are tender.",
+    "Add the namul to the skillet and cook for an additional 2 minutes.",
+    "Season the mixture with salt and black pepper.",
+    "Return the foie gras to the skillet and cook for an additional minute.",
+    "Serve the foie gras and vegetables hot, garnished with fresh herbs if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "rich-dish",
+    "slovakian-cuisine",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "decadent-molten-slovakian-foie-gras-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-molten-slovakian-foie-gras-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:54:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "foie-gras",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "foie gras",
+    "descriptor": "Decadent molten",
+    "dishForm": "Skillet"
+  }
+}
