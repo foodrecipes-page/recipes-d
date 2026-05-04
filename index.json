@@ -2786,6 +2786,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-mexican-duck-tostada",
+    "title": "Dense Mexican Duck Tostada",
+    "tags": [
+      "dairy-free",
+      "dense",
+      "malty",
+      "mexican",
+      "one-pan",
+      "sick-day",
+      "tostada"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-middle-eastern-lentils-broth",
     "title": "Dense Middle Eastern Lentils Broth",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Dense Mexican Duck Tostada",
+  "description": "A malty, chewy, dairy-free Mexican dish featuring shredded duck, coconut-tamarind sauce, and crispy tostada shells, served in an earthenware bowl.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck thigh",
+      "amount": "200g",
+      "notes": "skin on, bone in"
+    },
+    {
+      "name": "tostada shells",
+      "amount": "2",
+      "notes": "crisped"
+    },
+    {
+      "name": "salsa adobo",
+      "amount": "30g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "60ml",
+      "notes": "dairy free"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and bake the tostada shells for 5 minutes until crisp.",
+    "Season the duck thigh with salt, pepper, and olive oil, then bake in the same oven at 180°C for 25 minutes until the internal temperature reaches 75°C.",
+    "Let the duck rest for 5 minutes, then shred the meat with two forks.",
+    "Heat the salsa adobo in a small saucepan for 3 minutes.",
+    "In a bowl, combine the shredded duck, coconut milk, tamarind paste, and the warmed salsa adobo, stirring until well mixed.",
+    "Transfer the duck mixture to an earthenware bowl and arrange the crisp tostada shells on top.",
+    "Sprinkle chopped cilantro and pickled red onion over the shells.",
+    "Drizzle lime juice across the tostada for a fresh finish.",
+    "Serve immediately at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dense",
+    "malty",
+    "mexican",
+    "one-pan",
+    "sick-day",
+    "tostada"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "dense-mexican-duck-tostada",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-mexican-duck-tostada",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:40:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "duck sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "duck",
+    "descriptor": "Dense",
+    "dishForm": "Tostada"
+  }
+}
