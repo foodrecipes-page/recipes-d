@@ -1,0 +1,114 @@
+{
+  "title": "Dense Rich Spanish Rice Paella",
+  "description": "A show‑off Spanish paella that packs a fragrant punch of saffron, lemon, and tender seafood, all in a thick, creamy rice bed. Gluten‑free and packed with flavor, it’s a standout dish for any dinner gathering.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short‑grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200 g",
+      "notes": "peeled"
+    },
+    {
+      "name": "mussels",
+      "amount": "200 g",
+      "notes": "cleaned"
+    },
+    {
+      "name": "chorizo",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a paella pan over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in sliced chorizo and cook until it releases its oils.",
+    "Sprinkle smoked paprika and saffron, cooking for 30 seconds to release aromas.",
+    "Add rice and stir until grains are well coated and slightly toasted.",
+    "Pour in chicken broth and water, bring to a gentle boil.",
+    "Reduce heat, simmer uncovered until the rice absorbs most liquid, about 15 minutes.",
+    "Gently fold in shrimp and mussels, placing them evenly on top of the rice.",
+    "Cover the pan with a lid or foil and cook until mussels open and shrimp turn pink, about 5 minutes.",
+    "Squeeze lemon slices over the paella, garnish with fresh lemon wedges, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "gluten-free",
+    "rich",
+    "seafood",
+    "show-off",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 255,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 13
+  },
+  "slug": "dense-rich-spanish-rice-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-rich-spanish-rice-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:19:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "lemons",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Rice",
+    "descriptor": "Dense Rich",
+    "dishForm": "Paella"
+  }
+}
