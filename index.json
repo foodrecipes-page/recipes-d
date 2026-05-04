@@ -2626,6 +2626,19 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-filipino-chicken-braised",
+    "title": "Deliciously Filipino Chicken Braised",
+    "tags": [
+      "filipino",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-flaky-algerian-chicken-tagine",
     "title": "Deliciously Flaky Algerian Chicken Tagine",
     "tags": [

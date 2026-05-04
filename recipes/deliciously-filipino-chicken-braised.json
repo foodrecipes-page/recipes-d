@@ -1,0 +1,65 @@
+{
+  "title": "Deliciously Filipino Chicken Braised",
+  "description": "A silky, post-workout Filipino dish featuring peppercorns and a lacquer-glaze, high in protein. Perfect for a busy day.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": "bone-in and skin-on for extra flavor"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chicken to the pot and sear until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and sauté until the onion is translucent.",
+    "Add the peppercorns to the pot and stir to combine.",
+    "Pour in the fish sauce, soy sauce, brown sugar, and chicken broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 30 minutes.",
+    "Remove the chicken from the pot and brush the lacquer glaze all over it.",
+    "Return the chicken to the pot and simmer for an additional 10 minutes.",
+    "Stir in the coconut milk and cook for 2 minutes.",
+    "Serve the chicken hot, garnished with fresh herbs.",
+    "Let the chicken rest for 5 minutes before slicing it thinly and serving.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "deliciously-filipino-chicken-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-filipino-chicken-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "peppercorns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Deliciously",
+    "dishForm": "Braised"
+  }
+}
