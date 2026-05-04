@@ -1,0 +1,97 @@
+{
+  "title": "Decadent Egyptian Dates Pudding",
+  "description": "A roasted, fluffy, sugar‑free Egyptian date pudding made with heavy cream, almond flour, and a mortar‑pestle date paste, perfect for a romantic date‑night dessert.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "200g",
+      "notes": "roasted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "25g"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C) and spread 200g pitted dates on a baking sheet to roast for 5 minutes until lightly caramelized.",
+    "Remove the dates and let them cool slightly before pounding them with a mortar and pestle until they form a smooth paste.",
+    "In a medium saucepan, heat 150ml heavy cream, 30g unsalted butter, and 150ml water over medium heat until the butter melts and the mixture is hot but not boiling.",
+    "Stir in the almond flour gradually, whisking continuously to avoid lumps and allowing the mixture to thicken into a creamy base.",
+    "Add the pounded dates, 1 tsp cardamom powder, 1 tsp rose water, a pinch of sea salt, and the cinnamon stick, stirring until fully integrated.",
+    "Reduce the heat to low and let the pudding simmer gently for 8 minutes, stirring occasionally, until it reaches a thick, glossy consistency.",
+    "Remove the cinnamon stick and pour the pudding into a hot‑pot vessel, such as a small Dutch oven or heat‑proof bowl.",
+    "Cover the vessel with a lid or foil and allow the pudding to set for 10 minutes at room temperature, then chill in the refrigerator for an additional 30 minutes.",
+    "Serve each portion garnished with a few whole dates, a dusting of crushed almonds, and a drizzle of rose water if desired.",
+    "Enjoy this decadent, fluffy, sugar‑free Egyptian date pudding as a romantic date‑night dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "egyptian",
+    "fluffy",
+    "heavy-cream",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "decadent-egyptian-dates-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-egyptian-dates-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:20:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "heavy cream",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Dates",
+    "descriptor": "Decadent",
+    "dishForm": "Pudding"
+  }
+}
