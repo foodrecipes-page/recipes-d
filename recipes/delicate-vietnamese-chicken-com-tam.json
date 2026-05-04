@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Vietnamese Chicken Com Tam",
+  "description": "Citrusy, glassy-jelly chicken com tam with buns, toast, and Mediterranean-friendly flavors, perfect for meal prep.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200 g",
+      "notes": "1 tbsp olive oil, 1 tbsp sesame oil for pan"
+    },
+    {
+      "name": "cooked broken rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat buns",
+      "amount": "2, split"
+    },
+    {
+      "name": "whole grain toast",
+      "amount": "1 slice"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup, fresh squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken breast in a mixture of soy sauce, fish sauce, grated ginger, minced garlic, and a pinch of salt for 10 minutes.",
+    "Heat 1 tbsp olive oil in a skillet over medium-high heat and sear the chicken until golden on both sides, about 4 minutes per side, then reduce heat to medium and cook until internal temperature reaches 165°F (74°C).",
+    "While the chicken cooks, whisk orange juice, lemon juice, and honey in a small bowl until combined; then sprinkle agar-agar over the mixture and whisk until fully dissolved.",
+    "Transfer the citrus mixture to a small saucepan and bring to a simmer over low heat, stirring constantly for 3 minutes until it thickens into a glossy jelly.",
+    "Remove the chicken from the pan, let it rest for 5 minutes, then slice it thinly.",
+    "In a small bowl, combine the cooked rice with a splash of olive oil and a drizzle of sesame oil, tossing to coat.",
+    "Divide the rice into two portions, placing each on a split bun or on the slice of toast.",
+    "Top each bun or toast with slices of cucumber, diced tomato, and sliced green onions, then add a generous spoonful of the citrus jelly.",
+    "Arrange the sliced chicken on top of the jelly, garnishing with chopped cilantro.",
+    "Serve immediately or store each portion in an airtight container for up to 3 days in the fridge, reheating the chicken gently before eating."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-sodium",
+    "lunch",
+    "meal-prep",
+    "mediterranean-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 42,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "delicate-vietnamese-chicken-com-tam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-vietnamese-chicken-com-tam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:13:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "buns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Delicate",
+    "dishForm": "Com Tam"
+  }
+}
