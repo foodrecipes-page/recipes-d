@@ -1,0 +1,101 @@
+{
+  "title": "Syrian Feta Cheese Pilaf",
+  "description": "A creamy and festive Syrian dish featuring cubed feta cheese, this lacto-vegetarian friendly pilaf is perfect for special occasions, with a smoky flavor from binchotan charcoal",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup cubed",
+      "notes": "fermented"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 15 minutes",
+    "Add the cubed feta cheese and stir to combine",
+    "Transfer the saucepan to the preheated oven and bake for 10 minutes",
+    "Remove the saucepan from the oven and stir in the chopped fresh parsley",
+    "Serve the pilaf hot, garnished with additional parsley if desired, and smoky flavor from binchotan charcoal"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "deliciously-creamy-syrian-feta-cheese-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-creamy-syrian-feta-cheese-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:05:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Deliciously creamy",
+    "dishForm": "Pilaf"
+  }
+}
