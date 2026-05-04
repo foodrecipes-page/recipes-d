@@ -1,0 +1,108 @@
+{
+  "title": "Delicate Smoky Algerian Veal Ceviche",
+  "description": "A tangy, aerated, festive Algerian ceviche featuring smoked veal, citrus, and aromatic herbs.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal tenderloin",
+      "amount": "250g",
+      "notes": "trimmed and sliced thinly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice veal into 2-3mm thick pieces and place in a shallow glass dish.",
+    "Sprinkle smoked salt and black pepper over the veal, then drizzle lemon and lime juice, tossing to coat evenly.",
+    "Add paprika and smoked paprika, and toss again to distribute the spices.",
+    "Cover the dish with plastic wrap and chill in the refrigerator for 30 minutes to cure and infuse smoke flavor.",
+    "While the veal marinates, finely mince the red onion and chop the cilantro.",
+    "After 30 minutes, remove the veal from the fridge and gently pat dry with paper towels.",
+    "In a small bowl, whisk together olive oil and a splash of cold sparkling water to create a light, aerated emulsion.",
+    "Sprinkle the minced onion and cilantro over the veal, then drizzle the aerated oil mixture on top.",
+    "Sprinkle a little more smoked salt and pepper to taste before serving.",
+    "Serve immediately on chilled plates, garnished with fresh herbs and a wedge of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "festive",
+    "high-protein",
+    "low-carb",
+    "raw-dish",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 52,
+    "carbs": 5,
+    "fat": 34
+  },
+  "slug": "delicate-smoky-algerian-veal-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-algerian-veal-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:38:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "veal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "veal",
+    "descriptor": "Delicate Smoky",
+    "dishForm": "Ceviche"
+  }
+}

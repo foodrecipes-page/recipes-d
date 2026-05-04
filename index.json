@@ -1198,6 +1198,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-smoky-algerian-veal-ceviche",
+    "title": "Delicate Smoky Algerian Veal Ceviche",
+    "tags": [
+      "algerian",
+      "festive",
+      "high-protein",
+      "low-carb",
+      "raw-dish",
+      "smoked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-snappy-korean-herbs-hwajeon",
     "title": "Delicate Snappy Korean Herbs Hwajeon",
     "tags": [
