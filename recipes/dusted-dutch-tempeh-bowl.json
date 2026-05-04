@@ -1,0 +1,110 @@
+{
+  "title": "Dusted Dutch Tempeh Bowl",
+  "description": "Fresh, crisp Dutch-inspired bowl with oregano-dusted tempeh, char-grilled vegetables, and a smoky binchotan charcoal glaze, all steamed in a bamboo steamer for a vegan adventure.",
+  "cuisine": "Dutch-inspired",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "200g",
+      "notes": "sliced into 1cm thick slabs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "150g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "100g",
+      "notes": "dry"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa, then cook in 200 ml water until fluffy, set aside.",
+    "In a bowl, toss tempeh slabs with olive oil, oregano, salt, pepper, and binchotan charcoal powder until evenly coated.",
+    "Heat a non-stick pan over medium-high heat; sear tempeh slabs for 3 minutes each side until golden and slightly charred, then set aside.",
+    "Place broccoli, bell pepper, and carrot into the bamboo steamer basket, add a splash of water, and steam over boiling water for 5 minutes until crisp-tender.",
+    "Assemble bowl: start with a base of cooked quinoa, top with steamed veggies, then add the seared tempeh slabs.",
+    "Drizzle with a squeeze of fresh lemon juice, sprinkle lemon zest, and optionally add a drizzle of extra virgin olive oil.",
+    "Serve warm, optionally garnish with chopped fresh parsley for color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "char-grilled",
+    "dutch-inspired",
+    "fresh-veggies",
+    "quick-bowl",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 53,
+    "carbs": 88,
+    "fat": 46
+  },
+  "slug": "dusted-dutch-tempeh-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dusted-dutch-tempeh-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:04:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "oregano",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tempeh",
+    "descriptor": "Dusted",
+    "dishForm": "Bowl"
+  }
+}
