@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Crispy French Chickpeas Terrine",
+  "description": "Sour, crispy chickpeas layered in a terrine, finished with a smoky cumin twist for a light, French-inspired dish.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "300g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tablespoon",
+      "notes": "rinsed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse chickpeas, pat dry with paper towel to remove moisture.",
+    "In a large skillet, heat olive oil over medium-high heat until shimmering.",
+    "Add cumin seeds to the hot oil and toast for 30 seconds until fragrant.",
+    "Stir in smoked paprika, salt, and pepper and cook for another 30 seconds.",
+    "Add chickpeas to the skillet and toss to coat evenly with the spice mixture.",
+    "Cook chickpeas, stirring occasionally, for 8 minutes until they begin to crisp.",
+    "Stir in lemon juice, capers, lemon zest, and parsley, and cook for 2 minutes to allow flavors to meld.",
+    "Transfer the chickpea mixture into a greased terrine mold or small loaf pan.",
+    "Press firmly into the mold and bake in a preheated 220°C oven for 12 minutes to set the terrine.",
+    "Remove from oven, let cool for 5 minutes, then unmold and serve warm, garnished with chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "diabetic-friendly",
+    "french",
+    "quick",
+    "smoky",
+    "terrine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 4,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "delicate-crispy-french-chickpeas-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crispy-french-chickpeas-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:00:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cumin seeds",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Delicate Crispy",
+    "dishForm": "Terrine"
+  }
+}

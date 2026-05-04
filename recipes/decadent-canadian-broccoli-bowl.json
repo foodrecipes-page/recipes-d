@@ -1,0 +1,112 @@
+{
+  "title": "Decadent Canadian Broccoli Bowl",
+  "description": "A romantic, sour‑creamy flexitarian bowl that showcases fresh broccoli deglazed with apple cider vinegar and finished in a Korean brass bowl.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "300g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium and add the olive oil.",
+    "Add the minced shallot and garlic, sauté until translucent.",
+    "Stir in grated ginger and diced carrot, cook for 2 minutes.",
+    "Add broccoli florets and red bell pepper, cook, stirring, until vegetables are bright green and just tender, about 5 minutes.",
+    "In a small bowl, whisk together apple cider vinegar, Dijon mustard, Greek yogurt, salt, and pepper until smooth.",
+    "Pour the sauce over the vegetables, stirring to coat evenly.",
+    "Reduce heat to low and let the mixture simmer for 3 minutes, allowing flavors to meld.",
+    "Transfer the bowl of broccoli and sauce to a Korean brass bowl for serving.",
+    "Garnish with a sprinkle of chopped fresh parsley, if desired, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "creamy",
+    "flexitarian-friendly",
+    "korean-bowl",
+    "sour",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 22,
+    "carbs": 28,
+    "fat": 22
+  },
+  "slug": "decadent-canadian-broccoli-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-canadian-broccoli-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:00:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "broccoli",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Decadent",
+    "dishForm": "Bowl"
+  }
+}

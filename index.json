@@ -229,6 +229,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-canadian-broccoli-bowl",
+    "title": "Decadent Canadian Broccoli Bowl",
+    "tags": [
+      "canadian",
+      "creamy",
+      "flexitarian-friendly",
+      "korean-bowl",
+      "sour",
+      "vegetable"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-crunchy-mediterranean-pita-flatbread",
     "title": "Decadent Crunchy Mediterranean pita Flatbread",
     "tags": [
@@ -640,6 +655,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crispy-french-chickpeas-terrine",
+    "title": "Delicate Crispy French Chickpeas Terrine",
+    "tags": [
+      "crispy",
+      "diabetic-friendly",
+      "french",
+      "quick",
+      "smoky",
+      "terrine",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
