@@ -1,0 +1,109 @@
+{
+  "title": "Decadent Norwegian Almond Wrap",
+  "description": "A nutty, springy wrap inspired by Norwegian flavors, featuring doubanjiang, almond flour, and steamed banana leaves. The dish is gluten-free and served warm for a cozy meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "washed and cut to size"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "200g"
+    },
+    {
+      "name": "almond butter",
+      "amount": "50g"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "150g"
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "100g"
+    },
+    {
+      "name": "julienned carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a steam rack in a large pot and soak banana leaves in warm water for five minutes to soften.",
+    "In a bowl, combine ground almonds, almond butter, doubanjiang, sesame oil, sea salt, black pepper, grated ginger, gluten-free soy sauce, and a splash of rice vinegar until a cohesive dough forms.",
+    "Heat a non-stick pan over medium heat and sauté mushrooms and carrot until tender, then fold in spinach until wilted.",
+    "Divide the almond mixture into eight equal portions and flatten each onto a banana leaf, then spread the sautéed vegetables over half of each portion.",
+    "Fold the leaf over to form a small rectangular wrap and secure the edges with a bamboo skewer.",
+    "Arrange the wraps on a steaming rack so that they do not touch, then steam for ten minutes.",
+    "Remove the wraps, let them cool for a few minutes, then slice each into bite-size pieces if desired.",
+    "Serve the wraps warm with a drizzle of extra doubanjiang or a side of lime wedges.",
+    "Store leftovers in an airtight container in the refrigerator for up to two days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "doubanjiang",
+    "gluten-free",
+    "leaf-wrap",
+    "norwegian",
+    "nutty",
+    "springy",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "decadent-norwegian-almond-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-norwegian-almond-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:55:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "doubanjiang",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Almond",
+    "descriptor": "Decadent",
+    "dishForm": "Wrap"
+  }
+}
