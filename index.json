@@ -1203,6 +1203,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-tunisian-seitan-tagine",
+    "title": "Dense Tunisian Seitan Tagine",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "seitan",
+      "tagine",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 80,
+    "shard": "d"
+  },
+  {
     "slug": "dense-yunnan-noodles-dan-dan-mian",
     "title": "Dense Yunnan Noodles Dan Dan Mian",
     "tags": [

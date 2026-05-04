@@ -1,0 +1,111 @@
+{
+  "title": "Dense Tunisian Seitan Tagine",
+  "description": "A buttery, chewy, adventurous dish with seitan, sazon, kombu cold extract and a medley of Tunisian spices.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "400 g",
+      "notes": "cut into thick cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "low sodium vegetable stock",
+      "amount": "400 ml",
+      "notes": "blended with kombu cold extract"
+    },
+    {
+      "name": "sazon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "6",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "50 g",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium heat.",
+    "Add sliced onion and cook until translucent.",
+    "Stir in garlic, smoke paprika, cumin, and sazon, and cook for 1 minute.",
+    "Add seitan cubes and brown them on all sides.",
+    "Pour in tomato puree and vegetable stock with kombu extract, stir well.",
+    "Reduce heat to low, cover, and simmer for 30 minutes until seitan is tender.",
+    "Add chopped apricots, stir, and simmer uncovered for 10 minutes to thicken.",
+    "Fold in toasted almonds and mix gently.",
+    "Serve hot over couscous or flatbread.",
+    "Enjoy the rich, buttery flavor of this Tunisian seitan tagine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "seitan",
+    "tagine",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "dense-tunisian-seitan-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-tunisian-seitan-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:51:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sazon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Seitan",
+    "descriptor": "Dense",
+    "dishForm": "Tagine"
+  }
+}
