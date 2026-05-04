@@ -630,6 +630,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-crunchy-mexican-chicken-tacos",
+    "title": "Deliciously Crunchy Mexican Chicken Tacos",
+    "tags": [
+      "clay-pot-cooking",
+      "crunchy-texture",
+      "halal-friendly",
+      "jalisco-style",
+      "lacquerware-bowl",
+      "mexican-cuisine"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-croatian-pork-pilaf",
     "title": "Deliciously Dense Croatian Pork Pilaf",
     "tags": [
