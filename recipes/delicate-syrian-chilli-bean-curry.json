@@ -1,0 +1,105 @@
+{
+  "title": "Delicate Syrian Chilli Bean Curry",
+  "description": "A malty, silky, and light Syrian dish featuring chilli bean paste and coconut cream, prepared in a molcajete.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons",
+      "notes": "ayurvedic sattvic friendly"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut cream in the molcajete over medium heat until it starts to crack and separate.",
+    "Add the chilli bean paste and stir until well combined.",
+    "Add the sliced red onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin seeds and coriander powder and cook for 1 minute, stirring constantly.",
+    "Add the salt and water, and stir until the curry starts to simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes, stirring occasionally.",
+    "Stir in the chopped fresh cilantro and serve hot.",
+    "Serve the curry in individual bowls, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "coconut-cream-based",
+    "one-pot-meal",
+    "syrian-cuisine",
+    "vegetarian-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-syrian-chilli-bean-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-syrian-chilli-bean-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:41:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chilli beans",
+    "descriptor": "delicate malty",
+    "dishForm": "Curry"
+  }
+}
