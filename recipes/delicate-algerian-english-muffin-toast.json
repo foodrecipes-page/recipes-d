@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Algerian English Muffin Toast",
+  "description": "A spicy, airy brunch classic featuring lightly toasted English muffins topped with a zesty yogurt‑harissa spread, finished on a wooden board for a rustic touch.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffin halves",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Low-fat Greek yogurt",
+      "amount": "120g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and line a wooden board with parchment.",
+    "In a bowl whisk Greek yogurt, lemon juice, harissa, tomato paste, cumin, salt and pepper until smooth.",
+    "Spread the yogurt mixture evenly over each English muffin slice.",
+    "Scatter chopped parsley on top.",
+    "Brush the tops lightly with olive oil.",
+    "Place the prepared slices on the wooden board.",
+    "Bake in preheated oven for 12 minutes or until edges are golden.",
+    "Remove from oven, let rest 2 minutes, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "low-fat",
+    "one-pan",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "delicate-algerian-english-muffin-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-algerian-english-muffin-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:18:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "english muffins",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "English muffin",
+    "descriptor": "Delicate",
+    "dishForm": "Toast"
+  }
+}

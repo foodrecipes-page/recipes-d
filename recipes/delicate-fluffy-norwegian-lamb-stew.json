@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Fluffy Norwegian Lamb Stew",
+  "description": "A traditional Norwegian dish featuring tender lamb and fluffy texture, perfect for a comforting meal. This paleo-friendly recipe is also a great hangover cure.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the beef broth to a boil over high heat.",
+    "Add the lamb pieces to the pot and return to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the chopped onion, carrot, and potato to the pot and continue to simmer for 20 minutes, or until the vegetables are tender.",
+    "Stir in the ketchup, salt, and black pepper, and continue to simmer for an additional 5 minutes.",
+    "Remove the pot from the heat and let it cool slightly before serving.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pot",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 29
+  },
+  "slug": "delicate-fluffy-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-fluffy-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:21Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "ketchup",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "delicate fluffy",
+    "dishForm": "Stew"
+  }
+}

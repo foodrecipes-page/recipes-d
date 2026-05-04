@@ -604,6 +604,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-algerian-english-muffin-toast",
+    "title": "Delicate Algerian English Muffin Toast",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "low-fat",
+      "one-pan",
+      "wooden-board"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-american-chocolate-pancake",
     "title": "Delicate American Chocolate Pancake",
     "tags": [
@@ -958,6 +972,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-fluffy-norwegian-lamb-stew",
+    "title": "Delicate Fluffy Norwegian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "one-pot",
+      "paleo-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
