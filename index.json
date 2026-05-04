@@ -330,6 +330,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-sweet-malaysian-cookies-cookies",
+    "title": "Delicate Sweet Malaysian Cookies",
+    "tags": [
+      "baked-goods",
+      "cookies",
+      "glazed-cookies",
+      "low-sodium",
+      "malaysian-desserts",
+      "sweet-treats"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-venezuelan-blackcurrant-empanadas",
     "title": "Delicate Venezuelan Blackcurrant Empanadas",
     "tags": [

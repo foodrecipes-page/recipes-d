@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Sweet Malaysian Cookies",
+  "description": "These cookies are a classic Malaysian treat, featuring a delicate balance of sweet and tender flavors, topped with a low-sodium glaze.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "low-sodium glaze",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt.",
+    "In a large bowl, use an electric mixer to cream together the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "Gradually mix in the dry ingredients until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness and cut into desired shapes.",
+    "Place the cookies on a baking sheet lined with parchment paper and bake for 18-20 minutes.",
+    "Allow the cookies to cool completely on a wire rack.",
+    "Drizzle the low-sodium glaze over the cooled cookies.",
+    "Serve immediately and store any leftovers in an airtight container."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cookies",
+    "glazed-cookies",
+    "low-sodium",
+    "malaysian-desserts",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "delicate-sweet-malaysian-cookies-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sweet-malaysian-cookies-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:17:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "cookies",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cookies",
+    "descriptor": "Delicate sweet",
+    "dishForm": "Cookies"
+  }
+}
