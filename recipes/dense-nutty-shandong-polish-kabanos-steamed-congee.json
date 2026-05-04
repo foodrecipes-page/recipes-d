@@ -1,0 +1,94 @@
+{
+  "title": "Dense, Nutty Shandong Polish Kabanos Steamed Congee",
+  "description": "A rich and comforting congee made with Polish kabanos sausage, featuring a balance of nutty flavors and velvety texture, inspired by the Shandong cuisine.",
+  "cuisine": "Shandong",
+  "diet": [
+    "vegetarian",
+    "diabetic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Kabanos sausage",
+      "amount": "100g"
+    },
+    {
+      "name": "Rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "50g"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2g",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer and drain well.",
+    "In a large pot, combine the rice, rendered pork fat, scallions, ginger, salt, and black pepper.",
+    "Add the water to the pot and stir to combine.",
+    "Bring the mixture to a boil over medium-high heat.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Use a spoon to break up any clumps and stir the congee.",
+    "Add the kabanos sausage to the pot and stir to combine.",
+    "Continue to simmer, covered, for an additional 10 minutes.",
+    "Serve the congee in a copper mug, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pot",
+    "solitary-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 24,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "dense-nutty-shandong-polish-kabanos-steamed-congee",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-nutty-shandong-polish-kabanos-steamed-congee",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:51:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "polish kabanos",
+    "diet": "diabetic-friendly",
+    "region": "shandong",
+    "cuisineAdjective": "Shandong",
+    "mainIngredient": "Polish Kabanos",
+    "descriptor": "Dense, Nutty",
+    "dishForm": "Steamed Congee"
+  }
+}
