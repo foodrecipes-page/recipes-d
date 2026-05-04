@@ -2923,6 +2923,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-smoky-italian-tomato-pasta",
+    "title": "Dense Smoky Italian Tomato Pasta",
+    "tags": [
+      "high-protein",
+      "italian",
+      "one-pot",
+      "pasta",
+      "smoky"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "dense-smoky-norwegian-beetroot-stew",
     "title": "Dense Smoky Norwegian Beetroot Stew",
     "tags": [

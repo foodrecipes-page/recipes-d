@@ -1,0 +1,108 @@
+{
+  "title": "Dense Smoky Italian Tomato Pasta",
+  "description": "A velvety, smoky tomato pasta served in a wrapped agave leaf, showcasing Roman flair and high protein.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "340 g",
+      "notes": "dry spaghetti"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Wrap a wide ttukbaegi earthenware pot in the large agave leaf and set aside.",
+    "Heat the olive oil in the pot over medium heat until shimmering.",
+    "Add the minced garlic and diced onion, sautéing until translucent.",
+    "Stir in the smoked paprika and dried oregano, cooking until fragrant.",
+    "Pour in the tomato puree and beef stock, bringing the mixture to a gentle simmer.",
+    "Let the sauce reduce for 8 minutes, stirring occasionally.",
+    "Bring a large pot of salted water to a boil and cook the pasta for 8 minutes until al dente.",
+    "Drain the pasta, reserving one cup of the cooking water.",
+    "Add the cooked pasta to the sauce, tossing to coat; add reserved water if the sauce is too thick.",
+    "Fold in the grated parmesan until silky, then plate onto a folded agave leaf and sprinkle with black pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "one-pot",
+    "pasta",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 11
+  },
+  "slug": "dense-smoky-italian-tomato-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-italian-tomato-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:29:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "tomato puree",
+    "diet": "high-protein",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Pasta"
+  }
+}
