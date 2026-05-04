@@ -229,6 +229,22 @@
     "shard": "d"
   },
   {
+    "slug": "dazzling-greek-chickpea-tagine",
+    "title": "Dazzling Greek Chickpea Tagine",
+    "tags": [
+      "chickpea",
+      "falafel",
+      "greek",
+      "kadhai-cook",
+      "one-pot",
+      "quick",
+      "tangy"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-basque-turkish-delight-gratin",
     "title": "Decadent Basque Turkish Delight Gratin",
     "tags": [

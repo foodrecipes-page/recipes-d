@@ -1,0 +1,111 @@
+{
+  "title": "Dazzling Greek Chickpea Tagine",
+  "description": "A vibrant Greek-inspired chickpea tagine with crispy falafel, tangy lemon, and aromatic herbs, cooked swiftly in a kadhai for a monsoon-ready meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas, cooked or soaked",
+      "amount": "2 cups",
+      "notes": "cooked or frozen"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a kadhai over medium heat.",
+    "Add sliced onion and sauté until translucent, about 3 minutes.",
+    "Stir in diced tomato, cook until soft, about 4 minutes.",
+    "Add the chickpeas and falafel mix, mixing well to coat with onion-tomato base.",
+    "Sprinkle oregano, cumin, paprika, salt, and pepper, stir for 1 minute.",
+    "Pour in 2 tbsp fresh lemon juice, mix, and cook for another 2 minutes.",
+    "Reduce heat to low, cover, and simmer for 5 minutes to meld flavors.",
+    "Remove from heat, stir in 3 tbsp Greek yogurt until smooth and creamy.",
+    "Taste and adjust seasoning if needed, adding more salt or lemon if desired.",
+    "Serve hot straight from the kadhai, garnished with a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "falafel",
+    "greek",
+    "kadhai-cook",
+    "one-pot",
+    "quick",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "dazzling-greek-chickpea-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dazzling-greek-chickpea-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:04:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "tagine-cook",
+    "primaryIngredient": "falafel",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Dazzling",
+    "dishForm": "Tagine"
+  }
+}
