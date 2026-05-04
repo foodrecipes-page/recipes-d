@@ -1,0 +1,119 @@
+{
+  "title": "Dense Smoked Middle-Eastern Smoked Haddock Umm Ali",
+  "description": "A rich and satisfying umm ali featuring smoked haddock, sweet corn, and crunchy binchotan charcoal, all wrapped in a corn husk. This diabetic-friendly dessert is perfect for a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Smoked haddock",
+      "amount": "2 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the smoked haddock under cold water, pat dry with paper towels, and cut into small pieces.",
+    "In a large bowl, mix together the coconut milk, honey, cinnamon, cardamom, and salt.",
+    "Add the binchotan charcoal to the bowl and stir to combine.",
+    "Add the corn kernels to the bowl and stir to combine.",
+    "Add the smoked haddock to the bowl and stir to combine.",
+    "Pour the mixture into the corn husks, dividing it evenly among the four wraps.",
+    "Fold the top of each wrap over the filling and secure with a toothpick.",
+    "Place the wraps on a baking sheet lined with parchment paper and bake for 15 minutes, or until the filling is heated through and the corn husks are tender.",
+    "While the wraps are baking, mix together the Greek yogurt and a pinch of salt in a small bowl.",
+    "Once the wraps are done, remove them from the oven and let them cool for a few minutes.",
+    "Unwrap the desserts and top each one with a dollop of yogurt and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "low-carb",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "dense-smoked-middle-eastern-smoked-haddock-umm-ali",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoked-middle-eastern-smoked-haddock-umm-ali",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "smoked haddock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Smoked Haddock",
+    "descriptor": "Dense Smoked",
+    "dishForm": "Umm Ali"
+  }
+}

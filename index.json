@@ -3007,6 +3007,19 @@
     "shard": "d"
   },
   {
+    "slug": "dense-ethiopian-tomato-pilaf",
+    "title": "Dense Ethiopian Tomato Pilaf",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "keto",
+      "rice-bowl"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-ferment-ethiopian-wagyu-kitfo",
     "title": "Dense Ferment Ethiopian Wagyu Kitfo",
     "tags": [
@@ -3019,6 +3032,21 @@
       "weeknight"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-flaky-filipino-one-pot-dish-lumpia",
+    "title": "Lumpia",
+    "tags": [
+      "comfort-food",
+      "filipino",
+      "gluten-free",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 45,
     "shard": "d"
   },
@@ -3181,6 +3209,38 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-moroccan-pilchards-tagine",
+    "title": "Dense Moroccan Pilchards Tagine",
+    "tags": [
+      "comfort-food",
+      "fish",
+      "low-fat",
+      "moroccan",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-nostalgic-mexican-tahini-tacos",
+    "title": "Dense Nostalgic Mexican Tahini Tacos",
+    "tags": [
+      "breakfast",
+      "creamy",
+      "jalisco",
+      "mexican",
+      "mustardy",
+      "ovovegetarian",
+      "tahini"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -3348,6 +3408,19 @@
     ],
     "cuisine": "Scottish",
     "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoked-middle-eastern-smoked-haddock-umm-ali",
+    "title": "Dense Smoked Middle-Eastern Smoked Haddock Umm Ali",
+    "tags": [
+      "dessert",
+      "diabetic-friendly",
+      "low-carb",
+      "special-occasion"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

@@ -1,0 +1,128 @@
+{
+  "title": "Dense Moroccan Pilchards Tagine",
+  "description": "A heartwarming, peppery, and nostalgic Moroccan dish featuring pilchards, perfect for a low-fat friendly meal. Traditionally cooked in a mortar and pestle for a rich and intense flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can (140g)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the pilchards and drain them well.",
+    "Heat the olive oil in a large mortar and pestle over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the cumin, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the pilchards and cook until they start to flake apart, about 5 minutes.",
+    "Add the chopped parsley, lemon juice, water, and chopped cilantro. Stir well to combine.",
+    "Continue cooking for another 10-15 minutes, stirring occasionally, until the sauce has thickened and the pilchards are cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Dense Moroccan Pilchards Tagine hot, garnished with additional parsley and lemon wedges if desired.",
+    "Cover and refrigerate any leftovers for up to 3 days or freeze for up to 2 months.",
+    "Reheat the pilchards in a saucepan over low heat, adding a little water if the sauce has thickened too much."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish",
+    "low-fat",
+    "moroccan",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "dense-moroccan-pilchards-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-moroccan-pilchards-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "pilchards",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pilchards",
+    "descriptor": "dense",
+    "dishForm": "Tagine"
+  }
+}

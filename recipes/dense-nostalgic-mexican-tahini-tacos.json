@@ -1,0 +1,59 @@
+{
+  "title": "Dense Nostalgic Mexican Tahini Tacos",
+  "description": "A creamy, ovo-vegetarian take on traditional Jalisco-style tacos, infused with the rich flavors of tahini and a hint of mustard.",
+  "cuisine": "mexican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "12",
+      "notes": "preferably day-old tortillas"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat.",
+    "In a small saucepan, warm the infuse-oil over low heat.",
+    "In a blender or food processor, combine tahini, lime juice, garlic, and 1 tablespoon of water. Blend until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "creamy",
+    "jalisco",
+    "mexican",
+    "mustardy",
+    "ovovegetarian",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 18,
+    "carbs": 64,
+    "fat": 44
+  },
+  "slug": "dense-nostalgic-mexican-tahini-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-nostalgic-mexican-tahini-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "tahini",
+    "diet": "ovo-vegetarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tahini",
+    "descriptor": "Dense Nostalgic",
+    "dishForm": "Tacos"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Dense Ethiopian Tomato Pilaf",
+  "description": "A flavorful and nutritious pilaf dish with a rich confit tomato sauce, featuring jasmine rice, and is keto-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "short-grain jasmine rice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the rice and cook, stirring constantly, for 2 minutes.",
+    "Add the confit tomato sauce, water, and spices, and stir to combine.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "keto",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "dense-ethiopian-tomato-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ethiopian-tomato-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "jasmine rice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomato",
+    "descriptor": "Dense",
+    "dishForm": "Pilaf"
+  }
+}
