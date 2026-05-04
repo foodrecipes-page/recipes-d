@@ -1,0 +1,115 @@
+{
+  "title": "Delicate Argentinian Sweet Potato Empanadas",
+  "description": "Yeasty, crisp empanadas filled with sweet potato, fermented kimchi and aromatic herbs, perfect for a vegetarian weeknight dinner.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "warm water",
+      "amount": "125ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "instant dried yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "300g",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "kimchi",
+      "amount": "80g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetarian cheddar",
+      "amount": "30g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, sugar, salt, and yeast.",
+    "Add warm water and olive oil; mix until dough forms.",
+    "Knead dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise in a warm place for 45 minutes until doubled.",
+    "While dough rises, sauté onion and garlic in olive oil until translucent.",
+    "Add diced sweet potato and kimchi to the sautéed onion and garlic, cook for 5 minutes, season with oregano, salt, and pepper.",
+    "Roll dough into 15cm circles on a floured surface.",
+    "Spoon filling onto the center of each circle, fold dough into a triangle, and seal edges with a fork.",
+    "Brush empanadas with beaten egg or plant milk and bake at 200 degrees Celsius for 15 minutes until golden.",
+    "Let cool for 5 minutes, then serve warm with a side of salsa."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "kimchi",
+    "sweet-potato",
+    "vegetarian",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "delicate-argentinian-sweet-potato-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-argentinian-sweet-potato-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:21:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Delicate",
+    "dishForm": "Empanadas"
+  }
+}

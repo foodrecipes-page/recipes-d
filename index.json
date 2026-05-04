@@ -655,6 +655,21 @@
     "shard": "d"
   },
   {
+    "slug": "deep-canadian-olive-stew",
+    "title": "Deep Canadian Olive Stew",
+    "tags": [
+      "high-fiber",
+      "low-carb",
+      "olive-rich",
+      "one-pot",
+      "smoked",
+      "vegan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "deep-fried-malaysian-mozzarella-skewers",
     "title": "Deep Fried Malaysian Mozzarella Skewers",
     "tags": [
@@ -765,6 +780,22 @@
     ],
     "cuisine": "Andalusian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-argentinian-sweet-potato-empanadas",
+    "title": "Delicate Argentinian Sweet Potato Empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "kimchi",
+      "sweet-potato",
+      "vegetarian",
+      "weeknight",
+      "yeasty"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {

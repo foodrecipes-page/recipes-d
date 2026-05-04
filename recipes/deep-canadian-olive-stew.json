@@ -1,0 +1,109 @@
+{
+  "title": "Deep Canadian Olive Stew",
+  "description": "A pungent, velvety stew that leans into smoky flavors while keeping sugar-free and comfortingly hearty. Green olives, root vegetables, and aromatic herbs create depth in a single pot.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "leeks",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "green olives",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced carrots, diced potatoes, and leeks, sautéing for about 5 minutes until slightly softened.",
+    "Stir in the smoked paprika, thyme, and bay leaf, letting the spices bloom for 1 minute.",
+    "Pour in the vegetable stock, bring to a gentle boil, then reduce heat and simmer for 20 minutes.",
+    "Add the sliced green olives, salt, and black pepper, and simmer for an additional 5 minutes.",
+    "Remove the bay leaf before serving.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, optionally garnished with fresh parsley or a squeeze of lemon.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat gently on the stove or in the microwave before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-carb",
+    "olive-rich",
+    "one-pot",
+    "smoked",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "deep-canadian-olive-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-canadian-olive-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:21:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "smoke-cold",
+    "primaryIngredient": "green olives",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Olives",
+    "descriptor": "Deep",
+    "dishForm": "Stew"
+  }
+}
