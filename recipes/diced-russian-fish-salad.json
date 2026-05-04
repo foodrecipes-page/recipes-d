@@ -1,0 +1,109 @@
+{
+  "title": "Diced Russian Fish Salad",
+  "description": "A cultured, crispy raw fish salad with Chinese five-spice and sashimi cut, perfect for a quick-fix Russian meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "200g",
+      "notes": "sashimi cut"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red radish",
+      "amount": "1 small",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "small red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine sea salt"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Slice the salmon fillet into uniform 1/2-inch cubes and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "fish-salad",
+    "healthy",
+    "no-cook",
+    "quick-fix",
+    "raw"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "diced-russian-fish-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/diced-russian-fish-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:01:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Fish",
+    "descriptor": "Diced",
+    "dishForm": "Salad"
+  }
+}

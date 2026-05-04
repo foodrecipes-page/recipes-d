@@ -2128,6 +2128,21 @@
     "shard": "d"
   },
   {
+    "slug": "diced-russian-fish-salad",
+    "title": "Diced Russian Fish Salad",
+    "tags": [
+      "easy",
+      "fish-salad",
+      "healthy",
+      "no-cook",
+      "quick-fix",
+      "raw"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
     "slug": "dijon-reviver-salad",
     "title": "Dijon Reviver Salad",
     "tags": [
