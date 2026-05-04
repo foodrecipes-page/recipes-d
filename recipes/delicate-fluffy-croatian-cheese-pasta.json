@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Fluffy Croatian Cheese Pasta",
+  "description": "A quick and easy Croatian dish featuring creme fraiche and miso marinate, perfect for a weeknight dinner. This kosher friendly recipe is made with fluffy pasta and a blend of creamy cheese and spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to package instructions until al dente.",
+    "In a small bowl, whisk together the miso paste and creme fraiche until smooth.",
+    "In a large skillet, heat the olive oil over medium heat and add the garlic powder, salt, and black pepper.",
+    "Add the cooked fettuccine pasta to the skillet and toss to combine with the oil and spice mixture.",
+    "Add the miso and creme fraiche mixture to the skillet and toss to combine with the pasta.",
+    "Stir in the shredded grana padano cheese until melted and well combined.",
+    "Transfer the pasta to a serving dish and top with chopped parsley and lemon zest.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "pasta-lover",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "delicate-fluffy-croatian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-fluffy-croatian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:27:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "creme fraiche",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "delicate fluffy",
+    "dishForm": "Pasta"
+  }
+}
