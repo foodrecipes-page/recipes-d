@@ -1,0 +1,114 @@
+{
+  "title": "Decadent Yeasty Irish Duck Stew",
+  "description": "A hearty Irish stew featuring tender duck, yeasty flavors, and gooey textures, all in a rich and savory broth. This dish is perfect for a cold and rainy day.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered from pastured ducks"
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "2 medium",
+      "notes": "peeled and cut into thin strips"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 teaspoons",
+      "notes": "vegetarian and macrobiotic friendly"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish stout",
+      "amount": "1 cup",
+      "notes": "rich and dark"
+    },
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed and cut into bite sized pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined and coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat the duck fat over medium heat until melted and fragrant.",
+    "Add the chopped onions and cook until they are softened and translucent, stirring occasionally.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, stirring constantly to prevent burning.",
+    "Add the katsuramuki-cut carrots and cook for 5 minutes, stirring occasionally, until they begin to soften.",
+    "Add the yeast extract, Irish stout, duck breast, potatoes, thyme, sea salt, and black pepper, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the duck is tender and the vegetables are cooked through.",
+    "Remove the stew from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with additional thyme if desired.",
+    "Let the stew rest for 10-15 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "duck-recipes",
+    "hearty-stew",
+    "irish-cuisine",
+    "macrobiotic",
+    "yeasty-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "decadent-yeasty-irish-duck-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-yeasty-irish-duck-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:57:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "duck fat",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "duck",
+    "descriptor": "Decadent yeasty",
+    "dishForm": "Stew"
+  }
+}
