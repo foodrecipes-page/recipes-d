@@ -280,6 +280,21 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-american-dutch-stroop-tart",
+    "title": "Date-Night American Dutch Stroop Tart",
+    "tags": [
+      "almond-based",
+      "caramelized",
+      "date-night",
+      "dutch-stroop",
+      "paleo-friendly",
+      "whole30-friendly"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi",
     "title": "Date-Night Delicate Indian Wood Ear Mushrooms Jalebi",
     "tags": [
@@ -2269,6 +2284,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-pressure-cooked-australian-vialone-nano-stew",
+    "title": "Delicious Pressure-Cooked Australian Vialone-Nano Stew",
+    "tags": [
+      "austalian-cuisine",
+      "low-carb-option",
+      "pressure-cooker",
+      "veggie-packed",
+      "weeknight-dinner"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-syrian-napa-cabbage-soup",
     "title": "Delicious Syrian Napa Cabbage Soup",
     "tags": [
@@ -3038,6 +3067,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-delightful-northern-thai-fish-tagliere",
+    "title": "Dense Delightful Northern Thai Fish Tagliere",
+    "tags": [
+      "fish",
+      "northern-thai",
+      "one-pan",
+      "pescatarian",
+      "tagliere",
+      "weeknight"
+    ],
+    "cuisine": "northern thai",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-egyptian-green-beans-stir-fry",
     "title": "Dense Egyptian Green Beans Stir‑fry",
     "tags": [
@@ -3181,6 +3225,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 62,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-juicy-algerian-falafel-tagine",
+    "title": "dense juicy algerian falafel tagine",
+    "tags": [
+      "algerian",
+      "high-protein",
+      "one-pan",
+      "ovo-vegetarian",
+      "vegan"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {

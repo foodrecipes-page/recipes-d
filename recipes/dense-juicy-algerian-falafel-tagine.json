@@ -1,0 +1,116 @@
+{
+  "title": "dense juicy algerian falafel tagine",
+  "description": "tangy and juicy algerian tagine featuring falafel, served in an agave leaf, suitable for ovo-vegetarian and vegan guests.",
+  "cuisine": "algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "agave syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a food processor, mash the chickpeas, fennel seeds, coriander powder, cumin powder, paprika, garlic, and ginger until well combined.",
+    "add lemon juice, olive oil, agave syrup, and ferment jang to the food processor and process until smooth.",
+    "using your hands, shape the mixture into small falafel patties.",
+    "heat a non-stick skillet over medium heat and fry the falafel patties until golden brown on both sides.",
+    "transfer the falafel patties to a baking sheet and bake in the preheated oven for 15 minutes.",
+    "serve the falafel patties in agave leaves with additional ferment jang if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-juicy-algerian-falafel-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-juicy-algerian-falafel-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ferment-jang",
+    "primaryIngredient": "falafel",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Falafel",
+    "descriptor": "Dense Juicy",
+    "dishForm": "Tagine"
+  }
+}

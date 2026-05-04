@@ -1,0 +1,99 @@
+{
+  "title": "Delicious Pressure-Cooked Australian Vialone-Nano Stew",
+  "description": "This hearty stew showcases the unique texture and flavor of Vialone-Nano, paired with the convenience of pressure cooking. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone-Nano rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Pumpkin",
+      "amount": "500g"
+    },
+    {
+      "name": "Red sweet potato",
+      "amount": "500g"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2L"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Spinach",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Combine Vialone-Nano rice, pumpkin, and red sweet potato in a pressure cooker. ",
+    "Add chicken broth, coconut milk, lemon juice, salt, and black pepper to the pressure cooker. ",
+    "Close the lid and cook at 15 psi for 30 minutes. ",
+    "Quick-release the pressure and carefully remove the lid. ",
+    "Stir in fresh parsley and cook for an additional 2 minutes. ",
+    "Add spinach and cook until wilted. ",
+    "Serve hot, garnished with additional parsley if desired. ",
+    "Reserve leftover stew for up to 3 days in the refrigerator. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "austalian-cuisine",
+    "low-carb-option",
+    "pressure-cooker",
+    "veggie-packed",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "delicious-pressure-cooked-australian-vialone-nano-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-pressure-cooked-australian-vialone-nano-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vialone-nano",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Vialone-Nano",
+    "descriptor": "Delicious pressure-cooked",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Dense Delightful Northern Thai Fish Tagliere",
+  "description": "A fun and springy Northern Thai-inspired pescatarian-friendly dish made with a flaky tagliere crust and a flavorful fish filling.",
+  "cuisine": "northern thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "0.25 teaspoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "0.25 teaspoons"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish fillet (such as cod or tilapia)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, combine the yeast and warm water. Let it sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine the flour, salt, and sugar. Add the vegetable oil and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Place the dough on a 9x13 inch (23x33 cm) baking sheet or tagliere. Let it rise in a warm place for 1 hour until it has doubled in size.",
+    "In a separate bowl, mix together the fish fillet, lemongrass, cilantro, fish sauce, lime juice, and garlic.",
+    "Place the fish mixture on one half of the dough, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Fold the other half of the dough over the fish mixture and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the tagliere to allow steam to escape.",
+    "Bake the tagliere in the preheated oven for 25-30 minutes until it is golden brown and the fish is cooked through.",
+    "Let the tagliere cool for 5 minutes before slicing and serving.",
+    "Serve warm with your favorite dipping sauce or a side of steamed vegetables.",
+    "To store leftovers, let the tagliere cool completely before wrapping it in plastic wrap or aluminum foil and refrigerating it for up to 3 days. or freezing it for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "northern-thai",
+    "one-pan",
+    "pescatarian",
+    "tagliere",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "dense-delightful-northern-thai-fish-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-delightful-northern-thai-fish-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "en-croute",
+    "primaryIngredient": "instant yeast",
+    "diet": "pescatarian",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "Fish",
+    "descriptor": "Dense Delightful",
+    "dishForm": "Tagliere"
+  }
+}
