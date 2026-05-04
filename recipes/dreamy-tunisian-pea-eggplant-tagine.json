@@ -1,0 +1,99 @@
+{
+  "title": "Dreamy Tunisian Pea Eggplant Tagine",
+  "description": "A pungent and pillowy Tunisian dish featuring pea and eggplant, perfect for a hangover cure, made with beurre monte and nut free friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped eggplant and cook until it starts to soften, about 5 minutes.",
+    "Add the peas, tomato paste, beurre monte, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dreamy-tunisian-pea-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-tunisian-pea-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:06:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pea eggplant",
+    "descriptor": "dreamy pungent",
+    "dishForm": "Tagine"
+  }
+}
