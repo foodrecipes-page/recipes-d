@@ -1,0 +1,123 @@
+{
+  "title": "dense canadian potatoes paella",
+  "description": "a sour, crumbly, romantic dish featuring charlotte potatoes, sashimi-cut, gluten-free-friendly, in a paella pan",
+  "cuisine": "canadian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "saffron-infused oil",
+      "amount": "",
+      "notes": "made by infusing saffron threads in olive oil"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan over medium-high heat.",
+    "add the onion powder and garlic powder and cook for 1 minute, stirring constantly.",
+    "add the sashimi-cut charlotte potatoes and cook for 5 minutes, stirring occasionally.",
+    "add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "add the saffron threads and cook for 1 minute, stirring constantly.",
+    "add the lemon juice and white wine vinegar, and stir to combine.",
+    "add the water and bring the mixture to a boil.",
+    "reduce the heat to low and simmer, uncovered, for 20 minutes, or until the potatoes are tender and the liquid has been absorbed.",
+    "stir in the saffron-infused oil and cook for an additional 2 minutes.",
+    "serve the paella hot, garnished with fresh herbs if desired.",
+    "let the paella rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "crumbly",
+    "gluten-free",
+    "one-pan",
+    "romantic",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "dense-canadian-potatoes-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-canadian-potatoes-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Dense",
+    "dishForm": "Paella"
+  }
+}

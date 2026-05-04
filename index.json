@@ -2902,6 +2902,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-canadian-potatoes-paella",
+    "title": "dense canadian potatoes paella",
+    "tags": [
+      "canadian",
+      "crumbly",
+      "gluten-free",
+      "one-pan",
+      "romantic",
+      "sour",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-chinese-tofu-noodles",
     "title": "Dense Chinese Tofu Noodles",
     "tags": [
@@ -3362,6 +3378,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 100,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-romantic-british-egg-scotch-egg",
+    "title": "Dense Romantic British Egg Scotch Egg",
+    "tags": [
+      "breakfast",
+      "british",
+      "eggs",
+      "high-protein",
+      "romantic",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
