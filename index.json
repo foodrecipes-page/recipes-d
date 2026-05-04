@@ -498,6 +498,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-andalusian-eggs-custard",
+    "title": "Delicate Andalusian Eggs Custard",
+    "tags": [
+      "free-range-eggs",
+      "glassy-jelly",
+      "herbal",
+      "kombu",
+      "lazy-sunday",
+      "no-onion-garlic"
+    ],
+    "cuisine": "Andalusian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-australian-cherry-mousse",
     "title": "Delicate Australian Cherry Mousse",
     "tags": [

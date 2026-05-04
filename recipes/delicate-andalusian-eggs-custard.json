@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Andalusian Eggs Custard",
+  "description": "A silky, herbal custard made with free‑range eggs and kombu extract, set with agar‑agar for a glassy texture, perfect for a lazy Sunday treat.",
+  "cuisine": "Andalusian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "whole milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "50 ml",
+      "notes": "cold‑extracted"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "agar‑agar powder",
+      "amount": "1 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": "for greasing ramekins"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "powdered cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160F and fill a larger baking pan with water to create a bain‑mare.",
+    "In a saucepan, combine the whole milk and 50 ml of kombu cold extract and heat gently until it reaches 70C.",
+    "Whisk the free‑range eggs, caster sugar, vanilla extract, and a pinch of salt in a bowl until the mixture is pale and slightly thickened.",
+    "Gradually pour the 70C milk mixture into the eggs while whisking constantly to prevent curdling.",
+    "Sprinkle 1 g of agar‑agar powder over the custard and whisk until it is fully dissolved.",
+    "Grease individual ramekins with 1 tsp of unsalted butter and pour the custard mixture into them, leaving a small gap at the top.",
+    "Place the ramekins in the prepared bain‑mare and bake for 25 minutes, or until the custard edges set but the center remains slightly wobbly.",
+    "Remove from the oven, let cool to room temperature, then refrigerate for at least 4 hours before serving, garnished with lemon zest or a dusting of powdered cinnamon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "free-range-eggs",
+    "glassy-jelly",
+    "herbal",
+    "kombu",
+    "lazy-sunday",
+    "no-onion-garlic"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 14,
+    "carbs": 16,
+    "fat": 11
+  },
+  "slug": "delicate-andalusian-eggs-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-andalusian-eggs-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:15:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "no-onion-no-garlic",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "eggs",
+    "descriptor": "Delicate",
+    "dishForm": "Custard"
+  }
+}
