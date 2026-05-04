@@ -1807,6 +1807,21 @@
     "shard": "d"
   },
   {
+    "slug": "dusted-crispy-cornish-beef-cornish-pasty",
+    "title": "Dusted Crispy Cornish Beef Pasty",
+    "tags": [
+      "british",
+      "comfort-food",
+      "crispy",
+      "high-protein",
+      "low-glycemic",
+      "one-pot"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "dynamic-peppery-uruguayan-peanuts-salad",
     "title": "Dynamic Peppery Uruguayan Peanuts Salad",
     "tags": [

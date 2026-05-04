@@ -1,0 +1,108 @@
+{
+  "title": "Dusted Crispy Cornish Beef Pasty",
+  "description": "A mustardy, crispy one‑pot Cornish pasty made with beef, bacon, cauliflower, and a sweet‑savory mother sauce.",
+  "cuisine": "British",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin, cubed",
+      "amount": "500g"
+    },
+    {
+      "name": "Bacon, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "200g"
+    },
+    {
+      "name": "Yellow mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and lightly grease a ceramic tagine with olive oil.",
+    "Cook the diced bacon over medium heat until crisp, then set aside on a paper-towel line.",
+    "In the same skillet, brown the beef cubes in batches, seasoning each with salt, pepper, garlic powder, then transfer to the tagine.",
+    "Add the diced onion to the skillet and sauté until translucent, then stir into the tagine with the beef.",
+    "Mix in the cauliflower florets, mustard, brown sugar, and soy sauce, coating evenly and letting the mixture simmer for 10 minutes.",
+    "Sprinkle the whole wheat flour over the mixture, stir to thicken the sauce into a mother-sauce base that clings to the ingredients.",
+    "Return the cooked bacon to the tagine, toss to combine all flavors, and steam for 15 minutes until the cauliflower is tender.",
+    "Sprinkle the dish with additional mustard for a bright finish before baking.",
+    "Transfer the tagine to a covered ceramic dish and bake at 200°C for 20 minutes, then uncover and bake for another 10 minutes until the top is crisp and golden.",
+    "Serve hot, optionally garnished with fresh herbs, and enjoy the crispy, mustardy pasty."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "crispy",
+    "high-protein",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 27,
+    "carbs": 13,
+    "fat": 22
+  },
+  "slug": "dusted-crispy-cornish-beef-cornish-pasty",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dusted-crispy-cornish-beef-cornish-pasty",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:38:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "brown sugar",
+    "diet": "low-glycemic",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "Beef",
+    "descriptor": "Dusted Crispy",
+    "dishForm": "Cornish Pasty"
+  }
+}
