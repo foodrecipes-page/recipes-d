@@ -1,0 +1,109 @@
+{
+  "title": "Daring Crunchy Australian Almonds Wrap",
+  "description": "Fermented, crunchy and adventurous Australian dish featuring almond extract, air-fried almonds, and corn-husk wraps.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds, raw",
+      "amount": "200g",
+      "notes": "toasted"
+    },
+    {
+      "name": "almond extract",
+      "amount": "2 tsp",
+      "notes": "adds aroma"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "fermented base"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "adds acidity"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "natural sweetness"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": "fresh"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "adds nuttiness"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "8",
+      "notes": "for 4 servings"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 180°C.",
+    "In a bowl combine toasted almonds, almond extract, soy sauce, rice vinegar, maple syrup, garlic, ginger, sesame oil, and salt; stir until coated.",
+    "Place the coated almonds in the air fryer basket and cook for 8 minutes, shaking halfway through, until crunchy and fragrant.",
+    "While almonds are baking gently warm corn husk wraps in a dry skillet for 30 seconds to make them pliable.",
+    "Remove the almonds from the air fryer and let them cool for 2 minutes.",
+    "Spread a thin layer of almond mixture onto each corn husk wrap, leaving a small border.",
+    "Roll the wrap tightly, sealing the edge with a small splash of water if needed.",
+    "Place the wrapped bundles back into the air fryer and cook for 4 minutes to crisp the exterior.",
+    "Let the wraps cool for 1 minute before serving; cut in half if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "corn-husk-wrap",
+    "quick",
+    "shojin-friendly",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 72
+  },
+  "slug": "daring-crunchy-australian-almonds-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/daring-crunchy-australian-almonds-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:14:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "almond extract",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "almonds",
+    "descriptor": "Daring Crunchy",
+    "dishForm": "Wrap"
+  }
+}
