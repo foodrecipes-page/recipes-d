@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Kenyan Chicken Pilaf",
+  "description": "A light, herb-infused post-workout chicken pilaf with chervil and aromatic spices, cooked in a clay pot for a pillowy finish. Perfect for a Mediterranean-friendly, protein-packed meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "453 g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "long-grain basmati rice",
+      "amount": "200 g"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried chervil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and drizzle the olive oil.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Add the cubed chicken thighs, season with salt, pepper, dried chervil, and lemon zest, and cook until the chicken is lightly browned on all sides, about 5 minutes.",
+    "Pour in the chicken stock and bring the mixture to a gentle simmer.",
+    "Stir in the basmati rice, cover the clay pot, and reduce the heat to low.",
+    "Let the pilaf steam for 18 to 20 minutes, or until the rice is tender and the liquid is absorbed.",
+    "Remove the pot from heat and let it sit, covered, for 5 minutes to allow the grains to fluff.",
+    "Fluff the rice with a fork, taste and adjust seasoning if necessary, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "high-protein",
+    "mediterranean-friendly",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 446,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "delicate-kenyan-chicken-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-kenyan-chicken-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:45:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "chervil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate",
+    "dishForm": "Pilaf"
+  }
+}

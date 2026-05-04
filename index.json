@@ -1063,6 +1063,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-kenyan-chicken-pilaf",
+    "title": "Delicate Kenyan Chicken Pilaf",
+    "tags": [
+      "clay-pot",
+      "high-protein",
+      "mediterranean-friendly",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-korean-pomegranate-jjigae",
     "title": "Delicate Korean Pomegranate Jjigae",
     "tags": [
@@ -2588,6 +2602,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-light-irish-creme-patissiere-custard",
+    "title": "Dreamy Light Irish Creme Patissiere Custard",
+    "tags": [
+      "claypot",
+      "creme-patissiere",
+      "fodmap-friendly",
+      "gluten-free",
+      "irish-dessert",
+      "shio-koji"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {

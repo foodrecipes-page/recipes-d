@@ -1,0 +1,106 @@
+{
+  "title": "Dreamy Light Irish Creme Patissiere Custard",
+  "description": "A nostalgic Irish dessert featuring creme-patissiere, shio-koji-cure, and jam, made in a claypot and friendly to FODMAP diets.",
+  "cuisine": "Irish",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "cure"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or low sugar"
+    },
+    {
+      "name": "creme patissiere powder",
+      "amount": "1 packet",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Whisk together the milk, sugar, eggs, shio-koji, and vanilla extract in a large bowl.",
+    "Add the creme patissiere powder to the mixture and whisk until smooth.",
+    "Pour the mixture into a claypot and bake for 25 minutes.",
+    "Remove the claypot from the oven and let it cool slightly.",
+    "Stir in the melted butter and jam until well combined.",
+    "Return the claypot to the oven and bake for an additional 10 minutes.",
+    "Remove the claypot from the oven and let it cool to room temperature.",
+    "Cover the claypot with plastic wrap and refrigerate for at least 2 hours.",
+    "Serve the custard chilled, garnished with a sprinkle of sea salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "creme-patissiere",
+    "fodmap-friendly",
+    "gluten-free",
+    "irish-dessert",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "dreamy-light-irish-creme-patissiere-custard",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-light-irish-creme-patissiere-custard",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:45:50Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "creme patissiere",
+    "descriptor": "dreamy light",
+    "dishForm": "Custard"
+  }
+}
