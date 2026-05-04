@@ -1,0 +1,109 @@
+{
+  "title": "Decadent Greek Potato Pastitsio",
+  "description": "A jammy, glassy-pastitsio that showcases russet potatoes and smoked salmon in scallop shells.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "600g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "200g"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "30g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "60g"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C.",
+    "Peel and slice 600g russet potatoes into 5mm thick rounds; set aside.",
+    "In a saucepan, heat 2 tbsp olive oil over medium heat; sauté diced onion and minced garlic until translucent.",
+    "Add 400g canned diced tomatoes and 1 tsp honey to the pan; simmer until the mixture thickens to a jammy consistency, about 10 minutes.",
+    "Stir in 200g smoked salmon, crumbled into small pieces, and season with salt and pepper; cook for 2 minutes.",
+    "In a separate pot, melt 30g butter and whisk in 20g flour to make a roux; gradually add 200ml milk, stirring until thick béchamel forms.",
+    "Combine the tomato-salmon mixture with the béchamel, adding 60g crumbled feta; whisk until smooth.",
+    "Lightly grease a baking dish lined with scallop shells; layer the dish with potato rounds, then pour the sauce mixture over, covering the shells completely.",
+    "Sprinkle 25g breadcrumbs over the top and bake for 35 minutes until the edges are golden and the sauce is glossy.",
+    "Let the dish rest 5 minutes before serving, then garnish with additional smoked salmon slices or fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-sauce",
+    "greek",
+    "jammy",
+    "pescatarian-friendly",
+    "russet-potato",
+    "scallop-shell",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 14,
+    "carbs": 34,
+    "fat": 16
+  },
+  "slug": "decadent-greek-potato-pastitsio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-greek-potato-pastitsio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:00:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "russet potato",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Potato",
+    "descriptor": "Decadent",
+    "dishForm": "Pastitsio"
+  }
+}
