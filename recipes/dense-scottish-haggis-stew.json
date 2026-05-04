@@ -1,0 +1,109 @@
+{
+  "title": "Dense Scottish Haggis Stew",
+  "description": "A hearty, dense, and flavorful stew from Scotland, featuring haggis as the main ingredient. This hangover-cure dish is perfect for a cold winter night.",
+  "cuisine": "Scottish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "1 kg",
+      "notes": "traditionally made with sheep's heart, liver, and lungs"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium broth"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "2 medium",
+      "notes": "caramelizes in the pot"
+    },
+    {
+      "name": "Diced carrot",
+      "amount": "2 medium",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "Diced celery",
+      "amount": "2 stalks",
+      "notes": "adds freshness"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "thickens the stew"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cook to 300°F (150°C).",
+    "Heat a tablespoon of oil in the cook over medium heat.",
+    "Add the diced onion, carrot, and celery, and cook until the vegetables are tender, stirring occasionally.",
+    "Add the haggis, breaking it up with a spoon as it cooks.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the flour to thicken the stew.",
+    "Season with salt and black pepper to taste.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "hangover-cure",
+    "high-calorie",
+    "one-pan",
+    "tamasic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "dense-scottish-haggis-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-scottish-haggis-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:10:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "ayurvedic-tamasic",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "Haggis",
+    "descriptor": "dense",
+    "dishForm": "Stew"
+  }
+}

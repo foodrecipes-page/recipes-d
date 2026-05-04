@@ -2969,6 +2969,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-scottish-haggis-stew",
+    "title": "Dense Scottish Haggis Stew",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "hangover-cure",
+      "high-calorie",
+      "one-pan",
+      "tamasic",
+      "weeknight"
+    ],
+    "cuisine": "Scottish",
+    "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
     "slug": "dense-smoky-chinese-rice-fried-rice",
     "title": "Dense Smoky Chinese Rice Fried Rice",
     "tags": [
