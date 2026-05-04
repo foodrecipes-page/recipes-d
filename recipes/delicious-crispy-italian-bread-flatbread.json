@@ -1,0 +1,100 @@
+{
+  "title": "Delicious Crispy Italian Bread Flatbread",
+  "description": "This flatbread is crisp and flavorful, with a tangy plum sauce and fermented‑jang glaze. It pairs wonderfully with a cedar‑plank serving for a Tuscan twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fermented‑jang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, salt, sugar, and instant yeast.",
+    "Add warm water and olive oil; mix until dough forms.",
+    "Knead the dough on a floured surface for 4 minutes until smooth.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise for 20 minutes until doubled.",
+    "Preheat a cedar plank over medium heat until hot, about 5 minutes.",
+    "Punch down the dough and roll it into a 12-inch circle on a floured surface.",
+    "Brush the dough with plum sauce, then sprinkle fermented‑jang, oregano, and basil.",
+    "Transfer the dough to the cedar plank and bake for 8 minutes until crisp.",
+    "Remove from heat, let cool for 2 minutes, then slice into wedges.",
+    "Serve warm as a kid‑friendly snack or side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "easy",
+    "flatbread",
+    "kid-friendly",
+    "tuscan"
+  ],
+  "nutrition": {
+    "calories": 132,
+    "protein": 7,
+    "carbs": 44,
+    "fat": 7
+  },
+  "slug": "delicious-crispy-italian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-crispy-italian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:33:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "plum sauce",
+    "diet": "shojin",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Bread",
+    "descriptor": "Delicious Crispy",
+    "dishForm": "Flatbread"
+  }
+}
