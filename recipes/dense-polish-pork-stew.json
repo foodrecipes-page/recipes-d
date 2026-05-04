@@ -1,0 +1,106 @@
+{
+  "title": "Dense Polish Pork Stew",
+  "description": "A smoky, glassy-jelly one-pot pork stew that blends the deep flavors of smoked paprika, apple cider, and slow sous-vide braising for a sugar-free, hearty meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2.5 cm cubes"
+    },
+    {
+      "name": "apple cider",
+      "amount": "250 ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "adds depth of smoke"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "remove before serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "sugar-free sweetener",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous-vide water bath to 68°C.",
+    "Season the pork cubes with salt and pepper, then seal them in a vacuum bag with thyme and bay leaf.",
+    "Cook the sealed pork in the sous-vide bath for 90 minutes.",
+    "Remove the bag, pat the pork dry, and heat a skillet over high heat to sear each side of the pork until golden brown.",
+    "Add diced onion and minced garlic to the skillet and cook until fragrant, about 3 minutes.",
+    "Pour in the apple cider, sprinkle smoked paprika, and stir to combine all flavors.",
+    "Reduce the liquid over medium heat until it thickens into a glassy-jelly consistency, about 15 minutes.",
+    "Stir in the sugar-free sweetener to balance acidity and add a subtle sweetness.",
+    "Serve the dense stew hot, optionally garnished with fresh thyme leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 115,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "glassy-jelly",
+    "one-pot",
+    "poland",
+    "smoky",
+    "sous-vide",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 23
+  },
+  "slug": "dense-polish-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-polish-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:31:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "cider",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Dense",
+    "dishForm": "Stew"
+  }
+}

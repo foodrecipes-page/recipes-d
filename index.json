@@ -1232,6 +1232,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-polish-pork-stew",
+    "title": "Dense Polish Pork Stew",
+    "tags": [
+      "dense",
+      "glassy-jelly",
+      "one-pot",
+      "poland",
+      "smoky",
+      "sous-vide",
+      "sugar-free"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 130,
+    "shard": "d"
+  },
+  {
     "slug": "dense-rich-spanish-rice-paella",
     "title": "Dense Rich Spanish Rice Paella",
     "tags": [
