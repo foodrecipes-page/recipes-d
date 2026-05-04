@@ -1,0 +1,95 @@
+{
+  "title": "Deliciously Crispy British Pork Sunday Roast",
+  "description": "A classic British dish featuring crispy pork, apple juice, and Mediterranean-friendly flavors, perfect for a Sunday roast. This recipe is sure to energize your taste buds with its mustardy and crispy texture.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "skin on"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Score the pork skin in a crisscross pattern, cutting about 1/4 inch deep.",
+    "In a small bowl, mix together the olive oil, Dijon mustard, and honey.",
+    "Rub the mixture all over the pork shoulder, making sure to get some under the skin as well.",
+    "Season the pork with salt and pepper, then place it in a roasting pan.",
+    "Roast the pork in the preheated oven for 20 minutes, then reduce the heat to 375 degrees Fahrenheit.",
+    "Continue roasting the pork for an additional 20 minutes per pound, or until the skin is crispy and golden brown.",
+    "While the pork is roasting, cook the lardons in a pan over medium heat until crispy, then set aside.",
+    "After the pork has finished roasting, let it rest for 10 minutes before slicing and serving with the crispy lardons and a drizzle of apple juice.",
+    "Garnish with rosemary sprigs and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "crispy-skin",
+    "mediterranean-friendly",
+    "pork-recipes",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "deliciously-crispy-british-pork-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-british-pork-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:53:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "apple juice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork",
+    "descriptor": "Deliciously Crispy",
+    "dishForm": "Sunday Roast"
+  }
+}
