@@ -1,0 +1,91 @@
+{
+  "title": "Delicate Floral Korean Gelatin Bowl",
+  "description": "A pillowy, fragrant dessert that layers subtle floral notes in a chilled stone bowl, perfect for a halal-friendly Korean treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gelatin powder",
+      "amount": "9 g"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "10 g"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "2 g"
+    },
+    {
+      "name": "dried violet petals",
+      "amount": "2 g"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "30 g"
+    },
+    {
+      "name": "ginkgo nuts",
+      "amount": "10 g"
+    },
+    {
+      "name": "edible gold leaf",
+      "amount": "a few pieces",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Sift the gelatin powder into a small bowl and pour 200 ml of cold water over it to bloom for 5 minutes.",
+    "Heat the bloomed gelatin mixture gently over low heat until the gelatin dissolves completely, stirring until clear.",
+    "Stir in 10 g of maple syrup until fully incorporated, then let the mixture cool to 40°C.",
+    "Add the dried rose and violet petals to the gelatin, mixing lightly to distribute the color and aroma.",
+    "Divide the gelatin mixture evenly between two pre‑chilled stone bowls.",
+    "Top each bowl with 15 g of pomegranate seeds and 5 g of ginkgo nuts for texture.",
+    "Place the bowls in the refrigerator and chill for 60 minutes until firm.",
+    "Just before serving, place a small piece of edible gold leaf on each bowl for a subtle finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "gelatin",
+    "halal-friendly",
+    "korean-dessert",
+    "pillowy",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "delicate-floral-korean-gelatin-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-floral-korean-gelatin-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:31:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "gelatin",
+    "descriptor": "Delicate Floral",
+    "dishForm": "Bowl"
+  }
+}
