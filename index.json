@@ -141,6 +141,20 @@
     "shard": "d"
   },
   {
+    "slug": "dashing-australian-kangaroo-curry",
+    "title": "Dashing Australian Kangaroo Curry",
+    "tags": [
+      "high-protein",
+      "massaman",
+      "no-onion-no-garlic",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "date-cherry-crunchy-stir-fry",
     "title": "Date Cherry Crunchy Stir Fry",
     "tags": [

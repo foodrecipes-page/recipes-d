@@ -1,0 +1,102 @@
+{
+  "title": "Dashing Australian Kangaroo Curry",
+  "description": "A fatty, snappy, energizing Australian dish featuring massaman paste and namul‑blanch seasoning, free of onion and garlic.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kangaroo steak",
+      "amount": "400g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "100g diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "80g sliced"
+    },
+    {
+      "name": "green beans",
+      "amount": "100g trimmed"
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 tbsp",
+      "notes": "toasted sesame oil, toasted sesame seeds, seaweed flakes, chili flakes"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "10g chopped"
+    }
+  ],
+  "instructions": [
+    "Slice kangaroo steak into bite‑sized cubes.",
+    "Marinate the cubes in 1 tbsp of namul blanch seasoning and 1 tsp salt for 10 minutes.",
+    "Heat a wok over medium‑high heat and add 1 tbsp coconut oil; sear kangaroo cubes until browned on all sides, then remove and set aside.",
+    "In the same wok, add diced carrot, sliced bell pepper, and trimmed green beans; stir‑fry for 3 minutes until just tender.",
+    "Stir in massaman curry paste and cook for 1 minute to release aromas.",
+    "Return the kangaroo cubes to the wok, pour in coconut milk, soy sauce, and lime juice; bring to a gentle simmer.",
+    "Simmer uncovered for 15 minutes, stirring occasionally, until the sauce thickens and the kangaroo is cooked through.",
+    "Taste and adjust seasoning with additional salt if needed.",
+    "Remove from heat, transfer to a serving dish, and garnish with chopped fresh coriander.",
+    "Serve hot with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "massaman",
+    "no-onion-no-garlic",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 45,
+    "carbs": 46,
+    "fat": 48
+  },
+  "slug": "dashing-australian-kangaroo-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dashing-australian-kangaroo-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:25:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "massaman-paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "kangaroo",
+    "descriptor": "Dashing",
+    "dishForm": "Curry"
+  }
+}
