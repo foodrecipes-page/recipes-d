@@ -1940,6 +1940,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-portuguese-cheese-pie",
+    "title": "Delicious Portuguese Cheese Pie",
+    "tags": [
+      "cheese",
+      "easy",
+      "festive",
+      "genmaicha",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-syrian-napa-cabbage-soup",
     "title": "Delicious Syrian Napa Cabbage Soup",
     "tags": [

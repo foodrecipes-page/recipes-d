@@ -1,0 +1,106 @@
+{
+  "title": "Delicious Portuguese Cheese Pie",
+  "description": "A tangy, crumbly Portuguese cheese pie with a unique genmaicha twist, brine-wet and Ayurvedic Rajasic-friendly for a festive spread.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "cold, diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ice water",
+      "amount": "75ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "queijo-fresco",
+      "amount": "150g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "genmaicha",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C.",
+    "Combine flour, salt, and cold butter in a bowl and blend until crumbs form.",
+    "Gradually add ice water and mix until the dough comes together.",
+    "Form the dough into a disc, wrap it in plastic, and chill for 30 minutes.",
+    "Roll the dough to a 12cm circle, place it in a 20cm pie dish, and trim the edges.",
+    "Whisk the egg, milk, black pepper, and genmaicha together in a bowl.",
+    "Fold the crumbled queijo-fresco into the mixture.",
+    "Pour the filling into the crust, drizzle with olive oil, and sprinkle parsley on top.",
+    "Bake for 25 minutes until the crust is golden and the filling is set.",
+    "Let the pie rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "easy",
+    "festive",
+    "genmaicha",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 48
+  },
+  "slug": "delicious-portuguese-cheese-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-portuguese-cheese-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:00:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "genmaicha",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Delicious",
+    "dishForm": "Pie"
+  }
+}
