@@ -1,0 +1,103 @@
+{
+  "title": "Dreamy Creamy Saudi Arabian Lamb Tagine",
+  "description": "A winey and creamy Saudi Arabian dish featuring lamb, little gem lettuce, and a blend of spices, perfect for a lazy Sunday. This high-protein friendly dish is sure to satisfy your cravings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the tagine spice blend, salt, and black pepper, and stir to combine.",
+    "Add the dry white wine and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Reduce the heat to low, cover, and simmer for 2 hours, or until the lamb is tender.",
+    "Stir in the heavy cream and continue to simmer for an additional 10 minutes, or until the sauce has thickened slightly.",
+    "Serve the lamb and sauce over the little gem lettuce leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pot",
+    "saudi-arabian",
+    "weeknight",
+    "wine-braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "dreamy-creamy-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:42:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Tagine"
+  }
+}
