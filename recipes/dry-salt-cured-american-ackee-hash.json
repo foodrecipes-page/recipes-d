@@ -1,0 +1,91 @@
+{
+  "title": "Dry-Salt-Cured American Ackee Hash",
+  "description": "A bitter, crumbly, and quick-fix American dish featuring ackee, salt-baked with a dash of flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 cup, kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 cup, freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or a clay pot to 375°F (190°C).",
+    "In a small bowl, mix together salt and black pepper.",
+    "Add the chopped ackee, red bell pepper, onion, and garlic to the bowl and toss to coat with the salt mixture.",
+    "Transfer the mixture to the preheated tandoor or clay pot and bake for 20 minutes.",
+    "After 20 minutes, remove the pot from the heat and let it cool slightly.",
+    "Add the olive oil and butter to the mixture and stir to combine.",
+    "Return the pot to the heat and continue baking for another 10 minutes.",
+    "Remove the pot from the heat and let the mixture cool completely.",
+    "Use a fork to break up the mixture and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "dry-salt-cured-american-ackee-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-salt-cured-american-ackee-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:17:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "ackee",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Ackee",
+    "descriptor": "Dry-Salt-Cured",
+    "dishForm": "Hash"
+  }
+}
