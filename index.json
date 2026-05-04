@@ -57,6 +57,20 @@
     "shard": "d"
   },
   {
+    "slug": "daring-polish-melon-salad",
+    "title": "Daring Polish Melon Salad",
+    "tags": [
+      "bitter",
+      "dairy-free",
+      "flaky-salad",
+      "salad",
+      "show-off"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dark-brown-sugar-crumbled-garlic-argentinian",
     "title": "Dark Brown Sugar Crumbled Garlic Argentinian",
     "tags": [
@@ -3032,6 +3046,17 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "dewy-crisp-uruguayan-tomato-tart",
+    "title": "Dewy Crisp Uruguayan Tomato Tart",
+    "tags": [
+      "uruguayan",
+      "lunch"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {

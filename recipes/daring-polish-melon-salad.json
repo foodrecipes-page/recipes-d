@@ -1,0 +1,102 @@
+{
+  "title": "Daring Polish Melon Salad",
+  "description": "A bitter, flaky, show‑off Polish dish that showcases sweet melons in an emulsified dressing, all dairy‑free and perfect for a bold lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "watermelon",
+      "amount": "300g",
+      "notes": "seedless, diced"
+    },
+    {
+      "name": "honeydew melon",
+      "amount": "250g",
+      "notes": "seedless, diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "150g",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "30g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "roasted walnuts",
+      "amount": "40g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5g"
+    }
+  ],
+  "instructions": [
+    "Wash and dice the watermelon and honeydew melon into bite‑size cubes.",
+    "Peel, dice the cucumber and thinly slice the red onion.",
+    "In a small bowl whisk together olive oil, lemon juice, salt and pepper until emulsified.",
+    "Toss the melon, cucumber and onion with the dressing until evenly coated.",
+    "Add the chopped mint and walnuts, then gently fold the salad to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "dairy-free",
+    "flaky-salad",
+    "salad",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "daring-polish-melon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/daring-polish-melon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:57:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "melons",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "melon",
+    "descriptor": "Daring",
+    "dishForm": "Salad"
+  }
+}

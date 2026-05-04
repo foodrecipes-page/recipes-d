@@ -1,0 +1,105 @@
+{
+  "title": "Dewy Crisp Uruguayan Tomato Tart",
+  "description": "A bright and refreshing tart that showcases ripe confit tomatoes atop a crisp crust, finished with a herbaceous garlic powder glaze; it is kid-friendly and crafted in a terracotta dish for a rustic finish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "confitted tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 oz"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and pepper in a bowl.",
+    "Add cubed butter and cut into the flour with a pastry cutter until the mixture resembles coarse crumbs.",
+    "Pour in ice water, stir gently, and form a dough without overmixing.",
+    "Roll the dough out to a 12-inch circle and lay it in a terracotta baking dish.",
+    "Brush the dough with olive oil and sprinkle garlic powder, oregano, and basil evenly over the surface.",
+    "Arrange sliced confitted tomatoes over the dough, leaving a small border.",
+    "Top with sliced cherry tomatoes and finish with a light dusting of lemon zest.",
+    "Bake at 375°F for 25 minutes until the crust is golden and the tomatoes are bubbly.",
+    "Let the tart cool for 5 minutes before slicing and serving.",
+    "Serve warm as a lunch or snack."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "lunch"
+  ],
+  "slug": "dewy-crisp-uruguayan-tomato-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dewy-crisp-uruguayan-tomato-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:57:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "confit-tomato",
+    "primaryIngredient": "garlic powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Dewy Crisp",
+    "dishForm": "Tart"
+  }
+}
