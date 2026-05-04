@@ -1096,6 +1096,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-german-dates-poke",
+    "title": "Delicate German Dates Poke",
+    "tags": [
+      "date-recipes",
+      "german-cuisine",
+      "gluten-free",
+      "healthy-snacks",
+      "low-carb",
+      "smoked-salmon"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-herbal-mexican-fish-tamales",
     "title": "Delicate Herbal Mexican Fish Tamales",
     "tags": [
@@ -1731,6 +1746,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-aerated-peruvian-lamb-seco-de-cordero",
+    "title": "Deliciously Aerated Peruvian Lamb Seco De Cordero",
+    "tags": [
+      "earthenware-cooking",
+      "lamb-recipes",
+      "meringue-desserts",
+      "peruvian-cuisine",
+      "south-american-food"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 120,
     "shard": "d"
   },
   {

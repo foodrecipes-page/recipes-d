@@ -1,0 +1,110 @@
+{
+  "title": "Deliciously Aerated Peruvian Lamb Seco De Cordero",
+  "description": "A nutty and adventurous Peruvian dish featuring meringue nests and lamb, cooked in a ttukbaegi earthenware pot, this seco de cordero is a unique and exciting meal option. The combination of tender lamb and crunchy meringue is a must try.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "12",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb chunks and cook until they are browned on all sides.",
+    "Add the sliced aji amarillo peppers and cook for 2 minutes.",
+    "Add the turmeric, salt, and black pepper, and stir to combine.",
+    "Add the lamb broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "While the lamb is cooking, prepare the meringue nests by baking them in a preheated oven at 200 degrees for 1 1/2 hours.",
+    "To serve, place a portion of the lamb mixture into a bowl, and top with a meringue nest and chopped cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "earthenware-cooking",
+    "lamb-recipes",
+    "meringue-desserts",
+    "peruvian-cuisine",
+    "south-american-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "deliciously-aerated-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-aerated-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:32:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "meringue nests",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously Aerated",
+    "dishForm": "Seco De Cordero"
+  }
+}
