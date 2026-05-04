@@ -2104,6 +2104,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-rich-algerian-apricot-tagine",
+    "title": "Algerian Apricot Tagine",
+    "tags": [
+      "apricot-based",
+      "comfort-food",
+      "fish-based",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-rich-british-stilton-cheese-spotted-dick",
     "title": "Deliciously Rich British Stilton Cheese Spotted Dick",
     "tags": [
