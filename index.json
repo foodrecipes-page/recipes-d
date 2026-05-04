@@ -261,6 +261,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-mexican-queso-quesadilla",
+    "title": "Decadent Mexican Queso Quesadilla",
+    "tags": [
+      "cheese-pull",
+      "dessert",
+      "low-glycemic-friendly",
+      "mexican",
+      "one-pot"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-peruvian-shiitake-ceviche",
     "title": "Decadent Peruvian Shiitake Ceviche",
     "tags": [

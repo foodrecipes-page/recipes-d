@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Mexican Queso Quesadilla",
+  "description": "A sweet, cheese-pull one-pot Mexican queso that melts into a creamy dip or sauce, featuring epoisses, dashi extract, and low-glycemic sweetener.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "epoisses",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monk fruit sweetener",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 small, diced"
+    },
+    {
+      "name": "jalapeño",
+      "amount": "1 small, minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat and add the dashi extract, coconut milk, and monk fruit sweetener, stirring until the sweetener dissolves.",
+    "Add the diced red onion and minced jalapeño, cooking until the onion becomes translucent.",
+    "Stir in the epoisses and season with cumin, chili powder, and salt, letting the mixture simmer for 5 minutes.",
+    "Reduce heat to low and fold in the shredded mozzarella, cheddar, and softened cream cheese until all cheeses melt into a smooth, pullable texture.",
+    "Once the cheese has fully melted, remove the pot from heat and let it rest for 2 minutes to thicken slightly.",
+    "Serve the queso hot in a shallow dish, optionally topping with fresh cilantro or sliced avocado.",
+    "This one-pot queso can be used as a dip, poured over tortilla chips, or spooned onto warm tortillas for a quick quesadilla.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days; reheat gently on low heat or in a microwave until warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "dessert",
+    "low-glycemic-friendly",
+    "mexican",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 26,
+    "carbs": 15,
+    "fat": 44
+  },
+  "slug": "decadent-mexican-queso-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-mexican-queso-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:06:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "epoisses",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "queso",
+    "descriptor": "Decadent",
+    "dishForm": "Quesadilla"
+  }
+}
