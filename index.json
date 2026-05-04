@@ -2240,6 +2240,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-canadian-cheese-toast",
+    "title": "Deliciously Dense Canadian Cheese Toast",
+    "tags": [
+      "canadian-classics",
+      "comfort-food",
+      "easy-snacks",
+      "lacto-vegetarian",
+      "weeknight-meals"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-croatian-pork-pilaf",
     "title": "Deliciously Dense Croatian Pork Pilaf",
     "tags": [
