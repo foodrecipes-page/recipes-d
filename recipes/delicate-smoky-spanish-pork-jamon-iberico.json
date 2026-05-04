@@ -1,0 +1,91 @@
+{
+  "title": "Delicate Smoky Spanish Pork Jamon Iberico",
+  "description": "A delicate and shattering Spanish dish featuring Jamon Iberico, sunflower oil, and render fat, perfect for a special meal prep occasion. This gluten-free friendly recipe is full of herbal flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamon Iberico pork",
+      "amount": "1 pound",
+      "notes": "preferably from black Iberian pigs"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, garlic powder, dried thyme, black pepper, and sea salt.",
+    "Rub the spice mixture all over the Jamon Iberico pork, making sure to coat it evenly.",
+    "Heat the sunflower oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork for 2-3 minutes on each side, or until it is browned.",
+    "Transfer the skillet to the preheated oven and roast the pork for 20 minutes.",
+    "Remove the skillet from the oven and brush the render fat over the pork.",
+    "Return the skillet to the oven and continue roasting for an additional 10 minutes, or until the pork is cooked through.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 32
+  },
+  "slug": "delicate-smoky-spanish-pork-jamon-iberico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-spanish-pork-jamon-iberico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:04:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "sunflower oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork",
+    "descriptor": "Delicate Smoky",
+    "dishForm": "Jamon Iberico"
+  }
+}
