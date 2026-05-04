@@ -2134,6 +2134,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-tender-kenyan-beef-wrap",
+    "title": "Deliciously Tender Kenyan Beef Wrap",
+    "tags": [
+      "beef-recipes",
+      "flexitarian-friendly",
+      "kenyan-cuisine",
+      "lazy-sunday",
+      "ti-leaf-wrap"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 150,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-warm-canadian-lentil-curry",
     "title": "Deliciously Warm Canadian Lentil Curry",
     "tags": [
