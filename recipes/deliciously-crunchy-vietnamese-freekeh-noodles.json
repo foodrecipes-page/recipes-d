@@ -1,0 +1,106 @@
+{
+  "title": "Vietnamese Freekeh Noodles",
+  "description": "A salty and crunchy Vietnamese dish featuring freekeh, perfect for a hangover cure, made with plant-based friendly ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "cracked or whole"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh in a fine mesh sieve and drain well.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until it is lightly browned and crispy.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the cooked freekeh to the skillet or wok and stir to combine with the onion and mushroom mixture.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and sesame oil.",
+    "Pour the sauce over the freekeh mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the freekeh noodles to a serving platter and garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "noodle-dish",
+    "one-pan",
+    "plant-based",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "deliciously-crunchy-vietnamese-freekeh-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-vietnamese-freekeh-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:09:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "freekeh",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "freekeh",
+    "descriptor": "Deliciously crunchy",
+    "dishForm": "Noodles"
+  }
+}

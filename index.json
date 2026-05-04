@@ -1797,6 +1797,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-crunchy-vietnamese-freekeh-noodles",
+    "title": "Vietnamese Freekeh Noodles",
+    "tags": [
+      "high-fiber",
+      "noodle-dish",
+      "one-pan",
+      "plant-based",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-croatian-pork-pilaf",
     "title": "Deliciously Dense Croatian Pork Pilaf",
     "tags": [
