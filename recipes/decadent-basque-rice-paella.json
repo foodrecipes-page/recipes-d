@@ -1,0 +1,115 @@
+{
+  "title": "Decadent Basque Rice Paella",
+  "description": "A show-stopping Spanish dish from the Basque region, featuring mixed spice and anti-inflammatory-friendly ingredients.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mixed spice blend (pimenton, saffron, and paprika)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the diced red bell pepper and sauté for 2 minutes.",
+    "Add the mixed spice blend and smoked paprika, and cook for 1 minute.",
+    "Add the rice and stir to coat with the spice mixture.",
+    "Add the broth, tomato paste, and artichoke hearts, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the kalamata olives and lemon juice, and stir to combine.",
+    "Simmer for an additional 5 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basque",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "decadent-basque-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-basque-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:15:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "mixed spice",
+    "diet": "anti-inflammatory",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "rice",
+    "descriptor": "Decadent",
+    "dishForm": "Paella"
+  }
+}

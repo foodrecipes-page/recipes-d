@@ -245,6 +245,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-basque-rice-paella",
+    "title": "Decadent Basque Rice Paella",
+    "tags": [
+      "basque",
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-basque-turkish-delight-gratin",
     "title": "Decadent Basque Turkish Delight Gratin",
     "tags": [
