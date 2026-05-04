@@ -1,0 +1,114 @@
+{
+  "title": "Decadent Yeasty Mexican Pozole Bisque",
+  "description": "A rich, creamy Mexican comfort dish featuring a yeasty flavor profile, made with speculaas spice mix, and tailored to be diabetic-friendly.",
+  "cuisine": "mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "2 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "canned"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "2 tsp",
+      "notes": "speculaas spice mix"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "instant"
+    },
+    {
+      "name": "canned hominy",
+      "amount": "4 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "6 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Sauté the chopped onion in a large Dutch oven over medium heat until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chicken breast pieces and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Add the chipotle peppers in adobo sauce, Mexican oregano, yeast, cumin, and cayenne pepper, and stir to combine.",
+    "Add the canned hominy, chicken broth, and browned chicken to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the hominy is tender.",
+    "Use an immersion blender or a regular blender to puree the soup until smooth.",
+    "Return the pot to the stovetop and stir in the heavy cream over low heat until warmed through.",
+    "Season the soup with salt and pepper to taste, and serve hot.",
+    "Garnish with chopped fresh cilantro, scallions, or a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "decadent-yeasty-mexican-pozole-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-yeasty-mexican-pozole-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:50:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Pozole",
+    "descriptor": "Decadent Yeasty",
+    "dishForm": "Bisque"
+  }
+}

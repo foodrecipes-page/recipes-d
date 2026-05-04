@@ -700,6 +700,19 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-yeasty-mexican-pozole-bisque",
+    "title": "Decadent Yeasty Mexican Pozole Bisque",
+    "tags": [
+      "comfort-food",
+      "high-calorie",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "deep-canadian-olive-stew",
     "title": "Deep Canadian Olive Stew",
     "tags": [
