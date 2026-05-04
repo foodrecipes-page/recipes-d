@@ -1,0 +1,88 @@
+{
+  "title": "Decadent Molten Polish Potato Dumplings",
+  "description": "A salty and nostalgic Polish dish featuring white chocolate chips, this recipe is a unique twist on traditional potato dumplings, made with whole30-friendly ingredients and a molten center.",
+  "cuisine": "Polish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the grated potatoes, almond flour, egg, salt, and garlic powder, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few white chocolate chips in the center of each disk.",
+    "Fold the dough over the chocolate chips to form a half-moon shape and press the edges together to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper and brush with coconut oil.",
+    "Bake the dumplings for 20 minutes, or until they are golden brown and the chocolate is melted.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "polish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "decadent-molten-polish-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-molten-polish-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:53:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Decadent molten",
+    "dishForm": "Dumplings"
+  }
+}
