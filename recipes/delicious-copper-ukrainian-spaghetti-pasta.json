@@ -1,0 +1,110 @@
+{
+  "title": "Delicious Copper Ukrainian Spaghetti Pasta",
+  "description": "A rich and tender Ukrainian-style spaghetti dish with a crispy onion topping, served in a copper mug for a special touch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "low carb spaghetti",
+      "amount": "200g",
+      "notes": "reconstituted in hot water"
+    },
+    {
+      "name": "ground pork",
+      "amount": "150g",
+      "notes": "pan‑fried"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g",
+      "notes": "for sauce"
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "50g",
+      "notes": "topping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "frozen onion rings",
+      "amount": "50g",
+      "notes": "deep‑fried for crunch"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the ground pork and cook until browned, stirring frequently.",
+    "Stir in paprika, garlic powder, salt, and pepper, cooking for one minute.",
+    "Add the reconstituted low‑carb spaghetti and mix until coated with the pork mixture.",
+    "Pour in the sour cream, stirring until the sauce thickens and coats the spaghetti.",
+    "Transfer the pasta to a copper mug, sprinkling grated cheddar on top.",
+    "Place the mug on a low‑heat setting to melt the cheese until bubbly.",
+    "Deep‑fry the frozen onion rings in a small pan until golden and sprinkle over the pasta before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fried",
+    "keto-friendly",
+    "kid-friendly",
+    "low-carb",
+    "one-pot",
+    "quick-meal",
+    "u-kraine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "delicious-copper-ukrainian-spaghetti-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-copper-ukrainian-spaghetti-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:25:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "spaghetti",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Spaghetti",
+    "descriptor": "Delicious Copper",
+    "dishForm": "Pasta"
+  }
+}
