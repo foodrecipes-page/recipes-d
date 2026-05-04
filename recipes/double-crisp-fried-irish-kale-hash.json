@@ -1,0 +1,112 @@
+{
+  "title": "Double-Crisp Fried Irish Kale Hash",
+  "description": "A crispy, savory Irish dish featuring kale, cabbage, and Kabse spice, perfect for meal prep.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale leaves (curly or lacinato)",
+      "amount": "2 bunches",
+      "notes": "curly or lacinato"
+    },
+    {
+      "name": "Cabbage leaves (green or red)",
+      "amount": "1 head",
+      "notes": "green or red"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "yellow or white"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Kabse spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Tempering chocolate chips (optional)",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and a lazy Susan spinner to medium-high heat.",
+    "Remove the leaves from the kale and cabbage bunches and discard the stems.",
+    "In a large bowl, massage the kale and cabbage leaves with your hands for 5-7 minutes to soften them.",
+    "Add the minced garlic, Kabse spice blend, salt, and black pepper to the bowl and massage for another 2-3 minutes.",
+    "Heat 2 tbsp of vegetable oil in a large skillet over medium-high heat and add 1/2 of the kale and cabbage mixture.",
+    "Fry the mixture for 3-4 minutes on each side, until crispy and golden brown.",
+    "Transfer the fried mixture to the lazy Susan spinner and repeat the process with the remaining kale and cabbage mixture.",
+    "Drain excess oil from the spinner and serve the Double-Crisp Fried Irish Kale Hash hot, garnished with tempering chocolate chips if desired.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "high-protein",
+    "irish-cuisine",
+    "lunch",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "double-crisp-fried-irish-kale-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/double-crisp-fried-irish-kale-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:07:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "kabse spice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Kale",
+    "descriptor": "Double-Crisp Fried",
+    "dishForm": "Hash"
+  }
+}
