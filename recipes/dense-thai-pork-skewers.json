@@ -1,0 +1,107 @@
+{
+  "title": "Dense Thai Pork Skewers",
+  "description": "Fatty, bouncy-qq pork skewers simmered in coconut cream and a spicy, fermented glaze for a street‑style bangkok flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "600g",
+      "notes": "cut into 4cm cubes"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger root",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 min"
+    }
+  ],
+  "instructions": [
+    "Peel and cube the pork into 4cm pieces.",
+    "Whisk coconut cream, fish sauce, lime juice, brown sugar, grated ginger, minced lemongrass, turmeric, chili flakes, and salt until sugar dissolves.",
+    "Toss the pork cubes in the bowl to coat, then marinate for at least 30 minutes.",
+    "Heat a large skillet over medium‑high heat and cook the marinated pork until browned on all sides, about 10 minutes.",
+    "Remove pork from skillet and let it rest for 5 minutes.",
+    "Thread the pork onto the soaked skewers, leaving space between each piece.",
+    "Grill the skewers over medium heat until cooked through and slightly charred, about 5 minutes per side.",
+    "Serve hot, optionally squeezing extra lime juice and sprinkling more chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "dense",
+    "fodmap-friendly",
+    "one-pot",
+    "pork",
+    "skewers",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 38,
+    "carbs": 6,
+    "fat": 36
+  },
+  "slug": "dense-thai-pork-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-thai-pork-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:18:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "coconut cream",
+    "diet": "fodmap",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Pork",
+    "descriptor": "Dense",
+    "dishForm": "Skewers"
+  }
+}
