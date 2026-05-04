@@ -1,0 +1,105 @@
+{
+  "title": "Decadent Spanish Oats Gazpacho",
+  "description": "A creamy and cheesy gazpacho featuring oats and sashimi-cut vegetables, perfect for a kid-friendly lunch or snack. This dish is ayurvedic-tamasic-friendly and packed with flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": " cucumber",
+      "amount": "1",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the diced red onion and cook until translucent, about 3 minutes.",
+    "Add the sashimi-cut red bell pepper and cucumber, cooking for an additional 2 minutes.",
+    "Stir in the paprika and cook for 1 minute.",
+    "In a blender or food processor, puree the cooked vegetables, oats, and canned diced tomatoes until smooth.",
+    "Return the mixture to the pot and stir in the shredded cheddar cheese until melted and well combined.",
+    "Stir in the sour cream and season with salt to taste.",
+    "Serve hot, garnished with additional sashimi-cut vegetables and a dollop of sour cream if desired.",
+    "Let the gazpacho cool to room temperature before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "kid-friendly",
+    "lunch-ideas",
+    "one-pot",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "decadent-spanish-oats-gazpacho",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-spanish-oats-gazpacho",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:12:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "oats",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "oats",
+    "descriptor": "Decadent",
+    "dishForm": "Gazpacho"
+  }
+}
