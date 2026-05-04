@@ -1,0 +1,115 @@
+{
+  "title": "Delicate Algerian Beef Tomatoes Tagine",
+  "description": "A floral and pillowy Algerian dish featuring beef tomatoes, this tagine is a nostalgic and jain-friendly option for dinner. It combines the flavors of broiled beef and tomatoes with aromatic spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": "broiled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Broil the tomatoes for 10 minutes on each side, until the skin is charred.",
+    "Remove the tomatoes from the oven and let them cool.",
+    "Peel the tomatoes and chop them into small pieces.",
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion to the pan and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the ground cumin, coriander, smoked paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the cut beef to the pan and cook until it is browned on all sides.",
+    "Add the chopped tomatoes to the pan and stir to combine.",
+    "Reduce the heat to low and simmer the tagine for 20 minutes, until the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "north-african",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-algerian-beef-tomatoes-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-algerian-beef-tomatoes-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:15:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef tomatoes",
+    "descriptor": "delicate pillowy",
+    "dishForm": "Tagine"
+  }
+}
