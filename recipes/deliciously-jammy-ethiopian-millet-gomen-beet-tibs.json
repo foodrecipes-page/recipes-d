@@ -1,0 +1,112 @@
+{
+  "title": "deliciously jammy ethiopian millet gomen beet tibs",
+  "description": "a sweet and savory brunch dish featuring jammy beet tibs over a bed of creamy millet gomen. shojin-friendly and perfect for a lazy sunday morning.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee or vegan alternative",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the diced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the diced beets and cook for 5 minutes, until they start to caramelize.",
+    "add the berbere spice, curry powder, salt, and black pepper, and stir to combine.",
+    "add the millet and stir to combine with the beet mixture.",
+    "cook for another 5 minutes, until the millet is lightly toasted and the beet mixture is jammy.",
+    "fluff the millet with a fork and stir in the chopped cilantro.",
+    "serve the millet and beet tibs over a bed of creamy gomen.",
+    "garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "deliciously-jammy-ethiopian-millet-gomen-beet-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-jammy-ethiopian-millet-gomen-beet-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "millet",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "millet",
+    "descriptor": "Deliciously Jammy",
+    "dishForm": "Gomen Beet Tibs"
+  }
+}
