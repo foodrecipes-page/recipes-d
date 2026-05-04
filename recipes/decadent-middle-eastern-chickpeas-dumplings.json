@@ -1,0 +1,99 @@
+{
+  "title": "Decadent Middle Eastern Chickpeas Dumplings",
+  "description": "A tangy, pillowy chickpea dumpling dish infused with miso and a subtle pink hue, perfect for a shojin-friendly indulgence.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "¾ cup"
+    },
+    {
+      "name": "Water",
+      "amount": "½ cup",
+      "notes": "adjust for dough consistency"
+    },
+    {
+      "name": "Miso paste, white",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "5 drops",
+      "notes": "adjust to desired hue"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine chickpeas, miso paste, cumin, garlic powder, and salt; pulse until smooth.",
+    "Add water gradually, blending until the mixture forms a thick, pliable dough.",
+    "Stir in flour until fully incorporated; let the dough rest for 10 minutes.",
+    "Add pink food coloring drop by drop, mixing until even rosy hue appears.",
+    "Divide dough into 12 equal portions and roll each into a ball.",
+    "Heat olive oil in a nonstick skillet over medium heat.",
+    "Fry the dumplings for 3-4 minutes per side, or until golden brown and puffed.",
+    "Serve warm with a drizzle of tahini sauce or a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "middle-eastern",
+    "pink",
+    "shojin-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "decadent-middle-eastern-chickpeas-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-middle-eastern-chickpeas-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:47:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "pink food colouring",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Decadent",
+    "dishForm": "Dumplings"
+  }
+}
