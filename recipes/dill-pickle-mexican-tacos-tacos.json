@@ -1,0 +1,100 @@
+{
+  "title": "dill-pickle mexican tacos",
+  "description": "A kid-friendly twist on traditional Mexican tacos featuring dill pickles. Serve at lunch or dinner, and adjust to taste.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "dill pickle slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cooked chicken",
+      "amount": "1 cup",
+      "notes": "use leftover chicken or rotisserie chicken"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the shredded chicken and cook until warmed through, about 2 minutes.",
+    "Add the diced onion to the skillet and cook until softened, about 2 minutes.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla, followed by a few slices of pickle, a sprinkle of cumin and chili powder, and a dollop of sour cream if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "mexican",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "dill-pickle-mexican-tacos-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dill-pickle-mexican-tacos-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "dill pickles",
+    "diet": "raw",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tacos",
+    "descriptor": "dill-pickle",
+    "dishForm": "Tacos"
+  }
+}

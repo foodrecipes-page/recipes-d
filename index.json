@@ -3911,6 +3911,19 @@
     "shard": "d"
   },
   {
+    "slug": "dill-pickle-mexican-tacos-tacos",
+    "title": "dill-pickle mexican tacos",
+    "tags": [
+      "kid-friendly",
+      "mexican",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "double-crisp-fried-irish-kale-hash",
     "title": "Double-Crisp Fried Irish Kale Hash",
     "tags": [
