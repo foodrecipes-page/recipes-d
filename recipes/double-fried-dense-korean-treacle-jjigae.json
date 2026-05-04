@@ -1,0 +1,122 @@
+{
+  "title": "Double-Fried, Dense Korean Treacle Jjigae",
+  "description": "A low-glycemic Korean dish featuring treacle, inspired by the richness of KFC's double-fried chicken. This dense, sour jjigae is a twist on traditional Korean recipes.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "treacle (koji syrup)",
+      "amount": "1/4 cup",
+      "notes": "can substitute with a mixture of honey and rice vinegar"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "gochugaru (Korean chili flakes)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to desired spiciness"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "cubed"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for double-frying"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar (low-glycemic)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare the tofu by cutting it into 1-inch cubes and coating with cornstarch.",
+    "Heat 1/2 cup vegetable oil in a wok or large skillet over high heat.",
+    "Double-fry the tofu in batches until golden brown and crispy, about 5 minutes per batch.",
+    "Set the fried tofu aside on a paper towel-lined plate.",
+    "In the same wok, add the remaining 1/2 cup vegetable oil, garlic, and green onions.",
+    "Stir-fry for 1 minute until fragrant.",
+    "Add the gochujang, gochugaru, treacle, and water to the wok, whisking to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes until thickened.",
+    "Add the cubed tofu, low-sodium soy sauce, and brown sugar to the wok.",
+    "Stir-fry for 2 minutes to combine.",
+    "Transfer the mixture to a serving dish and garnish with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "korean",
+    "low-glycemic",
+    "one-pan",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "double-fried-dense-korean-treacle-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/double-fried-dense-korean-treacle-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:02:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "treacle",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "treacle",
+    "descriptor": "Double-Fried, Dense",
+    "dishForm": "Jjigae"
+  }
+}
