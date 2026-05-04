@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Springy Egyptian Shrimp Kebabs",
+  "description": "A kid-friendly Egyptian dish featuring jumbo shrimp, this recipe is a delicious and fatty meal option that is Jain-friendly, made by mantecare-emulsifying the ingredients to create a springy texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the jumbo shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Grill the shrimp kebabs for 8-10 minutes, turning occasionally, until they are pink and cooked through.",
+    "Serve the shrimp kebabs hot, garnished with lemon wedges and fresh parsley.",
+    "Mantecare-emulsify the ingredients by whisking constantly while adding the olive oil to the lemon juice mixture.",
+    "Let the shrimp kebabs rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "delicate-springy-egyptian-shrimp-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-springy-egyptian-shrimp-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:14:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shrimp",
+    "descriptor": "delicate springy",
+    "dishForm": "Kebabs"
+  }
+}
