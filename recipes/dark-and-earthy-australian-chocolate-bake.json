@@ -1,0 +1,90 @@
+{
+  "title": "Dark and Earthy Australian Chocolate Bake",
+  "description": "A rich, earthy chocolate bake featuring Australian ingredients, perfect for a cold winter's night. This recipe is free from onions and garlic, making it accessible to those with dietary restrictions.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "200g",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "Murray River salt",
+      "amount": "1 tsp",
+      "notes": "Australian flaky salt"
+    },
+    {
+      "name": "Kakadu plum jam",
+      "amount": "80g",
+      "notes": "Australian bushfood jam"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "120g",
+      "notes": "gluten-free flour option"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "150g",
+      "notes": "replaces refined sugar"
+    },
+    {
+      "name": "Cocoa nibs",
+      "amount": "60g",
+      "notes": "adds texture and flavor"
+    },
+    {
+      "name": "Pecans",
+      "amount": "60g",
+      "notes": "chopped nuts for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 165\u0004800\u00132C (325\u0004350\u0011F)",
+    "Combine the dark chocolate, Murray River salt, and Kakadu plum jam in a medium saucepan",
+    "Place the saucepan over low heat, stirring occasionally, until the chocolate melts and the jam dissolves",
+    "Stir in the oat flour until well combined",
+    "Press the mixture into a greased and floured 9x13 inch baking dish",
+    "Sprinkle the coconut sugar, cocoa nibs, and chopped pecans over the top",
+    "Bake for 35 minutes, or until the edges are set and the center is still slightly gooey",
+    "Remove from the oven and let cool completely before slicing into bars"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "bushfood",
+    "chocolate",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "dark-and-earthy-australian-chocolate-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-and-earthy-australian-chocolate-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "dark chocolate",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Dark and earthy",
+    "dishForm": "Bake"
+  }
+}

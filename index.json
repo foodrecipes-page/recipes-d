@@ -71,6 +71,20 @@
     "shard": "d"
   },
   {
+    "slug": "dark-and-earthy-australian-chocolate-bake",
+    "title": "Dark and Earthy Australian Chocolate Bake",
+    "tags": [
+      "australian",
+      "bushfood",
+      "chocolate",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-brown-sugar-crumbled-garlic-argentinian",
     "title": "Dark Brown Sugar Crumbled Garlic Argentinian",
     "tags": [
@@ -3823,6 +3837,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-tunisian-dish-tagine",
+    "title": "Dense Tunisian Tagine",
+    "tags": [
+      "dinner-party",
+      "fodmap-friendly",
+      "high-fiber",
+      "oven-baked",
+      "show-off",
+      "sweet-dish"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
