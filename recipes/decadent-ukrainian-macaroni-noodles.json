@@ -1,0 +1,98 @@
+{
+  "title": "Decadent Ukrainian Macaroni Noodles",
+  "description": "A paleo-friendly Ukrainian dish featuring macaroni, agemono-deep-fry, and a jammy sauce, perfect for a date night.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to the package instructions.",
+    "In a large skillet, heat the coconut oil over medium-high heat and add the chopped onion.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "In a large bowl, whisk together the tomato sauce and eggs.",
+    "Add the cooked macaroni to the bowl and toss to combine with the sauce.",
+    "Add the cooked onion and mushroom mixture to the bowl and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "one-pan",
+    "paleo-friendly",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "decadent-ukrainian-macaroni-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-ukrainian-macaroni-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:03:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "macaroni",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Deep fried",
+    "dishForm": "Noodles"
+  }
+}
