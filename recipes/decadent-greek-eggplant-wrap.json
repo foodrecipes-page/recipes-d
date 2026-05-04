@@ -1,0 +1,112 @@
+{
+  "title": "Decadent Greek Eggplant Wrap",
+  "description": "A sweet and velvety Greek eggplant wrap that marries roasted eggplant with feta, fresh herbs, and spicy ssamjang for a bold Mediterranean adventure.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1/2-inch slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/4 cup",
+      "notes": "(optional)"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400F and line a baking sheet with parchment paper.",
+    "Toss the eggplant slices with olive oil, salt, and pepper, then spread them on the sheet and roast for 20 minutes until caramelized.",
+    "While the eggplant roasts, mix the cherry tomatoes, feta, dill, mint, lemon juice, and ssamjang in a bowl.",
+    "Remove the eggplant from the oven, let cool slightly, then spoon the feta mixture onto each slice.",
+    "Warm the wraps in a dry skillet for 30 seconds on each side, then top each with a roasted eggplant slice, a dollop of tzatziki, and a pinch of sumac and paprika.",
+    "Fold the sides of the wrap inward, then roll tightly from the bottom up.",
+    "Place the wrapped rolls on a plate, drizzle a little extra olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "greek",
+    "mediterranean",
+    "quick",
+    "ssamjang",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 17,
+    "carbs": 38,
+    "fat": 18
+  },
+  "slug": "decadent-greek-eggplant-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-greek-eggplant-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:08:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "ssamjang",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "eggplant",
+    "descriptor": "Decadent",
+    "dishForm": "Wrap"
+  }
+}

@@ -215,6 +215,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-greek-eggplant-wrap",
+    "title": "Decadent Greek Eggplant Wrap",
+    "tags": [
+      "eggplant",
+      "greek",
+      "mediterranean",
+      "quick",
+      "ssamjang",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-greek-pasta-lasagna",
     "title": "Decadent Greek Pasta Lasagna",
     "tags": [
