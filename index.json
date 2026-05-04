@@ -1421,6 +1421,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-chinese-tofu-noodles",
+    "title": "Dense Chinese Tofu Noodles",
+    "tags": [
+      "cantonese",
+      "comfort-food",
+      "dense-sauce",
+      "lacto-vegetarian",
+      "noodle-dish",
+      "sick-day"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-crispy-uruguayan-turkey-neck-stew",
     "title": "Dense Crispy Uruguayan Turkey Neck Stew",
     "tags": [
