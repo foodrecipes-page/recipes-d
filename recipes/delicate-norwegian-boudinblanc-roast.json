@@ -1,0 +1,113 @@
+{
+  "title": "Delicate Norwegian Boudinblanc Roast",
+  "description": "A buttery, juicy roast featuring traditional Norwegian boudinblanc, finished with a citrus‑herb glaze and served on a tagliere for a cozy meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork boudinblanc",
+      "amount": "1 lb",
+      "notes": "whole sausage, about 454 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "low sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat 1 tablespoon coconut oil in a large oven‑proof skillet over medium heat and brown the boudinblanc on all sides for 5 minutes.",
+    "Add minced garlic, rosemary, thyme, sliced onion, and smoked paprika to the skillet and sauté until the onion is translucent, about 3 minutes.",
+    "Pour in the chicken broth and bring to a gentle simmer, then cover the skillet and transfer to the preheated oven.",
+    "Roast for 35 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "Remove the skillet from the oven and baste the sausage with the remaining coconut oil, lemon juice, and a pinch of salt and pepper to create a glossy glaze.",
+    "Return the skillet to the oven and roast for an additional 10 minutes to caramelize the glaze.",
+    "Transfer the roasted boudinblanc to a cutting board, slice, and garnish with chopped parsley before serving on a tagliere."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "norwegian",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 2,
+    "fat": 30
+  },
+  "slug": "delicate-norwegian-boudinblanc-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-boudinblanc-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:37:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "boudinblanc",
+    "descriptor": "Delicate",
+    "dishForm": "Roast"
+  }
+}
