@@ -1,0 +1,85 @@
+{
+  "title": "Delicate Hangover-Cured Pepper Jjigae",
+  "description": "This fermented and chewy Korean Chungcheong dish features sweet peppadew peppers, pickles, and is ayurvedic-sattvic-friendly.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented tofu",
+      "amount": 1
+    },
+    {
+      "name": "pickled radish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced pepperoni (sweet peppadew peppers)",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "gochujang",
+      "amount": 2
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "dashi stock concentrate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded green onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pot over medium-high heat.",
+    "Add gochujang, shreds of pepperoni, and a dash of soy sauce to the hot oil. Stir well until fragrant, about 1 minute.",
+    "Pour in the stock concentrate and simmer for another minute.",
+    "Remove from heat and stir in pickled radish and sliced pepperoni until evenly distributed.",
+    "Garnish with green onion and serve warm as a side dish or main course.",
+    "Optional: Serve over rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "chungcheong-dish",
+    "fermented-peppers",
+    "hangover-cure",
+    "sweet-pepper-jjigae"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "delicate-hangover-cured-pepper-jjigae",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-hangover-cured-pepper-jjigae",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:47:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "ayurvedic-sattvic",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pepper",
+    "descriptor": "Hangover-Cured",
+    "dishForm": "Jjigae"
+  }
+}
