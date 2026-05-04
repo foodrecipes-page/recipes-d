@@ -1,0 +1,105 @@
+{
+  "title": "Delicious Ukrainian Onion Stew",
+  "description": "A winey, juicy, and comforting Ukrainian dish featuring yellow onion and miso marinade, perfect for a cold winter night, and is plant-based-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, red wine, and vegetable broth to make the marinade.",
+    "Add the sliced onions to the marinade and mix well to coat.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the marinated onions to the saucepan and cook for 10 minutes until they start to caramelize.",
+    "Add the dried thyme, bay leaves, salt, and black pepper to the saucepan and stir to combine.",
+    "Reduce heat to low and simmer the stew for 20 minutes until the onions are tender and the liquid has thickened.",
+    "Remove the bay leaves and serve the stew hot in mason jars.",
+    "Let the stew cool to room temperature before refrigerating or freezing.",
+    "Reheat the stew to 165 degrees Fahrenheit before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "plant-based",
+    "stew",
+    "ukrainian",
+    "wine-based",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "delicious-ukrainian-onion-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-ukrainian-onion-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:21:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "yellow onion",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "onion",
+    "descriptor": "dense comforting",
+    "dishForm": "Stew"
+  }
+}

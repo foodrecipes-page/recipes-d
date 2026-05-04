@@ -526,6 +526,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-ukrainian-onion-stew",
+    "title": "Delicious Ukrainian Onion Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "plant-based",
+      "stew",
+      "ukrainian",
+      "wine-based",
+      "winter-meal"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-creamy-syrian-feta-cheese-pilaf",
     "title": "Syrian Feta Cheese Pilaf",
     "tags": [
