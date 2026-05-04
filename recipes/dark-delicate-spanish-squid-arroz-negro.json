@@ -1,0 +1,106 @@
+{
+  "title": "Dark Delicate Spanish Squid Arroz Negro",
+  "description": "A garlicky and fluffy Valencian dish featuring unsalted pistachio and squid, finished with a sweet glaze, this arroz negro is a Whole30 friendly adventure for the taste buds.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black squid ink",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the squid and cook until browned, about 5 minutes.",
+    "Add the cauliflower rice, smoked paprika, salt, and black squid ink, stirring to combine.",
+    "Cook for an additional 5 minutes, stirring frequently, until the rice is tender and the mixture is well combined.",
+    "Stir in the chopped pistachios and lemon juice.",
+    "Reduce heat to low and simmer for 2 minutes, until the flavors are well combined and the mixture is heated through.",
+    "Serve hot, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "seafood",
+    "spanish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dark-delicate-spanish-squid-arroz-negro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-delicate-spanish-squid-arroz-negro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:36:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "whole30",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "squid",
+    "descriptor": "dark delicate",
+    "dishForm": "Arroz Negro"
+  }
+}
