@@ -1,0 +1,106 @@
+{
+  "title": "Dulcet Spiced Jamaican Sweet Potato Grill",
+  "description": "A savory-sweet grilled sweet potato dish infused with Jamaican spices, tangy vegan white wine vinegar, and a hint of tropical chill, perfect for a romantic date night.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "about 1 kg total"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jamaican allspice (pimento) powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a yakimono grill or charcoal grill to medium-high heat, about 200°C, and oil the grates.",
+    "Wash sweet potatoes, pat dry, and cut them into 1-inch thick rounds.",
+    "In a small bowl, whisk together coconut oil, allspice, cinnamon, nutmeg, smoked paprika, salt, and pepper until a paste forms.",
+    "Brush each potato round evenly with the spice paste, ensuring all sides are coated.",
+    "Place the coated rounds on the preheated grill, close the lid, and cook for 6 minutes on each side until a golden crust forms and the inside is tender.",
+    "While grilling, mix vinegar, lime juice, and a splash of water to create a tangy glaze.",
+    "Once the potatoes are grilled, brush the glaze over each round, letting it caramelize slightly for 30 seconds.",
+    "Remove the potatoes from the grill, transfer to a serving platter, and drizzle with a little more glaze.",
+    "Garnish with chopped cilantro, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "gluten-free",
+    "grilled",
+    "one-pan",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "dulcet-spiced-jamaican-sweet-potato-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dulcet-spiced-jamaican-sweet-potato-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:35:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Dulcet Spiced",
+    "dishForm": "Grill"
+  }
+}
