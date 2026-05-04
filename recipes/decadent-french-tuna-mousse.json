@@ -1,0 +1,95 @@
+{
+  "title": "Decadent French Tuna Mousse",
+  "description": "A silky tuna mousse tempered with dark chocolate for a midnight craving, served as a light yet indulgent dessert.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh tuna steak",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Unsweetened dark chocolate",
+      "amount": "50 g",
+      "notes": "melted and cooled slightly"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200 ml",
+      "notes": "whipped until soft peaks"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Dice the tuna into small cubes and set aside.",
+    "Melt the dark chocolate over low heat, stirring constantly until smooth, then let it cool a few minutes.",
+    "Whip the heavy cream to soft peaks, then fold in the egg yolk and a pinch of salt.",
+    "Fold in the cooled chocolate into the cream mixture, stirring gently to combine.",
+    "Gently fold in the diced tuna, lemon juice, and chopped dill, ensuring even distribution.",
+    "Drizzle a teaspoon of olive oil over the mousse for a glossy finish.",
+    "Transfer the mousse into individual serving glasses or ramekins.",
+    "Chill the mousse in the refrigerator for at least 1 hour before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dark-chocolate",
+    "dessert",
+    "french",
+    "minimalist",
+    "mousse",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 1270,
+    "protein": 59,
+    "carbs": 30,
+    "fat": 97
+  },
+  "slug": "decadent-french-tuna-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-french-tuna-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:40:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tuna",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tuna",
+    "descriptor": "Decadent",
+    "dishForm": "Mousse"
+  }
+}

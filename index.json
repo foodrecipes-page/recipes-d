@@ -156,6 +156,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-french-tuna-mousse",
+    "title": "Decadent French Tuna Mousse",
+    "tags": [
+      "dark-chocolate",
+      "dessert",
+      "french",
+      "minimalist",
+      "mousse",
+      "pescatarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-gooey-mediterranean-mascarpone-galette",
     "title": "decadent gooey mediterranean mascarpone galette",
     "tags": [
