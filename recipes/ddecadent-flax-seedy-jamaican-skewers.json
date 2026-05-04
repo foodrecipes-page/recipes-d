@@ -1,0 +1,80 @@
+{
+  "title": "DDecadent Flax-seedy Jamaican Skewers",
+  "description": "A sweet, snappy and energizing jain-friendly dish featuring flaxseed, brine-dried on a binchotan grill for an unforgettable breakfast or snack.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flaxseeds",
+      "amount": 2
+    },
+    {
+      "name": "Brine solution (water, salt)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Skewers or sticks for grilling",
+      "amount": "4"
+    },
+    {
+      "name": "Sweetener of choice (honey, maple syrup, etc.)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": null
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": "A few sprigs of cilantro or parsley"
+    }
+  ],
+  "instructions": [
+    "Soak flaxseeds in brine solution for at least 2 hours.",
+    "Toss soaked flaxseeds with sweetener and lime juice.",
+    "Thread mixture onto skewers, ensuring a mix of flavors and textures.",
+    "Grill on banchotan grill at medium-high heat until golden brown and crispy, about 8 minutes per side.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "energizing",
+    "flaxseed",
+    "jain-friendly",
+    "jamaican",
+    "snappy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "ddecadent-flax-seedy-jamaican-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-flax-seedy-jamaican-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:33:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "flaxseed",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Flax-seedy",
+    "dishForm": "Skewers"
+  }
+}
