@@ -365,6 +365,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-egyptian-cheese-toast",
+    "title": "Decadent Egyptian Cheese Toast",
+    "tags": [
+      "breakfast",
+      "cheese-lover",
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-egyptian-dates-pudding",
     "title": "Decadent Egyptian Dates Pudding",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Decadent Egyptian Cheese Toast",
+  "description": "A buttery, cheese-pull toast that evokes nostalgic Egyptian flavors with feta, mozzarella, and delicate gelatine leaf strips.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread slices",
+      "amount": "4 slices",
+      "notes": "each slice about 50g"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tbsp",
+      "notes": "for brushing bread"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "150 g"
+    },
+    {
+      "name": "mozzarella, shredded",
+      "amount": "100 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for a touch of sweetness"
+    },
+    {
+      "name": "saffron threads, soaked in hot water",
+      "amount": "1 pinch",
+      "notes": "for aroma"
+    },
+    {
+      "name": "gelatine leaf strips, soaked and drained",
+      "amount": "4",
+      "notes": "for texture"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Brush the bread slices on both sides with melted butter and sprinkle with smoked paprika and a pinch of salt.",
+    "Place the bread in the skillet and cook until golden brown on one side, about 2 minutes.",
+    "Flip the bread, top each slice with crumbled feta, shredded mozzarella, and a sprinkle of chopped parsley.",
+    "Spoon a teaspoon of honey over the cheese and drizzle a few saffron-infused water drops for aroma.",
+    "Tear the soaked gelatine leaf strips into bite-sized pieces and scatter them over the cheese while the bread continues to cook.",
+    "Cover the skillet with a lid and cook for another 3 to 4 minutes until the cheese is melted and the gelatine leafs have softened.",
+    "Remove from heat, let the toast sit for a minute, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cheese-lover",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 14,
+    "carbs": 22,
+    "fat": 16
+  },
+  "slug": "decadent-egyptian-cheese-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-egyptian-cheese-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:02:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Decadent",
+    "dishForm": "Toast"
+  }
+}
