@@ -1,0 +1,114 @@
+{
+  "title": "Dense Slovakian Rice-Khao-Khua Fried-Rice",
+  "description": "A dense, quick-fix Slovakian dish featuring rapeseed oil, fry-grind-rice-khao-khua, and dairy-free-friendly ingredients. Perfect for a weeknight meal.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of rapeseed oil in a large skillet over medium-high heat. Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mushroom, carrot, and green pepper. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the fry-grind-rice-khao-khua, soy sauce, salt, and black pepper. Stir-fry for 2-3 minutes, until the rice is heated through.",
+    "Transfer the mixture to a serving platter and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "rice-bowl",
+    "slovakian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-slovakian-rice-khao-khua-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-slovakian-rice-khao-khua-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Rice-Khao-Khua",
+    "descriptor": "Dense",
+    "dishForm": "Fried-Rice"
+  }
+}

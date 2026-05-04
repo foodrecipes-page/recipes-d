@@ -1,0 +1,107 @@
+{
+  "title": "Dense Delightful Indian Paneer Palak Paneer",
+  "description": "A savory, juicy, vegetarian-friendly Indian dish from Udupi cuisine, made with red pepper paste and dum. This palak paneer recipe is perfect for a solo dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "Palak leaves",
+      "amount": "250g"
+    },
+    {
+      "name": "Red pepper paste",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add cumin powder, red chili powder, and salt. Let the spices roast for 1 minute.",
+    "Add the chopped onion, ginger, and garlic. Cook until the onion is translucent.",
+    "Add the palak leaves and 1 cup of water. Boil until the leaves are tender.",
+    "Add the paneer and red pepper paste. Mix well.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Add black pepper and adjust seasoning as needed.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "indian",
+    "one-pan",
+    "palak",
+    "paneer",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dense-delightful-indian-paneer-palak-paneer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-delightful-indian-paneer-palak-paneer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "red pepper paste",
+    "diet": "vegetarian",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Dense Delightful",
+    "dishForm": "Palak Paneer"
+  }
+}

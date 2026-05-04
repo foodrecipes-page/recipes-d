@@ -1,0 +1,184 @@
+{
+  "title": "Deep Fried Peruvian Lamb Seco de Cordero",
+  "description": "A halal-friendly twist on the traditional Peruvian lamb stew, seco de cordero, featuring kaffir-lime-leaf and an agemono-deep-fry for a fluffy and umami-packed post-workout dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless and skinless",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4",
+      "notes": "fresh or frozen, but not dried"
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for deep-frying",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish",
+      "notes": null
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "for serving",
+      "notes": null
+    },
+    {
+      "name": "White rice",
+      "amount": "cooked, for serving",
+      "notes": null
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1, for serving (optional)",
+      "notes": null
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "store-bought or homemade, for serving (optional)",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Breaded flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Parsley",
+      "amount": "chopped, for garnish",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lamb shoulder, tomato paste, garlic, ginger, kaffir lime leaves, ancho chili powder, cumin, smoked paprika, and salt. Mix well to coat the lamb evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oil in a deep frying pan or a deep fryer to 375°F (190°C).",
+    "Remove the lamb from the marinade, letting any excess liquid drip off. Dredge the lamb in the breadcrumbs, shaking off any excess.",
+    "In a shallow dish, mix together the cornstarch and flour. Dredge the lamb in the cornstarch mixture, shaking off any excess.",
+    "In the same shallow dish, beat the egg and mix with the panko breadcrumbs. Dip the lamb in the egg mixture, then coat in the panko breadcrumbs, pressing gently to adhere.",
+    "Carefully place the breaded lamb in the hot oil. Fry for 5-7 minutes on each side, or until golden brown and cooked through.",
+    "Using a slotted spoon, remove the lamb from the oil and place on a paper towel-lined plate to drain any excess oil.",
+    "Serve the deep-fried lamb hot with a side of white rice, cilantro, and a squeeze of lime juice. Garnish with parsley and a fried egg, if desired.",
+    "Serve with a side of chimichurri sauce or yogurt, if desired.",
+    "Note: Traditionally, this dish is served as a stew, but the agemono-deep-fry adds a crispy exterior and a fluffy interior.",
+    "Note: To make the chimichurri sauce, combine 1 cup of mayonnaise, 1 cup of chopped cilantro, 1 cup of chopped parsley, 2 cloves of garlic, 1/2 cup of red wine vinegar, and 1/4 cup of olive oil in a bowl. Mix well to combine. Refrigerate for at least 30 minutes before serving.",
+    "Note: To make the yogurt sauce, combine 1 cup of plain yogurt, 1 tablespoon of lemon juice, and 1/4 cup of chopped cilantro in a bowl. Mix well to combine. Refrigerate for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 25,
+    "fat": 36
+  },
+  "slug": "deep-fried-peruvian-lamb-seco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deep Fried",
+    "dishForm": "Seco de Cordero"
+  }
+}

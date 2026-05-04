@@ -892,6 +892,22 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fried-peruvian-lamb-seco-de-cordero",
+    "title": "Deep Fried Peruvian Lamb Seco de Cordero",
+    "tags": [
+      "halal",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "peruvian",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [
@@ -2860,6 +2876,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-algerian-dynamite-wrap",
+    "title": "dense algerian dynamite wrap",
+    "tags": [
+      "algerian",
+      "dessert",
+      "lacto-vegetarian",
+      "special-occasion",
+      "sweet"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dense-algerian-lentil-tagine",
     "title": "Dense Algerian Lentil Tagine",
     "tags": [
@@ -3064,6 +3094,22 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-delightful-indian-paneer-palak-paneer",
+    "title": "Dense Delightful Indian Paneer Palak Paneer",
+    "tags": [
+      "easy-to-make",
+      "indian",
+      "one-pan",
+      "palak",
+      "paneer",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -3541,6 +3587,22 @@
     ],
     "cuisine": "Scottish",
     "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-slovakian-rice-khao-khua-fried-rice",
+    "title": "Dense Slovakian Rice-Khao-Khua Fried-Rice",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "rice-bowl",
+      "slovakian",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

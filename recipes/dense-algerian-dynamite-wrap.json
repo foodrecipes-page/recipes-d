@@ -1,0 +1,96 @@
+{
+  "title": "dense algerian dynamite wrap",
+  "description": "a sweet, dense, festive algerian dish featuring ketchup, ssam-wrap, lacto-vegetarian-friendly. perfect for special occasions or as a unique snack.",
+  "cuisine": "algerian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ssam wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white sugar"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ketchup",
+      "amount": "2 tablespoons",
+      "notes": "used as a binder"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix the sifted all-purpose flour, granulated sugar, and cocoa powder in a large bowl.",
+    "heat the butter in a pan over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "dessert",
+    "lacto-vegetarian",
+    "special-occasion",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 12,
+    "carbs": 100,
+    "fat": 28
+  },
+  "slug": "dense-algerian-dynamite-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-algerian-dynamite-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "ketchup",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dynamite",
+    "descriptor": "dense",
+    "dishForm": "Wrap"
+  }
+}
