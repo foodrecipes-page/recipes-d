@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Yeasty Moroccan Vermicelli Pasta",
+  "description": "A light and nostalgic Moroccan dish featuring vermicelli pasta, tadka, and a blend of aromatic spices, perfect for a weeknight dinner. This ovo-vegetarian-friendly recipe is sure to delight your taste buds.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "instant yeast works too"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta according to package instructions until al dente.",
+    "In a small bowl, combine the yeast and 1 cup of warm water, stirring to dissolve the yeast.",
+    "In a large skillet, heat the olive oil over medium heat and add the chopped onion, cooking until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper, cooking for 1 minute.",
+    "Add the cooked vermicelli pasta to the skillet, tossing to combine with the spice mixture.",
+    "Push the pasta mixture to one side of the skillet and crack in the eggs, scrambling them until cooked through.",
+    "Combine the eggs with the pasta mixture and stir in the yeast mixture, cooking for an additional 2 minutes.",
+    "Serve the Delicate Yeasty Moroccan Vermicelli Pasta hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "one-pan",
+    "ovo-vegetarian",
+    "pasta",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-yeasty-moroccan-vermicelli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-yeasty-moroccan-vermicelli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:07:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vermicelli",
+    "descriptor": "delicate yeasty",
+    "dishForm": "Pasta"
+  }
+}
