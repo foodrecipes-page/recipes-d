@@ -1,0 +1,109 @@
+{
+  "title": "Decadent Peruvian Shiitake Ceviche",
+  "description": "A vegan, jain-friendly take on classic ceviche that blends malty kombu cold extract with chewy shiitake mushrooms for a show‑off dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "250 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "100 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "80 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100 g, halved"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30 g, chopped"
+    },
+    {
+      "name": "dark beer",
+      "amount": "30 ml"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "200 g, shredded"
+    },
+    {
+      "name": "toasted quinoa",
+      "amount": "50 g, for garnish"
+    },
+    {
+      "name": "lime zest oil",
+      "amount": "10 ml"
+    }
+  ],
+  "instructions": [
+    "Slice shiitake mushrooms into thin, bite‑sized pieces.",
+    "Place the sliced mushrooms in a glass jar and pour the kombu cold extract over them.",
+    "Add lime juice, a pinch of salt, and freshly ground black pepper, then stir gently.",
+    "Let the mixture sit in the refrigerator for 20 minutes to allow the flavors to meld.",
+    "While the mushrooms marinate, dice red onion, cherry tomatoes, and fresh cilantro.",
+    "After marination, drain excess liquid from the mushrooms, reserving a small amount.",
+    "Combine the mushrooms with the diced vegetables and the reserved liquid, then fold in a splash of cold, dark beer for malty depth.",
+    "Serve immediately over a bed of shredded iceberg lettuce, garnished with toasted quinoa and a drizzle of lime zest oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "cold-marinade",
+    "jain-friendly",
+    "malty",
+    "peruvian",
+    "shiitake-mushroom",
+    "vegan-ceviche"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "decadent-peruvian-shiitake-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-peruvian-shiitake-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:59:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shiitake",
+    "descriptor": "Decadent",
+    "dishForm": "Ceviche"
+  }
+}
