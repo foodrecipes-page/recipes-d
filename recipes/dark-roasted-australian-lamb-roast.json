@@ -1,0 +1,95 @@
+{
+  "title": "Dark Roasted Australian Lamb Roast",
+  "description": "A tender and flavorful lamb roast with a rich wine sauce, topped with melted cheese slices, perfect for a midnight craving. This Whole30-friendly dish is a classic Australian recipe.",
+  "cuisine": "Australian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb roast",
+      "amount": "2 pounds",
+      "notes": "boneless leg of lamb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese slices",
+      "amount": "4 slices",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the lamb roast with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb roast on all sides until browned, about 2-3 minutes per side.",
+    "Add the garlic, red wine, and beef broth to the Dutch oven.",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "Roast the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Remove the lamb from the oven and top with cheese slices.",
+    "Return the lamb to the oven and cook for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "cheesy-goodness",
+    "gluten-free",
+    "lamb-recipes",
+    "red-wine-sauce",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "dark-roasted-australian-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-australian-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:08:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "cheese slices",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "dark roasted",
+    "dishForm": "Roast"
+  }
+}

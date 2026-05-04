@@ -99,6 +99,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-roasted-australian-lamb-roast",
+    "title": "Dark Roasted Australian Lamb Roast",
+    "tags": [
+      "australian-cuisine",
+      "cheesy-goodness",
+      "gluten-free",
+      "lamb-recipes",
+      "red-wine-sauce",
+      "whole30"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-spanish-chicken-paella",
     "title": "Dark Roasted Spanish Chicken Paella",
     "tags": [
