@@ -320,6 +320,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-delicate-turkish-ovoli-mushroom-fold",
+    "title": "Decadent Delicate Turkish Ovoli-Mushroom Fold",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-egyptian-dates-pudding",
     "title": "Decadent Egyptian Dates Pudding",
     "tags": [
@@ -1255,6 +1271,22 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-roasted-italian-butternut-squash-pilaf",
+    "title": "Delicate Roasted Italian Butternut Squash Pilaf",
+    "tags": [
+      "fall",
+      "gluten-free",
+      "italian",
+      "one-pan",
+      "romantic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -2512,6 +2544,21 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 80,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-ukrainian-tofu-bowl",
+    "title": "Dense Ukrainian Tofu Bowl",
+    "tags": [
+      "briny",
+      "high-protein",
+      "molcajete",
+      "post-workout",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {

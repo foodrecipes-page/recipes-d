@@ -1,0 +1,116 @@
+{
+  "title": "Dense Ukrainian Tofu Bowl",
+  "description": "A briny, chewy post-workout bowl that blends yuzu-cure and garlic for a plant-based Ukrainian twist, served in a traditional molcajete.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "plant-based-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baby spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess water for 10 minutes then cube.",
+    "Whisk soy sauce, yuzu zest, yuzu juice, liquid smoke, tahini, water, salt, and pepper until smooth.",
+    "Add tofu cubes to the sauce and let marinate for 15 minutes.",
+    "Heat a skillet over medium heat and stir-fry tofu for 5-7 minutes until golden and firm.",
+    "Transfer tofu to a molcajete and crush lightly with a pestle to release briny juices.",
+    "Arrange cucumber, carrot, and spinach on a plate.",
+    "Spoon tofu mixture over vegetables and sprinkle toasted sesame seeds.",
+    "Drizzle a little extra yuzu juice for brightness.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "high-protein",
+    "molcajete",
+    "post-workout",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "dense-ukrainian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ukrainian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:57:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "garlic clove",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tofu",
+    "descriptor": "Dense",
+    "dishForm": "Bowl"
+  }
+}
