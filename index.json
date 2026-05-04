@@ -1541,6 +1541,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-buttery-american-scallion-sandwich",
+    "title": "Deliciously Buttery American Scallion Sandwich",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "easy-lunch",
+      "lazy-sunday",
+      "low-sodium",
+      "scallion-lover"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 16,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-creamy-syrian-feta-cheese-pilaf",
     "title": "Syrian Feta Cheese Pilaf",
     "tags": [
@@ -1672,6 +1687,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-thai-papaya-som-tum",
+    "title": "Deliciously Dense Thai Papaya Som Tum",
+    "tags": [
+      "fresh",
+      "gluten-free",
+      "healthy",
+      "spicy",
+      "thai-street-food",
+      "vegan-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {

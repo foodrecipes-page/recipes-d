@@ -1,0 +1,111 @@
+{
+  "title": "Deliciously Dense Thai Papaya Som Tum",
+  "description": "A fresh and energizing Thai dish featuring shredded green papaya, tomatoes, and chilies, served in a dolsot stone bowl, inspired by the streets of Bangkok and Buddhist temple friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green papaya",
+      "amount": "2 cups shredded",
+      "notes": "use a julienne peeler to shred"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup halved",
+      "notes": "any variety"
+    },
+    {
+      "name": "Thai bird eye chilies",
+      "amount": "4-6",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegetarian alternative: use soy sauce or tamari"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "buns",
+      "amount": "4-6",
+      "notes": "steamed or toasted"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the ingredients by shredding the green papaya, halving the cherry tomatoes, and chopping the peanuts and cilantro.",
+    "In a large mortar and pestle, pound the chilies and salt together until well combined.",
+    "Add the shredded papaya, halved tomatoes, and chopped peanuts to the mortar and pestle, and pound until the mixture is well combined and slightly bruised.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and palm sugar until well combined.",
+    "Pour the dressing over the papaya mixture and stir until everything is well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "To assemble the dish, place a portion of the som tum mixture into a dolsot stone bowl.",
+    "Garnish with chopped cilantro and serve with steamed or toasted buns on the side.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fresh",
+    "gluten-free",
+    "healthy",
+    "spicy",
+    "thai-street-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "deliciously-dense-thai-papaya-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-thai-papaya-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:26:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "salt-bake",
+    "primaryIngredient": "buns",
+    "diet": "buddhist-temple",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Deliciously Dense",
+    "dishForm": "Som Tum"
+  }
+}
