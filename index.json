@@ -524,6 +524,22 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-sweet-filipino-rice-pudding",
+    "title": "Filipino Rice Pudding",
+    "tags": [
+      "coconut-milk",
+      "egg-free",
+      "filipino-dish",
+      "namul-blanch-season",
+      "rice-pudding",
+      "star-anise",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-warm-canadian-lentil-curry",
     "title": "Deliciously Warm Canadian Lentil Curry",
     "tags": [
