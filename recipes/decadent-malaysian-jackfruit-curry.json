@@ -1,0 +1,121 @@
+{
+  "title": "Decadent Malaysian Jackfruit Curry",
+  "description": "A jammy, molten jackfruit curry infused with turmeric and coconut cream, perfect for a comforting vegetarian dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jackfruit, canned in brine",
+      "amount": "2 cans (400g)",
+      "notes": "drained and shredded"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "200g",
+      "notes": "crack easily"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and shred the canned jackfruit.",
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute.",
+    "Add curry paste and turmeric powder, stirring for 2 minutes until fragrant.",
+    "Pour in the shredded jackfruit, soy sauce, and a splash of water, coating everything well.",
+    "Add coconut cream and bring the mixture to a gentle simmer.",
+    "Let the curry simmer for 15 minutes, stirring occasionally, until the jackfruit is tender.",
+    "Finish with lime juice, adjust salt to taste, and fold in chopped cilantro.",
+    "Serve the curry hot over steamed rice or with flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "dinner",
+    "jackfruit",
+    "malaysian",
+    "one-pot",
+    "turmeric",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 4,
+    "carbs": 13,
+    "fat": 18
+  },
+  "slug": "decadent-malaysian-jackfruit-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-malaysian-jackfruit-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:41:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "turmeric powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Jackfruit",
+    "descriptor": "Decadent",
+    "dishForm": "Curry"
+  }
+}
