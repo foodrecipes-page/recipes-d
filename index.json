@@ -600,6 +600,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-fluffy-egyptian-lentil-pilaf",
+    "title": "Delicate Fluffy Egyptian Lentil Pilaf",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "high-fiber",
+      "one-pot",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-french-beetroot-blanquette",
     "title": "Delicate French Beetroot Blanquette",
     "tags": [
@@ -1505,6 +1520,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-spicy-australian-potato-pancakes",
+    "title": "Dense Spicy Australian Potato Pancakes",
+    "tags": [
+      "dense",
+      "fluffy",
+      "macrobiotic",
+      "quick",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
