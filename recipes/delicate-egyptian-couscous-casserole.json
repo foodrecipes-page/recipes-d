@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Egyptian Couscous Casserole",
+  "description": "Buttery and crumbly, this Egyptian couscous casserole pairs char-grilled bird's eye chillies with fragrant cumin and smoked paprika for a romantic bite.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "300ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Bird's eye chillies",
+      "amount": "2 whole"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "Char the bird's eye chillies over an open flame until blackened, then peel and roughly chop, setting aside.",
+    "In a saucepan, bring vegetable broth to a gentle simmer, then remove from heat and stir in couscous, cover, and let steam for 5 minutes.",
+    "Stir in melted butter, ground cumin, smoked paprika, chopped chillies, lemon zest, olive oil, salt, and pepper, mixing until the couscous is evenly coated.",
+    "Fold in chopped parsley, then transfer the mixture into four pre-lined mini cocottes, packing firmly.",
+    "Place the cocottes on a baking sheet and bake for 12 minutes, until the tops are golden and slightly crunchy.",
+    "Remove from oven, let rest 3 minutes, then gently fluff the couscous with a fork before serving.",
+    "Serve immediately to enjoy the buttery, crumbly texture and the aromatic char-grilled chillies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "char-grill",
+    "couscous",
+    "egg-free",
+    "egyptian",
+    "mini-cocotte",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "delicate-egyptian-couscous-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-egyptian-couscous-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:59:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "couscous",
+    "descriptor": "Delicate",
+    "dishForm": "Casserole"
+  }
+}
