@@ -434,6 +434,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-japanese-pul-biber-fried-rice",
+    "title": "Delicate Japanese Pul Biber Fried Rice",
+    "tags": [
+      "comfort-food",
+      "japanese-inspired",
+      "one-pan",
+      "plant-based",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-norwegian-chuck-roast",
     "title": "Delicate Norwegian Chuck Roast",
     "tags": [
@@ -519,6 +534,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-smoked-uruguayan-trout-curry",
+    "title": "Delicate Smoked Uruguayan Trout Curry",
+    "tags": [
+      "brunch-ideas",
+      "one-pan-meal",
+      "ovo-vegetarian",
+      "smoked-fish",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -994,6 +1023,21 @@
     ],
     "cuisine": "Shandong",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-peruvian-bread-casserole",
+    "title": "Dense Peruvian Bread Casserole",
+    "tags": [
+      "brunch",
+      "casserole",
+      "dairy-friendly",
+      "dense",
+      "peruvian",
+      "sweet"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {

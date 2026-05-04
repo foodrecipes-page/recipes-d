@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Japanese Pul Biber Fried Rice",
+  "description": "A funky, pillowy, comforting Japanese dish featuring pul biber, this plant-based-friendly recipe is perfect for a weeknight dinner. It combines the flavors of Japan with the spice of pul biber.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the frozen peas and carrots and cook until thawed, about 2-3 minutes.",
+    "Add the pul biber and cook for 1 minute, until fragrant.",
+    "Add the cooked Japanese rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, until everything is well combined and heated through.",
+    "Add the soy sauce, sesame oil, and salt, and stir-fry for an additional minute.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "japanese-inspired",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicate-japanese-pul-biber-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-japanese-pul-biber-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:22:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pul biber",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pul biber",
+    "descriptor": "delicate",
+    "dishForm": "Fried-Rice"
+  }
+}

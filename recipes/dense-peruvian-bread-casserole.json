@@ -1,0 +1,94 @@
+{
+  "title": "Dense Peruvian Bread Casserole",
+  "description": "A yeasty, sweet casserole combining muscovado sugar, butter, and dairy for a romantic Peruvian breakfast treat.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "500g",
+      "notes": "day-old, sliced 1 cm thick"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "200g",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "whole milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C and grease a 23x33cm casserole dish.",
+    "Arrange sliced bread in a single layer in the dish.",
+    "Whisk together milk, muscovado sugar, melted butter, eggs, vanilla extract, and cinnamon until well combined.",
+    "Pour the mixture evenly over the bread, pressing lightly to soak.",
+    "Sprinkle shredded mozzarella over the top of the soaked bread.",
+    "Bake for 25 minutes until the top is golden and the custard is set.",
+    "Let the casserole rest for 5 minutes before slicing.",
+    "Serve warm, optionally topped with a dusting of powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "casserole",
+    "dairy-friendly",
+    "dense",
+    "peruvian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 75,
+    "fat": 18
+  },
+  "slug": "dense-peruvian-bread-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peruvian-bread-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:23:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bread",
+    "descriptor": "Dense",
+    "dishForm": "Casserole"
+  }
+}
