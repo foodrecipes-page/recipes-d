@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Ukrainian Spinach Biryani",
+  "description": "A flavorful and nutritious Ukrainian dish featuring spinach and coconut cream, perfect for a monsoon day. This recipe is high in protein and has a unique mustardy flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "protein-rich chickpeas",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add mustard seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add spinach and cook until it is wilted.",
+    "Add basmati rice and stir to combine with the spinach mixture.",
+    "Add coconut cream, chickpeas, and salt, and stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan.",
+    "Simmer for 15 minutes or until the rice is cooked and the liquid is absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-based",
+    "high-protein",
+    "monsoon-friendly",
+    "one-pot",
+    "spinach-dish",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicate-ukrainian-spinach-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-ukrainian-spinach-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:23:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "spinach",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "spinach",
+    "descriptor": "dense fluffy",
+    "dishForm": "Biryani"
+  }
+}

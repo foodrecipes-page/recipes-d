@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Snappy Malaysian Egg Noodles",
+  "description": "A festive Malaysian dish featuring egg noodles, toast, and a mustardy flavor, served in a banana leaf vessel, making it Buddhist-temple-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the mustard seeds and cook until they start to pop.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the egg noodles and stir to combine with the curry powder mixture.",
+    "Cook the noodles for 3-4 minutes, or until they are slightly browned.",
+    "Stir in the soy sauce and cook for an additional 1-2 minutes.",
+    "Toast the bread until it is lightly browned.",
+    "Assemble the dish by placing the noodles on a banana leaf, topping with toasted bread and scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "festive-dish",
+    "malaysian-cuisine",
+    "quick-lunch",
+    "snappy-noodles",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "deliciously-snappy-malaysian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-snappy-malaysian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:23:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "egg noodles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "deliciously snappy",
+    "dishForm": "Noodles"
+  }
+}

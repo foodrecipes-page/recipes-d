@@ -1374,6 +1374,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-ukrainian-spinach-biryani",
+    "title": "Delicate Ukrainian Spinach Biryani",
+    "tags": [
+      "coconut-cream-based",
+      "high-protein",
+      "monsoon-friendly",
+      "one-pot",
+      "spinach-dish",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-venezuelan-blackcurrant-empanadas",
     "title": "Delicate Venezuelan Blackcurrant Empanadas",
     "tags": [
@@ -1733,6 +1748,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-snappy-malaysian-egg-noodles",
+    "title": "Deliciously Snappy Malaysian Egg Noodles",
+    "tags": [
+      "buddhist-temple-friendly",
+      "festive-dish",
+      "malaysian-cuisine",
+      "quick-lunch",
+      "snappy-noodles",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
