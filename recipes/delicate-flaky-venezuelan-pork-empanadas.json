@@ -1,0 +1,109 @@
+{
+  "title": "Delicate Flaky Venezuelan Pork Empanadas",
+  "description": "A traditional Venezuelan dish featuring pork shoulder, these empanadas are perfect for a sick day, with a bitter and flaky crust, and can be shaped like nigiri for a unique touch, making them shojin-friendly",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and cook the pork shoulder until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the flour and cold butter, and use a pastry blender or fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Add the beaten egg and water, and mix until the dough comes together in a ball.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place 1 tablespoon of the pork mixture in the center of each circle, and fold the dough in half to form a half moon shape, pressing the edges to seal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "delicate-flaky-venezuelan-pork-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-venezuelan-pork-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:42:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pork shoulder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "delicate flaky",
+    "dishForm": "Empanadas"
+  }
+}
