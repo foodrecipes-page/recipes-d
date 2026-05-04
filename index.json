@@ -952,6 +952,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-mediterranean-garlic-pilaf",
+    "title": "Dense Mediterranean Garlic Pilaf",
+    "tags": [
+      "cajuela",
+      "garlic",
+      "low-carb",
+      "mediterranean",
+      "one-pot",
+      "pilaf"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-middle-eastern-lentils-broth",
     "title": "Dense Middle Eastern Lentils Broth",
     "tags": [
@@ -1040,6 +1055,22 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-yunnan-noodles-dan-dan-mian",
+    "title": "Dense Yunnan Noodles Dan Dan Mian",
+    "tags": [
+      "easy",
+      "egg-free",
+      "noodles",
+      "quick",
+      "spicy",
+      "vegan-friendly",
+      "yunnan"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -1171,6 +1202,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
+    "slug": "dynamic-peppery-uruguayan-peanuts-salad",
+    "title": "Dynamic Peppery Uruguayan Peanuts Salad",
+    "tags": [
+      "keto",
+      "peppery",
+      "salad",
+      "spherified",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {

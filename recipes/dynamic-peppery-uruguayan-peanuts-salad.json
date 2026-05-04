@@ -1,0 +1,95 @@
+{
+  "title": "Dynamic Peppery Uruguayan Peanuts Salad",
+  "description": "A quick, peppery salad featuring spherified peanuts that burst with lime and chili for a keto-friendly weeknight bite.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roasted peanuts",
+      "amount": "100 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "calcium chloride solution",
+      "amount": "100 ml prepared by dissolving 0.25 tsp calcium chloride in 100 ml water"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and spread 100g roasted peanuts on a baking sheet.",
+    "Toast peanuts in the oven for 5 minutes until fragrant, then remove and let cool.",
+    "While peanuts cool, whisk together olive oil, lime juice, crushed red pepper flakes, salt, garlic powder, and chopped cilantro in a bowl.",
+    "Add the cooled peanuts to the dressing and mix until evenly coated.",
+    "Dissolve 0.5 tsp sodium alginate in 200 ml cold water using an immersion blender until smooth.",
+    "Transfer the peanut mixture into the alginate solution, stirring gently to coat each peanut with the alginate layer.",
+    "Prepare a calcium chloride bath by dissolving 0.25 tsp calcium chloride in 100 ml water.",
+    "Drop coated peanuts into the calcium chloride bath using a spoon, allowing them to form spherified pearls for 2 minutes.",
+    "Remove pearls with a slotted spoon, rinse briefly in cold water, and serve immediately over a bed of lettuce or as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "peppery",
+    "salad",
+    "spherified",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 28
+  },
+  "slug": "dynamic-peppery-uruguayan-peanuts-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dynamic-peppery-uruguayan-peanuts-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:21:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "peanuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Dynamic Peppery",
+    "dishForm": "Salad"
+  }
+}

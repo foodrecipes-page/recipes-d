@@ -1,0 +1,115 @@
+{
+  "title": "Dense Yunnan Noodles Dan Dan Mian",
+  "description": "A spicy, shaggy, light Yunnan noodle dish with lime and coconut cream, egg‑free and perfect for a quick meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried wheat noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili garlic sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed roasted peanuts",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the dried noodles for about 8 minutes until al dente, then drain and rinse with cold water.",
+    "While the noodles cook, whisk together coconut cream, soy sauce, rice vinegar, lime juice, sesame oil, chili garlic sauce, peanut butter, toasted sesame seeds, and a pinch of salt in a small bowl until smooth.",
+    "Toss the drained noodles with the sauce, ensuring each strand is coated evenly.",
+    "Divide the noodles between two bowls.",
+    "Top each bowl with diced cucumber, sliced scallions, and crushed roasted peanuts.",
+    "Drizzle a little sesame oil over the top for extra shine.",
+    "Garnish with a wedge of lime for a citrusy burst.",
+    "Serve immediately, letting diners stir all ingredients before eating."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "egg-free",
+    "noodles",
+    "quick",
+    "spicy",
+    "vegan-friendly",
+    "yunnan"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 13,
+    "carbs": 81,
+    "fat": 29
+  },
+  "slug": "dense-yunnan-noodles-dan-dan-mian",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-yunnan-noodles-dan-dan-mian",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:21:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lime",
+    "diet": "egg-free",
+    "region": "yunnan",
+    "cuisineAdjective": "Yunnan",
+    "mainIngredient": "Noodles",
+    "descriptor": "Dense",
+    "dishForm": "Dan Dan Mian"
+  }
+}
