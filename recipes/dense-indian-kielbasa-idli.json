@@ -1,0 +1,101 @@
+{
+  "title": "Dense Indian Kielbasa Idli",
+  "description": "Malty, dense, kid-friendly Indian idli packed with kielbasa and bursting tomato spheres for a high-protein twist.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "idli batter",
+      "amount": "500 g"
+    },
+    {
+      "name": "kielbasa sausage",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200°C and grease the idli molds.",
+    "In a bowl, combine the idli batter, garam masala, cumin, salt, pepper, and diced kielbasa until evenly mixed.",
+    "Pour the mixture into the prepared molds, filling each approximately three quarters full.",
+    "Steam the idlis for 12 minutes until firm and fully cooked.",
+    "While the idlis steam, prepare the spherified tomato mixture by dissolving sodium alginate in 500 ml water and stirring in tomato puree, then let it sit for 30 minutes.",
+    "Prepare a calcium bath by mixing calcium chloride with 500 ml water and pouring it into a shallow dish.",
+    "Drop spoonfuls of the tomato mixture into the calcium bath, allow them to set for 30 seconds, then transfer the spheres to a bowl of cold water.",
+    "Gently drain the spheres and set them aside until use.",
+    "When the idlis are ready, remove them from the molds, place each on a plate, and top with a few spherified tomato spheres.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 62,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-kitchen",
+    "family",
+    "high-protein",
+    "indian",
+    "kid-friendly",
+    "spherify",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 13,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "dense-indian-kielbasa-idli",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-indian-kielbasa-idli",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:22:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "kielbasa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Dense",
+    "dishForm": "Idli"
+  }
+}
