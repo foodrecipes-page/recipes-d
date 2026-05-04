@@ -1,0 +1,105 @@
+{
+  "title": "Delicate French Beetroot Blanquette",
+  "description": "A fatty and flaky French dish featuring beetroot, made with lamination puff pastry and served in a bento box, this blanquette is a nostalgic treat that is also low glycemic friendly.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, saute the chopped onion and minced garlic in melted butter until softened.",
+    "Add the diced beetroot to the skillet and cook for an additional 5 minutes.",
+    "In a small bowl, whisk together the heavy cream, salt, and pepper.",
+    "Pour the cream mixture over the beetroot mixture in the skillet and stir to combine.",
+    "Spoon the beetroot mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the blanquette in a bento box and bake for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "bento-box",
+    "french-cuisine",
+    "low-glycemic",
+    "puff-pastry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "delicate-french-beetroot-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-french-beetroot-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:14:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "beetroot",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beetroot",
+    "descriptor": "Delicate flaky",
+    "dishForm": "Blanquette"
+  }
+}
