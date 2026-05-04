@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Dutch Egg Bowl",
+  "description": "An airy, low-sodium brunch bowl featuring sous‑vied eggs, dashi‑infused tofu, and a touch of sesame oil.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "100 g"
+    },
+    {
+      "name": "low-sodium dashi broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "fresh scallions, chopped",
+      "amount": "2 tbsp (12 g)"
+    },
+    {
+      "name": "fresh microgreens",
+      "amount": "1 tbsp (5 g)"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "white pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide water bath to 63°C.",
+    "Place the eggs in a sealed pouch and cook sous‑vide for 45 minutes.",
+    "While the eggs cook, heat the dashi broth in a saucepan until it is just simmering.",
+    "Gently fold the silken tofu into the hot dashi and simmer for 2 minutes, then keep warm.",
+    "When the eggs are finished, remove them from the pouch and gently peel them into a bowl.",
+    "Add the warm rice to the bottom of the bowl, then top with tofu and the peeled eggs.",
+    "Drizzle toasted sesame oil and low‑sodium soy sauce over the bowl, and sprinkle grated ginger.",
+    "Garnish with chopped scallions, microgreens, and a pinch of white pepper before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dashi",
+    "egg-bowl",
+    "low-sodium",
+    "quick",
+    "sous-vide",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 23,
+    "fat": 16
+  },
+  "slug": "delicate-dutch-egg-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dutch-egg-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:39:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "dashi",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Egg",
+    "descriptor": "Delicate",
+    "dishForm": "Bowl"
+  }
+}

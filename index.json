@@ -1095,6 +1095,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-dutch-egg-bowl",
+    "title": "Delicate Dutch Egg Bowl",
+    "tags": [
+      "brunch",
+      "dashi",
+      "egg-bowl",
+      "low-sodium",
+      "quick",
+      "sous-vide",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-egyptian-couscous-casserole",
     "title": "Delicate Egyptian Couscous Casserole",
     "tags": [
