@@ -1,0 +1,93 @@
+{
+  "title": "Dreamy Sweet British Peppers Trifle",
+  "description": "A romantic British dessert featuring mixed peppers and candy, made with ayurvedic-sattvic-friendly ingredients. This trifle is a unique blend of salty, chewy, and sweet flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "any color"
+    },
+    {
+      "name": "candy canes",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "ginger snaps",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Roast the mixed peppers in the oven for 30 minutes.",
+    "Let the peppers cool down to room temperature.",
+    "Layer the roasted peppers, crushed candy canes, and crushed ginger snaps in a large bowl.",
+    "Mix the whipped cream, honey, lemon juice, vanilla extract, and salt in a separate bowl.",
+    "Pour the cream mixture over the layered ingredients in the bowl.",
+    "Refrigerate the trifle for at least 2 hours before serving.",
+    "Serve the trifle chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-desserts",
+    "gluten-free",
+    "romantic-dishes",
+    "unique-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "dreamy-sweet-british-peppers-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-sweet-british-peppers-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:18:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "mixed peppers",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "peppers",
+    "descriptor": "dreamy sweet",
+    "dishForm": "Trifle"
+  }
+}
