@@ -1,0 +1,100 @@
+{
+  "title": "Dark Gooey Argentinian Beef Empanadas",
+  "description": "A citrusy and gooey Argentinian dish featuring salted butter and score fat, perfect for a midnight craving, this flexitarian friendly empanada is a must try. It combines the richness of beef with the brightness of citrus.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour and melted salted butter to make the empanada dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "In a separate pan, cook the ground beef over medium heat until browned, breaking it into small pieces as it cooks.",
+    "Add diced onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in score fat and orange zest into the beef mixture.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "citrus-flavors",
+    "flexitarian-friendly",
+    "gooey-pastry",
+    "midnight-cravings",
+    "savory-snacks"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "dark-gooey-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-gooey-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:02:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "salted butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "dark gooey",
+    "dishForm": "Empanadas"
+  }
+}

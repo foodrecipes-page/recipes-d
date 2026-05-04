@@ -98,6 +98,22 @@
     "shard": "d"
   },
   {
+    "slug": "dark-gooey-argentinian-beef-empanadas",
+    "title": "Dark Gooey Argentinian Beef Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-empanadas",
+      "citrus-flavors",
+      "flexitarian-friendly",
+      "gooey-pastry",
+      "midnight-cravings",
+      "savory-snacks"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-grilled-algerian-date-skewers",
     "title": "Dark Grilled Algerian Date Skewers",
     "tags": [
