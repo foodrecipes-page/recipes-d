@@ -1,0 +1,93 @@
+{
+  "title": "Dark Roasted Spanish Chicken Paella",
+  "description": "A hearty and flavorful Spanish dish featuring roasted chicken, pomegranate molasses, and a touch of sweetness, perfect for a sick day or a cozy night in.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, pomegranate molasses, smoked paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat a large skillet over medium-high heat and add the chicken, cooking until browned on all sides.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the Arborio rice to the skillet, stirring to coat with the oil and mix with the chicken and garlic.",
+    "Transfer the skillet to the preheated oven and roast for 25 minutes, until the chicken is cooked through and the rice is tender.",
+    "Remove the skillet from the oven and flambe with a small amount of brandy, if desired.",
+    "Serve the paella hot, garnished with fresh herbs and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "dark-roasted-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:38:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "dark roasted",
+    "dishForm": "Paella"
+  }
+}

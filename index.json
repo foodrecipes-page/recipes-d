@@ -40,6 +40,20 @@
     "shard": "d"
   },
   {
+    "slug": "dark-roasted-spanish-chicken-paella",
+    "title": "Dark Roasted Spanish Chicken Paella",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "roasted-chicken",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-rummy-crumble",
     "title": "Dark Rummy Crumble",
     "tags": [
