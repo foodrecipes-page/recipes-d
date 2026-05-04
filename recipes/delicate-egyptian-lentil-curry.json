@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Egyptian Lentil Curry",
+  "description": "A fragrant, anti-inflammatory curry with panang paste, yuzu zest, and earthy lentils that captures the essence of a monsoon in Cairo.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried red lentils",
+      "amount": "200g",
+      "notes": "rinse and drain"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "low-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh yuzu zest",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "15g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a saucepan over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic, grated ginger, and panang curry paste, cooking for another minute until fragrant.",
+    "Add rinsed lentils, coconut milk, and vegetable broth, bring the mixture to a gentle boil.",
+    "Reduce heat, cover, and simmer for 18 minutes, until lentils are tender.",
+    "Stir in yuzu zest, lime juice, and half the chopped cilantro, allowing flavors to meld for 2 minutes.",
+    "Taste and season with salt to preference, then remove from heat.",
+    "Transfer the curry to serving bowls and sprinkle remaining cilantro on top.",
+    "Serve hot with steamed jasmine rice or flatbread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "easy-curry",
+    "egyptian",
+    "herbal",
+    "monsoon",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 50,
+    "carbs": 140,
+    "fat": 22
+  },
+  "slug": "delicate-egyptian-lentil-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-egyptian-lentil-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:51:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "panang curry paste",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentil",
+    "descriptor": "Delicate",
+    "dishForm": "Curry"
+  }
+}

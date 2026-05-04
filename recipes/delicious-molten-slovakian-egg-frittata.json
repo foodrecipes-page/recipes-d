@@ -1,0 +1,91 @@
+{
+  "title": "Delicious Molten Slovakian Egg Frittata",
+  "description": "A mustardy, molten, brunch-mood Slovakian dish featuring madras paste, this frittata is perfect for a weekend morning, and is ayurvedic-sattvic-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, madras paste, mustard, salt, and black pepper until well combined.",
+    "In a separate bowl, mix together the sour cream and shredded cheese until smooth.",
+    "Add the sour cream mixture to the egg mixture and stir until fully incorporated.",
+    "Pour the egg mixture into a greased 9-inch skillet.",
+    "Sprinkle the chopped parsley over the top of the egg mixture.",
+    "Bake the frittata for 25 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the frittata from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicious-molten-slovakian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-molten-slovakian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:52:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "madras paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "eggs",
+    "descriptor": "delicious molten",
+    "dishForm": "Frittata"
+  }
+}

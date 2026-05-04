@@ -900,6 +900,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-egyptian-lentil-curry",
+    "title": "Delicate Egyptian Lentil Curry",
+    "tags": [
+      "anti-inflammatory",
+      "easy-curry",
+      "egyptian",
+      "herbal",
+      "monsoon",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-filipino-tofu-soup",
     "title": "Delicate Filipino Tofu Soup",
     "tags": [
@@ -1536,6 +1551,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-molten-slovakian-egg-frittata",
+    "title": "Delicious Molten Slovakian Egg Frittata",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weekend-brunch"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
