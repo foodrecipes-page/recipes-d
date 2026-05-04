@@ -1,0 +1,105 @@
+{
+  "title": "Deliciously Sour Argentinian Tamarind Skewers",
+  "description": "A quick and easy Argentinian dish featuring tamarind paste, this recipe is perfect for a light and sour snack. It is vegetarian friendly and can be prepared in no time.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "1/4 cup",
+      "notes": "makham"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, pound the tamarind paste with a pinch of salt until it is well mixed.",
+    "Thread the tofu, red onion, red bell pepper, zucchini, and cherry tomatoes onto skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers over medium heat for 10 minutes, turning occasionally.",
+    "Brush the skewers with the tamarind paste mixture during the last 2 minutes of grilling.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Repeat with remaining ingredients if necessary.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "grilled-food",
+    "light-meal",
+    "quick-fix",
+    "sour-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "deliciously-sour-argentinian-tamarind-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-sour-argentinian-tamarind-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:09:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Deliciously sour",
+    "dishForm": "Skewers"
+  }
+}
