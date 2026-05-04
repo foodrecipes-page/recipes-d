@@ -379,6 +379,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-chinese-goats-cheese-chow-fun",
+    "title": "Decadent Chinese Goats Cheese Chow-Fun",
+    "tags": [
+      "chocolate",
+      "high-protein",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-crunchy-mediterranean-pita-flatbread",
     "title": "Decadent Crunchy Mediterranean pita Flatbread",
     "tags": [
@@ -2386,6 +2400,20 @@
       "weeknight-meals"
     ],
     "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-chinese-pork-scallion-pancake",
+    "title": "Deliciously Dense Chinese Pork Scallion Pancake",
+    "tags": [
+      "cedar-plank",
+      "chinese-food",
+      "high-protein",
+      "midnight-craving",
+      "scallion-pancake"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "d"
   },

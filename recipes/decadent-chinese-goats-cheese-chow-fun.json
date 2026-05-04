@@ -1,0 +1,113 @@
+{
+  "title": "Decadent Chinese Goats Cheese Chow-Fun",
+  "description": "A rich, umami-packed Chinese-inspired dish featuring shattering crispy noodles, creamy goats cheese, and a hint of tempering chocolate. Perfect for a post-workout meal that's both rejuvenating and satisfying.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "200g",
+      "notes": "preferably rice-based or egg-based for best results"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the noodles and stir-fry for 2-3 minutes, or until they start to brown.",
+    "Add the soy sauce, sugar, and sesame oil, and stir-fry for another minute.",
+    "Add the goats cheese and stir-fry until it starts to melt and the noodles are well coated.",
+    "Add the chopped scallions and toasted sesame seeds, and stir-fry for another minute.",
+    "Transfer the noodles to a serving platter or individual plates.",
+    "Drizzle with tempering chocolate and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "decadent-chinese-goats-cheese-chow-fun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-chinese-goats-cheese-chow-fun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "goats cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Decadent",
+    "dishForm": "Chow-Fun"
+  }
+}

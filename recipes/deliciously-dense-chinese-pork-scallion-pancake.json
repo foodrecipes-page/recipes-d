@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Dense Chinese Pork Scallion Pancake",
+  "description": "A nutty and bouncy midnight craving Chinese dish featuring ground allspice and scallions, served on a cedar plank. High in protein and perfect for a snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khao khua",
+      "amount": "1/2 cup",
+      "notes": "toasted rice powder"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, all-purpose flour, ground allspice, and salt, and mix until just combined.",
+    "Add the chopped scallions, rice flour, and khao khua to the bowl, and mix until a shaggy dough forms.",
+    "Add the eggs to the bowl, and mix until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces, and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat the vegetable oil in a large skillet over medium-high heat, and fry the pancakes until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Serve the pancakes hot on a cedar plank, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "chinese-food",
+    "high-protein",
+    "midnight-craving",
+    "scallion-pancake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "deliciously-dense-chinese-pork-scallion-pancake",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-chinese-pork-scallion-pancake",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:09:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground allspice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Scallion Pancake"
+  }
+}
