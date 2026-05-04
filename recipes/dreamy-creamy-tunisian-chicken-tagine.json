@@ -1,0 +1,104 @@
+{
+  "title": "Dreamy Creamy Tunisian Chicken Tagine",
+  "description": "A sour, creamy, and cozy Tunisian dish featuring salsa and coconut cream, perfect for a keto-friendly dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the garlic, paprika, cumin, salt, and pepper to the pot and cook for 1 minute.",
+    "Stir in the salsa, coconut cream, and lemon juice, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the tagine simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Let the tagine cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "cozy-dinners",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "dreamy-creamy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:09:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "salsa",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Tagine"
+  }
+}
