@@ -1270,6 +1270,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-dutch-beet-salad",
+    "title": "Delicious Dutch Beet Salad",
+    "tags": [
+      "beet",
+      "crunchy",
+      "dutch",
+      "nostalgic",
+      "sour",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-egyptian-lentil-stew",
     "title": "Delicious Egyptian Lentil Stew",
     "tags": [

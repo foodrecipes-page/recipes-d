@@ -1,0 +1,101 @@
+{
+  "title": "Delicious Dutch Beet Salad",
+  "description": "A sour, crunchy salad that evokes Dutch nostalgia with boiled beets, tangy lemon-mustard dressing, toasted walnuts, and optional feta.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets, medium",
+      "amount": "4",
+      "notes": "sliced into wedges after boiling"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "walnuts, toasted",
+      "amount": "50g"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "50g",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Place the beets in a large pot and cover with cold water; bring to a boil and simmer until tender, about 45 minutes.",
+    "Drain the beets and let them cool until they can be handled; slice into bite-sized wedges and set aside.",
+    "In a small bowl whisk together the lemon zest, juice, olive oil, mustard, honey, salt, and pepper until the mixture is smooth and slightly thickened.",
+    "Toss the beet wedges with the dressing in a large bowl and stir to coat evenly.",
+    "Sprinkle the toasted walnuts, crumbled feta, and chopped parsley over the salad and gently mix.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Serve the salad chilled or at room temperature, optionally accompanied by crusty rye bread.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beet",
+    "crunchy",
+    "dutch",
+    "nostalgic",
+    "sour",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 17
+  },
+  "slug": "delicious-dutch-beet-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-dutch-beet-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:53:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "boiling water",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Beet",
+    "descriptor": "Delicious",
+    "dishForm": "Salad"
+  }
+}
