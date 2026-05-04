@@ -374,6 +374,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-herbal-mexican-fish-tamales",
+    "title": "Delicate Herbal Mexican Fish Tamales",
+    "tags": [
+      "fish-recipes",
+      "herbal-dishes",
+      "kid-friendly",
+      "mexican-food",
+      "steamed-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-norwegian-chuck-roast",
     "title": "Delicate Norwegian Chuck Roast",
     "tags": [

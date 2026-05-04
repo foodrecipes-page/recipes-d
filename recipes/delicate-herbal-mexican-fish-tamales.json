@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Herbal Mexican Fish Tamales",
+  "description": "A light and kid-friendly Mexican dish featuring herbal flavors and buckwheat flour, perfect for a weeknight dinner. This pescatarian-friendly recipe is made with ferment-jang and served in a lazy-susan-spinner vessel.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "freshly milled"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, whisk together the buckwheat flour, ferment-jang, and a pinch of salt.",
+    "Add the chopped cilantro, lime juice, olive oil, and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and roll each into a ball.",
+    "Flatten each ball into a thin circle and place a piece of cod fillet in the center.",
+    "Fold the sides of the dough over the filling and roll up the tamale, folding the top over to seal.",
+    "Place the tamales in a large steamer basket and steam for 15 minutes.",
+    "Serve the tamales hot with a sprinkle of dried oregano and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "herbal-dishes",
+    "kid-friendly",
+    "mexican-food",
+    "steamed-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-herbal-mexican-fish-tamales",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herbal-mexican-fish-tamales",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:52:41Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "delicate herbal",
+    "dishForm": "Tamales"
+  }
+}
