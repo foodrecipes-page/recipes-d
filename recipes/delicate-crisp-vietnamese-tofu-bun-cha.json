@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Crisp Vietnamese Tofu Bun Cha",
+  "description": "A romantic Vietnamese dish featuring crispy tofu and fresh herbs, served in a copper pot with 00-flour ssam wraps",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "00-flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "8-10 wraps"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 cup",
+      "notes": "such as mint, basil, and cilantro"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a shallow dish, mix together the 00-flour and cornstarch",
+    "Toss the tofu cubes in the flour mixture to coat",
+    "Heat the vegetable oil in a large skillet over medium-high heat",
+    "Add the coated tofu to the skillet and cook until crispy and golden brown",
+    "In a small bowl, whisk together the lime juice, soy sauce, and maple syrup",
+    "Pour the sauce over the crispy tofu and toss to coat",
+    "Arrange the ssam wraps in the copper pot",
+    "Add the crispy tofu and fresh herbs to the copper pot",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "crispy-tofu",
+    "fresh-herbs",
+    "plant-based",
+    "romantic-dinner",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "delicate-crisp-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:39:17Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "00-flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Delicate Crisp",
+    "dishForm": "Bun Cha"
+  }
+}
