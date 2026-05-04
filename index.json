@@ -81,6 +81,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-smoked-irish-cookies-cookies",
+    "title": "Dark Smoked Irish Cookies",
+    "tags": [
+      "cedar-plank",
+      "dark-chocolate",
+      "gluten-free",
+      "irish-desserts",
+      "low-glycemic",
+      "smoked"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "date-cherry-crunchy-stir-fry",
     "title": "Date Cherry Crunchy Stir Fry",
     "tags": [
