@@ -1,0 +1,93 @@
+{
+  "title": "Delicious Chinese Noodles Chow Fun",
+  "description": "A quick and savory Chinese dish featuring oyster sauce and wok-hei, perfect for a weeknight dinner. This dairy-free-friendly recipe is made with chow fun noodles and can be prepared in under 30 minutes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chow fun noodles",
+      "amount": "1 package",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over high heat.",
+    "Add the sliced onion and cook until it starts to caramelize.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chow fun noodles and stir to combine with the onion and garlic.",
+    "Add the oyster sauce, soy sauce, and sugar, and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Remove from heat and stir in the sesame oil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "one-pan",
+    "quick-fix",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicious-chinese-noodles-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-chinese-noodles-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:49:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "oyster sauce",
+    "diet": "dairy-free",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Delicious",
+    "dishForm": "Chow Fun"
+  }
+}

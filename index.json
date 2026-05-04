@@ -1614,6 +1614,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-chinese-noodles-chow-fun",
+    "title": "Delicious Chinese Noodles Chow Fun",
+    "tags": [
+      "asian-inspired",
+      "one-pan",
+      "quick-fix",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-copper-ukrainian-spaghetti-pasta",
     "title": "Delicious Copper Ukrainian Spaghetti Pasta",
     "tags": [
