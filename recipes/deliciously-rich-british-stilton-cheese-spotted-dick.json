@@ -1,0 +1,93 @@
+{
+  "title": "Deliciously Rich British Stilton Cheese Spotted Dick",
+  "description": "A rich and energizing British dessert featuring Stilton cheese, this spotted dick is a twist on the traditional suet pudding, made with a mantecare emulsification method to create a silky texture, and is nut-free friendly.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, sugar, and salt.",
+    "Add the melted butter, eggs, milk, and vanilla extract to the dry ingredients and mix until a smooth batter forms.",
+    "Crumble the Stilton cheese into the batter and mix until well combined.",
+    "Pour the batter into a greased 9x5 inch loaf pan.",
+    "Bake for 45 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove the spotted dick from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the spotted dick to a wire rack to cool completely.",
+    "Slice and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "dessert",
+    "easy-to-make",
+    "rich-and-decadent",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "deliciously-rich-british-stilton-cheese-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-rich-british-stilton-cheese-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:25:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "stilton cheese",
+    "diet": "nut-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Stilton Cheese",
+    "descriptor": "Deliciously Rich",
+    "dishForm": "Spotted Dick"
+  }
+}
