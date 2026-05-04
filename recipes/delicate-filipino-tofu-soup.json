@@ -1,0 +1,113 @@
+{
+  "title": "Delicate Filipino Tofu Soup",
+  "description": "A light, bitter and creamy bowl of silken tofu in a coconut-ginger broth, perfect for a quick weeknight meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "200g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Baby bok choy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pot over medium heat.",
+    "Add grated ginger and minced garlic, sauté until fragrant.",
+    "Pour in coconut milk and vegetable broth, bring to a gentle simmer.",
+    "Fold in silken tofu cubes and baby bok choy, cook for 3 minutes.",
+    "Season with soy sauce, lime juice, chili flakes, salt, and pepper.",
+    "Simmer for another minute to meld flavors.",
+    "Remove from heat and ladle into bowls.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "low-carb",
+    "soup",
+    "tofu",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "delicate-filipino-tofu-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-filipino-tofu-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:18:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "silken tofu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Delicate",
+    "dishForm": "Soup"
+  }
+}
