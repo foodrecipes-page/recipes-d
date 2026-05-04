@@ -2194,6 +2194,22 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-australian-corn-tacos",
+    "title": "Deliciously Dense Australian Corn Tacos",
+    "tags": [
+      "australian",
+      "corn",
+      "one-pot",
+      "tacos",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-croatian-pork-pilaf",
     "title": "Deliciously Dense Croatian Pork Pilaf",
     "tags": [
