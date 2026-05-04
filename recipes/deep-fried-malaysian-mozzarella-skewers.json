@@ -1,0 +1,91 @@
+{
+  "title": "Deep Fried Malaysian Mozzarella Skewers",
+  "description": "A Malaysian-inspired brunch dish featuring crispy fried mozzarella balls, perfect for a savory and satisfying meal. This dish combines the richness of mozzarella with the bold flavors of Malaysian cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, cornstarch, salt, and white pepper.",
+    "In a separate dish, beat the eggs.",
+    "In a third dish, place the panko breadcrumbs.",
+    "Dip each mozzarella ball into the flour mixture, then the eggs, and finally the panko breadcrumbs, coating evenly.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Fry the mozzarella balls in batches until golden brown, about 2-3 minutes per batch.",
+    "Remove the fried mozzarella balls from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the deep fried mozzarella balls hot on skewers.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "malaysian-cuisine",
+    "mozzarella-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "deep-fried-malaysian-mozzarella-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-malaysian-mozzarella-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:04:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Deep fried",
+    "dishForm": "Skewers"
+  }
+}
