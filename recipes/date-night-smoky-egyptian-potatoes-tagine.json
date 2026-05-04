@@ -1,0 +1,109 @@
+{
+  "title": "Date-Night Smoky Egyptian Potatoes Tagine",
+  "description": "Earthy, fluffy, and char-grilled potatoes in a smoky Egyptian-inspired dish, perfect for a date night. This FODMAP-friendly recipe serves 2 and can be prepared quickly.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 kg Yukon Gold potatoes",
+      "amount": "peeled and cut into 1-inch wedges",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet to medium-high heat.",
+    "Add the olive oil to the wok and swirl to coat the bottom.",
+    "Add the potatoes to the wok and cook for 5 minutes, or until they start to brown.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the wok and stir to combine.",
+    "Add the garlic to the wok and cook for 1 minute, or until fragrant.",
+    "Stir in the parsley and cook for another 1-2 minutes, or until the potatoes are tender.",
+    "Drizzle the honey over the potatoes and stir to combine.",
+    "Stir in the cilantro and cook for 1 minute.",
+    "Transfer the potatoes to a serving platter or individual plates.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "date-night",
+    "egyptian",
+    "fodmap-friendly",
+    "one-pan",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "date-night-smoky-egyptian-potatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-smoky-egyptian-potatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Date-Night Smoky",
+    "dishForm": "Tagine"
+  }
+}
