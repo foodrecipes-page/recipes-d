@@ -1,0 +1,101 @@
+{
+  "title": "decadent gooey mediterranean mascarpone galette",
+  "description": "a rich and gooey dessert featuring mascarpone, crispy philo, and the flavors of the mediterranean. perfect for a festive evening.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": "whisked"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": "warmed"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "wrap the phyllo dough in plastic wrap and let it thaw at room temperature for 30 minutes.",
+    "in a medium bowl, whisk together the mascarpone cheese, egg yolks, honey, orange blossom water, and ground cinnamon.",
+    "unroll the phyllo dough and cut it into 12 equal squares.",
+    "brush the phyllo squares with melted butter and arrange 4 squares in a circular pattern on a baking sheet.",
+    "spread a quarter of the mascarpone mixture on top of the phyllo squares, leaving a 1-inch border around the edges.",
+    "top with another 4 phyllo squares and brush with melted butter.",
+    "repeat the layers two more times, ending with a phyllo square on top.",
+    "brush the top phyllo square with melted butter and sprinkle with chopped thyme.",
+    "bake the galette for 25-30 minutes, or until the phyllo is golden brown and the filling is set.",
+    "remove the galette from the oven and let it cool for 10 minutes.",
+    "transfer the galette to a serving plate and let it cool completely."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "festival",
+    "greek",
+    "high-calorie",
+    "mascarpone",
+    "mediterranean",
+    "phyllo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 16,
+    "carbs": 64,
+    "fat": 36
+  },
+  "slug": "decadent-gooey-mediterranean-mascarpone-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-gooey-mediterranean-mascarpone-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:15:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "mascarpone",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "mascarpone",
+    "descriptor": "Decadent Gooey",
+    "dishForm": "Galette"
+  }
+}

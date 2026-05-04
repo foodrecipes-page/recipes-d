@@ -141,6 +141,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-gooey-mediterranean-mascarpone-galette",
+    "title": "decadent gooey mediterranean mascarpone galette",
+    "tags": [
+      "dessert",
+      "festival",
+      "greek",
+      "high-calorie",
+      "mascarpone",
+      "mediterranean",
+      "phyllo"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-greek-pasta-lasagna",
     "title": "Decadent Greek Pasta Lasagna",
     "tags": [
