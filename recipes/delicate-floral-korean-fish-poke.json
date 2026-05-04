@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Floral Korean Fish Poke",
+  "description": "A light and velvety Korean dish featuring sashimi-cut fish, full fat sour cream, and floral notes, inspired by the Chungcheong region, and kosher-friendly. This dish is perfect for those looking for a delicate and refreshing seafood experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi-grade fish",
+      "amount": "1 pound",
+      "notes": "such as halibut or snapper"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "such as violas or pansies"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thinly sliced green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the sashimi-grade fish into small cubes and place them in a large bowl.",
+    "In a small bowl, whisk together the full fat sour cream, Gochujang, honey, rice vinegar, and sesame oil until smooth.",
+    "Pour the sour cream mixture over the fish and gently fold until the fish is well coated.",
+    "Sprinkle the edible flowers, toasted sesame seeds, and thinly sliced green onions over the top of the fish.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the fish a gentle stir and adjust the seasoning if needed.",
+    "Serve the fish poke chilled, garnished with additional edible flowers if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "delicate",
+    "easy-meal",
+    "floral",
+    "korean-cuisine",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-floral-korean-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-floral-korean-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:26:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "kosher",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "delicate floral",
+    "dishForm": "Poke"
+  }
+}
