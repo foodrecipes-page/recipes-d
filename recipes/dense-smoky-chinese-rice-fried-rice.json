@@ -1,0 +1,94 @@
+{
+  "title": "Dense Smoky Chinese Rice Fried Rice",
+  "description": "A nostalgic, smoky fried rice with toasted butter, tofu, and bell pepper, made Jain-friendly with no eggs or root vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "3 cups (240g)"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp (30g)",
+      "notes": "to be toasted for smoky flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp (5ml)"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup (150g)"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup (100g)",
+      "notes": "diced"
+    },
+    {
+      "name": "green onion",
+      "amount": "3 stalks",
+      "notes": "green parts only"
+    }
+  ],
+  "instructions": [
+    "Heat a large wok over medium heat and melt the butter until it turns golden brown and fragrant.",
+    "Add the diced bell pepper to the wok and stir-fry for 2 minutes or until slightly softened.",
+    "Toss in the cubed tofu and cook until the edges are golden and the tofu is heated through, about 3 minutes.",
+    "Stir in the cooked rice, ensuring that the grains are well coated with butter and oil.",
+    "Pour the soy sauce and sesame oil over the rice, mixing thoroughly so the sauce is evenly distributed.",
+    "Fold in the frozen peas, cooking for an additional 2 minutes until the peas are bright green and heated.",
+    "Season the fried rice with a pinch of salt if desired, then remove from heat.",
+    "Serve hot, garnished with sliced green onions, and enjoy the dense, smoky flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dense",
+    "jain-friendly",
+    "rice-fried",
+    "smoky",
+    "tofu",
+    "yangzhou"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 26,
+    "fat": 10
+  },
+  "slug": "dense-smoky-chinese-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-chinese-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:07:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "melted butter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Rice",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Fried Rice"
+  }
+}

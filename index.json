@@ -938,6 +938,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-smoky-chinese-rice-fried-rice",
+    "title": "Dense Smoky Chinese Rice Fried Rice",
+    "tags": [
+      "dense",
+      "jain-friendly",
+      "rice-fried",
+      "smoky",
+      "tofu",
+      "yangzhou"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dense-tunisian-almond-butter-tagine",
     "title": "Dense Tunisian Almond Butter Tagine",
     "tags": [
