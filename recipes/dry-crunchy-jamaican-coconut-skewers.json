@@ -1,0 +1,96 @@
+{
+  "title": "Dry Crunchy Jamaican Coconut Skewers",
+  "description": "A light and crunchy Jamaican dish featuring desiccated coconut, this recipe is Whole30-friendly and perfect for a snack. The bitter flavor is balanced by the sweetness of the coconut.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Whole30",
+    "Paleo",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Desiccated coconut",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12 pieces"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Soak the bamboo skewers in water for 30 minutes.",
+    "Mix the desiccated coconut, coconut oil, lime juice, salt, black pepper, and scotch bonnet pepper in a bowl.",
+    "Thread a small amount of the coconut mixture onto each bamboo skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 15 minutes, flipping them halfway through.",
+    "Remove the skewers from the oven and let them cool completely.",
+    "Sprinkle the chopped cilantro over the skewers and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "gluten-free",
+    "jamaican",
+    "low-carb",
+    "paleo",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "dry-crunchy-jamaican-coconut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-crunchy-jamaican-coconut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:02:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "coconut",
+    "descriptor": "Dry crunchy",
+    "dishForm": "Skewers"
+  }
+}
