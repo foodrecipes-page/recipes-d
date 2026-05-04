@@ -1,0 +1,113 @@
+{
+  "title": "Dried Smoky Japanese Lettuce Okonomiyaki",
+  "description": "A crisp, smoky okonomiyaki made with shredded iceberg lettuce and a dairy‑free batter, served as a quick energizing snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce, shredded",
+      "amount": "200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Silken tofu",
+      "amount": "50g"
+    },
+    {
+      "name": "Water",
+      "amount": "120ml"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Grate or shred the iceberg lettuce and place it in a bowl.",
+    "Whisk the flour, nutritional yeast, smoked paprika, salt, and pepper with the water until smooth.",
+    "Blend the silken tofu into the batter until it is completely incorporated.",
+    "Fold the shredded lettuce into the batter, then stir in the miso paste and soy sauce.",
+    "Heat a non‑stick skillet over medium heat and spray lightly with oil.",
+    "Pour half of the batter into the skillet, spreading into a 6‑inch circle.",
+    "Cook for 4 minutes until the edges start to set, then flip and cook for another 3 minutes.",
+    "Brush the top with maple syrup and sprinkle sesame seeds before flipping the second time.",
+    "Cook for 2 more minutes until the okonomiyaki is crisp and browned.",
+    "Repeat with the remaining batter to make a second pancake.",
+    "Serve hot, optionally garnished with extra sesame seeds or a drizzle of soy sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "low-fat",
+    "okonomiyaki",
+    "quick",
+    "smoky",
+    "snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "dried-smoky-japanese-lettuce-okonomiyaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-smoky-japanese-lettuce-okonomiyaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:53:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "dairy-free",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lettuce",
+    "descriptor": "Dried Smoky",
+    "dishForm": "Okonomiyaki"
+  }
+}

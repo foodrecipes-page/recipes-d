@@ -1,0 +1,109 @@
+{
+  "title": "Decadent Venezuelan Chicken Wrap",
+  "description": "Buttery, snappy, indulgent Venezuelan chicken wrapped in fragrant pandan leaves and ancho chili flavor.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200 g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "ancho chili paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1/2",
+      "notes": "juice"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "1",
+      "notes": "washed, dried"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat and add butter until melted.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add diced chicken breast and cook until browned on all sides and cooked through, about 6-7 minutes.",
+    "Stir in ancho chili paste and lime juice, cooking for another 2 minutes to blend flavors.",
+    "Remove chicken from heat and stir in chopped cilantro, salt, and pepper.",
+    "Lay a pandan leaf flat on a clean surface and place the chicken mixture in the center.",
+    "Fold the sides of the leaf over the filling and roll tightly to form a wrap, securing with a toothpick if desired.",
+    "Serve warm, optionally with a side of fresh salsa or a drizzle of lime crema."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "nut-free",
+    "pandan-leaf",
+    "savory",
+    "venezuelan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "decadent-venezuelan-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-venezuelan-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:53:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "ancho chillies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Decadent",
+    "dishForm": "Wrap"
+  }
+}

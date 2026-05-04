@@ -321,6 +321,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-venezuelan-chicken-wrap",
+    "title": "Decadent Venezuelan Chicken Wrap",
+    "tags": [
+      "nut-free",
+      "pandan-leaf",
+      "savory",
+      "venezuelan",
+      "wrap"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [
@@ -1515,6 +1529,22 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dried-smoky-japanese-lettuce-okonomiyaki",
+    "title": "Dried Smoky Japanese Lettuce Okonomiyaki",
+    "tags": [
+      "dairy-free",
+      "low-fat",
+      "okonomiyaki",
+      "quick",
+      "smoky",
+      "snack",
+      "vegan-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
