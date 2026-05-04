@@ -3316,6 +3316,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-kenyan-biscuit-clay-pot",
+    "title": "Dense Kenyan Biscuit Clay Pot",
+    "tags": [
+      "biscuit",
+      "kenyan",
+      "mustard",
+      "sunday-roast",
+      "weekend-brunch"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "dense-kenyan-lentil-dumplings",
     "title": "Dense Kenyan Lentil Dumplings",
     "tags": [

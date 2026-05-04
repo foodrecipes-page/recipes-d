@@ -1,0 +1,116 @@
+{
+  "title": "Dense Kenyan Biscuit Clay Pot",
+  "description": "A dense, moist, and flavorful biscuit-like dish from Kenya, perfect for a weekend brunch. With a subtle mustard flavor and no onions or garlic in sight!",
+  "cuisine": "kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "2 teaspoons",
+      "notes": "make sure it's fresh for best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use kosher salt if possible"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened for best results"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor clay pot to 400°F (200°C).",
+    "In a large mixing bowl, whisk together the flour, bicarbonate of soda, salt, and sugar.",
+    "Add the softened butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the egg, yogurt, mustard seeds, and water.",
+    "Add the yeast to the wet ingredients and stir to combine.",
+    "Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in the preheated clay pot and cover with a lid.",
+    "Bake for 35-40 minutes or until the biscuits are golden brown and a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving.",
+    "Garnish with black sesame seeds if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "kenyan",
+    "mustard",
+    "sunday-roast",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "dense-kenyan-biscuit-clay-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-kenyan-biscuit-clay-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "biscuit",
+    "descriptor": "Dense",
+    "dishForm": "Bread"
+  }
+}
