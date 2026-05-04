@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Mexican Redcurrants Horchata Bowl",
+  "description": "A refreshing, sour horchata bowl with lightly fried redcurrants, perfect for a quick weeknight treat.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "zest of 1 lime"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine coconut milk and warm water, heat over medium until warm but not boiling.",
+    "Whisk in almond flour, ground cinnamon, vanilla extract, and sea salt until the mixture is smooth and free of lumps.",
+    "Simmer the mixture over low heat for 8 minutes, stirring occasionally, until it thickens slightly.",
+    "Remove the saucepan from the heat and let the mixture cool to room temperature, then chill it in the refrigerator for at least 30 minutes to set.",
+    "While the horchata chills, rinse the redcurrants under cold water and pat them dry with a paper towel.",
+    "Toss the redcurrants with chili powder, lime zest, and a pinch of crushed peppercorns until they are evenly coated.",
+    "Heat a small nonstick skillet over medium-high heat, add a splash of coconut oil, and swirl to coat the surface.",
+    "Add the seasoned redcurrants to the skillet and sear them for 2 minutes, flipping once, until they develop a slight char and soften.",
+    "To serve, pour chilled horchata into bowls and top with the seared redcurrants, then drizzle each bowl with fresh lime juice.",
+    "Garnish with a few extra lime zest curls and a sprinkle of ground cinnamon for an extra burst of flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "fried",
+    "horchata",
+    "mexican",
+    "quick",
+    "redcurrant",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 15,
+    "carbs": 26,
+    "fat": 49
+  },
+  "slug": "delicate-mexican-redcurrants-horchata-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-mexican-redcurrants-horchata-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:57:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "redcurrants",
+    "diet": "whole30",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Delicate",
+    "dishForm": "Horchata Bowl"
+  }
+}
