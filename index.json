@@ -2226,6 +2226,19 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-dry-greek-gigantes-plaki",
+    "title": "Delicious Dry Greek Gigantes Plaki",
+    "tags": [
+      "easy-weeknight",
+      "greek",
+      "low-sodium",
+      "one-pan"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-dutch-beet-salad",
     "title": "Delicious Dutch Beet Salad",
     "tags": [
@@ -3568,6 +3581,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-pressure-cooked-malaysian-celery-stew",
+    "title": "Dense Pressure-Cooked Malaysian Celery Stew",
+    "tags": [
+      "celery",
+      "meal-prep",
+      "pressure-cooked",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

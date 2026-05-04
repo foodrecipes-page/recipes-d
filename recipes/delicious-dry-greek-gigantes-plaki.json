@@ -1,0 +1,112 @@
+{
+  "title": "Delicious Dry Greek Gigantes Plaki",
+  "description": "A light and flavorful Greek dish featuring large beans in a sweet and tangy tomato sauce. This recipe is perfect for a weeknight dinner or as a snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup",
+      "notes": "large white cannellini beans can be substituted if gigantes beans are not available"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "diced tomatoes can be used instead of crushed tomatoes"
+    },
+    {
+      "name": "canned water",
+      "amount": "1 cup",
+      "notes": "from the crushed tomatoes can, or water as needed"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a salt substitute for a low-sodium option"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, can be omitted for a dairy-free option"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté for 5-7 minutes or until it starts to soften.",
+    "Add the minced garlic and cook for an additional 1-2 minutes or until fragrant.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the crushed tomatoes, water, caster sugar, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened slightly.",
+    "Add the gigantes beans and feta cheese (if using) to the saucepan. Stir to combine.",
+    "Reduce heat to low and cook for an additional 5-10 minutes or until the flavors have melded together and the beans are coated in the sauce.",
+    "Serve hot, garnished with additional feta cheese and a sprinkle of parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "greek",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicious-dry-greek-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-dry-greek-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "caster sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "gigantes",
+    "descriptor": "Delicious Dry",
+    "dishForm": "Plaki"
+  }
+}
