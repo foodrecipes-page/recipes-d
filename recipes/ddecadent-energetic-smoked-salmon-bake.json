@@ -1,0 +1,88 @@
+{
+  "title": "DDecadent Energetic Smoked Salmon Bake",
+  "description": "A charred and tender Norwegian dish featuring gelatin leafs, wood-fired-baked for an energizing and anti-inflammatory-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": 200
+    },
+    {
+      "name": "Gelatin Leafs",
+      "amount": "1-2"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 4
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "a few"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Herbs (such as Dill and Parsley)",
+      "amount": "handful"
+    },
+    {
+      "name": "Wood Chips for Smoking",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Clean salmon fillets thoroughly, pat dry with paper towels.",
+    "In a small bowl, mix olive oil, lemon zest, red pepper flakes, and fresh herbs. Season the salmon evenly with this mixture.",
+    "Arrange gelatin leafs on baking sheet lined with parchment paper to catch any dripping juices.",
+    "Place salmon fillets on top of gelatin leafs, skin side up.",
+    "Wrap the outside edges of gelatin leafs tightly around the salmon for easy removal after baking.",
+    "Place wood chips in a smoker box or direct below salmon if using charcoal grill. Lightly smoke salmon according to instructions provided by your grill type.",
+    "Bake at 180°C for 20-25 minutes until salmon reaches an internal temperature of 63°C (145°F).",
+    "Remove from oven and let rest for a few minutes before serving with fresh herbs garnished on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "energizing",
+    "leafs-recipe",
+    "smoked-salmon",
+    "wood-fired-bake"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "ddecadent-energetic-smoked-salmon-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-energetic-smoked-salmon-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:21:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Smoked Salmon",
+    "descriptor": "Energetic",
+    "dishForm": "Bake"
+  }
+}
