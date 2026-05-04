@@ -1,0 +1,99 @@
+{
+  "title": "Dense Saudi Arabian Cherry Tomatoes Skillet",
+  "description": "A dense and nostalgic Saudi Arabian dish featuring cherry tomatoes, perfect for a weeknight dinner, this skillet is high in protein and made with katsuramuki-cut vegetables, cooked to perfection in a cast iron skillet.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium high heat.",
+    "Add the katsuramuki-cut onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the halved cherry tomatoes, salt, black pepper, and sumac, and stir to combine.",
+    "Reduce the heat to medium low and simmer, covered, for 20 minutes, until the flavors have melded together and the sauce has thickened.",
+    "Stir in the crumbled feta cheese and cook until it is melted and the sauce is creamy.",
+    "Serve the skillet hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dense-saudi-arabian-cherry-tomatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-saudi-arabian-cherry-tomatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:16:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Dense Nostalgic",
+    "dishForm": "Skillet"
+  }
+}
