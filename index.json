@@ -435,6 +435,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-warm-canadian-lentil-curry",
+    "title": "Deliciously Warm Canadian Lentil Curry",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "vegan-friendly",
+      "warm-and-comforting"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delightful-polish-steak-stir-fry",
     "title": "Delightful Polish Steak Stir-fry",
     "tags": [
