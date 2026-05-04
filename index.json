@@ -305,6 +305,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-spanish-octopus-salad",
+    "title": "Decadent Spanish Octopus Salad",
+    "tags": [
+      "bento",
+      "dairy-free",
+      "mediterranean",
+      "octopus",
+      "pulpo-a-la-gallega",
+      "quick",
+      "spanish"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [
@@ -905,6 +921,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-ukrainian-lamb-dumplings",
+    "title": "Deliciously Dense Ukrainian Lamb Dumplings",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {

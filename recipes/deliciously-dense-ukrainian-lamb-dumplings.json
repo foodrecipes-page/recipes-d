@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Dense Ukrainian Lamb Dumplings",
+  "description": "Pungent and springy lamb dumplings made with lamb mince and score-fat, perfect for a date-night dinner, and Whole30-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or substitute with beef tallow"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the lamb mince, score-fat, onion, garlic, egg, salt, black pepper, and paprika.",
+    "Mix everything together with your hands or a wooden spoon until just combined.",
+    "Do not overmix the mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, bring a large pot of salted water to a boil.",
+    "Using your hands, shape the lamb mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Gently add the dumplings to the boiling water and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Serve with your favorite sides, such as sauteed spinach or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "deliciously-dense-ukrainian-lamb-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-ukrainian-lamb-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:43:30Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "lamb mince",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Dumplings"
+  }
+}

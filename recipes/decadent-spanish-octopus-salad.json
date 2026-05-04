@@ -1,0 +1,109 @@
+{
+  "title": "Decadent Spanish Octopus Salad",
+  "description": "A cultured, gooey Andalusian-inspired salad featuring octopus, potatoes, and katsuobushi, served in a bento-box.",
+  "cuisine": "spanish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "octopus, cleaned",
+      "amount": "800g"
+    },
+    {
+      "name": "potatoes, peeled diced",
+      "amount": "300g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "black olives, pitted sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "katsuobushi",
+      "amount": "20g"
+    },
+    {
+      "name": "wok-hei seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Put octopus in a large pot, cover with water, bring to a gentle boil, then reduce to a simmer and cook for 30 minutes until tender.",
+    "While octopus cooks, prepare a pot of salted water for the potatoes, bring to a boil, and cook diced potatoes for 10 minutes until just tender, then drain and let cool.",
+    "In a large skillet, heat olive oil over high heat to generate wok-heat, then add diced red bell pepper and cook for 2 minutes until slightly charred.",
+    "Add sliced red onion to the skillet and sauté for 1 minute, stirring constantly to prevent burning.",
+    "Transfer the sautéed vegetables to a mixing bowl and toss with cooled potatoes, olives, and parsley.",
+    "Whisk olive oil, sherry vinegar, salt, and black pepper until emulsified, then pour over the vegetable mixture and stir gently to combine.",
+    "Add shredded octopus to the bowl, toss lightly, ensuring even coating of the dressing.",
+    "Sprinkle katsuobushi over the salad and gently mix to distribute the bonito flakes.",
+    "Season to taste with additional salt and pepper if needed, then let the salad rest for 5 minutes to allow flavors to meld.",
+    "Pack the assembled salad into a bento-box, ensuring it stays chilled or at room temperature for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento",
+    "dairy-free",
+    "mediterranean",
+    "octopus",
+    "pulpo-a-la-gallega",
+    "quick",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 46,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "decadent-spanish-octopus-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-spanish-octopus-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "katsuobushi",
+    "diet": "dairy-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "Decadent",
+    "dishForm": "Salad"
+  }
+}
