@@ -1,0 +1,106 @@
+{
+  "title": "Dense French Tofu Casserole",
+  "description": "A hearty vegetarian French-inspired casserole featuring tofu, plum sauce, and fresh vegetables, wrapped in a moist papillote style bake for lunch or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Press the tofu to remove excess moisture and cut it into 1-inch cubes.",
+    "In a bowl, whisk together plum sauce, soy sauce, and sesame oil.",
+    "Toss the tofu cubes with the sauce mixture until evenly coated.",
+    "Line a baking dish with parchment paper and arrange the tofu, sliced carrot, zucchini, and spinach in a single layer.",
+    "Drizzle olive oil over the vegetables and sprinkle with thyme, salt, and pepper.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes until the tofu is golden and vegetables are tender.",
+    "Transfer the casserole to individual serving dishes and garnish with fresh herbs.",
+    "Serve hot and enjoy the dense, flavorful texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy",
+    "dense",
+    "french",
+    "meal-prep",
+    "plum-sauce",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 37,
+    "carbs": 44,
+    "fat": 41
+  },
+  "slug": "dense-french-tofu-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-french-tofu-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:11:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "plum sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tofu",
+    "descriptor": "Dense",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Drunken Binchotan Grilled Croatian Mushroom Skewers",
+  "description": "A festive fusion dish featuring tender mushrooms marinated in Croatian white wine and fermented bean paste, seared over high-heat binchotan charcoal.",
+  "cuisine": "Croatian-Asian Fusion",
+  "diet": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King Oyster Mushrooms",
+      "amount": "500g",
+      "notes": "Sliced into 1-inch thick rounds"
+    },
+    {
+      "name": "Grasevina White Wine",
+      "amount": "150ml",
+      "notes": "Dry Croatian white wine"
+    },
+    {
+      "name": "Ferment-Jang",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented soy sauce or liquid seasoning"
+    },
+    {
+      "name": "Ras el Hanout",
+      "amount": "1 tbsp",
+      "notes": "North African spice blend"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "nodes": "Minced"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp",
+      "notes": "To balance acidity"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Finely chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk together the white wine, ferment-jang, ras el hanout, olive oil, garlic, and maple syrup in a large bowl.",
+    "Toss the mushroom rounds in the marinade and let them sit for at least thirty minutes.",
+    "Prepare the binchotan charcoal in a chimney starter until it glows white-hot.",
+    "Thread the marinated mushrooms onto metal skewers, leaving a small space between each piece.",
+    "Place the skewers onto the binchotan grill rack directly over the intense heat.",
+    "Grill the mushrooms for three minutes on each side until charred and tender.",
+    "Baste the mushrooms with the remaining marinade twice during the cooking process.",
+    "Remove the skewers from the heat and sprinkle with fresh chopped parsley.",
+    "Serve immediately while the mushrooms are hot and juicy."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "serv": 4,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "fusion",
+    "gluten-free",
+    "grilled",
+    "mushroom-skewers",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 11
+  },
+  "slug": "drunken-binchotan-grilled-croatian-mushroom-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/drunken-binchotan-grilled-croatian-mushroom-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T09:11:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ras el hanout",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "King Oyster Mushroom",
+    "descriptor": "Drunken Binchotan Grilled",
+    "dishForm": "Skewers"
+  }
+}

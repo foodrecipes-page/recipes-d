@@ -1931,6 +1931,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-french-tofu-casserole",
+    "title": "Dense French Tofu Casserole",
+    "tags": [
+      "bouncy",
+      "dense",
+      "french",
+      "meal-prep",
+      "plum-sauce",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-garlic-adventurous-christmas-pudding-stir-fry",
     "title": "Dense Garlic Adventurous Christmas Pudding Stir-fry",
     "tags": [
@@ -2469,6 +2485,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "drunken-binchotan-grilled-croatian-mushroom-skewers",
+    "title": "Drunken Binchotan Grilled Croatian Mushroom Skewers",
+    "tags": [
+      "binchotan",
+      "fusion",
+      "gluten-free",
+      "grilled",
+      "mushroom-skewers",
+      "vegan-friendly"
+    ],
+    "cuisine": "Croatian-Asian Fusion",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
