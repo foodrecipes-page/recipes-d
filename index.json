@@ -1538,6 +1538,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-argentinian-rice-pilaf",
+    "title": "Dense Argentinian Rice Pilaf",
+    "tags": [
+      "argentinian-cuisine",
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-bitter-dutch-beef-stew",
     "title": "Dense Bitter Dutch Beef Stew",
     "tags": [

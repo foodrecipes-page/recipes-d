@@ -1,0 +1,105 @@
+{
+  "title": "Dense Argentinian Rice Pilaf",
+  "description": "A charred and dense lacto-vegetarian friendly Argentinian dish featuring rice wine and ferment-jang, cooked to perfection on a comal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "small red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large comal over medium heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the uncooked rice to the comal and stir to combine with the vegetables and oil.",
+    "Add the rice wine, ferment-jang, salt, and black pepper to the comal and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the comal with a lid.",
+    "Simmer the pilaf for 20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove the lid and stir the pilaf to combine, scraping up any charred bits from the bottom of the comal.",
+    "If using cheese, stir it in until melted and well combined.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "dense-argentinian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-argentinian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:48:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "ferment-jang",
+    "primaryIngredient": "rice wine",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "rice",
+    "descriptor": "dense charred",
+    "dishForm": "Pilaf"
+  }
+}
