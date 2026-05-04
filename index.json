@@ -488,6 +488,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-spicy-irish-sausage-hash",
+    "title": "Decadent Spicy Irish Sausage Hash",
+    "tags": [
+      "dairy-free-friendly",
+      "high-protein",
+      "irish-cuisine",
+      "one-pan",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-venezuelan-chicken-wrap",
     "title": "Decadent Venezuelan Chicken Wrap",
     "tags": [

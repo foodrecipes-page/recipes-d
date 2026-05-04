@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Spicy Irish Sausage Hash",
+  "description": "A spicy twist on traditional Irish sausage hash, featuring andouille-french sausages and fermented kimchi.",
+  "cuisine": "irish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Andouille French sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Korean-style kimchi",
+      "amount": "1 cup",
+      "notes": "fermented in dairy-free broth"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice the Andouille sausages into 1-inch pieces.",
+    "Dice the red bell pepper and yellow onion.",
+    "Mince the garlic.",
+    "Peel and dice the potatoes.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced sausages and cook until browned, about 5 minutes.",
+    "Add the diced bell pepper and onion and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced potatoes and cook until golden brown, about 10 minutes.",
+    "Stir in the kimchi and cook until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free-friendly",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "decadent-spicy-irish-sausage-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-spicy-irish-sausage-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T08:30:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "andouille-french",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausage",
+    "descriptor": "Decadent Spicy",
+    "dishForm": "Hash"
+  }
+}
