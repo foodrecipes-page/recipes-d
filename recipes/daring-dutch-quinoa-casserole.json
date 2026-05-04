@@ -1,0 +1,105 @@
+{
+  "title": "Daring Dutch Quinoa Casserole",
+  "description": "A sour, bouncy-qq Dutch casserole that combines fluffy quinoa with tangy lemon, sweet tomatoes, and melted Gouda for a romantic date-night meal.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (diced)"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves (minced)"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup (halved)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded Gouda cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly coat a cazuela with olive oil.",
+    "Rinse quinoa under cold water until water runs clear, then sauté it in the cazuela with 2 tbsp olive oil until lightly golden.",
+    "Add diced onion to the quinoa and cook, stirring, until onion is translucent, about 5 minutes.",
+    "Stir in minced garlic, smoked paprika, and cumin, cooking for 1 minute to bloom the spices.",
+    "Pour in the vegetable broth and water, bring mixture to a gentle boil, then reduce heat and simmer, covered, for 15 minutes until quinoa is cooked.",
+    "Fold in halved cherry tomatoes, lemon juice, and kosher salt, mixing thoroughly.",
+    "Transfer the mixture to the cazuela, sprinkle shredded Gouda cheese evenly over the top.",
+    "Broil the casserole for 4-5 minutes, or until the cheese is melted and lightly browned.",
+    "Remove from oven, let rest 5 minutes, then garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "cheesy",
+    "comfort-food",
+    "date-night",
+    "dutch",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 8,
+    "carbs": 11,
+    "fat": 16
+  },
+  "slug": "daring-dutch-quinoa-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/daring-dutch-quinoa-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:36:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "quinoa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Daring",
+    "dishForm": "Casserole"
+  }
+}
