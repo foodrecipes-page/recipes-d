@@ -1,0 +1,108 @@
+{
+  "title": "Dense Peppery Egyptian Pancetta Casserole",
+  "description": "A crumbly, peppery casserole that fuels post-workout recovery with pancetta and feta, infused with Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "diced pancetta",
+      "amount": "200g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "In a skillet, heat 1 tbsp olive oil over medium heat and cook diced pancetta until crisp, about 5 minutes, then set aside.",
+    "In the same skillet, add remaining olive oil, then sauté diced onion until translucent, about 3 minutes.",
+    "Stir in cumin, coriander, paprika, black pepper, and cayenne pepper, cooking for 30 seconds until fragrant.",
+    "Remove skillet from heat and whisk together eggs, feta cheese, and salt in a bowl until smooth.",
+    "Pour the egg mixture into the skillet, adding the cooked pancetta and parsley, stirring to combine.",
+    "Transfer the mixture into a greased casserole dish and top with chopped tomatoes.",
+    "Bake in the preheated oven for 20 minutes, or until the top is golden and the center is set.",
+    "Let the casserole rest for 5 minutes, then slice into squares.",
+    "Serve hot, optionally garnishing with extra parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dinner",
+    "egyptian",
+    "high-protein",
+    "pancetta",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 33
+  },
+  "slug": "dense-peppery-egyptian-pancetta-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peppery-egyptian-pancetta-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:39:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "pancetta",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Pancetta",
+    "descriptor": "Dense Peppery",
+    "dishForm": "Casserole"
+  }
+}
