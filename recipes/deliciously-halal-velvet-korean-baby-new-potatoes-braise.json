@@ -1,0 +1,109 @@
+{
+  "title": "Deliciously Halal Velvet Korean Baby New Potatoes Braise",
+  "description": "A halal-friendly, velvety, indulgent Korean dish featuring baby new potatoes in a rich, savory braise.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "halal beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "soy sauce (halal)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "gochujang (halal)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bento box, combine baby new potatoes, halal beef broth, soy sauce, sugar, garlic, and ginger.",
+    "Bring the braise to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "While the braise is cooking, mix gochujang and sesame oil in a small bowl.",
+    "Add the gochujang mixture to the braise and stir to combine.",
+    "Simmer the braise for an additional 5 minutes.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve the braise hot in the bento box.",
+    "Enjoy!",
+    "Let the braise rest for 5 minutes before serving.",
+    "This will help the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "quick-and-easy",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "deliciously-halal-velvet-korean-baby-new-potatoes-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-halal-velvet-korean-baby-new-potatoes-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T06:04:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Deliciously Halal Velvet",
+    "dishForm": "Braise"
+  }
+}
