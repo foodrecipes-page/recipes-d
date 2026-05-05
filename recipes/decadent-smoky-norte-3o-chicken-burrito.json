@@ -1,0 +1,127 @@
+{
+  "title": "Decadent Smoky Norteño Chicken Burrito",
+  "description": "A rich, creamy Mexican dish featuring smoky chicken, dried cranberries, and a blend of spices. Perfect for a post-workout meal or dinner with friends.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried cranberries",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "8 oz",
+      "notes": "optional"
+    },
+    {
+      "name": "Shredded Monterey Jack cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Large flour tortillas",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together smoked paprika, cumin, and garlic powder.",
+    "Rub the spice mixture all over the chicken breasts and place on a baking sheet.",
+    "Bake in the preheated oven for 20 minutes, or until cooked through.",
+    "Meanwhile, mix together softened cream cheese, chopped cilantro, lime juice, and kosher salt.",
+    "Add shredded chicken to the cream cheese mixture and mix until well combined.",
+    "Warm the large flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the burritos by spreading a spoonful of the chicken and cream cheese mixture onto a tortilla, followed by a sprinkle of shredded cheese.",
+    "Add a few dried cranberries to the burrito, if desired.",
+    "Serve the burritos hot with a dollop of sour cream on top, if desired.",
+    "Cook time for the burritos is approximately 5 minutes, or until the cheese is melted and the tortilla is warm and pliable.",
+    "Cut the burritos in half and serve immediately.",
+    "For an added crunch, top the burritos with chopped cilantro or sliced radishes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "norteno",
+    "one-pan",
+    "post-workout",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "decadent-smoky-norte-3o-chicken-burrito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoky-norte-3o-chicken-burrito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dried cranberries",
+    "diet": "kosher",
+    "region": "norteño",
+    "cuisineAdjective": "Norte\u00183o",
+    "mainIngredient": "chicken",
+    "descriptor": "Decadent Smoky",
+    "dishForm": "Burrito"
+  }
+}

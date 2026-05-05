@@ -1,0 +1,178 @@
+{
+  "title": "Saudi Arabian Grana Padano Bake",
+  "description": "A slow-cooked, comforting dish combining the earthy flavors of Saudi Arabia with the richness of Grana Padano cheese. Perfect for a relaxed Sunday afternoon.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped dates",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Labneh cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160 degrees Celsius.",
+    "In a large mixing bowl, whisk together yeast, flour, and buttermilk.",
+    "Add the Grana Padano cheese, eggs, olive oil, allspice, cumin, salt, and black pepper to the bowl and mix until well combined.",
+    "Add the chopped onions, garlic, and labneh cheese to the bowl and mix until smooth.",
+    "Transfer the mixture to a 24cm round baking dish.",
+    "Drizzle the clarified butter and ghee over the top of the mixture.",
+    "Bake in the preheated oven for 45 minutes or until golden brown.",
+    "Remove from the oven and drizzle with pomegranate molasses.",
+    "Sprinkle with chopped fresh parsley, dates, and a pinch of cayenne pepper.",
+    "Serve warm and enjoy!",
+    "Garnish with a dollop of tahini and a sprinkle of sumac, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "dinner",
+    "flexitarian",
+    "high-protein",
+    "lunch",
+    "saudi-arabian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "dull-saudi-arabian-grana-padano-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dull-saudi-arabian-grana-padano-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "grana-padano",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "grana-padano",
+    "descriptor": "dull",
+    "dishForm": "bake"
+  }
+}

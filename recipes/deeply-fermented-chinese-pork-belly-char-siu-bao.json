@@ -1,0 +1,78 @@
+{
+  "title": "Deeply Fermented Chinese Pork Belly Char Siu Bao",
+  "description": "A traditional Chinese dish featuring deeply fermented pork belly served in a steamed char siu bao, often consumed to cure hangovers. This recipe is suitable for a Buddhist temple-friendly setting.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Fermentation starter culture",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": "Brown sugar or rock sugar"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork belly, fermentation starter culture, sugar, and salt. Mix well until the sugar and salt are evenly distributed.",
+    "Cover the bowl with plastic wrap and let it sit at room temperature (75°F to 78°F) for 3 days, stirring the mixture every 12 hours.",
+    "After 3 days, transfer the mixture to the refrigerator and let it ferment for at least 7 days, stirring every 24 hours.",
+    "After 7 days, remove the pork belly from the refrigerator and let it sit at room temperature for 2 hours to allow the meat to come to room temperature.",
+    "Meanwhile, prepare the char siu bao dough according to the recipe.",
+    "Place a small amount of the fermented pork belly on the center of the dough, and fold the dough over the filling to form a bun shape.",
+    "Repeat the process until all the dough and pork belly are used up.",
+    "Steam the buns for 10-15 minutes, or until they are cooked through.",
+    "Let the buns rest for 30 minutes before serving.",
+    "Serve the buns with a side of vinaigrette dressing, such as soy sauce, vinegar, and sesame oil.",
+    "Garnish with scallions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 4,
+  "cookTimeMin": 15,
+  "totalTimeMin": 39,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "char-siu-bao",
+    "fermented",
+    "hangover-cure",
+    "pork-belly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "deeply-fermented-chinese-pork-belly-char-siu-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deeply-fermented-chinese-pork-belly-char-siu-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork belly",
+    "descriptor": "Deeply Fermented",
+    "dishForm": "Char Siu Bao"
+  }
+}

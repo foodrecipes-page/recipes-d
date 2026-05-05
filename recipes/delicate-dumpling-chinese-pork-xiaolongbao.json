@@ -1,0 +1,146 @@
+{
+  "title": "Delicate Dumpling Chinese Pork Xiaolongbao",
+  "description": "Floral, fluffy, and romantic Chinese dish featuring ground nutmeg and namul-blanch-season, served in delicate xiaolongbao form on a hot stone plate.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "shoyu",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "10g",
+      "notes": "minced"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "for aspic"
+    },
+    {
+      "name": "asparagus",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "nutrition",
+    "nutrition",
+    "servings",
+    "difficulty"
+  ],
+  "tags": [
+    "delicate-dumpling",
+    "easy-to-make",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "difficulty": "medium",
+  "totalTimeMin": 65,
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delicate-dumpling-chinese-pork-xiaolongbao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dumpling-chinese-pork-xiaolongbao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Delicate Dumpling",
+    "dishForm": "Xiaolongbao"
+  }
+}

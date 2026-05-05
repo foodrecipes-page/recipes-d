@@ -886,6 +886,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-smoky-norte-3o-chicken-burrito",
+    "title": "Decadent Smoky Norteño Chicken Burrito",
+    "tags": [
+      "high-protein",
+      "mexican",
+      "norteno",
+      "one-pan",
+      "post-workout",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-spanish-oats-gazpacho",
     "title": "Decadent Spanish Oats Gazpacho",
     "tags": [
@@ -1075,6 +1091,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 120,
+    "shard": "d"
+  },
+  {
+    "slug": "deeply-fermented-chinese-pork-belly-char-siu-bao",
+    "title": "Deeply Fermented Chinese Pork Belly Char Siu Bao",
+    "tags": [
+      "buddhist-friendly",
+      "char-siu-bao",
+      "fermented",
+      "hangover-cure",
+      "pork-belly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 39,
     "shard": "d"
   },
   {
@@ -1411,6 +1441,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-dumpling-chinese-pork-xiaolongbao",
+    "title": "Delicate Dumpling Chinese Pork Xiaolongbao",
+    "tags": [
+      "delicate-dumpling",
+      "easy-to-make",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
@@ -3931,6 +3976,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-mustardy-uruguayan-prawns-bowl",
+    "title": "dense mustardy Uruguayan prawns bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
     "slug": "dense-normandy-pecorino-romano-rillettes",
     "title": "Dense Normandy Pecorino-Romano Rillettes",
     "tags": [
@@ -4899,6 +4958,23 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "dull-saudi-arabian-grana-padano-bake",
+    "title": "Saudi Arabian Grana Padano Bake",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "dinner",
+      "flexitarian",
+      "high-protein",
+      "lunch",
+      "saudi-arabian",
+      "slow-cooked"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 75,
     "shard": "d"
   },
   {
