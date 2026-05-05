@@ -1,0 +1,89 @@
+{
+  "title": "DDecadent Molten Charred Parmesan Pasta",
+  "description": "A festive Tunisian dish featuring charred pasta, parmesan cheese, and a miso-marinate that is both indulgent and jain-friendly.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": 200
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add garlic and red pepper flakes to the pan, cooking for about 1 minute until fragrant.",
+    "Cut pasta into bite-sized pieces and add them to the pan with the miso paste. Toss well to coat.",
+    "Reduce heat to low and let simmer for about 5 minutes, stirring occasionally.",
+    "Once cooked through, remove from heat and set aside.",
+    "To make the parmesan cheese sauce, sprinkle parmesan over the pasta and mix gently.",
+    "Gently warm the sauce without letting it boil.",
+    "Top each serving with a few fresh parsley leaves for garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "festive",
+    "miso",
+    "molten",
+    "parmesan",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 20,
+    "carbs": 38,
+    "fat": 19
+  },
+  "slug": "ddecadent-molten-charred-parmesan-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-molten-charred-parmesan-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:15:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Parmigiano-Reggiano",
+    "descriptor": "Charred Molten Festive",
+    "dishForm": "Pasta"
+  }
+}

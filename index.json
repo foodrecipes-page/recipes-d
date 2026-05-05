@@ -409,6 +409,22 @@
     "shard": "d"
   },
   {
+    "slug": "ddecadent-molten-charred-parmesan-pasta",
+    "title": "DDecadent Molten Charred Parmesan Pasta",
+    "tags": [
+      "charred",
+      "festive",
+      "miso",
+      "molten",
+      "parmesan",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-basque-rice-paella",
     "title": "Decadent Basque Rice Paella",
     "tags": [
