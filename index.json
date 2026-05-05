@@ -3448,6 +3448,19 @@
     "shard": "d"
   },
   {
+    "slug": "dense-festive-polish-haddock-pancakes",
+    "title": "Dense Festive Polish Haddock Pancakes",
+    "tags": [
+      "fish-based",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 28,
+    "shard": "d"
+  },
+  {
     "slug": "dense-flaky-filipino-one-pot-dish-lumpia",
     "title": "Lumpia",
     "tags": [
@@ -3982,6 +3995,23 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-ukrainian-rest-meat-stew",
+    "title": "Dense Smoky Ukrainian Rest-meat Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "hearty",
+      "meat-lovers",
+      "pork",
+      "slow-cooked",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
