@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Spanish Vegetable Pisto Manchego",
+  "description": "A garlicky and fluffy Spanish dish featuring natural yoghurt and deep-fried vegetables, perfect for a weeknight dinner. This low-carb-friendly recipe is a twist on the traditional pisto manchego.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the zucchini, eggplant, and red bell pepper slices in batches until golden brown, about 2-3 minutes per batch.",
+    "Remove the fried vegetables from the oil with a slotted spoon and drain on paper towels.",
+    "In a large bowl, whisk together the natural yoghurt, garlic, salt, and black pepper.",
+    "Add the fried vegetables to the bowl and toss to coat with the yoghurt mixture.",
+    "Serve the pisto manchego hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat the pisto manchego in the microwave or oven until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "low-carb",
+    "spanish-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "delicate-spanish-vegetable-pisto-manchego",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-spanish-vegetable-pisto-manchego",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:09:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Deep Fried",
+    "dishForm": "Pisto Manchego"
+  }
+}
