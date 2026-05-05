@@ -1,0 +1,71 @@
+{
+  "title": "Dense Indian Avocado Sambhar",
+  "description": "A variation of the traditional South Indian sambhar, this recipe incorporates the richness of avocado pulp. The bitter taste of the avocado is balanced by the earthy flavor of bhuna onions.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado pulp",
+      "amount": "1 1/2 cups",
+      "notes": "mashed Hass avocado"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add 1 large onion, finely chopped, and sauté until it turns golden brown.",
+    "Add 2 cloves of garlic, minced, and sauté for another minute.",
+    "Add 1-inch piece of ginger, grated, and sauté for another minute.",
+    "Add 1 large tomato, diced, and sauté until it's soft and mushy.",
+    "Add 1/2 cup of bhuna onions and sauté for 2 minutes.",
+    "Add 1/2 teaspoon of turmeric and 1/2 teaspoon of mustard seeds and sauté for another minute.",
+    "Add 1/2 teaspoon of asafoetida and sauté for 30 seconds.",
+    "Add 1/2 teaspoon of salt and mix well.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add 1/2 cup of coconut milk and mix well.",
+    "Add 1 cup of mashed avocado pulp and mix well.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with coriander leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "indian",
+    "sambhar",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-indian-avocado-sambhar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-indian-avocado-sambhar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Dense",
+    "dishForm": "Sambhar"
+  }
+}

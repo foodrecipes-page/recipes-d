@@ -3635,6 +3635,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-indian-avocado-sambhar",
+    "title": "Dense Indian Avocado Sambhar",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "indian",
+      "sambhar",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-indian-kielbasa-idli",
     "title": "Dense Indian Kielbasa Idli",
     "tags": [
