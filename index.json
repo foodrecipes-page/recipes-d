@@ -944,6 +944,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-smoked-american-turkey-burger",
+    "title": "Decadent Smoked American Turkey Burger",
+    "tags": [
+      "american",
+      "binchotan-grill",
+      "high-protein",
+      "post-workout",
+      "smoked",
+      "sous-vide"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-smoky-blackened-tunisian-beans-tagine",
     "title": "Decadent Smoky Blackened Tunisian Beans Tagine",
     "tags": [

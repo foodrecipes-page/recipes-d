@@ -1,0 +1,120 @@
+{
+  "title": "Decadent Smoked American Turkey Burger",
+  "description": "A post-workout American dish featuring a rich and creamy smoked turkey burger, pungent from the use of smoked gouda and caramelized onions. Best enjoyed when the turkey is smoky, the cheese is melted, and the bun is toasted.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Turkey",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Gouda Cheese",
+      "amount": "1/2 cup",
+      "notes": "Sliced into 1/4 thick rounds"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "Brown on low heat for 30 minutes"
+    },
+    {
+      "name": "Yellow Food Colouring",
+      "amount": "1 tsp",
+      "notes": "For extra vibrancy"
+    },
+    {
+      "name": "Binchotan Wood Chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the ground turkey with salt and pepper before forming into 4-6 patties depending on desired size.",
+    "Form patties and place on a baking sheet lined with parchment paper.",
+    "Add yellow food colouring to each patty and gently mix to combine.",
+    "Heat a sous vide machine to 130°F (54°C).",
+    "Place patties in a sous vide bag and seal, then place in the sous vide machine and cook for 1-2 hours or until the internal temperature reaches 165°F (74°C).",
+    "Meanwhile, toast the buns on the binchotan grill for 2-3 minutes on each side or until the buns are slightly charred.",
+    "Melt 1 tablespoon of butter on the grill and brush onto the buns.",
+    "Melt 1 tablespoon of butter on the grill and brush onto the cooked turkey patties.",
+    "Assemble the burgers with the cheese, caramelized onions, lettuce, tomato, and mayonnaise.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "binchotan-grill",
+    "high-protein",
+    "post-workout",
+    "smoked",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "decadent-smoked-american-turkey-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoked-american-turkey-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Turkey",
+    "descriptor": "Decadent Smoked",
+    "dishForm": "Burger"
+  }
+}
