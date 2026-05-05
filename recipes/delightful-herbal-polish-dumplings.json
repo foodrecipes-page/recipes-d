@@ -1,0 +1,107 @@
+{
+  "title": "Delightful Herbal Polish Dumplings",
+  "description": "Tender polish dumplings infused with herbal flavors and wrapped in a delicate pastry crust. Perfect for a relaxing date-night meal in a sophisticated setting.",
+  "cuisine": "polish",
+  "diet": [
+    "vegan",
+    "sattvic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry white wine, such as pinot grigio"
+    },
+    {
+      "name": "herbs",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs, such as parsley and dill"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine the gluten-free flour, salt, and black pepper in a large mixing bowl.",
+    "Add the chilled vegetable shortening and use a pastry blender or your fingertips to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the warm water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-10 minutes, until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 10-15 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the herb mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until they are golden brown.",
+    "Transfer the dumplings to a baking dish and bake in a preheated oven at 375 degrees Fahrenheit for 15-20 minutes, until they are cooked through.",
+    "Serve the dumplings hot with your favorite sauce or toppings.",
+    "Garnish with fresh herbs, if desired.",
+    "If serving as a snack or dessert, consider serving with a side of fruit or whipped cream for a sweet and satisfying treat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "herbal",
+    "polish",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "delightful-herbal-polish-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-herbal-polish-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "dry white wine",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "herbal",
+    "mainIngredient": "chewy polish",
+    "descriptor": "date night",
+    "dishForm": "Polish Dumplings"
+  }
+}

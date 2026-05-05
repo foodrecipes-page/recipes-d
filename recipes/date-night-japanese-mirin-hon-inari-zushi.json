@@ -1,0 +1,115 @@
+{
+  "title": "Date-Night Japanese Mirin-Hon Inari-Zushi",
+  "description": "A romantic twist on the classic Japanese inari-zushi, featuring rich mirin-hon and tender abalone. Serve with wasabi and pickled ginger for added flair.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mirin-hon",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Abalone",
+      "amount": "1",
+      "notes": "Fresh or frozen, sliced into thin rounds."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/2 cup",
+      "notes": "To make the pickled abalone."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying the abalone."
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor in the mirin-hon sauce."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added depth in the mirin-hon sauce."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance in the mirin-hon sauce."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For the mirin-hon sauce."
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "4",
+      "notes": "For wrapping the inari-zushi."
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "4 slices",
+      "notes": "For serving."
+    },
+    {
+      "name": "Wasabi",
+      "amount": "1 teaspoon",
+      "notes": "For serving."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Mix mirin-hon, soy sauce, sugar, and water in a saucepan to make the mirin-hon sauce.",
+    "Bring the mirin-hon sauce to a boil, then reduce the heat to a simmer and cook for 10 minutes.",
+    "Meanwhile, fry the abalone slices in sesame oil until lightly browned.",
+    "Add the grated ginger to the mirin-hon sauce and stir to combine.",
+    "Add the pickled abalone to the mirin-hon sauce and stir to combine.",
+    "Spoon the cooked rice into nori sheets, leaving space for the filling.",
+    "Place a few slices of abalone on top of the rice, followed by a spoonful of the mirin-hon sauce.",
+    "Fold the nori sheets to form rectangular shapes and serve with wasabi and pickled ginger."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "abalone",
+    "date-night",
+    "hon-mirin",
+    "japanese",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "date-night-japanese-mirin-hon-inari-zushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-japanese-mirin-hon-inari-zushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "mirin-hon",
+    "diet": "raw",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mirin-hon",
+    "descriptor": "date-night",
+    "dishForm": "Inari-Zushi"
+  }
+}

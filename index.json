@@ -351,6 +351,20 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-japanese-mirin-hon-inari-zushi",
+    "title": "Date-Night Japanese Mirin-Hon Inari-Zushi",
+    "tags": [
+      "abalone",
+      "date-night",
+      "hon-mirin",
+      "japanese",
+      "romantic"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-olive-toast",
     "title": "Date-Night Olive Toast",
     "tags": [
@@ -2901,6 +2915,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dip-style-middle-eastern-hummus-hummus",
+    "title": "Deliciously Dip-Style Middle-Eastern Hummus",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Middle-Eastern",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-filipino-chicken-braised",
     "title": "Deliciously Filipino Chicken Braised",
     "tags": [
@@ -3164,6 +3193,21 @@
     "shard": "d"
   },
   {
+    "slug": "delightful-herbal-polish-dumplings",
+    "title": "Delightful Herbal Polish Dumplings",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "herbal",
+      "polish",
+      "sattvic",
+      "vegan"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delightful-polish-steak-stir-fry",
     "title": "Delightful Polish Steak Stir-fry",
     "tags": [
@@ -3351,6 +3395,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-comforting-moroccan-ricotta-khlea",
+    "title": "Dense Comforting Moroccan Ricotta Khlea",
+    "tags": [
+      "bitter",
+      "comforting",
+      "dessert",
+      "moroccan",
+      "paleo",
+      "ricotta"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -3872,6 +3931,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-normandy-pecorino-romano-rillettes",
+    "title": "Dense Normandy Pecorino-Romano Rillettes",
+    "tags": [
+      "cheesy",
+      "finger-food",
+      "normandy",
+      "one-pan",
+      "rillettes",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "dense-nostalgic-mexican-tahini-tacos",
     "title": "Dense Nostalgic Mexican Tahini Tacos",
     "tags": [
@@ -4250,6 +4324,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-spicy-russian-sausage-grill",
+    "title": "Dense Spicy Russian Sausage Grill",
+    "tags": [
+      "comfort-food",
+      "dinner-party",
+      "easy-entertaining",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {

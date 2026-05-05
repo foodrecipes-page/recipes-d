@@ -1,0 +1,87 @@
+{
+  "title": "Deliciously Dip-Style Middle-Eastern Hummus",
+  "description": "A classic Middle-Eastern dip with a char-grilled twist. Serve warm in a dolma stone bowl for an authentic experience.",
+  "cuisine": "Middle-Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups cooked"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine chickpeas, tahini, lemon juice, garlic, cumin, paprika, and 1 tablespoon potato starch in a blender.",
+    "Blend until smooth, adding more potato starch as needed to achieve a thick paste.",
+    "Transfer the mixture to a bowl and stir in olive oil.",
+    "Heat a dolma stone bowl over a low flame or in the oven at 300°F.",
+    "Add the hummus to the bowl and smooth the top.",
+    "Using a kitchen torch, char-grill the top of the hummus until slightly browned.",
+    "Serve immediately, garnished with fresh parsley or sumac if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "deliciously-dip-style-middle-eastern-hummus-hummus",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dip-style-middle-eastern-hummus-hummus",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "potato starch",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "hummus",
+    "descriptor": "Deliciously Dip-Style",
+    "dishForm": "Hummus"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Dense Comforting Moroccan Ricotta Khlea",
+  "description": "A rich and comforting dessert made with Moroccan spices, creamy ricotta cheese, and a hint of bitterness from the bitter orange blossom water. Perfect for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole-milk ricotta works best for this dish"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "a blend of ground almonds and flour"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "substitute with maple syrup for a different flavor profile"
+    },
+    {
+      "name": "Bitter orange blossom water",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste, may be too strong for some"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, whisk together the ricotta cheese, almond flour, and coconut sugar until smooth.",
+    "Add the bitter orange blossom water and mix until well combined.",
+    "Transfer the mixture to a baking dish and smooth the top.",
+    "Bake for 25-30 minutes, or until the edges are lightly golden brown and the center is set.",
+    "Remove the khlea from the oven and let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "comforting",
+    "dessert",
+    "moroccan",
+    "paleo",
+    "ricotta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "dense-comforting-moroccan-ricotta-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-comforting-moroccan-ricotta-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "ricotta",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Dense Comforting",
+    "dishForm": "Khlea"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Dense Normandy Pecorino-Romano Rillettes",
+  "description": "Peppery, juicy, and aromatic Normandy rillettes featuring Pecorino-Romano cheese, perfect for a casual dinner or snack. Serve with toasted bread or crackers for an effortless and flavorful meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecorino-Romano cheese",
+      "amount": "8 ounces",
+      "notes": "sharp, aged Italian cheese"
+    },
+    {
+      "name": "duck confit",
+      "amount": "4 ounces",
+      "notes": "canned or homemade, cooked to an internal temperature of 165°F (74°C)"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "used to cook the confit and facilitate blending"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "2 tablespoons",
+      "notes": "used to add depth and moisture to the rillettes"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground, to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "used to add a subtle, herbaceous flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "used to enrich the rillettes and add a creamy texture"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend the Pecorino-Romano cheese, duck confit, water, and white wine until smooth and creamy.",
+    "Add the black pepper and thyme to the blender and blend until well combined.",
+    "Transfer the mixture to a saucepan and add the unsalted butter. Heat over low heat, stirring constantly, until the butter has melted and the rillettes have reached a smooth, creamy consistency.",
+    "Remove the saucepan from the heat and let the rillettes cool to room temperature before serving.",
+    "Transfer the rillettes to a serving dish or ramekins and refrigerate for at least 2 hours to allow the flavors to meld and the cheese to firm up.",
+    "Serve the rillettes chilled, garnished with fresh thyme and crusty bread or crackers on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "finger-food",
+    "normandy",
+    "one-pan",
+    "rillettes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "dense-normandy-pecorino-romano-rillettes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-normandy-pecorino-romano-rillettes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "no-onion-no-garlic",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "Pecorino-Romano",
+    "descriptor": "Dense",
+    "dishForm": "Rillettes"
+  }
+}

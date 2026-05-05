@@ -1,0 +1,98 @@
+{
+  "title": "Dense Spicy Russian Sausage Grill",
+  "description": "A hearty, spicy dish featuring dense sausage and a flavorful yakimono-grill. Low-sodium-friendly options are available.",
+  "cuisine": "russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kielbasa sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Russian-style egg noodles",
+      "amount": "8 oz",
+      "notes": "or substitute with regular egg noodles"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Diced jalapeno",
+      "amount": "2"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Russian-style mustard",
+      "amount": "2 tbsp",
+      "notes": "or substitute with whole-grain mustard"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "4 oz",
+      "notes": "low-sodium option: mix 1/4 cup plain Greek yogurt with 3/4 cup water"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400F",
+    "Slice the kielbasa sausage into 1-inch pieces",
+    "In a large skillet, cook the sliced onion, bell pepper, and jalapeno over medium-high heat until tender, about 5 minutes",
+    "Add the minced garlic and cook for an additional 1 minute",
+    "Add the sliced sausage to the skillet and cook until browned, about 5 minutes",
+    "In a large bowl, combine the cooked sausage mixture, Russian-style egg noodles, and Russian-style mustard",
+    "Transfer the mixture to the preheated yakimono-grill and cook for 10 minutes",
+    "Remove from heat and top with sour cream and chopped parsley (if using)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "easy-entertaining",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 34,
+    "fat": 33
+  },
+  "slug": "dense-spicy-russian-sausage-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-spicy-russian-sausage-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sausage",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Dense Spicy",
+    "dishForm": "Grill"
+  }
+}
