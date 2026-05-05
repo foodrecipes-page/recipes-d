@@ -1,0 +1,70 @@
+{
+  "title": "Dark-Zy Canadian Flour Poutine",
+  "description": "A peppery, keto-friendly Canadian dish featuring strong white flour, pickle, and midnight-craving cravings. Poutine lovers, rejoice!",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Strong White Flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour or bread flour"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix 1 tablespoon of black pepper into the flour to give it a peppery kick.",
+    "Cut 1 large pickle into small cubes and set aside.",
+    "In a large bowl, whisk together the flour and pepper mixture, then slowly add in 1 cup of warm water to form a shaggy dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Roll each ball out into a thin sheet, about 1/16 inch thick.",
+    "Cut the sheets into long, thin strips, about 1 inch wide.",
+    "Fry the strips in a deep skillet with 2 tablespoons of oil over medium heat until they are golden brown and crispy.",
+    "Drain the strips on paper towels and set aside.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat and add the pickle cubes.",
+    "Cook the pickles for 2-3 minutes until they start to soften, then add in 1 tablespoon of chopped scallions and cook for another minute.",
+    "Assemble the poutine by placing a portion of the fried flour strips on the bottom of a bowl, then topping with a spoonful of the pickle mixture, and finally finishing with a sprinkle of grated cheddar cheese.",
+    "Serve immediately and enjoy!",
+    "Bake the poutine in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "keto",
+    "low-carb",
+    "peppery",
+    "poutine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "dark-zy-canadian-flour-poutine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-zy-canadian-flour-poutine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "strong white flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "flour",
+    "descriptor": "dark-zy",
+    "dishForm": "poutine"
+  }
+}

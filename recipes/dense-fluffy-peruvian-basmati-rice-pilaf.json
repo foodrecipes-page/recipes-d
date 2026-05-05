@@ -1,0 +1,115 @@
+{
+  "title": "Dense Fluffy Peruvian Basmati Rice Pilaf",
+  "description": "Salty snappy crowd-pleaser Peruvian dish featuring basmati rice glaze pescatarian friendly served in banana-leaves.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 1/2 cups uncooked",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Small onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": "dried or substitute with paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian glaze (see below)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add rice and stir to coat with oil and mix with onion and garlic.",
+    "Add cilantro ginger and aji amarillo pepper. Stir to combine.",
+    "Add 2 cups of water and salt. Bring to a boil, then reduce heat to low, cover and simmer for 18-20 minutes or until water is absorbed.",
+    "While rice is cooking, prepare Peruvian glaze by mixing together 1/2 cup of water, 2 tablespoons of honey and 1 tablespoon of grated ginger in a small saucepan.",
+    "Bring glaze to a boil over medium-high heat, then reduce heat to low and simmer for 5 minutes or until glaze thickens slightly.",
+    "To serve, place a portion of rice on a banana leaf and brush with Peruvian glaze.",
+    "Fold banana leaf over the rice to form a package and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "one-pan",
+    "peruvian",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 7,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "dense-fluffy-peruvian-basmati-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-fluffy-peruvian-basmati-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "glaze",
+    "primaryIngredient": "basmati rice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Basmati Rice",
+    "descriptor": "Dense, Fluffy",
+    "dishForm": "Pilaf"
+  }
+}

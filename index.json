@@ -230,6 +230,20 @@
     "shard": "d"
   },
   {
+    "slug": "dark-zy-canadian-flour-poutine",
+    "title": "Dark-Zy Canadian Flour Poutine",
+    "tags": [
+      "canadian",
+      "keto",
+      "low-carb",
+      "peppery",
+      "poutine"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dashing-australian-kangaroo-curry",
     "title": "Dashing Australian Kangaroo Curry",
     "tags": [
@@ -3532,6 +3546,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-fluffy-peruvian-basmati-rice-pilaf",
+    "title": "Dense Fluffy Peruvian Basmati Rice Pilaf",
+    "tags": [
+      "crowd-pleaser",
+      "gluten-free",
+      "one-pan",
+      "peruvian",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
