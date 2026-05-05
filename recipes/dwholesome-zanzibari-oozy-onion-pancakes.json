@@ -1,0 +1,85 @@
+{
+  "title": "DWholesome Zanzibari Oozy Onion Pancakes",
+  "description": "Roasted and molten green pepper pancakes that are a quick-fix Greek dish with satvik-friendly flavors.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "green onions",
+      "amount": 4,
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": 2,
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": 2,
+      "notes": "for cooking"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together the egg, flour, salt, and pepper. Stir in the green onions.",
+    "Heat butter in a non-stick pan over medium heat. Add oil to the pan.",
+    "Pour batter into the hot pan and cook until golden brown on both sides. Serve with fresh green pepper slices.",
+    "For an extra touch of zing, sprinkle some red chili flakes over the pancakes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "quick-fix",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "dwholesome-zanzibari-oozy-onion-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dwholesome-zanzibari-oozy-onion-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:34:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "green pepper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Onion",
+    "descriptor": "Wholesome",
+    "dishForm": "Pancakes"
+  }
+}
