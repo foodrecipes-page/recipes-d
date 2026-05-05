@@ -1,0 +1,93 @@
+{
+  "title": "Dense Adventurous Roasted Thai Trout Khanom-Thai",
+  "description": "A light and adventurous Thai dish featuring trout, yuzu-cure, and a unique twist on traditional Khanom-Thai.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Thai red chilies",
+      "amount": "2",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the trout fillets with salt and pepper.",
+    "In a small bowl, whisk together yuzu juice, melted coconut oil, sliced Thai red chilies, minced garlic, and chopped fresh cilantro.",
+    "Place the trout fillets in a baking dish and brush the yuzu-cure mixture evenly over both fillets.",
+    "Roast the trout in the preheated oven for 12 minutes or until cooked through.",
+    "Remove the trout from the oven and let it rest for 2 minutes before serving.",
+    "Serve the trout with a drizzle of fish sauce and a sprinkle of chopped fresh cilantro.",
+    "Garnish with additional Thai red chilies and fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "fish",
+    "one-pan",
+    "thai",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 16
+  },
+  "slug": "dense-adventurous-roasted-thai-trout-khanom-thai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-adventurous-roasted-thai-trout-khanom-thai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "trout",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "trout",
+    "descriptor": "Dense Adventurous Roasted",
+    "dishForm": "Khanom-Thai"
+  }
+}

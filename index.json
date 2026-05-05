@@ -901,6 +901,24 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-smoky-blackened-tunisian-beans-tagine",
+    "title": "Decadent Smoky Blackened Tunisian Beans Tagine",
+    "tags": [
+      "ayurvedic",
+      "comfort-food",
+      "hangover-cure",
+      "north-african",
+      "one-pan",
+      "tunisian",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-smoky-norte-3o-chicken-burrito",
     "title": "Decadent Smoky Norteño Chicken Burrito",
     "tags": [
@@ -3341,6 +3359,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-adventurous-roasted-thai-trout-khanom-thai",
+    "title": "Dense Adventurous Roasted Thai Trout Khanom-Thai",
+    "tags": [
+      "adventurous",
+      "fish",
+      "one-pan",
+      "thai",
+      "whole30-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {

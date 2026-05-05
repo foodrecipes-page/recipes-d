@@ -1,0 +1,155 @@
+{
+  "title": "Decadent Smoky Blackened Tunisian Beans Tagine",
+  "description": "A rich, smoky, and flavorful hangover cure featuring black beans, mother sauce base, and ayurvedic tamasic-friendly spices, all cooked in a traditional Tunisian vessel, the tava griddle.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Black beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mother sauce base",
+      "amount": "1/2 cup",
+      "notes": "A mixture of olive oil, garlic, ginger, cumin, coriander, and smoked paprika."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tava griddle over medium heat.",
+    "Add the onion and saut\u00105 until softened, about 5 minutes.",
+    "Add the garlic and ginger and saut\u00105 for another minute.",
+    "Add the black beans, dried apricots, raisins, pistachios, smoked paprika, ground cumin, ground coriander, salt, and black pepper. Stir to combine.",
+    "Add the mother sauce base, water, and ghee (if using). Stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the liquid has reduced and the beans are coated in the spice mixture, about 20 minutes.",
+    "Stir in the fresh parsley and lemon juice.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld.",
+    "Serve with rice, naan, or roti, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "hangover-cure",
+    "north-african",
+    "one-pan",
+    "tunisian",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "decadent-smoky-blackened-tunisian-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoky-blackened-tunisian-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "black beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beans",
+    "descriptor": "Decadent Smoky Blackened",
+    "dishForm": "Tagine"
+  }
+}
