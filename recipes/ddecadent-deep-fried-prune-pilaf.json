@@ -1,0 +1,74 @@
+{
+  "title": "DDecadent Deep-Fried Prune Pilaf",
+  "description": "A comforting Portuguese dish featuring prunes deep-fried to a nutty and glassy-jelly consistency, low in fat and high in fiber.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup prunes",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp all-purpose flour",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "3/4 cup vegetable oil for frying",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of white pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Combine prunes, flour, cinnamon, salt, and pepper in a bowl.",
+    "Form mixture into small balls or patties.",
+    "Heat oil to 350°F (175°C).",
+    "Fry prune patties for about 2 minutes on each side until golden brown and crispy.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat-friendly",
+    "nutritious-dessert",
+    "portuguese-favorite"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "ddecadent-deep-fried-prune-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-deep-fried-prune-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:44:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "prunes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "prunes",
+    "descriptor": "Deep-Fried",
+    "dishForm": "Pilaf"
+  }
+}
