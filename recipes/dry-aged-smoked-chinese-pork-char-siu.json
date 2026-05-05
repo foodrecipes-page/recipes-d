@@ -1,0 +1,97 @@
+{
+  "title": "Dry Aged Smoked Chinese Pork Char Siu",
+  "description": "A traditional Yunnan Chinese dish featuring nutty, glassy-jelly pork with Asian-chive-buchu flavors. This recipe is Jain-friendly and suitable for breakfast, lunch, or dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/2 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Asian-chive-buchu",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Combine pork shoulder, brown sugar, rice vinegar, soy sauce, Asian-chive-buchu, ginger, and black pepper in a large bowl. Mix well to coat the pork evenly.",
+    "Transfer the mixture to a bamboo tray and dry age for 24 hours.",
+    "Preheat a smoker to 225°F (110°C).",
+    "Smoke the pork for 2 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the pork from the smoker and let it rest for 10 minutes.",
+    "Slice the pork thinly against the grain.",
+    "Serve the char siu pork hot, garnished with additional Asian-chive-buchu and bamboo shoots if desired.",
+    "Note: Traditionally, this dish is fermented for several days before serving, but for a quicker version, skip this step and proceed with smoking the pork."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dry-aging",
+    "high-protein",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 56,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "dry-aged-smoked-chinese-pork-char-siu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-aged-smoked-chinese-pork-char-siu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "jain",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Dry Aged Smoked",
+    "dishForm": "Char Siu"
+  }
+}

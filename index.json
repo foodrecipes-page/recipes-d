@@ -3962,6 +3962,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-monsoon-saute-portuguese-fish-skewers",
+    "title": "dense monsoon saute portuguese fish skewers",
+    "tags": [
+      "fish",
+      "grilled",
+      "one-pan",
+      "portuguese",
+      "skewers",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "dense-moroccan-pilchards-tagine",
     "title": "Dense Moroccan Pilchards Tagine",
     "tags": [
@@ -4906,6 +4921,20 @@
     "shard": "d"
   },
   {
+    "slug": "dry-aged-smoked-chinese-pork-char-siu",
+    "title": "Dry Aged Smoked Chinese Pork Char Siu",
+    "tags": [
+      "dry-aging",
+      "high-protein",
+      "one-pan",
+      "smoked",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 190,
+    "shard": "d"
+  },
+  {
     "slug": "dry-crumbly-argentinian-beef-empanadas",
     "title": "Dry Crumbly Argentinian Beef Empanadas",
     "tags": [
@@ -4935,6 +4964,22 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-earthy-german-lamb-casserole",
+    "title": "dry earthy german lamb casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "german",
+      "lamb",
+      "one-pan",
+      "weeknight",
+      "winter-warmer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 120,
     "shard": "d"
   },
   {
