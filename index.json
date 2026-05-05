@@ -1096,6 +1096,21 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fry-peruvian-tod-fried-rice",
+    "title": "Deep-Fry Peruvian Tod Fried-Rice",
+    "tags": [
+      "breakfast",
+      "deep-fried",
+      "fried-rice",
+      "peruvian",
+      "rice",
+      "tod"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deep-red-braised-chinese-onions-braised",
     "title": "Deep Red Braised Chinese Onions",
     "tags": [

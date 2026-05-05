@@ -1,0 +1,116 @@
+{
+  "title": "Deep-Fry Peruvian Tod Fried-Rice",
+  "description": "A fresh take on traditional Peruvian tod, deep-fried and served with a side of HP sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "halal",
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tod rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "HP sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tsp soy sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro for garnish",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a deep fryer or a large pot to 350°F (175°C).",
+    "Prepare the tod rice mixture by combining it with scrambled eggs, chopped cilantro, and a pinch of salt and pepper.",
+    "Using a spoon, drop the mixture by tablespoonfuls into the hot oil, being careful not to overcrowd the pot.",
+    "Fry the tod for 2-3 minutes or until golden brown and crispy.",
+    "Using a slotted spoon, remove the fried tod from the oil and drain on paper towels.",
+    "In a small saucepan, heat the HP sauce over low heat.",
+    "To serve, place the fried tod on a plate and drizzle with the warmed HP sauce.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "deep-fried",
+    "fried-rice",
+    "peruvian",
+    "rice",
+    "tod"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 76,
+    "fat": 30
+  },
+  "slug": "deep-fry-peruvian-tod-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fry-peruvian-tod-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "hp-sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tod",
+    "descriptor": "deep-fry",
+    "dishForm": "Fried-Rice"
+  }
+}
