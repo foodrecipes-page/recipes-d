@@ -1,0 +1,114 @@
+{
+  "title": "Dense Smoky Ethiopian Lemongrass Doro Jjigae",
+  "description": "Savory, shaggy, and uniquely flavored, this hangover-cure dish will leave you wanting more. Wood-fired baked to perfection, this Jjigae is both hearty and aromatic.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tibsigine chicken",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 450°F (230°C).",
+    "Trim the lemongrass stalks to 4\" and bruise them slightly to release their oil.",
+    "Heat a large pan over medium-high heat and add 1 tsp of olive oil.",
+    "Add the chicken and cook until browned on all sides, then set aside."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "doro-jjigae",
+    "ethiopian",
+    "hangover-cure",
+    "jain-friendly",
+    "lemongrass",
+    "one-pan",
+    "spicy",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "dense-smoky-ethiopian-lemongrass-doro-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-ethiopian-lemongrass-doro-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Doro Jjigae"
+  }
+}

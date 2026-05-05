@@ -1122,6 +1122,22 @@
     "shard": "d"
   },
   {
+    "slug": "deglazed-german-tempeh-bake",
+    "title": "Deglazed German Tempeh Bake",
+    "tags": [
+      "brunch",
+      "german",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
     "title": "Deglazed Smoky Roasted Pepper American Pilaf",
     "tags": [
@@ -4322,6 +4338,23 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-ethiopian-lemongrass-doro-jjigae",
+    "title": "Dense Smoky Ethiopian Lemongrass Doro Jjigae",
+    "tags": [
+      "doro-jjigae",
+      "ethiopian",
+      "hangover-cure",
+      "jain-friendly",
+      "lemongrass",
+      "one-pan",
+      "spicy",
+      "wood-fired"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
