@@ -1,0 +1,72 @@
+{
+  "title": "Delicate Algerian Dates Gelatin Pudding",
+  "description": "A resinous and crumbly dish featuring gelatine leafs slow-cooked with dates for a jain-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "20g of gelatin leafs",
+      "amount": "g"
+    },
+    {
+      "name": "150ml of water",
+      "amount": "ml"
+    },
+    {
+      "name": "10 dates, pitted and halved",
+      "amount": null
+    },
+    {
+      "name": "2 cups of chopped nuts (walnuts or almonds)",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup of honey or jaggery for flavoring",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Place gelatin leafs in a small pot, cover with water and heat until the gelatin dissolves.",
+    "Add dates to the dissolved gelatin, simmer for about 10 minutes.",
+    "Stir in chopped nuts and honey/jaggery, continue cooking until mixture thickens and coats the back of a spoon.",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "crumbly",
+    "dessert",
+    "jain-friendly",
+    "meal-prep",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "delicate-algerian-dates-gelatin-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-algerian-dates-gelatin-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:00:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dates",
+    "descriptor": "Gelatinized",
+    "dishForm": "Pudding"
+  }
+}
