@@ -1,0 +1,89 @@
+{
+  "title": "DDecadent Wholesome Roasted Ripe Bananas Pancake",
+  "description": "This anti-inflammatory-friendly dish combines the sweet and creamy roasted ripe bananas with a mantecare-emulsify pancake batter to create a unique and flavorful breakfast treat.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": 2,
+      "notes": "ensure they are overripe for the best flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": 150
+    },
+    {
+      "name": "baking powder",
+      "amount": 3
+    },
+    {
+      "name": "unsalted butter",
+      "amount": 80
+    },
+    {
+      "name": "canola oil",
+      "amount": 60
+    },
+    {
+      "name": "coconut milk",
+      "amount": 240
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": 1
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the ripe bananas into thin rounds and place them on a baking sheet lined with parchment paper.",
+    "Sprinkle ground cinnamon and nutmeg powder over the sliced bananas, then drizzle with oil and lightly toss until evenly coated.",
+    "Roast in the preheated oven for about 20 minutes or until slightly browned and caramelized.",
+    "In a large mixing bowl, combine flour, baking powder, coconut milk, unsalted butter, and blend well using an electric mixer on medium speed until smooth and creamy.",
+    "Fold roasted bananas into the batter gently, making sure not to overmix.",
+    "Grease two non-stick frying pans with oil or butter. Pour equal portions of pancake mixture onto each pan, cooking for about 2 minutes per side or until golden brown.",
+    "Serve warm and enjoy your DDecadent Wholesome Roasted Ripe Bananas Pancake."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dessert",
+    "jamaican",
+    "mantecare-emulsify",
+    "one-pan",
+    "roasted-bananas"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 72,
+    "fat": 24
+  },
+  "slug": "ddecadent-wholesome-roasted-ripe-bananas-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-wholesome-roasted-ripe-bananas-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T21:02:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Ripe Bananas",
+    "descriptor": "Wholesome Roasted",
+    "dishForm": "Pancake"
+  }
+}
