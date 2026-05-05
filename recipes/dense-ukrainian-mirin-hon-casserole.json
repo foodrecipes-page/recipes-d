@@ -1,0 +1,89 @@
+{
+  "title": "Dense Ukrainian Mirin-Hon Casserole",
+  "description": "A rich, savory casserole featuring tender rest-meat and a sweet, sticky mirin-hon glaze. Perfect for adventurous palates",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "white pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u00040F (190\u00040C).",
+    "In a large skillet, brown the rest-meat over medium-high heat.",
+    "Add the unsalted butter and let it melt, then sprinkle the all-purpose flour over the rest-meat and cook for 1 minute.",
+    "Gradually stir in the mirin-hon and bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "In a separate pan, saut\u00055 the large onion until translucent, then set aside.",
+    "Combine the cooked onion with the rest-meat mixture, chopped fresh dill, and white pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "casserole",
+    "easy-cook",
+    "mirin-hon",
+    "rest-meat",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 45
+  },
+  "slug": "dense-ukrainian-mirin-hon-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-ukrainian-mirin-hon-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "rest-meat",
+    "primaryIngredient": "mirin-hon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Mirin-hon",
+    "descriptor": "Dense Rest-Meat",
+    "dishForm": "Casserole"
+  }
+}

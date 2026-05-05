@@ -1,0 +1,111 @@
+{
+  "title": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+  "description": "savor the tender pumpkin and zesty yuzu flavors in this post-workout greek dish. perfect for a weeknight dinner or a special occasion meal.",
+  "cuisine": "greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small (about 1 pound)",
+      "notes": "canned or fresh, any type of pumpkin"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "donabe",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for donabe"
+    }
+  ],
+  "instructions": [
+    "heat the donabe over medium heat on the stovetop.",
+    "add the olive oil and swirl it around to coat the bottom of the donabe.",
+    "add the garlic and saut\u00148; for 1-2 minutes until fragrant.",
+    "add the pumpkin and saut\u00148; for 2-3 minutes until slightly tender.",
+    "add the yuzu juice, salt, parsley, and dill. stir to combine.",
+    "pour in the water and bring to a simmer.",
+    "reduce heat to low and let it cook for 10-15 minutes or until the pumpkin is tender.",
+    "serve hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "easy-to-make",
+    "fall",
+    "gluten-free",
+    "greek",
+    "one-pan",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pumpkin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Donabe-Fresh Delightful",
+    "dishForm": "Saganaki-Style Hot Pot"
+  }
+}

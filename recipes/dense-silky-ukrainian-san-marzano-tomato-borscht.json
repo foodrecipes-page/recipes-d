@@ -1,0 +1,135 @@
+{
+  "title": "Dense Silky Ukrainian San-Marzano-Tomato Borscht",
+  "description": "Sour and silky, energizing Ukrainian dish featuring San-Marzano tomatoes, ideal for broiling in banana leaves.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "San-Marzano tomatoes (2 cups, chopped)",
+      "amount": "1 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Red beet (2 medium, peeled and grated)",
+      "amount": "1 medium, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage (1 cup, shredded)",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Brown onion (1 medium, chopped)",
+      "amount": "1/2 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves, minced)",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Dill weed (chopped, 1/4 cup)",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce (2 tablespoons)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar (2 tablespoons)",
+      "amount": "1 tablespoon",
+      "notes": "Ayurvedic tamasic-friendly alternative: balsamic vinegar."
+    },
+    {
+      "name": "Banana leaves (2)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Basil leaves (chopped, 1/4 cup)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Potassium broiler salt (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler. Cut 2 banana leaves into 10x10 inch squares. ",
+    "Coat 1 banana leaf square with a thin layer of olive oil. ",
+    "Overlap the second banana leaf square on top of the first one, creating a vessel for broiling. ",
+    "In a blender, puree the San-Marzano tomatoes, red beet, red cabbage, brown onion, garlic, dill weed, Worcestershire sauce, apple cider vinegar, salt, and black pepper until smooth. ",
+    "Pour the pureed mixture into the banana leaf vessel. ",
+    "Add the chopped basil leaves on top of the pureed mixture. ",
+    "Broil the mixture in the banana leaf vessel at 400°F for 25 minutes. ",
+    "Season the borscht to taste with potassium broiler salt. ",
+    "Serve the dense and silky Ukrainian San-Marzano-tomato borscht hot, garnished with additional basil leaves. ",
+    "Let it cool before refrigerating, and store it in an airtight container for up to 3 days. ",
+    "Reheat the borscht before serving. "
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "banana-leaf",
+    "borscht",
+    "energizing",
+    "silky",
+    "soups",
+    "sour",
+    "ukrainian",
+    "vegan",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "dense-silky-ukrainian-san-marzano-tomato-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-silky-ukrainian-san-marzano-tomato-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "San-Marzano-Tomato",
+    "descriptor": "Dense Silky",
+    "dishForm": "Borscht"
+  }
+}

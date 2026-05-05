@@ -4492,6 +4492,24 @@
     "shard": "d"
   },
   {
+    "slug": "dense-silky-ukrainian-san-marzano-tomato-borscht",
+    "title": "Dense Silky Ukrainian San-Marzano-Tomato Borscht",
+    "tags": [
+      "banana-leaf",
+      "borscht",
+      "energizing",
+      "silky",
+      "soups",
+      "sour",
+      "ukrainian",
+      "vegan",
+      "veggie"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "dense-slovakian-rice-khao-khua-fried-rice",
     "title": "Dense Slovakian Rice-Khao-Khua Fried-Rice",
     "tags": [
@@ -4778,6 +4796,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-ukrainian-mirin-hon-casserole",
+    "title": "Dense Ukrainian Mirin-Hon Casserole",
+    "tags": [
+      "adventurous",
+      "casserole",
+      "easy-cook",
+      "mirin-hon",
+      "rest-meat",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-ukrainian-tofu-bowl",
     "title": "Dense Ukrainian Tofu Bowl",
     "tags": [
@@ -4914,6 +4947,23 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+    "title": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+    "tags": [
+      "donabe",
+      "easy-to-make",
+      "fall",
+      "gluten-free",
+      "greek",
+      "one-pan",
+      "vegetarian",
+      "winter"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
