@@ -1,0 +1,125 @@
+{
+  "title": "dense and salty argentinian snapper parrillada",
+  "description": "a dense and salty whole30-friendly argentinian dish featuring red snapper, perfect for meal prep",
+  "cuisine": "argentinian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4",
+      "notes": "6 ounces each, skin removed"
+    },
+    {
+      "name": "argentinian Chimichurri",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "grilled scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat.",
+    "season snapper fillets with oregano, salt, and black pepper.",
+    "brush grill grates with olive oil to prevent sticking.",
+    "grill snapper fillets for 4-5 minutes per side, or until cooked through.",
+    "while snapper is cooking, grill slices of red onion, red bell pepper, and zucchini for 3-4 minutes per side, or until tender.",
+    "transfer cooked vegetables to a plate and brush with olive oil.",
+    "chop parsley and mix with garlic, lemon juice, and a pinch of salt.",
+    "brush snapper fillets with chimichurri and grill for an additional 1-2 minutes per side, or until heated through.",
+    "serve snapper on a bed of grilled vegetables, topped with a dollop of chimichurri, grilled scallions, and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "paleo",
+    "seafood",
+    "summer",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 52,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "dense-and-salty-argentinian-snapper-parrillada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-and-salty-argentinian-snapper-parrillada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "brine-dry",
+    "primaryIngredient": "red snapper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "snapper",
+    "descriptor": "dense and salty",
+    "dishForm": "parrillada"
+  }
+}

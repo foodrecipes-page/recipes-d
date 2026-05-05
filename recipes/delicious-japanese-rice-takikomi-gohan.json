@@ -1,0 +1,116 @@
+{
+  "title": "Delicious Japanese Rice Takikomi-Gohan",
+  "description": "A floral and shattering one-pot Japanese dish made with low-glycemic-friendly ingredients, perfect for any meal of the day. This recipe features a gherkin relish and grilled flavors that will leave you wanting more.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Gherkin",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grilled shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large clay pot or Dutch oven over medium heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add miso paste and cook for an additional minute, stirring constantly.",
+    "Add soy sauce, salt, and water to the pot, and stir to combine.",
+    "Add Japanese short-grain rice to the pot, and stir to coat the rice with the sauce.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pot with a tight-fitting lid.",
+    "Simmer for 15 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Add chopped gherkin, sliced grilled shiitake mushrooms, and grated daikon to the pot, and stir to combine.",
+    "Cook for an additional 2 minutes, until the ingredients are heated through.",
+    "Stir in chopped parsley, and serve hot.",
+    "Transfer the takikomi-gohan to a serving platter, and garnish with additional parsley and grilled shiitake mushrooms, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "low-carb",
+    "one-pot",
+    "rice-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "delicious-japanese-rice-takikomi-gohan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-japanese-rice-takikomi-gohan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Delicious",
+    "dishForm": "Takikomi-Gohan"
+  }
+}

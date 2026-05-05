@@ -1,0 +1,114 @@
+{
+  "title": "Dense Moroccan Turkey Tagine",
+  "description": "A rich and flavorful Moroccan dish made with smoked turkey neck, dried fruits, and a sweet lacquer-glaze, perfect for a weeknight dinner. This dish is kid-friendly and macrobiotic-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dried Prunes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add the smoked turkey neck and cook until browned on all sides.",
+    "Add the dried apricots, prunes, cinnamon, cumin, and paprika.",
+    "Pour in the honey and apple cider vinegar, and stir to coat.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the meat is tender and the sauce has thickened.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "dense-moroccan-turkey-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-moroccan-turkey-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Turkey",
+    "descriptor": "Dense",
+    "dishForm": null
+  }
+}

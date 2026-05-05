@@ -2463,6 +2463,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-japanese-rice-takikomi-gohan",
+    "title": "Delicious Japanese Rice Takikomi-Gohan",
+    "tags": [
+      "japanese",
+      "low-carb",
+      "one-pot",
+      "rice-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-korean-kale-noodles",
     "title": "Korean Kale Noodles",
     "tags": [
@@ -3164,6 +3178,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-and-salty-argentinian-snapper-parrillada",
+    "title": "dense and salty argentinian snapper parrillada",
+    "tags": [
+      "argentinian",
+      "grilled",
+      "paleo",
+      "seafood",
+      "summer",
+      "whole30"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-argentinian-chocolate-chips-brownies",
     "title": "Dense Argentinian Chocolate Chips Brownies",
     "tags": [
@@ -3220,6 +3249,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-british-sponge-cake-trifle",
+    "title": "Dense British Sponge Cake Trifle",
+    "tags": [
+      "british",
+      "brunch",
+      "high-cake",
+      "special-occasion",
+      "trifle",
+      "weekend"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 75,
     "shard": "d"
   },
   {
@@ -3593,6 +3637,23 @@
     "shard": "d"
   },
   {
+    "slug": "dense-korean-flaxseed-juk",
+    "title": "Dense Korean Flaxseed Juk",
+    "tags": [
+      "breakfast-lunch",
+      "comfort-food",
+      "easy-weeknight",
+      "flaxseed",
+      "gluten-free",
+      "korean",
+      "slow-cooker",
+      "vegan"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "dense-korean-papelon-stir-fry",
     "title": "Earthy Papelon Stir-Fry",
     "tags": [
@@ -3678,6 +3739,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-moroccan-turkey-tagine",
+    "title": "Dense Moroccan Turkey Tagine",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 140,
     "shard": "d"
   },
   {
