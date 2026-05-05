@@ -1,0 +1,58 @@
+{
+  "title": "Dense Jammy Tunisian Dish Mushimono",
+  "description": "A light, jammy, and molten Tunisian dish made with dark soy sauce and steamed to perfection. Perfect for a healthy and delicious low-calorie meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dark Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Combine chicken breast, potatoes, lemon juice, garlic, and capers in a bowl, and mix well.",
+    "Heat olive oil in a pan over medium heat, and fry the vegetables for 3-4 minutes, until they start to soften.",
+    "Add the fried vegetables to the bowl and mix well with the chicken and potatoes.",
+    "Transfer the mixture to a steamer and steam for 15-20 minutes, until the chicken is cooked through and the vegetables are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "dense-jammy-tunisian-dish-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-jammy-tunisian-dish-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Dish",
+    "descriptor": "Dense Jammy",
+    "dishForm": "Mushimono"
+  }
+}

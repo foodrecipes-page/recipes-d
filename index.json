@@ -323,6 +323,20 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-chewy-saudiarabian-tofu-tagine",
+    "title": "Date-Night Chewy Saudi Arabian Tofu Tagine",
+    "tags": [
+      "date-night",
+      "pescatarian",
+      "saudi-arabian",
+      "tagine",
+      "umami"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi",
     "title": "Date-Night Delicate Indian Wood Ear Mushrooms Jalebi",
     "tags": [
@@ -3621,6 +3635,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-greek-fish-grill",
+    "title": "Dense Greek Fish Grill",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "greek",
+      "low-carb",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-herbal-russian-beef-pilaf",
     "title": "Dense Herbal Russian Beef Pilaf",
     "tags": [
@@ -3663,6 +3693,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 62,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-jammy-tunisian-dish-mushimono",
+    "title": "Dense Jammy Tunisian Dish Mushimono",
+    "tags": [
+      "high-protein",
+      "low-calorie",
+      "one-pan",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -3871,6 +3915,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-peppery-norwegian-cannellini-beans-stew",
+    "title": "Dense Peppery Norwegian Cannellini Beans Stew",
+    "tags": [
+      "cannellini-beans",
+      "comfort-food",
+      "high-protein",
+      "norwegian-cuisine",
+      "one-pan",
+      "stew",
+      "winter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {

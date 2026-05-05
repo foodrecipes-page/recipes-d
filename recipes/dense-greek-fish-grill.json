@@ -1,0 +1,105 @@
+{
+  "title": "Dense Greek Fish Grill",
+  "description": "A hearty, comforting dish featuring mustardy flavors and anti-inflammatory-friendly ingredients, perfect for a lazy evening on the grill.",
+  "cuisine": "greek",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut fillets",
+      "amount": "4",
+      "notes": "1 pound each, skin removed"
+    },
+    {
+      "name": "Dashi broth (dasima-kombu)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat your robata grill to medium-high heat, or set up your grill for indirect grilling.",
+    "In a large bowl, whisk together the Greek yogurt, Dijon mustard, lemon juice, garlic, and a pinch of salt and pepper. Add the fish fillets and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Remove the fish from the marinade, letting any excess liquid drip off. Brush the fish with olive oil on both sides.",
+    "Grill the fish for 8-10 minutes per side, or until it reaches an internal temperature of 145°F. Transfer the fish to a plate and let it rest for 5 minutes before serving.",
+    "In a small bowl, mix together the dasi broth and chopped fresh dill. Brush the mixture onto the grilled fish.",
+    "Serve the fish hot, garnished with Kalamata olives and a side of your favorite grains or roasted vegetables.",
+    "Pour the remaining daish broth mixture over the fish and garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "greek",
+    "low-carb",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 52,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "dense-greek-fish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-greek-fish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "fish",
+    "descriptor": "Dense, Juicy",
+    "dishForm": "Grill"
+  }
+}

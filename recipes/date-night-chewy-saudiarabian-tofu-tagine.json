@@ -1,0 +1,129 @@
+{
+  "title": "Date-Night Chewy Saudi Arabian Tofu Tagine",
+  "description": "A rich, umami-filled dish inspired by the flavors of Saudi Arabia, featuring tender tofu and a sweet and spicy sauce. Serves as a pescatarian-friendly alternative to traditional meat-based tagines.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "block firm tofu",
+      "amount": "14 ounces",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add the tofu and cook, stirring occasionally, until golden brown on all sides, about 6 minutes.",
+    "Add the cumin, coriander, cinnamon, and red pepper flakes, and cook, stirring constantly, for 1 minute.",
+    "Add the date syrup, pomegranate molasses, and lemon juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened and the flavors have melded together, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Stir in the chopped parsley and cook for an additional 1-2 minutes.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Transfer the tagine to a serving dish and let it rest for 5 minutes before serving.",
+    "Carve the tagine into thick slices and serve with couscous or rice.",
+    "Garnish with toasted almonds or pistachios, if desired.",
+    "Serve immediately and enjoy!",
+    "Let the tagine rest for 5 minutes before carving and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "pescatarian",
+    "saudi-arabian",
+    "tagine",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "date-night-chewy-saudiarabian-tofu-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-chewy-saudiarabian-tofu-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "tofu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "saudiarabian",
+    "mainIngredient": "tofu",
+    "descriptor": "date-night chewy",
+    "dishForm": "tagine"
+  }
+}

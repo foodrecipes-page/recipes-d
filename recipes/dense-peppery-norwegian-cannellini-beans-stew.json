@@ -1,0 +1,100 @@
+{
+  "title": "Dense Peppery Norwegian Cannellini Beans Stew",
+  "description": "A hearty, comforting stew originating from Norway, featuring cannellini beans, cured in shio-koji, as the main attraction.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cannellini Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shio-Koji Cured Pork Belly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Roughly chop the onion, carrot, and celery.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion, carrot, and celery and sauté until they are tender.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the peppercorns and bay leaves and cook for 1 minute.",
+    "Add the cannellini beans, Shio-Koji Cured Pork Belly, thyme, and water to the Dutch oven.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the stew hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cannellini-beans",
+    "comfort-food",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "stew",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-peppery-norwegian-cannellini-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peppery-norwegian-cannellini-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cannellini beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Dense peppery",
+    "dishForm": "Stew"
+  }
+}
