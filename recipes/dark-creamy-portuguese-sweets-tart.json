@@ -1,0 +1,91 @@
+{
+  "title": "Dark Creamy Portuguese Sweets Tart",
+  "description": "A rich and creamy tart perfect for breakfast or dessert, featuring dark brown sugar and a hint of spice.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use a high-protein flour for a flaky crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "white sugar for contrast to dark brown sugar"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "3/4 cup",
+      "notes": "use a high-quality dark brown sugar for the best flavor"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature eggs for a smooth filling"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": "whole heavy cream for a rich and creamy filling"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality vanilla extract for the best flavor"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "use a high-quality ground cinnamon for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the chilled dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Chill the dough in the freezer for 15 minutes to firm up."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "eggs",
+    "portuguese",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 28
+  },
+  "slug": "dark-creamy-portuguese-sweets-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-creamy-portuguese-sweets-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "sweets",
+    "descriptor": "dark creamy",
+    "dishForm": "Dessert"
+  }
+}

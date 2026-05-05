@@ -1,0 +1,118 @@
+{
+  "title": "Dense Yeasty Thai Celeriac Nam Prik",
+  "description": "A rich, satisfying post-workout Central Thai dish infused with the deep flavors of celeriac and warm spices.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw celeriac",
+      "amount": "750g",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Infused oil (cumin & coriander)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine celeriac and yeast in a mixing bowl, adding 1 cup of lukewarm water to activate the yeast.",
+    "Knead the mixture for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl and let it ferment in a warm place for 2 hours.",
+    "Preheat a salt block to 450°F (230°C).",
+    "Divide the dough into 4 equal portions and shape each into a small disk.",
+    "Heat coconut oil in a pan over medium heat, then add grated ginger and sauté for 2 minutes.",
+    "Add fish sauce, palm sugar, and salt to the pan, stirring to combine.",
+    "Place the celeriac disks on the preheated salt block and sear for 2-3 minutes on each side.",
+    "Transfer the cooked celeriac to a serving platter and drizzle with infused oil, then garnish with cilantro.",
+    "Slice chili peppers and place on top of the celeriac disks."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "easytofollow",
+    "postworkout",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "dense-yeasty-thai-celeriac-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-yeasty-thai-celeriac-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "infuse-oil",
+    "primaryIngredient": "celeriac",
+    "diet": "nut-free",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "celeriac",
+    "descriptor": "Dense Yeasty",
+    "dishForm": "Nam Prik"
+  }
+}
