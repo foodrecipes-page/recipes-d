@@ -1,0 +1,145 @@
+{
+  "title": "Delicate Peruvian Lamb Seco de Cordero",
+  "description": "A traditional Peruvian lamb stew characterized by its tender pieces of lamb and citrusy flavor profile.",
+  "cuisine": "peruvian",
+  "diet": [
+    "ayurvedic",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "",
+      "notes": "dry (optional)"
+    },
+    {
+      "name": "beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder on all sides until browned, about 2-3 minutes per side.",
+    "Remove the lamb and set aside, leaving the oil in the pot.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped cilantro, dill, and grated ginger to the pot and cook for 1-2 minutes, until the herbs are slightly wilted.",
+    "Add the lemon and lime juice, white wine (if using), beef broth, salt, black pepper, cumin, and paprika to the pot, stirring to combine.",
+    "Return the lamb to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 2-3 hours, or until the lamb is tender and easily shreds with a fork.",
+    "After 2 hours of braising, carefully remove the pot from the oven and carefully add 1 cup of the braising liquid to a small saucepan.",
+    "Bring the liquid to a boil over high heat, then reduce the heat to medium-low and simmer for 10-15 minutes, or until the liquid has reduced and thickened slightly.",
+    "Stir in 1-2 tablespoons of vegetable oil to enrich the sauce.",
+    "Simmer for an additional 2-3 minutes, until the sauce has thickened to your liking.",
+    "Shred the lamb with two forks and serve with the rich and citrusy sauce spooned over the top.",
+    "Garnish with additional chopped cilantro and dill if desired.",
+    "Flamb\u00028 with white rum or red wine (optional).",
+    "Serve hot, accompanied by boiled potatoes, rice, or crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "cordero",
+    "homestyle",
+    "lamb",
+    "one-pan",
+    "peruvian",
+    "tamasic",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "delicate-peruvian-lamb-seco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "dill",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Delicate",
+    "dishForm": "Seco de Cordero"
+  }
+}

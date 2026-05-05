@@ -1900,6 +1900,24 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-peruvian-lamb-seco-de-cordero",
+    "title": "Delicate Peruvian Lamb Seco de Cordero",
+    "tags": [
+      "ayurvedic",
+      "cordero",
+      "homestyle",
+      "lamb",
+      "one-pan",
+      "peruvian",
+      "tamasic",
+      "weeknight",
+      "winter"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 210,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-portuguese-shrimp-ceviche",
     "title": "Delicate Portuguese Shrimp Ceviche",
     "tags": [
@@ -3248,6 +3266,22 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-crispy-japanese-white-yam-gyoza",
+    "title": "Dense Crispy Japanese White Yam Gyoza",
+    "tags": [
+      "crispy",
+      "dairy-free",
+      "easy-to-make",
+      "gluten-free",
+      "japanese",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {

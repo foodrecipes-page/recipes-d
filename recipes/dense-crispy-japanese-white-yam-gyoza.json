@@ -1,0 +1,107 @@
+{
+  "title": "Dense Crispy Japanese White Yam Gyoza",
+  "description": "A delicious and crispy Japanese dumpling dish made with white yams, shio-cure, and a variety of spices. Perfect for adventurous foodies looking for a umami-packed snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White yam",
+      "amount": "2 large",
+      "notes": "about 2 pounds total weight"
+    },
+    {
+      "name": "Shio-cure",
+      "amount": "1/4 cup",
+      "notes": "finely chopped, store-bought or homemade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated, peeled fresh ginger root"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped, white and green parts separated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium, or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for dusting, to prevent sticking"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for wrapping gyoza"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wrap white yam pieces in paper towels and microwave for 3 minutes to soften.",
+    "Sift cornstarch onto a flat surface and dust gyoza wrappers lightly with cornstarch to prevent sticking.",
+    "Place a gyoza wrapper on a flat surface and place a tablespoon of the white yam mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder, sealing the edges with a little water."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dairy-free",
+    "easy-to-make",
+    "gluten-free",
+    "japanese",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "dense-crispy-japanese-white-yam-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-crispy-japanese-white-yam-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "white yam",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "White Yam",
+    "descriptor": "Dense Crispy",
+    "dishForm": "Gyoza"
+  }
+}
