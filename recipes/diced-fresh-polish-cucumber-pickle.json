@@ -1,0 +1,66 @@
+{
+  "title": "Diced Fresh Polish Cucumber Pickle",
+  "description": "A quick-fix, plant-based-friendly Polish dish featuring crispy, fresh cucumber slices in a brine",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large Polish cucumber",
+      "amount": "1",
+      "notes": "about 1 pound",
+      "},{": "+name"
+    }
+  ],
+  "instructions": [
+    "Peel the cucumber and slice it into 1/4-inch thick rounds",
+    "In a large bowl, combine the sliced cucumber and salt. Let it sit for 30 minutes to draw out excess water",
+    "Rinse the cucumber slices under running water to remove excess salt and pat them dry with paper towels",
+    "In a medium saucepan, combine the water, apple cider vinegar, maple syrup, sugar, black pepper, and dill weed. Bring to a boil over high heat",
+    "Reduce the heat to medium-low and let the brine simmer for 5 minutes",
+    "Pack the cucumber slices into a clean glass jar or container, leaving about 1 inch of space at the top",
+    "Pour the brine over the cucumber slices, making sure that they are completely covered",
+    "Let the pickles cool to room temperature, then refrigerate them for at least 2 hours before serving",
+    "Just before serving, sprinkle the pickled cucumber with garlic and serve"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-acid",
+    "low-fat",
+    "low-protein",
+    "one-pan",
+    "snack-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 0
+  },
+  "slug": "diced-fresh-polish-cucumber-pickle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/diced-fresh-polish-cucumber-pickle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "cucumber",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cucumber",
+    "descriptor": "diced fresh",
+    "dishForm": "Pickle"
+  }
+}
