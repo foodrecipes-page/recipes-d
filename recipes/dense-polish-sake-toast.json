@@ -1,0 +1,90 @@
+{
+  "title": "Dense Polish Sake Toast",
+  "description": "Bitter, dense, midnight-craving polish dish featuring sake, toast, gluten-free-friendly. Perfect for a quick snack.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-free bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a tava-griddle over medium heat.",
+    " Toast the bread for 2-3 minutes on each side.",
+    "Melt butter on the tava-griddle.",
+    "Add sake, brown sugar, salt, black pepper, and cinnamon. Stir until sugar dissolves.",
+    "Add toasted bread to the tava-griddle and cook for 1-2 minutes on each side.",
+    "Sprinkle with pecans.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "dinner-party",
+    "gluten-free",
+    "midnight-snack",
+    "one-pan",
+    "potluck",
+    "sake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "dense-polish-sake-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-polish-sake-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:58:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "sake",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sake",
+    "descriptor": "Dense",
+    "dishForm": "Toast"
+  }
+}
