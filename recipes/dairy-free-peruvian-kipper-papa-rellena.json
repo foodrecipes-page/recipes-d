@@ -1,0 +1,117 @@
+{
+  "title": "Dairy-Free Peruvian Kipper Papa Rellena",
+  "description": "A flavorful and comforting version of the classic Peruvian dish, using dairy-free alternatives and featuring kippers for a unique twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kipper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-free grated cheese",
+      "amount": "1 cup",
+      "notes": "such as soy cheese or vegan cheddar"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the kipper fillets and cook until browned, about 3-4 minutes per side.",
+    "Stir in the bhuna curry paste and cook for 1 minute, until fragrant.",
+    "Add the diced potatoes and stir to combine.",
+    "Transfer the mixture to a bowl and mash until mostly smooth.",
+    "Stir in the dairy-free mayonnaise and dairy-free grated cheese until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Shape the mixture into 4 patties and set aside.",
+    "Heat a non-stick pan or griddle over medium heat and cook the patties for 3-4 minutes per side, until golden brown and crispy.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "dairy-free-peruvian-kipper-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dairy-free-peruvian-kipper-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "kippers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "kipper",
+    "descriptor": "dairy-free",
+    "dishForm": "Papa Rellena"
+  }
+}
