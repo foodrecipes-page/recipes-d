@@ -1,0 +1,113 @@
+{
+  "title": "Deep-Fry Tunisian Chilli Paella",
+  "description": "A salty and crumbly one-pot dish featuring green chilli and crispy fried tofu. Serve immediately to enjoy the crispy texture.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Long-grain, uncooked"
+    },
+    {
+      "name": "Green chillies",
+      "amount": "4",
+      "notes": "Sliced and deseeded"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine-grained"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For deep-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large paella pan over medium heat until it reaches 350°F.",
+    "Add the tofu and deep-fry until golden brown and crispy, about 4 minutes. Remove from oil and set aside.",
+    "In the same oil, add the onion and garlic and sauté until softened, about 3 minutes.",
+    "Add the cumin, smoked paprika, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the rice and stir to coat with the spice mixture. Cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Add the sliced green chillies and bay leaves to the pan. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and stir in the crispy fried tofu.",
+    "Serve immediately, garnished with fresh parsley or cilantro if desired.",
+    "Discard the bay leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "keto-friendly",
+    "one-pan",
+    "spicy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "deep-fry-tunisian-chilli-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fry-tunisian-chilli-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "green chilli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chilli",
+    "descriptor": "deep-fry",
+    "dishForm": "Paella"
+  }
+}

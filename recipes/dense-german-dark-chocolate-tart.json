@@ -1,0 +1,88 @@
+{
+  "title": "Dense German Dark Chocolate Tart",
+  "description": "A dense, rich, and indulgent German-inspired dessert featuring dark chocolate, infused-oil, and a buttery pastry crust. Perfect for a special occasion or romantic date-night.",
+  "cuisine": "german",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "+70% cocoa or higher"
+    },
+    {
+      "name": "infused oil (such as hazelnut or almond)",
+      "amount": "2 tablespoons",
+      "notes": "optional, but recommended for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350F. Line a 9-inch tart pan with parchment paper.",
+    "In a medium bowl, whisk together the flour, confectioners' sugar, and salt. Add the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into the prepared tart pan, leaving a 1-inch border around the edges. Chill in the freezer for 15 minutes.",
+    "Bake the crust for 20-25 minutes, or until lightly golden.",
+    "In a separate bowl, melt the chocolate chips in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "Spread the melted chocolate over the baked tart crust, leaving a 1-inch border around the edges.",
+    "If using infused oil, drizzle it over the chocolate in a zig-zag pattern.",
+    "Let the tart cool completely in the pan before slicing and serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dark-chocolate",
+    "date-night",
+    "dessert",
+    "german",
+    "romantic",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 4000,
+    "protein": 20,
+    "carbs": 400,
+    "fat": 280
+  },
+  "slug": "dense-german-dark-chocolate-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-german-dark-chocolate-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dark chocolate",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "dark chocolate",
+    "descriptor": "dense",
+    "dishForm": "tart"
+  }
+}

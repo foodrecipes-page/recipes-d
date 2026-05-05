@@ -1158,6 +1158,20 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fry-tunisian-chilli-paella",
+    "title": "Deep-Fry Tunisian Chilli Paella",
+    "tags": [
+      "deep-fried",
+      "keto-friendly",
+      "one-pan",
+      "spicy",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "deep-red-braised-chinese-onions-braised",
     "title": "Deep Red Braised Chinese Onions",
     "tags": [
@@ -3889,6 +3903,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-german-dark-chocolate-tart",
+    "title": "Dense German Dark Chocolate Tart",
+    "tags": [
+      "dark-chocolate",
+      "date-night",
+      "dessert",
+      "german",
+      "romantic",
+      "tart"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
