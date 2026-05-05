@@ -1,0 +1,119 @@
+{
+  "title": "delicate flaky syrian fish tagine",
+  "description": "a pescatarian-friendly dish featuring a grassy, flaky mix of fish, rice, and spices, typically served for brunch.",
+  "cuisine": "syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh mackerel fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern rice mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "combine rice mix and water in a large bowl and let soak for 30 minutes.",
+    "heat olive oil in a large skillet over medium heat.",
+    "add garlic and saut\u00177e until fragrant.",
+    "add mackerel fillets and cook until lightly browned on both sides.",
+    "transfer the mackerel to a bamboo steamer and place over boiling water.",
+    "add green onions, parsley, lemon juice, sumac, cumin, salt, and black pepper to the skillet and saut\u00177e until the onions are tender.",
+    "place the steamer over the skillet and cover with a lid.",
+    "steam for 15-20 minutes or until the fish is cooked through.",
+    "serve the fish on top of the rice mixture.",
+    "garnish with additional parsley and green onions if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "one-pan",
+    "pescatarian",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "delicate-flaky-syrian-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-syrian-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "salsa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Delicate flaky",
+    "dishForm": "Tagine"
+  }
+}

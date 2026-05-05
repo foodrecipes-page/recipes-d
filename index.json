@@ -258,6 +258,21 @@
     "shard": "d"
   },
   {
+    "slug": "dashing-australian-teque-os-fritters",
+    "title": "Dashing Australian Teque Os Fritters",
+    "tags": [
+      "australian",
+      "dinner",
+      "easy",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
     "slug": "date-cherry-crunchy-stir-fry",
     "title": "Date Cherry Crunchy Stir Fry",
     "tags": [
@@ -1625,6 +1640,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-flaky-syrian-fish-tagine",
+    "title": "delicate flaky syrian fish tagine",
+    "tags": [
+      "brunch",
+      "one-pan",
+      "pescatarian",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {

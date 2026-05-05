@@ -1,0 +1,99 @@
+{
+  "title": "Dashing Australian Teque Os Fritters",
+  "description": "Indulge in these buttery and shattering teque os fritters, made with pre-fried teque os, dashi-extract and paleo-friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried Teque Os (6 oz)",
+      "amount": "1 bag",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "1 teaspoon",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium heat.",
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium heat.",
+    "Cook the pre-fried Teque Os for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the cooked Teque Os to a plate.",
+    "Add 1 tablespoon of unsalted butter to the skillet and melt over medium heat.",
+    "Whisk in the dashi-extract and cook for 1 minute, or until fragrant.",
+    "Stir in the chopped scallions and cook for 1 minute, or until softened.",
+    "Add the beaten egg to the skillet and scramble until cooked through.",
+    "To assemble the fritters, place a spoonful of the egg mixture onto each Teque Os and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dinner",
+    "easy",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dashing-australian-teque-os-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dashing-australian-teque-os-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "teque os",
+    "descriptor": "dashing",
+    "dishForm": "fritters"
+  }
+}
