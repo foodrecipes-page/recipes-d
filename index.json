@@ -3792,6 +3792,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-pungent-italian-rice-arancini",
+    "title": "Dense Pungent Italian Rice Arancini",
+    "tags": [
+      "comfort-food",
+      "emilia-romagna",
+      "hangover-cure",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "dense-rich-spanish-rice-paella",
     "title": "Dense Rich Spanish Rice Paella",
     "tags": [
@@ -3999,6 +4014,20 @@
     ],
     "cuisine": "saudi-arabian",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-syrian-bread-grill",
+    "title": "Dense Syrian Bread Grill",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "syrian",
+      "vegetarian",
+      "weekend-brunch"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

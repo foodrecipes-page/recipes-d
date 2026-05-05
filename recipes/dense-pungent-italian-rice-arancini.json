@@ -1,0 +1,150 @@
+{
+  "title": "Dense Pungent Italian Rice Arancini",
+  "description": "A hearty, comforting Emilia-Romagna dish featuring warm water, tadka, and aromatic spices, served in a cataplana vessel. Serves as a satisfying hangover cure.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups",
+      "notes": "Short-grain rice is essential for arancini."
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup",
+      "notes": "Freshly drawn water at 80°F (27°C) is ideal."
+    },
+    {
+      "name": "Tadka Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil like canola or grapeseed."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion finely for even saut\u00011ng."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic to avoid biting into chunks."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality paste for the best flavor."
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "Whole-milk mozzarella provides the creamiest flavor."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Choose plain breadcrumbs for the crispiest coating."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten egg adds moisture and structure."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Season with salt to bring out flavors."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground pepper is essential for depth."
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1/4 teaspoon",
+      "notes": "Blend of herbs provides a classic Italian taste."
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Acidity balances richness in arancini."
+    },
+    {
+      "name": "Oregano",
+      "amount": "1/4 teaspoon",
+      "notes": "Dried oregano adds warmth without overpowering flavors."
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated Parmesan adds umami and texture."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping for added nuttiness."
+    },
+    {
+      "name": "Cataplana Vessel",
+      "amount": "",
+      "notes": "Traditional cataplana vessel required for presentation."
+    }
+  ],
+  "instructions": [
+    "Heat tadka oil in a cataplana over medium heat until shimmering.",
+    "Add chopped onion and cook, stirring occasionally, until softened and translucent, about 8 minutes.",
+    "Add minced garlic and cook, stirring constantly, for 1 minute, until fragrant.",
+    "Add tomato paste and cook, stirring constantly, for 1-2 minutes, until fragrant.",
+    "Add warm water, caramelized onion mix, mozzarella cheese, breadcrumbs, egg, salt, black pepper, Italian seasoning, and red wine vinegar. Stir to combine.",
+    "Transfer the mixture to a bowl and let cool to room temperature.",
+    "Once cooled, cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "When ready to assemble arancini, fill a small bowl with warm water and have the sesame seeds ready as an optional topping.",
+    "Use your hands to shape the cooled rice mixture into 12-15 balls, about 1 1/2 inches in diameter.",
+    "Dip the bottom of each ball into the warm water and then roll in sesame seeds, if using.",
+    "Place the arancini in the cataplana vessel and cover with a lid.",
+    "Steam the arancini over boiling water for 10-12 minutes, or until heated through and crispy on the outside.",
+    "Serve immediately, garnished with grated Parmesan cheese and a sprinkle of Italian seasoning.",
+    "To serve, place 3-4 arancini per serving and garnish with additional Parmesan cheese and Italian seasoning, if desired.",
+    "For an extra crispy exterior, broil the arancini in a preheated oven for 2-3 minutes, watching carefully to avoid burning."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "emilia-romagna",
+    "hangover-cure",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "dense-pungent-italian-rice-arancini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-pungent-italian-rice-arancini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "warm water",
+    "diet": "dash",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Dense Pungent",
+    "dishForm": "Arancini"
+  }
+}

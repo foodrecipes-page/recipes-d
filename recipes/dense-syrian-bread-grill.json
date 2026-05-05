@@ -1,0 +1,87 @@
+{
+  "title": "Dense Syrian Bread Grill",
+  "description": "A roasted, dense Syrian dish featuring a spicy twist with jalapeno and perfect for a weekend brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat pita bread",
+      "amount": "2 large pitas"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium heat.",
+    "Brush the pitas with olive oil on both sides.",
+    "Season with garlic powder and salt.",
+    "Place the pitas on the grill and cook for 2 minutes on each side.",
+    "Transfer the cooked pitas to a baking sheet.",
+    "Top each pita with sliced jalapenos, a dollop of yogurt, and a sprinkle of parsley.",
+    "Return the baking sheet to the grill and cook for an additional 2-3 minutes, until the cheese is melted and the pitas are crispy.",
+    "Remove from heat and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "syrian",
+    "vegetarian",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "dense-syrian-bread-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-syrian-bread-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "jalapeno",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Bread",
+    "descriptor": "Dense",
+    "dishForm": "Grill"
+  }
+}
