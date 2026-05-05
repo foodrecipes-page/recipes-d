@@ -3776,6 +3776,23 @@
     "shard": "d"
   },
   {
+    "slug": "dense-dutch-stilton-cheese-pancakes",
+    "title": "Dense Dutch Stilton Cheese Pancakes",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "cheese",
+      "comfort-food",
+      "dairy-rich",
+      "eggs",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-egyptian-green-beans-stir-fry",
     "title": "Dense Egyptian Green Beans Stir‑fry",
     "tags": [

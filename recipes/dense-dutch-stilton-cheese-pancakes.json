@@ -1,0 +1,93 @@
+{
+  "title": "Dense Dutch Stilton Cheese Pancakes",
+  "description": "Malty, dense, and comforting breakfast pancakes filled with tangy Stilton cheese. Perfect for a lazy Sunday morning.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein",
+    "comfort-food"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Stilton cheese, crumbled",
+      "amount": "1 cup"
+    },
+    {
+      "name": "marjoram",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Fold in the crumbled Stilton cheese and chopped marjoram.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet and cook until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as maple syrup or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheese",
+    "comfort-food",
+    "dairy-rich",
+    "eggs",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "dense-dutch-stilton-cheese-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-dutch-stilton-cheese-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "stilton cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Stilton cheese",
+    "descriptor": "Dense",
+    "dishForm": "Pancakes"
+  }
+}
