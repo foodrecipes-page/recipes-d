@@ -1,0 +1,107 @@
+{
+  "title": "Dense Syrian Garlic Bake",
+  "description": "A garlicky, comforting dish to cure hangovers, featuring kosher salt and a low-fat-friendly recipe.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 heads",
+      "notes": ""
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed sumac",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together garlic, lamb, kosher salt, and black pepper in a bowl.",
+    "Drizzle olive oil over the mixture and mix well.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 1 hour and 15 minutes, then remove the foil and continue baking for another 30 minutes.",
+    "Sprinkle chopped parsley, fresh mint, and crushed sumac over the top and return to the oven for 5 minutes.",
+    "Let the dish rest for 10 minutes before serving with a dollop of unsalted yogurt on top.",
+    "Garnish with additional parsley and mint if desired.",
+    "Refrigerate leftovers for up to 3 days.",
+    "Reheat in the oven at 350°F (175°C) for 10-15 minutes before serving.",
+    "This dish is best served warm, straight from the oven.",
+    "The yogurt helps to balance the richness of the lamb and garlic.",
+    "Adjust the amount of garlic to your taste, but be warned: this is a garlicky dish!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "garlic-lovers",
+    "hangover-cure",
+    "low-fat",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "dense-syrian-garlic-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-syrian-garlic-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "kosher salt",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "garlic",
+    "descriptor": "dense",
+    "dishForm": "Bake"
+  }
+}

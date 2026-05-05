@@ -1037,6 +1037,19 @@
     "shard": "d"
   },
   {
+    "slug": "deep-red-braised-chinese-onions-braised",
+    "title": "Deep Red Braised Chinese Onions",
+    "tags": [
+      "braised",
+      "chinese",
+      "dinner",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 120,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [
@@ -4193,6 +4206,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-syrian-garlic-bake",
+    "title": "Dense Syrian Garlic Bake",
+    "tags": [
+      "comfort-food",
+      "garlic-lovers",
+      "hangover-cure",
+      "low-fat",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 120,
     "shard": "d"
   },
   {

@@ -1,0 +1,121 @@
+{
+  "title": "Deep Red Braised Chinese Onions",
+  "description": "A rich, umami-rich dish from Yunnan Province featuring deep red onions and a soffritto-based sauce, served on a cedar plank. This recipe is anti-inflammatory friendly and perfect for a crowd-pleasing dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Onions",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "Cloves",
+      "amount": "4 whole",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium heat.",
+    "Add the ginger and garlic and cook, stirring occasionally, until fragrant and slightly caramelized, about 5 minutes.",
+    "Add the sliced red onions and cook, stirring occasionally, until they start to caramelize, about 10 minutes.",
+    "Add the star anise, cloves, and cinnamon stick and cook for 1 minute, stirring constantly.",
+    "Add the five-spice powder and cook for 1 minute, stirring constantly.",
+    "Transfer the onion mixture to a large Dutch oven or heavy pot with a lid.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and heat over medium-high heat.",
+    "Add the braised onion mixture to the skillet and stir to combine with the soy sauce and honey.",
+    "Transfer the onion mixture back to the Dutch oven or pot and cover with a lid.",
+    "Braise the onions over low heat, stirring occasionally, until they are tender and the liquid has thickened, about 1 hour.",
+    "Preheat the oven to 300°F (150°C).",
+    "Transfer the Dutch oven or pot to the preheated oven and braise the onions for an additional 30 minutes, or until they are very tender and the liquid has thickened.",
+    "Remove the dish from the oven and let it cool slightly.",
+    "Transfer the onions to a serving platter or individual plates and serve hot, garnished with fresh herbs if desired.",
+    "Discard the star anise, cloves, and cinnamon stick before serving.",
+    "Serve the onions on a soaked cedar plank, if desired.",
+    "Garnish with green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "chinese",
+    "dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "deep-red-braised-chinese-onions-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-red-braised-chinese-onions-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "soffritto-base",
+    "primaryIngredient": "red onions",
+    "diet": "anti-inflammatory",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Onions",
+    "descriptor": "Deep Red Braised",
+    "dishForm": "Braised"
+  }
+}
