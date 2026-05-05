@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Smoky Indian Lentil Curry",
+  "description": "A malty, flaky, and romantic Indian dish featuring smoked paprika and bonito-shave, perfect for a special occasion, this dairy-free-friendly curry is served in a lazy-susan-spinner vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the smoked paprika and bonito flakes and cook for 1 minute.",
+    "Add the red lentils, tomato puree, and vegetable broth to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the curry with salt to taste.",
+    "Serve the curry hot, garnished with fresh cilantro if desired.",
+    "Place the curry in a lazy-susan-spinner vessel to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "indian-cuisine",
+    "lentil-recipes",
+    "smoky-flavors",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-smoky-indian-lentil-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-indian-lentil-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:10:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "smoked paprika",
+    "diet": "dairy-free",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "delicate smoky",
+    "dishForm": "Curry"
+  }
+}
