@@ -1,0 +1,112 @@
+{
+  "title": "Delicious Velvet Mexican Haggis Horchata",
+  "description": "A spicy and romantic Mexican dish featuring haggis, perfect for a lacto-vegetarian dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 package (450g)"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6",
+      "notes": "for serving"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "horchata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a medium skillet over medium-high heat.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cumin, chili powder, and paprika and cook for 1 minute more.",
+    "Add haggis and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in vegetable broth and bring to a simmer.",
+    "Reduce heat to low and cook for 5 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon haggis mixture onto tortillas and top with a spoonful of horchata.",
+    "Garnish with chopped cilantro and crushed red pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "lacto-vegetarian",
+    "mexican-haggis",
+    "romantic",
+    "spicy",
+    "velvet-horchata",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "delicious-velvet-mexican-haggis-horchata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-velvet-mexican-haggis-horchata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "haggis",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "haggis",
+    "descriptor": "delicious velvet",
+    "dishForm": "Horchata"
+  }
+}

@@ -366,6 +366,21 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-filipino-shaggy-lumpia",
+    "title": "Shaggy Lumpia",
+    "tags": [
+      "date-night",
+      "easy-to-make",
+      "filipino",
+      "savory",
+      "shaggy-lumpia",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-japanese-mirin-hon-inari-zushi",
     "title": "Date-Night Japanese Mirin-Hon Inari-Zushi",
     "tags": [
@@ -2770,6 +2785,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-velvet-mexican-haggis-horchata",
+    "title": "Delicious Velvet Mexican Haggis Horchata",
+    "tags": [
+      "dinner",
+      "lacto-vegetarian",
+      "mexican-haggis",
+      "romantic",
+      "spicy",
+      "velvet-horchata",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
