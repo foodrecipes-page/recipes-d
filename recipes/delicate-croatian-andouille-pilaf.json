@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Croatian Andouille Pilaf",
+  "description": "A fatty and velvety Croatian dish featuring Andouille sausage, this pilaf is a light and flavorful meal. It is made with namul blanched and seasoned to perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced Andouille sausage and cook until it is browned.",
+    "Add the uncooked white rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, paprika, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove from heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "easy-dinner",
+    "one-pot",
+    "rice-bowl",
+    "sausage-based"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "delicate-croatian-andouille-pilaf",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-croatian-andouille-pilaf",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:07:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "andouille-french",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "andouille",
+    "descriptor": "delicate creamy",
+    "dishForm": "Pilaf"
+  }
+}

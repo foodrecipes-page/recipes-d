@@ -1298,6 +1298,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-croatian-andouille-pilaf",
+    "title": "Delicate Croatian Andouille Pilaf",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "easy-dinner",
+      "one-pot",
+      "rice-bowl",
+      "sausage-based"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-croatian-beef-salad",
     "title": "Delicate Croatian Beef Salad",
     "tags": [
