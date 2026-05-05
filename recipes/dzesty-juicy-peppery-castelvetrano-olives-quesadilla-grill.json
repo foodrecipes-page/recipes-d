@@ -1,0 +1,72 @@
+{
+  "title": "DZesty Juicy-Peppery Castelvetrano-Olives Quesadilla Grill",
+  "description": "A midnight-craving Egyptian dish featuring castelvetrano-olives, grilled to perfection and seasoned with just the right amount of pepper for a satisfying flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 medium Castelvetrano olives",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/2 cup shredded goat cheese or feta cheese",
+      "amount": ""
+    },
+    {
+      "name": "2 large flour tortillas",
+      "amount": "pieces"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or stovetop grill pan over medium-high heat.",
+    "Spread some of the olive oil on one side of each tortilla.",
+    "Arrange half of the olives and cheese evenly across half of the tortillas, leaving about 1 inch from the edge for sealing.",
+    "Season with salt and pepper to taste.",
+    "Fold the edges of the tortillas over the filling and place them seam-side down on the preheated grill or stovetop grill pan.",
+    "Cook until golden brown and cheese is melted, about 2-3 minutes per side.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "kosher-friendly",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 17,
+    "carbs": 22,
+    "fat": 18
+  },
+  "slug": "dzesty-juicy-peppery-castelvetrano-olives-quesadilla-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dzesty-juicy-peppery-castelvetrano-olives-quesadilla-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:08:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Castelvetrano-Olives",
+    "descriptor": "Juicy-Peppery",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -4480,5 +4480,17 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dzesty-juicy-peppery-castelvetrano-olives-quesadilla-grill",
+    "title": "DZesty Juicy-Peppery Castelvetrano-Olives Quesadilla Grill",
+    "tags": [
+      "juicy",
+      "kosher-friendly",
+      "peppery"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
