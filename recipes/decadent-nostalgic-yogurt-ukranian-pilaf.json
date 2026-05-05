@@ -1,0 +1,68 @@
+{
+  "title": "Decadent Nostalgic Yogurt Ukranian Pilaf",
+  "description": "A yeasty, creamy Ukrainian dish featuring kosher salt and yuzu-cure for a keto-friendly twist. Perfect as a snack or side dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Keto yogurt",
+      "amount": 2
+    },
+    {
+      "name": "Kosher salt",
+      "amount": 1
+    },
+    {
+      "name": "Yuzu-cure",
+      "amount": 1
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": 4
+    }
+  ],
+  "instructions": [
+    "Chop the garlic cloves.",
+    "Mix keto yogurt with yuzu-cure and kosher salt in a bowl.",
+    "Fold chopped garlic into the yogurt mixture.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "keto-friendly",
+    "ukrainian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 146,
+    "protein": 8,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "decadent-nostalgic-yogurt-ukranian-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-nostalgic-yogurt-ukranian-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:12:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "kosher salt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Nostalgic",
+    "dishForm": "Pilaf"
+  }
+}
