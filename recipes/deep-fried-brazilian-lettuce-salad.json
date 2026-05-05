@@ -1,0 +1,104 @@
+{
+  "title": "Deep-Fried Brazilian Lettuce Salad",
+  "description": "A tasty and unique Brazilian dish, perfect for a weeknight meal. The crispy fried lettuce adds a silky texture and a boost of flavor.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Use thick-cut bacon for best results."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten for frying."
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Recommended for best crunch."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Use apple cider vinegar for a classic taste."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "Used for beer batter."
+    }
+  ],
+  "instructions": [
+    "Heat a deep fryer or a large saucepan with at least 3 inches of vegetable oil to 350°F (180°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "fried",
+    "high-protein",
+    "one-pan",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "deep-fried-brazilian-lettuce-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-brazilian-lettuce-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "deep-fried",
+    "dishForm": "Salad"
+  }
+}
