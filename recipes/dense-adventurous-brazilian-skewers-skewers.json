@@ -1,0 +1,114 @@
+{
+  "title": "Dense Adventurous Brazilian Skewers",
+  "description": "A funky, dense, adventurous Brazilian dish featuring blackcurrant jam, smoke, and kosher-friendly ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin, cut into 1-inch cubes",
+      "amount": "4 lbs ",
+      "notes": ""
+    },
+    {
+      "name": "Blackcurrant jam",
+      "amount": "2 tbsp ",
+      "notes": "use a high-quality, artisanal jam for maximum flavor"
+    },
+    {
+      "name": "Smokey sweet potato, diced",
+      "amount": "2 large ",
+      "notes": "smoke for 30 minutes using liquid smoke or a charcoal grill"
+    },
+    {
+      "name": "Red onion, diced",
+      "amount": "1 medium ",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1 cup ",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp ",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves ",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp ",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style malagueta peppers",
+      "amount": "2 teaspoons ",
+      "notes": "use the seeds and membranes for intense heat"
+    },
+    {
+      "name": "Ripe mango, diced",
+      "amount": "1 medium ",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F (200°C).",
+    "Thread pork tenderloin, smokey sweet potato, red onion, cilantro, lime juice, garlic, salt, black pepper, and malagueta peppers onto skewers, leaving a small space between each ingredient.",
+    "Brush blackcurrant jam onto the pork tenderloin cubes, making sure to coat them evenly.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until the pork is cooked through and the vegetables are tender.",
+    "Remove from heat and let rest for 2-3 minutes before serving.",
+    "Chop ripe mango and serve on top of skewers."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "grilled",
+    "high-protein",
+    "meat-lovers",
+    "one-pan",
+    "smoky",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dense-adventurous-brazilian-skewers-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-adventurous-brazilian-skewers-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "skewers",
+    "descriptor": "Dense Adventurous",
+    "dishForm": "Skewers"
+  }
+}
