@@ -1,0 +1,124 @@
+{
+  "title": "Deliciously Citrusy Japanese Colby Jack Cheese Nabemono",
+  "description": "A twist on a traditional Japanese hot pot dish, this recipe combines the flavors of citrus, ginger, and Colby Jack cheese for a deliciously unique meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Sushi-grade salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Meyer lemon slices",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Ginger slices",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine sake, mirin, soy sauce, sugar, and 4 cups water in a large saucepan and bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Add sushi-grade salmon fillets to the saucepan and cook for 2 minutes per side, or until cooked through.",
+    "Meanwhile, prepare a salt bake by mixing 1 cup kosher salt, 1/4 cup sugar, and 1/4 cup water in a small bowl until well combined.",
+    "Shape the mixture into a rectangle and place it in a 9x13-inch baking dish.",
+    "Bake in a preheated oven at 375°F for 10 minutes, or until the salt mixture is set and crispy.",
+    "While the salt bake is baking, melt Colby Jack cheese in a saucepan over low heat, stirring occasionally.",
+    "Assemble the nabemono by placing cooked salmon, Meyer lemon slices, ginger slices, and green onions in a large serving dish.",
+    "Pour the hot sake sauce over the top and sprinkle with sesame seeds.",
+    "Place the salt bake in the center of the serving dish and top with melted Colby Jack cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese",
+    "hot-pot",
+    "japanese",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "deliciously citrusy",
+    "dishForm": "Nabemono"
+  }
+}
