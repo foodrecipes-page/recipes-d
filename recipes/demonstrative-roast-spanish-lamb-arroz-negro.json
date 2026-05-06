@@ -1,0 +1,63 @@
+{
+  "title": "Demonstrative Roast Spanish Lamb Arroz Negro",
+  "description": "Charred, snappy Spanish dish featuring lamb, perfect for a dinner party. Roasted lamb served atop a bed of spicy squid ink rice, garnished with chopped fresh parsley.",
+  "cuisine": "Spanish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5",
+      "notes": null
+    },
+    {
+      "name": "Squid ink rice",
+      "amount": "1 cup",
+      "notes": "preferably Arroz Negro"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the lamb shoulder with salt, pepper, and smoked paprika.",
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2 minutes per side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "lamb",
+    "one-pan",
+    "seafood-free",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "demonstrative-roast-spanish-lamb-arroz-negro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/demonstrative-roast-spanish-lamb-arroz-negro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "lamb",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lamb",
+    "descriptor": "demonstrative roast",
+    "dishForm": "Arroz Negro"
+  }
+}
