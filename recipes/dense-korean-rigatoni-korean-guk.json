@@ -1,0 +1,120 @@
+{
+  "title": "dense korean rigatoni guk",
+  "description": "a salty, dense, solo-dinner korean dish featuring rigatoni, whisk, and a hint of sesame oil.",
+  "cuisine": "korean",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whisk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "adjust to desired consistency"
+    }
+  ],
+  "instructions": [
+    "heat 1 tsp of sesame oil in a large saucepan over medium-high heat.",
+    "add 2 cloves of minced garlic and cook for 1 minute, until fragrant.",
+    "add 1-inch piece of grated ginger and cook for 30 seconds, until fragrant.",
+    "add 8 oz of rigatoni and cook for 2 minutes, until lightly toasted.",
+    "add 2 cups of water and bring to a boil.",
+    "reduce heat to medium-low and simmer for 10-12 minutes, or until the rigatoni is al dente.",
+    "remove from heat and stir in 2 tbsp of gochujang, 1 tsp of fish sauce, and 1 tsp of soy sauce.",
+    "whisk until smooth, then season with salt to taste.",
+    "transfer to a serving bowl and top with 1/4 cup of chopped green onions, 2 tbsp of toasted sesame seeds, and 1/4 cup of chopped scallions.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "low-carb",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "dense-korean-rigatoni-korean-guk",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-korean-rigatoni-korean-guk",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "rigatoni",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rigatoni",
+    "descriptor": "dense",
+    "dishForm": "Korean Guk"
+  }
+}
