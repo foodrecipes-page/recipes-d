@@ -1,0 +1,80 @@
+{
+  "title": "DDecadent Indian Garam Masala Stir-fry in Kadhai",
+  "description": "A resinous, molten one-pot Indian (north) dish featuring tarragon leaves and deglazed with aromatic spices for a flavorful meal.",
+  "cuisine": "Indian (North)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garam Masala",
+      "amount": 2
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": 4
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": 3
+    },
+    {
+      "name": "Green Chili peppers, chopped",
+      "amount": 1
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tarragon leaves (fresh)",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Heat oil in Kadhai and sauté onions until translucent.",
+    "Add garlic and green chilies, stirring for about 1 minute.",
+    "Deglaze with a splash of water or coconut milk to loosen browned bits from the bottom.",
+    "Stir in Garam Masala and tarragon leaves. Cook for another 2 minutes until fragrant.",
+    "Season to taste with salt and pepper if needed, adjust according to preference.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "molten",
+    "north",
+    "one-pot",
+    "resinous",
+    "stir-fry",
+    "tarragon-leaves",
+    "vessel-kadhai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "ddecadent-indian-garam-masala-stir-fry-in-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-indian-garam-masala-stir-fry-in-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:05:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "fodmap",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Garam Masala",
+    "descriptor": "Decadent",
+    "dishForm": "Stir-fry"
+  }
+}
