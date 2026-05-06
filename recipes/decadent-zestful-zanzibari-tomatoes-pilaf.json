@@ -1,0 +1,84 @@
+{
+  "title": "Decadent Zestful Zanzibari Tomatoes Pilaf",
+  "description": "A romantic and tangy Kenyan dish featuring balsamic vinegar and fermented elements in a rice pilaf that’s both savory and sweet.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "6 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup balsamic vinegar",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fermented vegetables (e.g. kimchi)",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes.",
+    "Drain the soaked rice and add to a saucepan with fresh water. Bring to a boil, reduce heat, cover, and simmer until water is absorbed (about 20 min).",
+    "Heat olive oil over medium heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Stir in balsamic vinegar, fermented vegetables, lemon juice, salt, and pepper. Simmer for another 5 minutes.",
+    "Add the cooked rice to the pot with the mixture and gently fold everything together.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "halal-friendly",
+    "romantic",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "decadent-zestful-zanzibari-tomatoes-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-zestful-zanzibari-tomatoes-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:57:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Decadent Zestful",
+    "dishForm": "Pilaf"
+  }
+}
