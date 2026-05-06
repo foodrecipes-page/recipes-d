@@ -1,0 +1,80 @@
+{
+  "title": "DZingy Indian Citrus Smoke-Dried Curry",
+  "description": "A citrusy, juicy, energizing indian dish featuring thai green curry paste, smoke-cold, gluten-free-friendly, vessel=mason-jar.",
+  "cuisine": "Indian (Kerala)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai Green Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Citrus Squeeze (like yuzu or lime)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Breast Fillet",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add curry paste and sauté for about 2 minutes until fragrant but not burnt.",
+    "Add chicken and brown on all sides. Add lemon juice and cook until chicken is fully cooked, about 5 minutes more.",
+    "In another saucepan, bring water and rice to a boil, reduce heat, cover, and simmer until tender (about 30 minutes).",
+    "When the rice is done, add it into the skillet with the chicken. Mix well.",
+    "Serve hot as a side dish or in a mason jar for on-the-go lunches."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gluten-free",
+    "smoked",
+    "vessel-mason-jar"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 29,
+    "carbs": 41,
+    "fat": 15
+  },
+  "slug": "dzingy-indian-citrus-smoke-dried-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dzingy-indian-citrus-smoke-dried-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T08:13:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "smoke-cold",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "gluten-free",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Citrus Peel",
+    "descriptor": "Smoke-Dried",
+    "dishForm": "Curry"
+  }
+}

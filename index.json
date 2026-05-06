@@ -5513,5 +5513,18 @@
     "cuisine": "Egyptian",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "dzingy-indian-citrus-smoke-dried-curry",
+    "title": "DZingy Indian Citrus Smoke-Dried Curry",
+    "tags": [
+      "citrusy",
+      "gluten-free",
+      "smoked",
+      "vessel-mason-jar"
+    ],
+    "cuisine": "Indian (Kerala)",
+    "totalTimeMin": 45,
+    "shard": "d"
   }
 ]
