@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Crisp Argentinian Raspberry Empanadas",
+  "description": "A sweet and tangy Argentinian dish featuring raspberries and a hint of mustard, perfect for a brunch mood. Served on a traditional talavera plate, these empanadas are sure to impress.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "raspberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, butter, and salt, and use a pastry blender to work the butter into the flour until it resembles coarse crumbs.",
+    "In a small bowl, whisk together the eggs, mustard, and sugar, and add this mixture to the flour mixture, stirring until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead for 5 minutes, until the dough is smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of raspberries in the center of each circle of dough, leaving a 1/2 inch border around the edges.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of water.",
+    "Bake the empanadas for 20-25 minutes, until they are golden brown.",
+    "Remove the empanadas from the oven and immediately plunge them into an ice bath to stop the cooking process.",
+    "Serve the empanadas on a talavera plate, warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "brunch-ideas",
+    "empanada-recipe",
+    "fruit-filled-pastries",
+    "mustard-based-dishes",
+    "raspberry-recipes",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "delicate-crisp-argentinian-raspberry-empanadas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-argentinian-raspberry-empanadas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raspberries",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "raspberries",
+    "descriptor": "Delicate Crisp",
+    "dishForm": "Empanadas"
+  }
+}
