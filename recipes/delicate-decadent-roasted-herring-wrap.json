@@ -1,0 +1,83 @@
+{
+  "title": "Delicate Decadent Roasted Herring Wrap",
+  "description": "A light and refreshing monsoon American dish featuring herring wrapped in a soft wrap. The herring is roasted with aromatic spices using a mortar-pestle method.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": 1
+    },
+    {
+      "name": "wrap of your choice (e.g. cucumber, avocado, or lettuce wrap)",
+      "amount": "as needed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "4-5 fresh, finely chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix all-purpose flour and salt in a small bowl.",
+    "Coat herring fillets with the flour mixture, ensuring they are lightly coated on both sides.",
+    "Heat olive oil in a mortar-pestle bowl over medium heat.",
+    "Add chopped thyme leaves and cumin seeds to the mortar-pestle bowl and pound until fragrant.",
+    "Place herring fillets in the mortar-pestle bowl. Pour the aromatic flour mixture over them, allowing it to soak in.",
+    "Transfer soaked herring to a baking sheet lined with parchment paper. Drizzle more olive oil on top of each fillet.",
+    "Roast for 20 minutes or until the herring is golden brown and cooked through.",
+    "Remove from oven and let cool slightly before wrapping in your choice of wrap.",
+    "Serve immediately as a light, decadent snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian-friendly",
+    "light-dish",
+    "monsoon-season"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "delicate-decadent-roasted-herring-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-decadent-roasted-herring-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:28:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "herring",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Herring",
+    "descriptor": "Decadent Roasted",
+    "dishForm": "Wrap"
+  }
+}
