@@ -1,0 +1,76 @@
+{
+  "title": "Delicate Greek Fig Ssam-Wrap",
+  "description": "A grassy, cheese-pull, nostalgic greek dish featuring dried fruit and ssam-wrap with ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "figs",
+      "amount": 8,
+      "notes": "dried"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "100g",
+      "notes": "soft, sliced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "walnuts",
+      "amount": "50g",
+      "notes": "pinch ground cumin optional for crunchiness"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "8-12 fresh per wrap, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Toast pitas.",
+    "Arrange figs on a plate with sliced cheese and sprinkle mint leaves over them.",
+    "Layer pita with cheese and fig mixture. Top with walnuts if desired.",
+    "Wrap tightly and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedictamasicfriendly",
+    "figsandcheese",
+    "greekcheesetemp",
+    "gsf",
+    "highprotein",
+    "ssamwrap",
+    "veganoption"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "ddelicate-greek-fig-ssam-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddelicate-greek-fig-ssam-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T16:04:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dried fruit",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "figs",
+    "descriptor": "Delicate",
+    "dishForm": "Wrap"
+  }
+}
