@@ -2478,6 +2478,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-sun-dried-tomato-kfc-ramen",
+    "title": "Delicate Sun-Dried Tomato KFC Ramen",
+    "tags": [
+      "kfc-ramen",
+      "lazy-sunday",
+      "no-onion-no-garlic",
+      "ramen-miso",
+      "sun-dried-tomato"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-sweet-malaysian-cookies-cookies",
     "title": "Delicate Sweet Malaysian Cookies",
     "tags": [

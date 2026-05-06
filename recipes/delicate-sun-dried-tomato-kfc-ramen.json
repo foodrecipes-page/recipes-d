@@ -1,0 +1,82 @@
+{
+  "title": "Delicate Sun-Dried Tomato KFC Ramen",
+  "description": "A savory, crunchy Japanese dish featuring sun-dried tomatoes, double-fried KFC, without onion or garlic, perfect for lazy Sunday.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "KFC pieces",
+      "amount": 10
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": 5
+    },
+    {
+      "name": "Miso paste",
+      "amount": 2
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": 4
+    },
+    {
+      "name": "Salt",
+      "amount": 1
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 3
+    },
+    {
+      "name": "Water",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Double fry KFC pieces in hot oil until golden brown, drain and set aside.",
+    "In a small bowl, mix miso paste with water. Add salt and soy sauce for flavoring.",
+    "Place sun-dried tomatoes on a baking sheet and roast them until crispy.",
+    "Add sun-dried tomatoes to the miso mixture and heat gently in the oven until evenly distributed.",
+    "Combine fried KFC pieces with the miso-tomato mixture, ensuring each piece is coated.",
+    "Serve hot as a ramen dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kfc-ramen",
+    "lazy-sunday",
+    "no-onion-no-garlic",
+    "ramen-miso",
+    "sun-dried-tomato"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "delicate-sun-dried-tomato-kfc-ramen",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sun-dried-tomato-kfc-ramen",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:49:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Sun-Dried Tomatoes",
+    "descriptor": "Double-Fried-KFC",
+    "dishForm": "Ramen-Miso"
+  }
+}
