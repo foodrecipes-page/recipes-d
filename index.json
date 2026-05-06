@@ -409,6 +409,23 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-filipino-dinner-skewers",
+    "title": "Filipino Harissa Shrimp Skewers",
+    "tags": [
+      "date-night",
+      "dinner-ideas",
+      "filipino-cuisine",
+      "harissa-spice",
+      "low-carb",
+      "one-pan",
+      "quick-recipes",
+      "seafood"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-filipino-shaggy-lumpia",
     "title": "Shaggy Lumpia",
     "tags": [
@@ -4329,6 +4346,19 @@
       "vegetarian"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-kenyan-raspberry-jam-tagine",
+    "title": "Dense Kenyan Raspberry Jam Tagine",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "shojin",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "d"
   },

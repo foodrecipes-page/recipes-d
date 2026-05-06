@@ -1,0 +1,119 @@
+{
+  "title": "Filipino Harissa Shrimp Skewers",
+  "description": "A flavorful and spicy Filipino-inspired dish featuring succulent shrimp, harissa, and smoke-cold characteristics, perfect for a date night dinner. This recipe is also low-carb friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Harissa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple Rings",
+      "amount": "6 rings",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wooden Skewers",
+      "amount": "12 skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 375°F (190°C).",
+    "Thread shrimp, pineapple, and cilantro onto skewers, leaving some space between each piece.",
+    "Mix harissa, lime juice, garlic, black pepper, and smoked paprika in a small bowl.",
+    "Brush coconut oil onto both sides of the shrimp.",
+    "Place the skewers on the grill and cook for 8-10 minutes, flipping halfway through.",
+    "Remove from heat and brush with fish sauce.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dinner-ideas",
+    "filipino-cuisine",
+    "harissa-spice",
+    "low-carb",
+    "one-pan",
+    "quick-recipes",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 24,
+    "carbs": 2,
+    "fat": 18
+  },
+  "slug": "date-night-filipino-dinner-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-filipino-dinner-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:06:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "harissa spice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "dinner",
+    "descriptor": "date night",
+    "dishForm": "skewers"
+  }
+}
