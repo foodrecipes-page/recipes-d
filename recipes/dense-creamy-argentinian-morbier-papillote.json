@@ -1,0 +1,85 @@
+{
+  "title": "dense creamy argentinian morbier papillote",
+  "description": "a rich and creamy morbier papillote featuring argentinian flavors, perfect for a sunday brunch",
+  "cuisine": "argentinian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chimichurri",
+      "amount": "2 tbsp",
+      "notes": "homemade, whole30-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "dense-creamy-argentinian-morbier-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-creamy-argentinian-morbier-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "morbier",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Morbier",
+    "descriptor": "Dense Creamy",
+    "dishForm": "Papillote"
+  }
+}
