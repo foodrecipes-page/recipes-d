@@ -1,0 +1,78 @@
+{
+  "title": "Delicate Italian Nut Orecchiette",
+  "description": "A light and chewy pasta dish featuring Calabrian flavors, without nuts, perfect for a quick dinner.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Orecchiette pasta",
+      "amount": 200
+    },
+    {
+      "name": "Grilled Calabrian peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Grilled Calabrian onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Pecorino Romano cheese, grated",
+      "amount": "50 grams"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": 100
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the orecchiette until al dente.",
+    "While pasta cooks, slice the calabrian peppers and onions into thin rounds.",
+    "Toss the sliced vegetables with oil and grill over medium heat until charred and tender. Season with red pepper flakes if using.",
+    "Remove pasta from water, add it to the vegetable mixture along with grated pecorino cheese and chopped parsley.",
+    "Stir well to combine all ingredients and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calabrian-flavors",
+    "light-pasta-dish",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "delicate-italian-nut-orecchiette",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-italian-nut-orecchiette",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:52:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "nut-free",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Nut",
+    "descriptor": "Decadent",
+    "dishForm": "Orecchiette Pasta Salad"
+  }
+}
