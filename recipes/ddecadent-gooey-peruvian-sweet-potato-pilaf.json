@@ -1,0 +1,97 @@
+{
+  "title": "DDecadent Gooey Peruvian Sweet Potato Pilaf",
+  "description": "A nostalgic Peruvian dish with a Chinese sesame sauce, featuring gooey sweet potatoes and wok-hei seasoning. Kosher-friendly.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": 4
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Dice sweet potatoes and cook in boiling water until tender.",
+    "Meanwhile, mix sesame oil, brown sugar, soy sauce, vinegar, ginger paste, salt, and turmeric powder for the Chinese sesame sauce.",
+    "Add cumin seeds to a hot wok and toast them until fragrant (wok-hei).",
+    "Drain sweet potatoes, toss with the prepared sesame sauce, and mix well.",
+    "Place wok on top of stove, add sweet potato mixture, and cook for 2 minutes until heated through.",
+    "Serve warm as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "peruvian",
+    "sauce-based-dish",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "ddecadent-gooey-peruvian-sweet-potato-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-gooey-peruvian-sweet-potato-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:49:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Gooey Decadent",
+    "dishForm": "Pilaf"
+  }
+}
