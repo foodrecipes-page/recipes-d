@@ -1,0 +1,112 @@
+{
+  "title": "Delicate Smoky Grilled Chinese Courgettes Bao",
+  "description": "A smoky and savory brunch dish featuring grilled courgettes, crunchy bao, and a hint of herbal flavors.",
+  "cuisine": "Hunan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "4",
+      "notes": "Medium size, about 1 pound"
+    },
+    {
+      "name": "Mongolian Chili Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Bao Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a yakimono grill or grill pan to medium-high heat.",
+    "Cut the courgettes into 1/2-inch thick slices and season with salt and black pepper.",
+    "Grill the courgettes for 3-4 minutes per side, or until tender and slightly charred.",
+    "In a small bowl, whisk together the Mongolian chili paste, soy sauce, rice vinegar, hoisin sauce, and cornstarch.",
+    "Add the whisked sauce to the grilled courgettes and toss to coat.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "Fill each bao bun with a few slices of the courgette mixture, some chopped scallions, and a sprinkle of toasted sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-smoky-grilled-chinese-courgettes-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-grilled-chinese-courgettes-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "courgettes",
+    "diet": "high-protein",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "courgettes",
+    "descriptor": "Delicate Smoky Grilled",
+    "dishForm": "Bao"
+  }
+}
