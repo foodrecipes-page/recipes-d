@@ -216,6 +216,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-roasted-portuguese-chocolate-hash",
+    "title": "Dark Roasted Portuguese Chocolate Hash",
+    "tags": [
+      "high-cocoa",
+      "one-pan",
+      "portuguese",
+      "quick-fix",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-spanish-chicken-paella",
     "title": "Dark Roasted Spanish Chicken Paella",
     "tags": [
@@ -4851,6 +4866,25 @@
     ],
     "cuisine": "saudi-arabian",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-sweet-korean-bread-bowl",
+    "title": "Dense Sweet Korean Bread Bowl",
+    "tags": [
+      "bread",
+      "breakfast",
+      "comfort-food",
+      "dessert",
+      "easy",
+      "korean",
+      "one-pan",
+      "snack",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {

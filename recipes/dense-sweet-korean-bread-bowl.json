@@ -1,0 +1,87 @@
+{
+  "title": "Dense Sweet Korean Bread Bowl",
+  "description": "A sweet, dense Korean dish made with stale bread, manteca and eggs. Great for a versatile breakfast or snack.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 stale baguette, cut into 1 inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Manteca",
+      "amount": "1/4 cup",
+      "notes": "emulsify with eggs to prevent oil separation"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.25 teaspoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt the manteca over medium heat.",
+    "Crack in the eggs and whisk until well combined.",
+    "Add the cubed bread, granulated sugar, vanilla extract and cinnamon to the saucepan.",
+    "Cook, stirring constantly, until the eggs are set and the bread is golden brown, about 8-10 minutes.",
+    "Serve warm, garnished with additional cinnamon and sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "comfort-food",
+    "dessert",
+    "easy",
+    "korean",
+    "one-pan",
+    "snack",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 16,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "dense-sweet-korean-bread-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-sweet-korean-bread-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:47:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "stale bread",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bread",
+    "descriptor": "Dense sweet",
+    "dishForm": "Bowl"
+  }
+}

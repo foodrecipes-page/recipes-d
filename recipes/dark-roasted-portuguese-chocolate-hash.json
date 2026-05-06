@@ -1,0 +1,79 @@
+{
+  "title": "Dark Roasted Portuguese Chocolate Hash",
+  "description": "A quick-fix, roasted, and light Portuguese dish featuring dark chocolate chips and katsuramuki-cut vegetables.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the katsuramuki-cut zucchini and carrots with olive oil and salt until they are evenly coated.",
+    "Place the vegetables on a baking sheet and roast in the preheated oven for 15 minutes.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Combine the roasted vegetables and melted chocolate in a bowl and mix until well combined.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-cocoa",
+    "one-pan",
+    "portuguese",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dark-roasted-portuguese-chocolate-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-portuguese-chocolate-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "chocolate",
+    "descriptor": "dark roasted",
+    "dishForm": "hash"
+  }
+}
