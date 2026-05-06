@@ -1,0 +1,103 @@
+{
+  "title": "Dark Dense Norwegian Sugar Crisp Flatbread",
+  "description": "A fermented, glassy-jelly flatbread featuring dark soft brown sugar, perfect for a date night in Norway.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Soft Brown Sugar",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "250ml",
+      "notes": "around 35°C"
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar Ferment",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine warm water, sugar ferment, and yeast. Let it sit for 10 minutes, until frothy.",
+    "Add butter, melted, then salt, and mix until combined.",
+    "Gradually add rice flour, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat the iron teppan to 220°C.",
+    "Divide the dough into 4 equal pieces, shape into balls, and then flatten slightly into disks.",
+    "Place the flatbreads on the preheated teppan, and cook for 2-3 minutes on each side, until golden and crispy.",
+    "Transfer the flatbreads to a wire rack to cool.",
+    "Brush the flatbreads with melted butter, while still warm.",
+    "Serve immediately, garnished with a sprinkle of dark soft brown sugar, if desired.",
+    "Store leftover flatbreads in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "flatbread",
+    "fodmap-friendly",
+    "gluten-free",
+    "sugar-intensive"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "dark-dense-norwegian-sugar-crisp-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-dense-norwegian-sugar-crisp-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:11:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sugar",
+    "descriptor": "Dark dense",
+    "dishForm": "Crisp flatbread"
+  }
+}
