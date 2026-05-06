@@ -1,0 +1,110 @@
+{
+  "title": "Deliciously Steamed Greek Bok Choi Loukoumades",
+  "description": "Bitter, snappy, comforting Greek dish featuring bok choi, simmered in traditional Greek flavors without added sugars. Serve in scallop shells for an elegant presentation.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi (1 head, about 1 pound)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt (for serving, optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the bok choi under cold running water, and trim off the ends.",
+    "Cut the bok choi into wedges.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and saut\u00101 until fragrant, about 1 minute.",
+    "Add the bok choi and cook, stirring occasionally, until tender and slightly browned, about 5 minutes.",
+    "Transfer the bok choi to a large bowl and stir in the lemon juice, vinegar, honey, oregano, salt, and pepper.",
+    "Place a small amount of the bok choi mixture into each scallop shell.",
+    "Create the loukoumades by piping a ring of dough around the bok choi, making sure not to seal the center.",
+    "Fry the loukoumades in hot oil until golden brown, about 2-3 minutes on each side.",
+    "Drain the loukoumades on paper towels.",
+    "Serve the loukoumades in the scallop shells, topped with a dollop of Greek yogurt if desired.",
+    "Garnish with lemon wedges and a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "greek",
+    "low-carb",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "deliciously-steamed-greek-bok-choi-loukoumades",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-steamed-greek-bok-choi-loukoumades",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "bok choi",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "bok choi",
+    "descriptor": "Deliciously Steamed",
+    "dishForm": "Loukoumades"
+  }
+}
