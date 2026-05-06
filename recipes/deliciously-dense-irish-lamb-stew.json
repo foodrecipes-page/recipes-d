@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Dense Irish Lamb Stew",
+  "description": "A savory and velvety Irish dish featuring ginger cordial, with a crowd-pleasing al-dente finish and high protein content, this stew is sure to satisfy any appetite",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat",
+    "Add the lamb and cook until browned on all sides, about 5 minutes",
+    "Add the onion, carrots, and potatoes, and cook until the vegetables are lightly browned, about 5 minutes",
+    "Add the ginger cordial, beef broth, tomato paste, thyme, salt, and pepper, and stir to combine",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours",
+    "Remove the thyme sprigs and serve the stew hot, garnished with fresh parsley if desired",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together",
+    "Serve with crusty bread or over mashed potatoes for a hearty and satisfying meal"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stews",
+    "high-protein",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "deliciously-dense-irish-lamb-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-irish-lamb-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ginger cordial",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Stew"
+  }
+}
