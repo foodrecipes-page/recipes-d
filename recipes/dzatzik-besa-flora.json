@@ -1,0 +1,94 @@
+{
+  "title": "Dzatzik Besa Flora",
+  "description": "A floral, crisp Ethiopian dish featuring ginger and other aromatic spices in a bamboo tray for an easy one-pot meal suitable for diabetics.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb chicken thighs",
+      "amount": "piece"
+    },
+    {
+      "name": "2 tbsp ginger paste",
+      "amount": "",
+      "notes": "Freshly grated ginger or store-bought paste can be used."
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 lemon, juiced and zest",
+      "amount": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix chicken with ginger paste, turmeric, black pepper, flour, cinnamon, olive oil, lemon juice, and zest in a large bowl.",
+    "Season with salt and ensure the mixture is well coated on all sides.",
+    "Transfer the seasoned chicken into a bamboo tray and bake for 30 minutes.",
+    "Remove from oven and let it rest for about 10 minutes before serving.",
+    "Optional: Garnish with fresh cilantro or mint leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "diabetic-friendly",
+    "ethiopian",
+    "floral",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "dzatzik-besa-flora",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dzatzik-besa-flora",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:46:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "ginger",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Flowers",
+    "descriptor": "Zestful",
+    "dishForm": "Tagine"
+  }
+}
