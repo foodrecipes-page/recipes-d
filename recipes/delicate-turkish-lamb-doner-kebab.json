@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Turkish Lamb Doner Kebab",
+  "description": "A tender and flavorful lamb doner kebab dish featuring clear honey and a blend of spices, perfect for a date night, this low-sodium-friendly recipe is made with grassy notes and a knead technique.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb shoulder, clear honey, olive oil, lemon juice, garlic, paprika, salt, and black pepper, and mix well.",
+    "Knead the mixture for 10 minutes until it becomes tender and well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a vertical broiler or grill to medium-high heat.",
+    "Thread the lamb mixture onto skewers, if using, and cook for 10-12 minutes, or until the lamb is cooked through.",
+    "Let the lamb rest for 5 minutes before slicing it thinly.",
+    "Serve the lamb doner kebab in a pita bread with parsley, and your choice of toppings.",
+    "Drizzle with additional clear honey, if desired.",
+    "Cook the pita bread by grilling or toasting it for 2-3 minutes, until it is lightly browned and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grassy-notes",
+    "honey-recipes",
+    "lamb-recipes",
+    "low-sodium",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-turkish-lamb-doner-kebab",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-turkish-lamb-doner-kebab",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:08:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "clear honey",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Delicate Grassy",
+    "dishForm": "Doner Kebab"
+  }
+}
