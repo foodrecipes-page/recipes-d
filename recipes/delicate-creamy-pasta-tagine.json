@@ -1,0 +1,88 @@
+{
+  "title": "Delicate Creamy Pasta Tagine",
+  "description": "A festive and herbal pasta tagine featuring penne rigate in a creamy sauce with yakimono-grill flavorings, nut-free-friendly.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penned rigate",
+      "amount": 250
+    },
+    {
+      "name": "yakimono grill sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tajine clay pot over medium heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Stir in yakimono grill sauce, milk, and heavy cream.",
+    "Bring to a simmer and let the mixture reduce slightly.",
+    "Toss with penne rigate, adding more seasoning if needed.",
+    "Sprinkle basil leaves and thyme sprigs over the top.",
+    "Simmer for another 2 minutes, ensuring everything is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "festive",
+    "herbal",
+    "nut-free-friendly",
+    "pasta",
+    "penne-rigate",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 28,
+    "carbs": 49,
+    "fat": 16
+  },
+  "slug": "delicate-creamy-pasta-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-creamy-pasta-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T21:23:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "penne rigate",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "pasta",
+    "descriptor": "Creamy",
+    "dishForm": "Tagine"
+  }
+}

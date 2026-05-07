@@ -1567,6 +1567,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-creamy-pasta-tagine",
+    "title": "Delicate Creamy Pasta Tagine",
+    "tags": [
+      "creamy",
+      "festive",
+      "herbal",
+      "nut-free-friendly",
+      "pasta",
+      "penne-rigate",
+      "yakimono-grill"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-crisp-argentinian-raspberry-empanadas",
     "title": "Delicate Crisp Argentinian Raspberry Empanadas",
     "tags": [
