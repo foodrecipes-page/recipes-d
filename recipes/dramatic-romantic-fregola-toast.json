@@ -1,0 +1,115 @@
+{
+  "title": "dramatic romantic fregola toast",
+  "description": "a winey, molten, romantic malaysian dish featuring fregola, toast, and seafood. perfect for a candlelit evening in.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola pasta",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "wok-seared scallops",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "garlic butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a wok over medium-high heat and add garlic butter until melted.",
+    "add fregola pasta and cook for 2 minutes.",
+    "add soya sauce and fish sauce and stir well.",
+    "add wok-seared scallops and stir for 1 minute.",
+    "add grated ginger and chili flakes and stir for 30 seconds.",
+    "add honey and stir until combined.",
+    "to toast bread, spread a small amount of garlic butter on each slice and grill until golden brown.",
+    "place toasted bread slices on individual plates.",
+    "top each bread slice with a portion of fregola mixture, a scallop, and cilantro petals.",
+    "serve immediately, garnished with additional cilantro if desired.",
+    "adjust seasoning as needed.",
+    "serve with additional garlic butter if desired for extra indulgence.",
+    "drizzle with a little extra soya sauce if desired for added umami flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "one-pan",
+    "pescatarian",
+    "romantic",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 33,
+    "carbs": 58,
+    "fat": 24
+  },
+  "slug": "dramatic-romantic-fregola-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dramatic-romantic-fregola-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:22:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "fregola",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "romantic",
+    "mainIngredient": "fregola",
+    "descriptor": "dramatic",
+    "dishForm": "toast"
+  }
+}
