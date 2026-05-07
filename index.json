@@ -3921,6 +3921,19 @@
     "shard": "d"
   },
   {
+    "slug": "dense-chinese-date-pilaf",
+    "title": "Dense Chinese Date Pilaf",
+    "tags": [
+      "date-night",
+      "diabetic-friendly",
+      "fluffy",
+      "herbal"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "dense-chinese-tofu-noodles",
     "title": "Dense Chinese Tofu Noodles",
     "tags": [

@@ -1,0 +1,90 @@
+{
+  "title": "Dense Chinese Date Pilaf",
+  "description": "A herbal and fluffy dish featuring prawns in a date-infused pilaf made with rice, herbs, and other nutritious ingredients for a delicious date-night meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups jasmine rice",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can (14 oz) full-fat coconut milk",
+      "amount": null
+    },
+    {
+      "name": "3 tablespoons honey",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup cooked prawns, peeled and deveined",
+      "amount": "cup"
+    },
+    {
+      "name": "20 large dates, pitted and chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "4 scallions, chopped",
+      "amount": null
+    },
+    {
+      "name": "1 tablespoon ginger paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/2 teaspoon ground cardamom",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon fennel seeds",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a saucepan, combine rice, coconut milk, honey, and cardamom. Bring to a boil, reduce heat, cover, and simmer for 20 minutes or until liquid is absorbed.",
+    "Add prawns, scallions, and date mixture. Stir well to mix thoroughly.",
+    "Transfer the pilaf into an oven-safe dish. Sprinkle with fennel seeds evenly over the top.",
+    "Bake in preheated oven for 25-30 minutes or until golden brown on top.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "diabetic-friendly",
+    "fluffy",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 16,
+    "carbs": 59,
+    "fat": 20
+  },
+  "slug": "dense-chinese-date-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-chinese-date-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T21:31:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "prawns",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Date",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
