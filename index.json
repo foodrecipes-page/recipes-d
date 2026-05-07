@@ -4750,6 +4750,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-peruvian-duck-tiradito",
+    "title": "Dense Peruvian Duck Tiradito",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-polish-pork-stew",
     "title": "Dense Polish Pork Stew",
     "tags": [

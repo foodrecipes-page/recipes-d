@@ -1,0 +1,110 @@
+{
+  "title": "Dense Peruvian Duck Tiradito",
+  "description": "A chewy, fermented Peruvian dish featuring duck fat and candy. Great for a sick day when you need something rich and filling.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "2 cups",
+      "notes": "Rendered from duck confit"
+    },
+    {
+      "name": "Candy (hard candies like Jolly Ranchers)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coca leaf powder",
+      "amount": "1 tsp",
+      "notes": "Can be substituted with matcha powder"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Helps to ferment the dish"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Use ground cumin for this recipe"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Use ground coriander for this recipe"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed, not from concentrate"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": "Can be substituted with anise seeds"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use low-sodium salt for this recipe"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Optional, but recommended for richness"
+    }
+  ],
+  "instructions": [
+    "Combine duck fat, candy, coca leaf powder, rice vinegar, cumin, coriander, brown sugar, lime juice, fennel seeds, and salt in a saucepan and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes, stirring frequently, until the candy has dissolved and the mixture has thickened.",
+    "Remove from heat and stir in heavy cream, if using.",
+    "Transfer the mixture to a shallow dish or tray and let it cool to room temperature.",
+    "Cover the dish with plastic wrap and refrigerate for at least 24 hours, or until the mixture has fermented and developed a sticky, chewy texture.",
+    "Cut the mixture into small pieces and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "dense-peruvian-duck-tiradito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peruvian-duck-tiradito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:34:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "candy",
+    "primaryIngredient": "duck fat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Duck",
+    "descriptor": "Dense",
+    "dishForm": "Tiradito"
+  }
+}
