@@ -3612,6 +3612,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-spicy-thai-chicken-tagine",
+    "title": "Deliciously Spicy Thai Chicken Tagine",
+    "tags": [
+      "keto",
+      "one-pan",
+      "spicy",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-steamed-greek-bok-choi-loukoumades",
     "title": "Deliciously Steamed Greek Bok Choi Loukoumades",
     "tags": [
@@ -5857,6 +5871,22 @@
       "vegan-friendly"
     ],
     "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dynamite-wok-seared-greek-fajita-pastry-wheel",
+    "title": "Dynamite Wok-Seared Greek Fajita Pastry Wheel",
+    "tags": [
+      "fajita-seasoning",
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "raw-friendly",
+      "vegetarian-gluten-free",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
     "totalTimeMin": 35,
     "shard": "d"
   },

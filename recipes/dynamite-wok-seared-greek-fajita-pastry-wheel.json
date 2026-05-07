@@ -1,0 +1,129 @@
+{
+  "title": "Dynamite Wok-Seared Greek Fajita Pastry Wheel",
+  "description": "Spicy, tender, and adventurous Greek dish featuring fajita seasoning, pasta-water-emulsion, and raw-friendly ingredients in a wok-seared pastry form inspired by traditional baklava.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fillo dough",
+      "amount": "1 package (14 oz) ",
+      "notes": ""
+    },
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package (14 oz) ",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (12 oz) ",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pasta water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wok to 400°F (200°C).",
+    "Gather the fillo dough and phyllo pastry, cutting them into 1-inch squares.",
+    "In a bowl, mix the feta cheese, Greek yogurt, cucumber, red onion, bell pepper, mushrooms, and garlic.",
+    "Add the fajita seasoning and pasta water to the bowl, stirring to combine.",
+    "In a separate bowl, whisk together the olive oil and fresh dill.",
+    "Dip each fillo square into the olive oil mixture, coating both sides evenly.",
+    "Stack the coated fillo squares in a wok, weaving them in a lattice pattern.",
+    "Bake the pastry wheel in the preheated wok for 20 minutes, or until golden brown.",
+    "Let the pastry wheel rest for 5 minutes before slicing and serving.",
+    "Slice the pastry wheel into thin strips, serving with the feta-cheese mixture on the side.",
+    "Garnish with additional fresh dill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "fajita-seasoning",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "vegetarian-gluten-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 24,
+    "carbs": 36,
+    "fat": 22
+  },
+  "slug": "dynamite-wok-seared-greek-fajita-pastry-wheel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dynamite-wok-seared-greek-fajita-pastry-wheel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Fajita",
+    "descriptor": "Dynamite Wok-Seared",
+    "dishForm": "Pastry Wheel"
+  }
+}

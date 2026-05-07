@@ -1,0 +1,127 @@
+{
+  "title": "Deliciously Spicy Thai Chicken Tagine",
+  "description": "A flavorful and spicy Thai dish that can be cooked in a tagine or a Dutch oven, perfect for a weeknight dinner. This keto-friendly recipe features a balance of sweet and sour flavors.",
+  "cuisine": "thaicuisine",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "depending on desired spice level"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a tagine or Dutch oven over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add curry paste and cook for 1 minute, until fragrant.",
+    "Add broth, coconut milk, honey, fish sauce, hot sauce, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 375°F for 30 minutes.",
+    "Stir in lemon juice and continue to bake for an additional 10 minutes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "one-pan",
+    "spicy",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "deliciously-spicy-thai-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-thai-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "tagine-cook",
+    "primaryIngredient": "hotsauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously Spicy",
+    "dishForm": "Tagine"
+  }
+}
