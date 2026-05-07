@@ -1,0 +1,101 @@
+{
+  "title": "Dense Comforting Moroccan Cabbage Briouat",
+  "description": "Sweet and comforting Moroccan dish featuring cabbage leaves, perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 medium heads"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the cabbage, raisins, pistachios, cinnamon, allspice, salt, and sugar to the pan and cook until the cabbage is tender.",
+    "Preheat the oven to 375°F (190°C).",
+    "Assemble the briouat by layering the cabbage mixture between sheets of phyllo dough.",
+    "Brush the top of the briouat with olive oil.",
+    "Bake for 25 minutes or until the phyllo is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "gluten-free",
+    "moroccan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dense-comforting-moroccan-cabbage-briouat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-comforting-moroccan-cabbage-briouat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:24:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cabbage",
+    "descriptor": "dense comforting",
+    "dishForm": "Briouat"
+  }
+}
