@@ -4009,6 +4009,22 @@
     "shard": "d"
   },
   {
+    "slug": "dense-crispy-spanish-suckling-pig-paella",
+    "title": "Dense Crispy Spanish Suckling Pig Paella",
+    "tags": [
+      "dinner",
+      "meat-based",
+      "one-pan",
+      "spicy",
+      "tamasic",
+      "valencian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "dense-crispy-uruguayan-turkey-neck-stew",
     "title": "Dense Crispy Uruguayan Turkey Neck Stew",
     "tags": [
