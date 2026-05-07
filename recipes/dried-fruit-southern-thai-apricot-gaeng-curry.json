@@ -1,0 +1,125 @@
+{
+  "title": "Dried Fruit Southern Thai Apricot Gaeng-Curry",
+  "description": "A resinous and fluffy one-pot curry dish originating from Southern Thailand, featuring dried apricot, broil-safe ingredients and a raw-friendly recipe.",
+  "cuisine": "Southern Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried Apricots",
+      "amount": "7 oz",
+      "notes": "Reconstitute by soaking in water for 2 hours prior to use."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "14 fl oz",
+      "notes": ""
+    },
+    {
+      "name": "Rice Bran Oil",
+      "amount": "2 tbsp",
+      "notes": "For high-heat cooking."
+    },
+    {
+      "name": "Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Make sure to use a brand with no added sugars or preservatives."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a brand without added MSG."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tsp",
+      "notes": "Optional, add for sweetness."
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the rice bran oil in a large saucepan over medium heat. ",
+    "Add the red curry paste and stir until fragrant, about 1 minute. ",
+    "Add the rehydrated dried apricots, ginger, lemongrass, fish sauce, soy sauce, maple syrup, turmeric, salt, and black pepper to the saucepan. ",
+    "Stir well to combine, then add in the coconut milk. ",
+    "Bring the curry to a simmer and let it cook for 10-12 minutes, or until it has thickened slightly. ",
+    "Stir in the chopped Thai basil and continue to cook for an additional 2 minutes. ",
+    "Serve the curry hot, garnished with additional Thai basil if desired.",
+    "Garnish with fresh Thai basil for added flavor and presentation.",
+    "Be careful not to burn the oil, as it can quickly become too hot.",
+    "If the curry becomes too thick, you can thin it out with a little water.",
+    "If you prefer a spicier curry, you can add more red curry paste to taste.",
+    "If you're watching your calories, you can serve the curry with brown rice instead of regular coconut rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "southern-thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "dried-fruit-southern-thai-apricot-gaeng-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-fruit-southern-thai-apricot-gaeng-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "apricot",
+    "diet": "raw",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "apricot",
+    "descriptor": "dried fruit",
+    "dishForm": "Gaeng-Curry"
+  }
+}
