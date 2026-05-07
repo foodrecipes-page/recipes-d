@@ -1,0 +1,90 @@
+{
+  "title": "Dense American Butter Casserole",
+  "description": "A rich, post-workout American dish featuring melted butter, confit-tomato, and a glassy-jelly texture. Suitable for satvik diet.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1 lb",
+      "notes": "unsalted"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free for satvik diet"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a blender or food processor, blend butter and flour until smooth.",
+    "In a saucepan, heat the confit tomato over low heat.",
+    "Add the blended butter mixture to the confit tomato and stir until combined.",
+    "Pour in milk and stir until the mixture thickens.",
+    "Add salt and sugar to taste, then transfer the mixture to a baking dish.",
+    "Bake for 25-30 minutes or until the top is golden brown and the casserole is set.",
+    "Let the casserole cool for 10-15 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-casserole",
+    "comfort-food",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "dense-american-butter-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-american-butter-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "melted butter",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "butter",
+    "descriptor": "melted-smoky",
+    "dishForm": "casserole"
+  }
+}
