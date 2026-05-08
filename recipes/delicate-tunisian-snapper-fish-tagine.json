@@ -1,0 +1,116 @@
+{
+  "title": "Delicate Tunisian Snapper Fish Tagine",
+  "description": "A mustardy and pillowy Tunisian dish featuring snapper fish, perfect for a date night, cooked to perfection in a bamboo steamer using a bain-marie method.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon",
+      "notes": "Dijon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine onion, garlic, mustard, cumin, coriander, salt, and black pepper, and blend until smooth.",
+    "Place the snapper fish fillets in a bamboo steamer lined with parchment paper.",
+    "Brush the blended onion mixture evenly over both sides of the fish fillets.",
+    "Add the dates, chicken broth, and lemon juice to the blender and blend until the dates are well chopped.",
+    "Pour the date mixture over the fish fillets in the steamer.",
+    "Place the steamer over a pot of boiling water, making sure the water level is below the bottom of the steamer.",
+    "Cover the pot with a lid and steam the fish for 12 minutes.",
+    "Remove the steamer from the pot and let it cool for a few minutes.",
+    "Serve the fish hot, garnished with chopped fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "date-night",
+    "fish-tagine",
+    "north-african",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-tunisian-snapper-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-tunisian-snapper-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "snapper fish",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "snapper fish",
+    "descriptor": "delicate mustardy",
+    "dishForm": "Tagine"
+  }
+}

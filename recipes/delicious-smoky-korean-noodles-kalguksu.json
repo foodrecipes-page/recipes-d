@@ -1,0 +1,109 @@
+{
+  "title": "Delicious Smoky Korean Noodles Kalguksu",
+  "description": "A smoky and velvety Korean dish from the Gyeongsang region, featuring bay leaves and served in a stone bowl, perfect for curing hangovers. This recipe is dash-friendly and served in the form of kalguksu.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "200g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pork bones",
+      "amount": "1kg",
+      "notes": "you can also use beef bones"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Korean style"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork bones, bay leaves, garlic, and ginger, and pour in enough cold water to cover the ingredients.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 1 hour.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the kalguksu noodles to the pot and cook according to the package instructions.",
+    "While the noodles are cooking, heat the sesame oil in a small pan over medium heat.",
+    "Add the chopped green onions to the pan and cook until they are slightly caramelized.",
+    "To serve, place the cooked noodles in a stone bowl, then ladle the hot broth over the noodles.",
+    "Garnish with the caramelized green onions, a sprinkle of salt, and a few grinds of black pepper.",
+    "Drizzle with soy sauce to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-food",
+    "noodle-soup",
+    "smoky-flavor",
+    "spicy-food",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicious-smoky-korean-noodles-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-smoky-korean-noodles-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "bay leaves",
+    "diet": "dash",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Delicious Smoky",
+    "dishForm": "Kalguksu"
+  }
+}
