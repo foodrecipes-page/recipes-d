@@ -4244,6 +4244,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-sour-italian-pasta",
+    "title": "Delicate Sour Italian Pasta",
+    "tags": [
+      "healthy-recipes",
+      "italian-food",
+      "mediterranean-cuisine",
+      "pasta-dishes",
+      "vegan-friendly",
+      "weeknight-meals"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-spanish-ume-plum-tapas-platter",
     "title": "Delicate Spanish Ume Plum Tapas Platter",
     "tags": [
@@ -5324,6 +5339,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-char-grilled-jamaican-chicken-skewers",
+    "title": "Deliciously Char Grilled Jamaican Chicken Skewers",
+    "tags": [
+      "comal-cooking",
+      "gluten-free",
+      "grilled-chicken",
+      "high-protein",
+      "jamaican-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 32,
     "shard": "d"
   },
   {
@@ -8389,6 +8419,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-algerian-sloe-berry-tagine",
+    "title": "Dense Smoky Algerian Sloe Berry Tagine",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {

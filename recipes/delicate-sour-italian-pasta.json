@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Sour Italian Pasta",
+  "description": "A light and sour Sicilian dish featuring pomegranate molasses, this pasta is a show-off for any occasion, finished to a perfect al-dente texture and shojin-friendly for all to enjoy.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al-dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the halved cherry tomatoes to the skillet and cook for 3-4 minutes until they start to release their juices.",
+    "Stir in the pomegranate molasses, salt, and black pepper, and cook for an additional minute.",
+    "Reserve 1 cup of pasta water before draining the spaghetti, then add the spaghetti to the skillet with the tomato mixture.",
+    "Toss the spaghetti in the skillet, adding some reserved pasta water if the mixture seems too dry.",
+    "Stir in the chopped fresh basil and lemon juice, and cook for a final minute.",
+    "Serve the pasta hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-recipes",
+    "italian-food",
+    "mediterranean-cuisine",
+    "pasta-dishes",
+    "vegan-friendly",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-sour-italian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sour-italian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:22:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "shojin",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "delicate sour",
+    "dishForm": "Pasta"
+  }
+}
