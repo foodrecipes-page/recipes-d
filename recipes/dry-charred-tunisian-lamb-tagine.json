@@ -1,0 +1,93 @@
+{
+  "title": "Dry Charred Tunisian Lamb Tagine",
+  "description": "A charred, tender, and flavorful Tunisian dish featuring lamb, gochugaru, and a blend of spices, cooked to perfection in a papillote, perfect for meal prep and raw-friendly diets",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit",
+    "In a large bowl, whisk together gochugaru, paprika, garlic powder, onion powder, salt, and black pepper",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the spice mixture",
+    "Heat the olive oil in a large Dutch oven over high heat",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes",
+    "Transfer the Dutch oven to the preheated oven and cook for 20 minutes",
+    "Remove the Dutch oven from the oven and cover with a papillote",
+    "Return the Dutch oven to the oven and cook for an additional 10 minutes",
+    "Remove the papillote and let the lamb rest for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-based",
+    "north-african",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dry-charred-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-charred-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:55:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "gochugaru",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Dry charred",
+    "dishForm": "Tagine"
+  }
+}
