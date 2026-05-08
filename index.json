@@ -2613,6 +2613,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-grilled-egyptian-lamb-kebabs",
+    "title": "Delicate Grilled Egyptian Lamb Kebabs",
+    "tags": [
+      "comal-cooking",
+      "grilled-meat",
+      "halal-friendly",
+      "lamb-recipes",
+      "middle-eastern",
+      "special-occasion"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-hangover-cured-pepper-jjigae",
     "title": "Delicate Hangover-Cured Pepper Jjigae",
     "tags": [
@@ -3323,6 +3338,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-spring-spanish-ume-plum-tapas-platter",
+    "title": "Delicate Spring Spanish Ume Plum Tapas Platter",
+    "tags": [
+      "crowd-pleaser",
+      "gluten-free",
+      "spanish-cuisine",
+      "spring-inspired",
+      "sugar-free",
+      "tapas-style"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -5718,6 +5748,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-festive-irish-black-pudding-skillet",
+    "title": "Dense Festive Irish Black Pudding Skillet",
+    "tags": [
+      "festive-meal",
+      "hearty-dinner",
+      "irish-cuisine",
+      "one-pan",
+      "paleo-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-festive-polish-haddock-pancakes",
     "title": "Dense Festive Polish Haddock Pancakes",
     "tags": [
@@ -7110,6 +7154,21 @@
     ],
     "cuisine": "korean",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "double-rise-energizing-peruvian-beef-kidney-skillet",
+    "title": "Double Rise Energizing Peruvian Beef Kidney Skillet",
+    "tags": [
+      "beef-kidney",
+      "cast-iron",
+      "high-protein",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {

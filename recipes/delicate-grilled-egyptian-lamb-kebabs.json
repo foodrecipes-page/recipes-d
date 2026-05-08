@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Grilled Egyptian Lamb Kebabs",
+  "description": "A fresh and aerated Egyptian dish featuring Grand Marnier and miso-marinate, perfect for a special occasion. This halal-friendly recipe is cooked to perfection on a comal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Grand Marnier, miso paste, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the comal over medium-high heat and thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the comal with a small amount of oil to prevent sticking, then grill the lamb kebabs for 8-10 minutes, turning occasionally, until they are cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving, then garnish with fresh parsley and serve hot.",
+    "Serve the kebabs with a side of couscous or rice to soak up the flavorful juices.",
+    "Garnish with additional parsley and lemon wedges, if desired.",
+    "Refrigerate any leftovers promptly and consume within 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "grilled-meat",
+    "halal-friendly",
+    "lamb-recipes",
+    "middle-eastern",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-grilled-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-grilled-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:42:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "grand marnier",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Delicate Grilled",
+    "dishForm": "Kebabs"
+  }
+}

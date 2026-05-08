@@ -1,0 +1,106 @@
+{
+  "title": "Double Rise Energizing Peruvian Beef Kidney Skillet",
+  "description": "A nutty and velvety Peruvian dish featuring beef kidney, double-rise-bread, and a blend of spices, cooked to perfection in a cast-iron skillet. This energizing meal is perfect for a hearty dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced beef kidney and cook until browned, about 5 minutes.",
+    "Add the chopped aji amarillo pepper, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the cubed double-rise-bread and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Let it rest for 5 minutes before serving.",
+    "Serve with your favorite sides, such as roasted vegetables or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "cast-iron",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "double-rise-energizing-peruvian-beef-kidney-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/double-rise-energizing-peruvian-beef-kidney-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:42:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "beef kidney",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "double rise energizing",
+    "dishForm": "Skillet"
+  }
+}

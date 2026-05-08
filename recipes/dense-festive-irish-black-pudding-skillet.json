@@ -1,0 +1,99 @@
+{
+  "title": "Dense Festive Irish Black Pudding Skillet",
+  "description": "A nutty and dense Irish dish featuring black pudding, simmered in a nimono style and cooked in an iron teppan, perfect for a festive meal. This paleo-friendly recipe is a hearty and flavorful option for any occasion.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "parsnip",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the iron teppan over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the chopped carrot and parsnip and cook for an additional 5 minutes.",
+    "Add the sliced black pudding and cook until it is browned on all sides.",
+    "Add the apple cider vinegar, salt, black pepper, and chopped thyme to the teppan.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Remove the teppan from the heat and let it cool for a few minutes.",
+    "Serve the black pudding skillet hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-meal",
+    "hearty-dinner",
+    "irish-cuisine",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "dense-festive-irish-black-pudding-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-festive-irish-black-pudding-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:42:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "black pudding",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "black pudding",
+    "descriptor": "dense festive",
+    "dishForm": "Skillet"
+  }
+}
