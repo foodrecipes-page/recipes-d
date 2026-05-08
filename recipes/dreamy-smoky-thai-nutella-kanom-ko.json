@@ -1,0 +1,100 @@
+{
+  "title": "Dreamy Smoky Thai Nutella Kanom Ko",
+  "description": "A winey, flaky, and festive Thai dish featuring Nutella, with a smoky twist, served in a lacquerware bowl, this lacto-vegetarian-friendly dessert is perfect for special occasions.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Smoked sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Thai tea leaves",
+      "amount": "1 teaspoon",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Lacquerware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the flour, sugar, and smoked sea salt in a bowl.",
+    "Add the melted butter, eggs, and coconut milk to the bowl and mix until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out small squares of dough, about 3 inches per side.",
+    "Place a small spoonful of Nutella in the center of each square.",
+    "Fold the dough over the Nutella to form a triangle and press the edges together to seal.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Smoke the Thai tea leaves in a small pan over low heat until fragrant.",
+    "Place the baking sheet with the triangles over the smoking tea leaves for 1 minute.",
+    "Bake the triangles in the preheated oven for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lacquerware-bowls",
+    "lacto-vegetarian",
+    "smoky-flavors",
+    "special-occasions",
+    "thai-desserts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "dreamy-smoky-thai-nutella-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-smoky-thai-nutella-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:33:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "nutella",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Nutella",
+    "descriptor": "Dreamy Smoky",
+    "dishForm": "Kanom Ko"
+  }
+}
