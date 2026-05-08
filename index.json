@@ -3399,6 +3399,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-yeasty-japanese-bread-bao",
+    "title": "Delicate Yeasty Japanese Bread Bao",
+    "tags": [
+      "homemade-bao",
+      "japanese-cuisine",
+      "kosher-friendly",
+      "snack-time",
+      "yeasty-bread"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-yeasty-moroccan-vermicelli-pasta",
     "title": "Delicate Yeasty Moroccan Vermicelli Pasta",
     "tags": [
