@@ -2209,6 +2209,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-earthy-indian-kidney-beans-rajma",
+    "title": "Delicate Earthy Indian Kidney Beans Rajma",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "indian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-earthy-middle-eastern-eggs-shakshuka",
     "title": "Delicate Earthy Middle Eastern Eggs Shakshuka",
     "tags": [
@@ -3143,6 +3158,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-springy-korean-lettuce-sujebi",
+    "title": "Delicate Springy Korean Lettuce Sujebi",
+    "tags": [
+      "buddhist-friendly",
+      "korean-cuisine",
+      "noodle-dish",
+      "savory",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
