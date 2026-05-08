@@ -1,0 +1,99 @@
+{
+  "title": "Deliciously Dense Jamaican Cornmeal Bake",
+  "description": "A yeasty and snappy Jamaican dish featuring fine yellow cornmeal, soffritto-base, and FODMAP-friendly ingredients, perfect for a cozy meal. It combines the warmth of Jamaican spices with the comfort of a dense cornmeal bake.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped, use gloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cornmeal, yeast, salt, and sugar.",
+    "In a separate pan, heat the oil over medium heat and saute the onion, bell pepper, and scotch bonnet pepper until they are softened.",
+    "Add the sauteed mixture to the cornmeal mixture and stir well.",
+    "Gradually add the water to the mixture, stirring until it forms a thick batter.",
+    "Pour the batter into a greased 8-inch square baking dish.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-bake",
+    "cozy-meal",
+    "fodmap-friendly",
+    "jamaican-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "deliciously-dense-jamaican-cornmeal-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-jamaican-cornmeal-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cornmeal",
+    "descriptor": "deliciously dense",
+    "dishForm": "Bake"
+  }
+}
