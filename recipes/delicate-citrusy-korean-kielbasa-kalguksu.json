@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Citrusy Korean Kielbasa Kalguksu",
+  "description": "A light and tender Korean dish featuring kielbasa, with a citrusy twist and a hint of chocolate, made in a low-fat friendly kalguksu style.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kalguksu noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the kalguksu noodles according to package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and cook the sliced kielbasa until browned.",
+    "Add the orange zest, orange juice, salt, and black pepper to the skillet and stir to combine.",
+    "Temper the chocolate by melting it in a double boiler and then whisking it into the skillet with the kielbasa mixture.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the kielbasa and chocolate sauce.",
+    "Transfer the kalguksu to a serving dish and garnish with chopped green onions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional orange zest if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "korean-food",
+    "low-fat",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "delicate-citrusy-korean-kielbasa-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-citrusy-korean-kielbasa-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:50:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "kielbasa",
+    "diet": "low-fat",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Delicate Citrusy",
+    "dishForm": "Kalguksu"
+  }
+}
