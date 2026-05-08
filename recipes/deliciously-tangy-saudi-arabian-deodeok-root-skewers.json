@@ -1,0 +1,103 @@
+{
+  "title": "Deliciously Tangy Saudi Arabian Deodeok Root Skewers",
+  "description": "A tangy and springy Saudi Arabian dish featuring deodeok root, perfect for meal prep and diabetic-friendly diets. This recipe combines the unique flavor of deodeok root with a blend of Middle Eastern spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the deodeok root pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated deodeok root pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Flip the skewers and bake for an additional 10 minutes, or until the deodeok root is tender and lightly browned.",
+    "Remove the skewers from the oven and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "middle-eastern",
+    "oven-roasted",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "deliciously-tangy-saudi-arabian-deodeok-root-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-tangy-saudi-arabian-deodeok-root-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:50:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "deodeok-root",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "deodeok root",
+    "descriptor": "deliciously tangy",
+    "dishForm": "Skewers"
+  }
+}
