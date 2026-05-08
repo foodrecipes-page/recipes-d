@@ -1,0 +1,92 @@
+{
+  "title": "Delicately Smoky Kenyan Chicken Kebabs",
+  "description": "A fresh and aerated Kenyan dish featuring smoky a oli and tandoor flavors, perfect for a healthy meal prep option, this recipe is onion and garlic free and cooked to perfection in banana leaves.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoky a oli",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoky a oli, tandoor spice blend, lemon juice, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Wrap each skewer in a banana leaf and cook for an additional 2 minutes.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "delicately-smoky-kenyan-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicately-smoky-kenyan-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "smoky a oli",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicately Smoky",
+    "dishForm": "Kebabs"
+  }
+}

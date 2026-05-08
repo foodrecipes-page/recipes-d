@@ -3980,6 +3980,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicately-smoky-kenyan-chicken-kebabs",
+    "title": "Delicately Smoky Kenyan Chicken Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-australian-sweet-potato-bake",
     "title": "Delicious Australian Sweet Potato Bake",
     "tags": [
@@ -5259,6 +5274,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-ethiopian-lentils-misir-wot",
+    "title": "Deliciously Roasted Ethiopian Lentils Misir Wot",
+    "tags": [
+      "ethiopian-cuisine",
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
