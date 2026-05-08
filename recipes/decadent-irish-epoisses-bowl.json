@@ -1,0 +1,92 @@
+{
+  "title": "Decadent Irish Epoisses Bowl",
+  "description": "A rich and creamy Irish dish featuring epoisses cheese, deep-fried to perfection and served in a warm dolsot stone bowl, perfect for satisfying midnight cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, salt, and a pinch of parsley.",
+    "In a separate dish, whisk together egg and buttermilk.",
+    "In a third dish, place the panko breadcrumbs.",
+    "Cut the softened epoisses cheese into 1-inch cubes and dip each cube into the flour mixture, then the egg mixture, and finally the breadcrumb mixture, pressing gently to adhere.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the breaded cheese cubes into the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Using a slotted spoon, remove the fried cheese from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "To assemble the bowls, place a few pieces of the fried cheese into a warm dolsot stone bowl, then sprinkle with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "deep-fried",
+    "irish-cuisine",
+    "midnight-cravings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "decadent-irish-epoisses-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-irish-epoisses-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:40:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "epoisses",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Deep Fried",
+    "dishForm": "Bowl"
+  }
+}
