@@ -1,0 +1,90 @@
+{
+  "title": "Dry Dense Croatian White Cabbage Dumplings",
+  "description": "Smoky and fluffy Croatian dish featuring white cabbage, these dumplings are a show-off dish that is both kosher-friendly and delicious. They are made with a combination of ingredients that give them a unique flavor and texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage, flour, eggs, salt, black pepper, and smoked paprika, and mix until a dough forms.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the dumplings to the skillet and cook for about 5 minutes on each side, until they are golden brown.",
+    "Remove the dumplings from the skillet and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with your favorite toppings or sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "dumplings",
+    "kosher-friendly",
+    "smoky-flavor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dry-dense-croatian-white-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-dense-croatian-white-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:26:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "white cabbage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "white cabbage",
+    "descriptor": "dry dense",
+    "dishForm": "Dumplings"
+  }
+}
