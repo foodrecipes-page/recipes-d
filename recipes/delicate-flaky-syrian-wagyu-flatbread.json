@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Flaky Syrian Wagyu Flatbread",
+  "description": "A salty and flaky Syrian flatbread dish featuring Wagyu beef and a mirepoix base, perfect for a light and raw-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1 cup",
+      "notes": "chopped carrots, celery, and onions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, black pepper, and sumac.",
+    "Gradually add the olive oil and water to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a few slices of Wagyu beef in the center of each circle, leaving a 1 inch border around the edges.",
+    "Top the beef with a spoonful of mirepoix and fold the edges of the dough up over the filling to form a flatbread.",
+    "Brush the tops of the flatbreads with a little olive oil and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "delicate-flaky-syrian-wagyu-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-syrian-wagyu-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:28:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "wagyu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "wagyu",
+    "descriptor": "delicate flaky",
+    "dishForm": "Flatbread"
+  }
+}
