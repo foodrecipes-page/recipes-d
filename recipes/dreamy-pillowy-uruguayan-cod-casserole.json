@@ -1,0 +1,105 @@
+{
+  "title": "Dreamy Pillowy Uruguayan Cod Casserole",
+  "description": "A yeasty and pillowy Uruguayan dish featuring cod, cooked to perfection using sous-vide, without onion or garlic, making it friendly to all palates.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, yeast, salt, black pepper, and paprika.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Place the cod fillets in a single layer in a sous-vide safe bag.",
+    "Pour the batter over the cod fillets in the bag.",
+    "Seal the bag and cook in the sous-vide machine for 1 hour.",
+    "Remove the bag from the machine and let it rest for 10 minutes.",
+    "Open the bag and gently pour the contents into a baking dish.",
+    "Drizzle lemon juice over the top and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "no-onion-no-garlic",
+    "pillowy",
+    "seafood",
+    "sous-vide",
+    "uruguayan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dreamy-pillowy-uruguayan-cod-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-pillowy-uruguayan-cod-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "cod",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cod",
+    "descriptor": "dreamy pillowy",
+    "dishForm": "Casserole"
+  }
+}
