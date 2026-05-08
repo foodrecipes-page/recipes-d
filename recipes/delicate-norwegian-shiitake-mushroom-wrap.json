@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Norwegian Shiitake Mushroom Wrap",
+  "description": "A lacto-vegetarian friendly Norwegian dish featuring shiitake mushrooms and wok-hei, wrapped in a pandan leaf",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium high heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the sliced shiitake mushrooms and cook until they develop wok-hei",
+    "Stir in the mustard and cook for 1 minute",
+    "Season with salt and black pepper to taste",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wrap by placing the mushroom mixture onto a pandan leaf and topping with crumbly feta cheese",
+    "Fold the pandan leaf to enclose the filling and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "mushroom-dishes",
+    "norwegian-cuisine",
+    "pandan-leaf",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "delicate-norwegian-shiitake-mushroom-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-shiitake-mushroom-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:43:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "wok-hei",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "delicate smoky",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Garlicky Spanish Chicken Paella",
+  "description": "A flavorful and savory Spanish dish featuring chicken, garlic, and lemon zest, perfect for a hangover cure, made FODMAP friendly and cooked to a molten perfection with air fryer, it is a garlicky Spanish chicken paella.",
+  "cuisine": "Spanish",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, pepper, and saffron threads.",
+    "Add the chicken breast to the bowl and coat with the marinade.",
+    "Air fry the chicken for 10 minutes or until cooked through.",
+    "Mince the garlic cloves and mix with lemon zest.",
+    "Add the garlic and lemon mixture to the air fryer and cook for 1 minute.",
+    "Add the uncooked Arborio rice to the air fryer and cook for 2 minutes.",
+    "Stir in 2 cups of chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the rice is cooked and the liquid is absorbed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "fodmap-friendly",
+    "garlic-lovers",
+    "gluten-free",
+    "one-pot",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "deliciously-garlicky-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-garlicky-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:43:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "lemon zest",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously garlicky",
+    "dishForm": "Paella"
+  }
+}

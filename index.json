@@ -3220,6 +3220,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-norwegian-shiitake-mushroom-wrap",
+    "title": "Delicate Norwegian Shiitake Mushroom Wrap",
+    "tags": [
+      "lacto-vegetarian",
+      "mushroom-dishes",
+      "norwegian-cuisine",
+      "pandan-leaf",
+      "wok-hei"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-peppery-british-tofu-ploughmans",
     "title": "Delicate Peppery British Tofu Ploughmans",
     "tags": [
@@ -5164,6 +5178,21 @@
       "one-pot"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-garlicky-spanish-chicken-paella",
+    "title": "Deliciously Garlicky Spanish Chicken Paella",
+    "tags": [
+      "chicken-recipes",
+      "fodmap-friendly",
+      "garlic-lovers",
+      "gluten-free",
+      "one-pot",
+      "spanish-food"
+    ],
+    "cuisine": "Spanish",
     "totalTimeMin": 50,
     "shard": "d"
   },
