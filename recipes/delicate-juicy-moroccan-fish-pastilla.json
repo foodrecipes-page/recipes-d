@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Juicy Moroccan Fish Pastilla",
+  "description": "A traditional Moroccan dish featuring white fish, onions, and spices wrapped in a flaky pastry, perfect for a family dinner. This recipe is kid-friendly and pescatarian-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 pound",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten, for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onions and minced garlic until softened.",
+    "Add the white fish fillets to the skillet and cook until opaque and flaky.",
+    "In a large bowl, combine the cooked fish, sauteed onions and garlic, salt, black pepper, cumin, and paprika.",
+    "In a separate bowl, whisk together the white flour and melted butter to form a pastry dough.",
+    "Roll out the pastry dough to a large square, about 1/8 inch thick.",
+    "Place the fish mixture in the center of the pastry square, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry over the fish mixture to form a triangle or square shape, pressing the edges to seal.",
+    "Place the pastilla on a baking sheet and brush the top with the remaining egg.",
+    "Bake the pastilla in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "fish",
+    "moroccan",
+    "pastry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "delicate-juicy-moroccan-fish-pastilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-juicy-moroccan-fish-pastilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:27:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "white flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "delicate juicy",
+    "dishForm": "Pastilla"
+  }
+}
