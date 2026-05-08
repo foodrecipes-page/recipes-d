@@ -1,0 +1,107 @@
+{
+  "title": "Delicate Australian Fish Sushi",
+  "description": "A pungent and chewy sushi dish that showcases Australian fish, bread rolls, and sashimi-cut ingredients, making it fodmap-friendly.",
+  "cuisine": "australian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hapuku Fish Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable Australian Hapuku fish fillets."
+    },
+    {
+      "name": "Bread Rolls",
+      "amount": "1",
+      "notes": "Low-fodmap and gluten-free bread rolls."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Thinly sliced and seeded for digestion."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Thinly sliced and peeled for easy digestion."
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Mashed and ripe for a creamy texture."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2-3 tbsp",
+      "notes": "Freshly squeezed and organic."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Gluten-free and organic for a tangy flavor."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted for added crunch."
+    },
+    {
+      "name": "Chives",
+      "amount": "1 tsp",
+      "notes": "Fresh and finely chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Prepare the Hapuku fish fillets by slicing them into thin sashimi-cut pieces.",
+    "Prepare the bread rolls by cutting them into small pieces and toasting them for a crispy texture.",
+    "Prepare the cucumber and carrot slices by placing them in a bowl of ice-cold water for 10 minutes to remove excess water.",
+    "Drain the cucumber and carrot slices and pat them dry with paper towels.",
+    "Mash the avocado in a bowl and add the lime juice, rice vinegar, and sesame seeds. Mix well to combine.",
+    "Assemble the sushi rolls by placing a piece of fish on a bread roll, followed by a slice of cucumber, carrot, and avocado mixture.",
+    "Roll the sushi tightly but gently and slice it into individual pieces.",
+    "Garnish the sushi with chopped chives and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-fodmap",
+    "one-pan",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "delicate-australian-fish-sushi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-australian-fish-sushi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:06:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "bread rolls",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Delicate",
+    "dishForm": "Sushi"
+  }
+}

@@ -1715,6 +1715,23 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-australian-fish-sushi",
+    "title": "Delicate Australian Fish Sushi",
+    "tags": [
+      "australian-cuisine",
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "low-fodmap",
+      "one-pan",
+      "sushi",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-australian-prunes-mousse",
     "title": "Delicate Australian Prunes Mousse",
     "tags": [
