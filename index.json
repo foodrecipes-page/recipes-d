@@ -6070,6 +6070,23 @@
     "shard": "d"
   },
   {
+    "slug": "dense-uruguayan-lamb-empanadas",
+    "title": "Uruguayan Lamb Empanadas",
+    "tags": [
+      "cheese",
+      "comfort-food",
+      "easy-dinner",
+      "empanadas",
+      "homemade",
+      "lamb",
+      "latin-american",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-yeasty-thai-celeriac-nam-prik",
     "title": "Dense Yeasty Thai Celeriac Nam Prik",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Uruguayan Lamb Empanadas",
+  "description": "Tender lamb empanadas with gooey cheese filling, perfect for a crowd.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Baby lettuce leaves",
+      "amount": "1 head",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground lamb, onion, garlic, salt, and pepper. Mix well with your hands until just combined.",
+    "In a separate bowl, mix together shredded cheddar cheese and egg.",
+    "Add the cheese mixture to the lamb mixture and mix until just combined.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 12-15 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a thin circle.",
+    "Spoon about 1 tablespoon of the lamb mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press edges together with a fork to seal.",
+    "Heat about 1/4 inch of olive oil in a large frying pan over medium-high heat.",
+    "When the oil is hot, add a few empanadas to the pan and cook for 3-4 minutes on each side, or until golden brown.",
+    "Serve hot with a side of baby lettuce leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "easy-dinner",
+    "empanadas",
+    "homemade",
+    "lamb",
+    "latin-american",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "dense-uruguayan-lamb-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-uruguayan-lamb-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:10:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Dense",
+    "dishForm": "Empanadas"
+  }
+}
