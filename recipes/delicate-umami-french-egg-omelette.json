@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Umami French Egg Omelette",
+  "description": "A fluffy and savory French egg omelette featuring confit tomato and Sichuan pepper, perfect for a post-workout meal, this dish is low in calories and rich in umami flavor.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh and room temperature"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "unsalted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/8 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt, black pepper, and Sichuan pepper until the whites and yolks are fully incorporated.",
+    "Heat the butter in a small non-stick skillet over medium heat until it starts to foam.",
+    "Pour the egg mixture into the skillet and let it cook for about 30 seconds.",
+    "Use a heat-resistant spatula to gently lift and fold the edges of the omelette towards the center, allowing the uncooked egg to flow to the edges.",
+    "Once the eggs are almost set, add the confit tomato to one half of the omelette.",
+    "Sprinkle the chopped parsley and garlic powder, if using, over the confit tomato.",
+    "Use the spatula to carefully fold the other half of the omelette over the filling.",
+    "Cook for another 30 seconds to allow the cheese to melt and the omelette to set.",
+    "Slide the omelette out of the skillet onto a plate and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french-egg-omelette",
+    "gluten-free",
+    "healthy-breakfast",
+    "low-calorie",
+    "post-workout",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "delicate-umami-french-egg-omelette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-umami-french-egg-omelette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:52:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "low-calorie",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "eggs",
+    "descriptor": "Delicate Umami",
+    "dishForm": "Omelette"
+  }
+}
