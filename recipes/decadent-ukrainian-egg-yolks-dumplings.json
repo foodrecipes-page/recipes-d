@@ -1,0 +1,96 @@
+{
+  "title": "Decadent Ukrainian Egg Yolks Dumplings",
+  "description": "A flexitarian-friendly Ukrainian dish featuring egg yolks and fermented kimchi, perfect for a weeknight dinner. This molten, fermented dish is a unique twist on traditional Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, salt, and black pepper to combine.",
+    "In a separate bowl, whisk together the egg yolks and sour cream until smooth.",
+    "Add the kimchi to the egg yolk mixture and stir to combine.",
+    "Gradually add the flour mixture to the egg yolk mixture, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 6 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of butter in the center of each.",
+    "Fold the dough over the butter to form a half-moon shape and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Serve the dumplings hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented",
+    "flexitarian",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "decadent-ukrainian-egg-yolks-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-ukrainian-egg-yolks-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:37:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "egg yolks",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Decadent",
+    "dishForm": "Dumplings"
+  }
+}
