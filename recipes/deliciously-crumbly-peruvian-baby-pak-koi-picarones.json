@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Crumbly Peruvian Baby Pak Koi Picarones",
+  "description": "A traditional Peruvian dish featuring baby pak koi, with a mustardy and crumbly texture, made into picarones and cooked on a tava griddle.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped baby pak koi, flour, cornstarch, grated cheese, mustard seeds, salt, and sugar.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the egg mixture to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls and flatten each ball into a picarone shape.",
+    "Heat a tava griddle over medium heat and cook the picarones for 3 minutes on each side.",
+    "Repeat the cooking process until all the picarones are cooked.",
+    "Serve the picarones hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "griddled-goodness",
+    "kosher-friendly",
+    "peruvian-cuisine",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "deliciously-crumbly-peruvian-baby-pak-koi-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crumbly-peruvian-baby-pak-koi-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "baby pak koi",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "deliciously crumbly",
+    "dishForm": "Picarones"
+  }
+}
