@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Peruvian Chicken Aji De Gallina",
+  "description": "A comforting Peruvian dish featuring wood-fired baked chicken in a creamy mature cheddar sauce, this recipe is a floral and aerated twist on a classic, with a focus on low-calorie ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "Season the chicken breasts with salt and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and sear the chicken breasts until browned on both sides.",
+    "Transfer the chicken to a baking dish and bake in the wood-fired oven for 20 minutes, or until cooked through.",
+    "In a blender or food processor, puree the aji amarillo peppers, garlic, and walnuts until smooth.",
+    "In a saucepan, combine the heavy cream and pureed pepper mixture, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and stir in the shredded mature cheddar cheese until melted and smooth.",
+    "To serve, slice the cooked chicken breasts and place on a plate, then spoon the creamy cheese sauce over the top and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "chicken-recipes",
+    "comfort-food",
+    "low-calorie",
+    "peruvian-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:43:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "mature cheddar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate Aerated",
+    "dishForm": "Aji De Gallina"
+  }
+}
