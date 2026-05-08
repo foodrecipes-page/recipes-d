@@ -2492,6 +2492,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-garlicky-uruguayan-beef-stew",
+    "title": "Delicate Garlicky Uruguayan Beef Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "one-pot",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 110,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-german-dates-poke",
     "title": "Delicate German Dates Poke",
     "tags": [
@@ -3351,6 +3365,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-velvety-turkish-turkey-papillote",
+    "title": "Delicate Velvety Turkish Turkey Papillote",
+    "tags": [
+      "gluten-free",
+      "healthy-dinner",
+      "low-glycemic",
+      "papillote",
+      "turkish-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {

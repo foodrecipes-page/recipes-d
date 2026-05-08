@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Velvety Turkish Turkey Papillote",
+  "description": "A fresh and cozy Turkish dish featuring tender turkey, flavorful spices, and a delicate papillote presentation, perfect for a low-glycemic diet. This dish is made with wholesome ingredients and careful cooking techniques.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless turkey breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, paprika, salt, and black pepper.",
+    "Add the turkey pieces to the bowl and toss to coat with the marinade.",
+    "Cut a large piece of parchment paper into a rectangle, about 18 inches by 12 inches.",
+    "Place the turkey mixture in the center of the parchment paper, leaving a 1-inch border around the edges.",
+    "Fold the parchment paper over the turkey, creating a tight seal, and twist the ends to form a papillote.",
+    "Place the papillote on a baking sheet and bake for 25 minutes.",
+    "Remove the papillote from the oven and carefully open the parchment paper.",
+    "Pour the lemon juice and chicken broth over the turkey and return to the oven for an additional 10 minutes.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-dinner",
+    "low-glycemic",
+    "papillote",
+    "turkish-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "delicate-velvety-turkish-turkey-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-velvety-turkish-turkey-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:44:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "papillote",
+    "primaryIngredient": "turkey",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "turkey",
+    "descriptor": "delicate velvety",
+    "dishForm": "Papillote"
+  }
+}
