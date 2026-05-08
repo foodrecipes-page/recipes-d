@@ -1,0 +1,115 @@
+{
+  "title": "Diced, Snappy Jamaican Andouille-French Tagine",
+  "description": "A one-pot dish that combines the flavors of Jamaica and France, with a citrusy twist.",
+  "cuisine": "caribbean",
+  "diet": [
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound Andouille-French sausage, sliced",
+      "amount": "1",
+      "notes": "look for a sausage with 30% fat"
+    },
+    {
+      "name": "2 medium onions, diced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "1 large Scotch bonnet pepper, seeded and chopped",
+      "amount": "1",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "1 large orange, peeled and segmented",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup freshly squeezed orange juice",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the diced onions to the pot and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped Scotch bonnet pepper and cook for 1 minute.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the pot and stir to combine.",
+    "Add the browned sausage back into the pot and stir to combine.",
+    "Add the orange juice and orange segments to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, or until the sauce has thickened and the sausage is cooked through.",
+    "Serve the tagine hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "caribbean",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "diced-snappy-jamaican-andouille-french-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/diced-snappy-jamaican-andouille-french-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:30:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "score-fat",
+    "primaryIngredient": "andouille-french",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Andouille-French",
+    "descriptor": "Diced, Snappy",
+    "dishForm": "Tagine"
+  }
+}
