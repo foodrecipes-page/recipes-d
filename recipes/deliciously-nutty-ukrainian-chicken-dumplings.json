@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Nutty Ukrainian Chicken Dumplings",
+  "description": "A creamy and nutty Ukrainian dish featuring sweet chilli sauce, air-fried to perfection, and gluten-free friendly, perfect for a monsoon evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chicken breast, almond flour, sweet chilli sauce, sour cream, walnuts, onion, garlic, egg, salt, and black pepper, and mix well until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter, and flatten each ball slightly into a disk shape.",
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Place the dumplings in a single layer in the air fryer basket, leaving some space between each dumpling.",
+    "Air-fry the dumplings for 5 minutes on each side, or until they are golden brown and cooked through.",
+    "Serve the dumplings hot with additional sweet chilli sauce for dipping.",
+    "Garnish with chopped fresh herbs, such as parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "creamy",
+    "gluten-free",
+    "monsoon-friendly",
+    "nutty",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "deliciously-nutty-ukrainian-chicken-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-nutty-ukrainian-chicken-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:42:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously nutty",
+    "dishForm": "Dumplings"
+  }
+}
