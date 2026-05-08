@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Dutch Oxtail Stew",
+  "description": "A hearty and flavorful stew featuring oxtail, mustard, and spring vegetables, all wrapped in a corn husk vessel. This dish is perfect for a monsoon day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the mustard, thyme, and a pinch of salt and pepper.",
+    "Add the oxtail pieces to the bowl and coat with the mustard mixture.",
+    "Wrap each piece of oxtail in a corn husk, making sure to seal the edges.",
+    "Place the wrapped oxtail in a large Dutch oven and add the spring onions, carrots, and potatoes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let cool for a few minutes.",
+    "Serve the stew hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pot-meals",
+    "oxtail-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "delicate-dutch-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dutch-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:07:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "oxtail",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "oxtail",
+    "descriptor": "delicate springy",
+    "dishForm": "Stew"
+  }
+}
