@@ -1,0 +1,105 @@
+{
+  "title": "Deliciously Spicy Egyptian Pepper Paella",
+  "description": "A spicy and tender Egyptian dish featuring roasted peppers, this plant-based paella is perfect for a weeknight dinner, made in a traditional paella pan.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large paella pan, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika, cumin, salt, and black pepper, and stir to combine.",
+    "Add the diced roasted red peppers and cook for 2 minutes.",
+    "Add the uncooked brown rice and stir to combine with the spice mixture.",
+    "Add the vegetable broth and bring to a boil.",
+    "Transfer the paella pan to the preheated oven and bake for 25 minutes.",
+    "Remove the paella from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "deliciously-spicy-egyptian-pepper-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-egyptian-pepper-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "roasted pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "peppers",
+    "descriptor": "Deliciously spicy",
+    "dishForm": "Paella"
+  }
+}

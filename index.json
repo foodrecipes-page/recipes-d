@@ -6152,6 +6152,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-spicy-egyptian-pepper-paella",
+    "title": "Deliciously Spicy Egyptian Pepper Paella",
+    "tags": [
+      "egyptian-cuisine",
+      "one-pan",
+      "plant-based",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-spicy-french-cheese-terrine",
     "title": "Deliciously Spicy French Cheese Terrine",
     "tags": [
