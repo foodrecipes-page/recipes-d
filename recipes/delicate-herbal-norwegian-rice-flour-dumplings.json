@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Herbal Norwegian Rice Flour Dumplings",
+  "description": "A traditional Norwegian dish featuring sweet rice flour chapssalgaru, herbs, and steam, known to help cure hangovers, this recipe is low in calories and friendly to various diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "chapssalgaru"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sweet rice flour, dried parsley, dried dill, and salt.",
+    "Gradually add in the water and mix until a dough forms.",
+    "Add the egg to the dough and mix until well combined.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10 minutes.",
+    "Serve the dumplings hot with melted butter and chopped fresh chives on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-remedies",
+    "low-calorie",
+    "norwegian-cuisine",
+    "steamed-dishes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-herbal-norwegian-rice-flour-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herbal-norwegian-rice-flour-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:02:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice flour",
+    "descriptor": "delicate herbal",
+    "dishForm": "Dumplings"
+  }
+}
