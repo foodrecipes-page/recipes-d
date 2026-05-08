@@ -4823,6 +4823,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-braised-canadian-onion-stew",
+    "title": "Deliciously Braised Canadian Onion Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-buttery-american-scallion-sandwich",
     "title": "Deliciously Buttery American Scallion Sandwich",
     "tags": [
