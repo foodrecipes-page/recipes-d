@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Yeasty Turkish Meat Cig Kofte",
+  "description": "A traditional Turkish dish made with ground meat and spices, featuring a yeasty and aerated texture, and served with a squeeze of unwaxed lemon juice, this Whole30-friendly recipe is perfect for a healthy and energizing meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, chopped onion, minced garlic, salt, and black pepper.",
+    "In a small bowl, mix the ferment-jang and lemon juice until well combined.",
+    "Add the ferment-jang mixture to the meat mixture and mix until just combined.",
+    "In a separate bowl, proof the yeast by mixing it with the water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the meat mixture and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Divide the dough into 8 equal pieces and shape each piece into a cylinder.",
+    "Grill the cig kofte for 4-5 minutes per side, or until they are cooked through and slightly charred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "grilled",
+    "meat-lovers",
+    "turkish-food",
+    "whole30",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-yeasty-turkish-meat-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-yeasty-turkish-meat-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:34:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "Delicate Yeasty",
+    "dishForm": "Cig Kofte"
+  }
+}
