@@ -1,0 +1,118 @@
+{
+  "title": "Delicious Venezuelan Radish Patties",
+  "description": "A fresh and crumbly Venezuelan dish featuring radish, perfect for hangover cures and raw-friendly options.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red radish",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine onion, garlic, radish, and a pinch of salt in a food processor. Process until coarsely chopped.",
+    "In a large bowl, mix together breadcrumbs, parmesan cheese, eggs, and a pinch of black pepper.",
+    "Add the processed radish mixture to the breadcrumb mixture and stir until well combined.",
+    "Divide the mixture into 8 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty shape.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the patties for 4 minutes on each side, until golden brown and crispy.",
+    "Transfer the patties to a plate and sprinkle with chili flakes and a squeeze of lime juice.",
+    "Garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "raw-friendly",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "delicious-venezuelan-radish-patties",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-venezuelan-radish-patties",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "radish",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Radish",
+    "descriptor": "Delicious",
+    "dishForm": "Patties"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Decadent Delight French Almonds Comal Gratin",
+  "description": "Light, elegant French dish featuring ground almonds, a hint of Burgundy wine, and minimal calories. Perfect for a dinner party",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Burgundy wine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the butter, onion, and garlic. Cook over medium heat until the onion is translucent, about 8 minutes.",
+    "Add the ground almonds, thyme, salt, and pepper to the saucepan. Cook, stirring constantly, for 2 minutes.",
+    "Remove the saucepan from the heat and stir in the Parmesan cheese until melted.",
+    "In a separate bowl, whisk together the cream and egg yolks until smooth.",
+    "Add the cream mixture to the saucepan and stir to combine.",
+    "Transfer the mixture to a 9x13-inch comal or baking dish.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "almonds",
+    "burgundy",
+    "comal",
+    "decadent",
+    "dinner-party",
+    "elegant",
+    "french",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "decadent-delight-french-almonds-comal-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-delight-french-almonds-comal-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-calorie",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "almonds",
+    "descriptor": "Decadent Delight",
+    "dishForm": "Comal Gratin"
+  }
+}

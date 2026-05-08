@@ -1122,6 +1122,23 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-delight-french-almonds-comal-gratin",
+    "title": "Decadent Delight French Almonds Comal Gratin",
+    "tags": [
+      "almonds",
+      "burgundy",
+      "comal",
+      "decadent",
+      "dinner-party",
+      "elegant",
+      "french",
+      "low-calorie"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-dutch-epoisses-gratin",
     "title": "Decadent Dutch Epoisses Gratin",
     "tags": [
@@ -5267,6 +5284,19 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-venezuelan-radish-patties",
+    "title": "Delicious Venezuelan Radish Patties",
+    "tags": [
+      "high-protein",
+      "raw-friendly",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
