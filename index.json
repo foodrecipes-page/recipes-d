@@ -3577,6 +3577,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-malaysian-thai-eggplant-curry",
+    "title": "Delicious Malaysian Thai Eggplant Curry",
+    "tags": [
+      "cozy",
+      "malaysian-thai",
+      "one-pan",
+      "peppery",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian Thai",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-molten-slovakian-egg-frittata",
     "title": "Delicious Molten Slovakian Egg Frittata",
     "tags": [
@@ -3841,6 +3856,21 @@
       "weeknight"
     ],
     "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crumbly-croatian-cheese-frittata",
+    "title": "Deliciously Crumbly Croatian Cheese Frittata",
+    "tags": [
+      "breakfast-brunch",
+      "cheesy",
+      "crumbly",
+      "european-cuisine",
+      "ovo-vegetarian",
+      "whipped-cream"
+    ],
+    "cuisine": "Croatian",
     "totalTimeMin": 35,
     "shard": "d"
   },
