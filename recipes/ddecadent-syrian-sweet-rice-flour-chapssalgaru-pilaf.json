@@ -1,0 +1,82 @@
+{
+  "title": "DDecadent Syrian Sweet-Rice-Flour-Chapssalgaru Pilaf",
+  "description": "A fatty, flaky, post-workout Syrian dish featuring sweet-rice-flour-chapssalgaru, double-fried KFC-style and dairy-free-friendly.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": 1
+    },
+    {
+      "name": "chapssalgaru (tahini), mashed",
+      "amount": 250
+    },
+    {
+      "name": "unsalted butter",
+      "amount": 100
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 400
+    },
+    {
+      "name": "ground cumin",
+      "amount": 10
+    },
+    {
+      "name": "salt",
+      "amount": 2
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": 3
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Combine sweet rice flour and mashed chapssalgaru in a bowl.",
+    "Add butter, vegetable oil, ground cumin, salt, and cayenne pepper. Mix until well combined and thick enough to form into balls when dropped from the spoon.",
+    "Roll 1 tablespoon dough into small balls. Coat breadcrumbs on both sides of each ball before frying in hot oil for about 2 minutes per side or until golden brown.",
+    "Place fried doughballs onto a paper towel-lined plate to drain excess oil, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cuisine-specific",
+    "oil-free",
+    "snackable"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 25
+  },
+  "slug": "ddecadent-syrian-sweet-rice-flour-chapssalgaru-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ddecadent-syrian-sweet-rice-flour-chapssalgaru-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T00:49:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sweet-rice-flour-chapssalgaru",
+    "descriptor": "Decadent",
+    "dishForm": "Pilaf"
+  }
+}
