@@ -3023,6 +3023,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicately-smoked-saudi-arabian-peaches-skillet",
+    "title": "Delicately Smoked Saudi Arabian Peaches Skillet",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "saudi-arabian",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-australian-sweet-potato-bake",
     "title": "Delicious Australian Sweet Potato Bake",
     "tags": [
@@ -6006,6 +6021,21 @@
     ],
     "cuisine": "Southern Thai",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dried-resinous-syrian-runner-beans-stew",
+    "title": "Dried Resinous Syrian Runner Beans Stew",
+    "tags": [
+      "dairy-free",
+      "high-fiber",
+      "one-pot",
+      "syrian-cuisine",
+      "vegetarian-stew",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
