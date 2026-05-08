@@ -3636,6 +3636,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-festive-mexican-toor-dal-tacos",
+    "title": "Delicious Festive Mexican Toor Dal Tacos",
+    "tags": [
+      "festive",
+      "gluten-free",
+      "mexican",
+      "one-pan",
+      "special-occasion",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-greek-snapper-stifado",
     "title": "Delicious Greek Snapper Stifado",
     "tags": [

@@ -1,0 +1,107 @@
+{
+  "title": "Delicious Festive Mexican Toor Dal Tacos",
+  "description": "A festive Mexican dish featuring toor dal, stir-fry, and anti-inflammatory friendly ingredients, with a salty and fluffy texture. This dish is perfect for special occasions and can be served as a main course.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet",
+      "notes": "mild"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or whole wheat"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion and garlic until softened.",
+    "Add the bell pepper and cook until tender.",
+    "Add the toor dal, taco seasoning, and water to the pan, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the dal is cooked and fluffy.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the dal mixture onto a tortilla and topping with avocado, cilantro, and a squeeze of lime juice.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicious-festive-mexican-toor-dal-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-festive-mexican-toor-dal-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "toor dal",
+    "diet": "anti-inflammatory",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "toor dal",
+    "descriptor": "delicious festive",
+    "dishForm": "Tacos"
+  }
+}
