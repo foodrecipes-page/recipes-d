@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Dense Dutch Meat Stew",
+  "description": "A hearty and flavorful stew featuring turmeric and a blend of meats, perfect for a cold winter's night. This dish is paleo-friendly and can be made in one pot.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the pork sausage and cook until browned, about 5 minutes.",
+    "Add the onion, carrots, and potatoes, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the turmeric, sea salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stew",
+    "one-pot",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "deliciously-dense-dutch-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-dutch-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:28:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "turmeric",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "meat",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Stew"
+  }
+}
