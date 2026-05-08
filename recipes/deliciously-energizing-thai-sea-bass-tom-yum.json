@@ -1,0 +1,130 @@
+{
+  "title": "Deliciously energizing Thai sea bass Tom Yum",
+  "description": "A winey and bouncy-qq energizing Thai dish featuring sea bass fillets in a spicy and sour Tom Yum broth. This recipe is anti-inflammatory-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Tom Yum paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fish balls",
+      "amount": "4",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Red chili",
+      "amount": "2",
+      "notes": "use more or less to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large wok or frying pan over medium-high heat.",
+    "Add the lemongrass and galangal and sauté until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Tom Yum paste and cook for 1 minute.",
+    "Add the coconut milk, fish sauce, soy sauce, and lime juice. Stir well to combine.",
+    "Add the sea bass fillets and fish balls to the wok or frying pan.",
+    "Cook for 3-4 minutes or until the fish is cooked through.",
+    "Stir in the honey and Thai basil leaves.",
+    "Season with more fish sauce or lime juice if necessary.",
+    "Serve hot and garnish with additional Thai basil leaves if desired.",
+    "Serve with steamed rice or noodles if preferred.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "sour",
+    "spicy",
+    "thaicuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-energizing-thai-sea-bass-tom-yum",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-energizing-thai-sea-bass-tom-yum",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:50:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sea bass",
+    "descriptor": "Deliciously energizing",
+    "dishForm": "Tom Yum"
+  }
+}

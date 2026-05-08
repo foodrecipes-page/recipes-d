@@ -1322,6 +1322,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-venezuelan-walnut-empanadas",
+    "title": "Decadent Venezuelan Walnut Empanadas",
+    "tags": [
+      "crispy",
+      "gluten-free",
+      "high-fiber",
+      "indulgent",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-yeasty-irish-duck-stew",
     "title": "Decadent Yeasty Irish Duck Stew",
     "tags": [
@@ -3701,6 +3717,23 @@
     ],
     "cuisine": "Middle-Eastern",
     "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-energizing-thai-sea-bass-tom-yum",
+    "title": "Deliciously energizing Thai sea bass Tom Yum",
+    "tags": [
+      "energizing",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "sour",
+      "spicy",
+      "thaicuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
