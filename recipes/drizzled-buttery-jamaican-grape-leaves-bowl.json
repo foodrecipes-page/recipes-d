@@ -1,0 +1,99 @@
+{
+  "title": "Drizzled Buttery Jamaican Grape Leaves Bowl",
+  "description": "A high-protein, low-glycemic post-workout bowl featuring shredded jerk chicken and buttery grape leaves served in a sizzling stone dolsot.",
+  "cuisine": "Jamaican Fusion",
+  "diet": [
+    "Low-Glycemic",
+    "High-Protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "1 cup",
+      "notes": "preserved, rinsed, and julienned for a shaggy texture"
+    },
+    {
+      "name": "Jerk chicken breast",
+      "amount": "8 oz",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "1.5 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Grass-fed butter",
+      "amount": "2 tbsp",
+      "notes": "melted for drizzling"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "0.5",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "0.5 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Thyme",
+      "amount": "3 sprigs",
+      "notes": "fresh leaves only"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for coating the stone bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat a stone dolsot bowl over medium-high heat on the stovetop for five minutes.",
+    "Coat the inside of the hot stone bowl thoroughly with coconut oil.",
+    "Spread the cauliflower rice across the bottom of the bowl to create a crispy layer.",
+    "Layer the shredded jerk chicken and julienned grape leaves over the rice.",
+    "Sprinkle the minced scotch bonnet, allspice, and fresh thyme leaves over the top.",
+    "Allow the bowl to sizzle undisturbed for three minutes to develop a crust.",
+    "Drizzle the melted grass-fed butter evenly over the entire dish.",
+    "Toss the ingredients lightly with a spoon to incorporate the buttery drizzle before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-flavor",
+    "low-carb",
+    "one-pot",
+    "post-workout",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 14,
+    "fat": 38
+  },
+  "slug": "drizzled-buttery-jamaican-grape-leaves-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/drizzled-buttery-jamaican-grape-leaves-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T11:49:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "grape leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Drizzled buttery",
+    "dishForm": "Bowl"
+  }
+}
