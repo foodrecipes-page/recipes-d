@@ -1,0 +1,106 @@
+{
+  "title": "Dehydrated Crispy Mediterranean Fregola Pilaf",
+  "description": "A jammy, crispy, and lazy Sunday Mediterranean dish featuring fregola, this recipe is perfect for a relaxing afternoon, and is FODMAP friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit to begin the dehydration process.",
+    "In a large bowl, toss the toasted fregola with olive oil, chopped onion, and garlic infused oil until the fregola is well coated.",
+    "Spread the fregola mixture on a baking sheet lined with parchment paper in a single layer.",
+    "Dehydrate the fregola mixture in the oven for 2 hours, stirring occasionally, until it reaches the desired crispiness.",
+    "While the fregola is dehydrating, mix the cherry tomatoes, kalamata olives, and artichoke hearts in a separate bowl.",
+    "After the fregola has finished dehydrating, add it to the bowl with the tomato and olive mixture, and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Stir in the chopped fresh parsley.",
+    "Serve the Dehydrated Crispy Mediterranean Fregola Pilaf warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "dehydrated-crispy-mediterranean-fregola-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dehydrated-crispy-mediterranean-fregola-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "dehydrate",
+    "primaryIngredient": "fregola",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fregola",
+    "descriptor": "Dehydrated Crispy",
+    "dishForm": "Pilaf"
+  }
+}
