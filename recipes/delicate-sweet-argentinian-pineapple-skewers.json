@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Sweet Argentinian Pineapple Skewers",
+  "description": "A cultured and shaggy Argentinian dish featuring pineapple and candy, this recipe is low-calorie-friendly and perfect for a unique dessert or snack. The combination of sweet and tangy flavors will surely impress your guests.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Candy pieces",
+      "amount": "1/2 cup",
+      "notes": "low-calorie"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat a kadhai over medium heat, making sure it is hot before adding any ingredients.",
+    "Thread pineapple chunks onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together brown sugar, lime juice, and ginger powder to create a glaze.",
+    "Brush the glaze onto the pineapple chunks, making sure they are fully coated.",
+    "Add the candy pieces to the kadhai and cook for 2-3 minutes, or until they start to melt and caramelize.",
+    "Add the pineapple skewers to the kadhai and cook for an additional 2-3 minutes, or until they are fully coated in the caramelized candy mixture.",
+    "Remove the skewers from the kadhai and place them on a serving plate.",
+    "Sprinkle coconut flakes and a dollop of yogurt onto each skewer, if desired.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "candy",
+    "dessert",
+    "low-calorie",
+    "sweet",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "delicate-sweet-argentinian-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sweet-argentinian-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:36:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "pineapple",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pineapple",
+    "descriptor": "delicate sweet",
+    "dishForm": "Skewers"
+  }
+}
