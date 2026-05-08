@@ -1,0 +1,100 @@
+{
+  "title": "Delicious Crisp British Cornmeal Shepherds Pie",
+  "description": "A comforting winey and crisp vegetarian shepherds pie featuring fine yellow cornmeal, perfect for a sick day. This dish is infused with oil for added flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fine yellow cornmeal",
+      "amount": "1 cup",
+      "notes": "freshly opened package"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Add the red wine to the skillet and cook until the liquid is almost completely evaporated.",
+    "Stir in the vegetable broth, tomato paste, and frozen peas and carrots, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while preparing the cornmeal topping.",
+    "In a large bowl, combine the fine yellow cornmeal, a pinch of salt, and a grind of black pepper.",
+    "Add a small amount of water to the bowl and stir until the cornmeal forms a crumbly mixture.",
+    "Transfer the mushroom mixture to a 9x13 inch baking dish and top with the cornmeal mixture and shredded cheddar cheese.",
+    "Bake the shepherds pie in the preheated oven for 35 minutes, or until the top is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "delicious-crisp-british-cornmeal-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-crisp-british-cornmeal-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:25:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Delicious Crisp",
+    "dishForm": "Shepherds Pie"
+  }
+}
