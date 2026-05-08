@@ -1,0 +1,91 @@
+{
+  "title": "Dry Peruvian Chicken Skewers",
+  "description": "A peppery and snappy post-workout Peruvian dish featuring orange blossom water, this recipe is perfect for those looking for an anti-inflammatory friendly meal option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, orange blossom water, garlic powder, black pepper, turmeric, ginger, and salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Dehydrate the chicken in the oven for 3 hours, or until dry and slightly crispy.",
+    "Remove the skewers from the oven and let cool completely.",
+    "Serve the dry Peruvian chicken skewers chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "peruvian-cuisine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "dry-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "orange blossom water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "dehydrated snappy",
+    "dishForm": "Skewers"
+  }
+}
