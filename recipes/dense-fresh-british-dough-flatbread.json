@@ -1,0 +1,115 @@
+{
+  "title": "Dense Fresh British Dough Flatbread",
+  "description": "A high-protein, dense, and fresh flatbread perfect for post-workout snacking. Made with a hint of blue food colouring, this British dish is a twist on traditional flatbreads.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Self-raising flour",
+      "amount": "300g",
+      "notes": "Use a British self-raising flour for the best results"
+    },
+    {
+      "name": "Greek yoghurt",
+      "amount": "100g",
+      "notes": "Make sure the yoghurt is full-fat for extra protein"
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Blue food colouring",
+      "amount": "5 drops",
+      "notes": "Add a hint of blue to the dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a flaky sea salt for added flavour"
+    },
+    {
+      "name": "Black pepper",
+      "amount": 1,
+      "notes": "Use freshly ground black pepper for the best results"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "50g",
+      "notes": "Optional, add grated cheddar for an extra burst of flavour"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bicarbonate of soda",
+      "amount": 1,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine self-raising flour, baking soda, and bicarbonate of soda",
+    "Add Greek yoghurt, egg, blue food colouring, salt, and black pepper to the dry ingredients and mix until a dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a lightly oiled bowl, cover it with cling film, and let it rest for 1 hour",
+    "Preheat a non-stick pan or griddle over medium heat",
+    "Divide the dough into 4-6 equal pieces, depending on the desired size",
+    "Roll out each piece into a ball and flatten it slightly into a disk shape",
+    "Brush the tops with olive oil and cook for 2-3 minutes on each side, or until golden brown",
+    "Serve warm, topped with grated cheddar cheese if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "flatbread",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dense-fresh-british-dough-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-fresh-british-dough-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T18:10:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "blue food colouring",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "dough",
+    "descriptor": "Dense Fresh",
+    "dishForm": "Flatbread"
+  }
+}
