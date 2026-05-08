@@ -1,0 +1,106 @@
+{
+  "title": "Dried Monsoon Filipino Smoked Mackerel Kare Kare",
+  "description": "A traditional Filipino dish with a twist, featuring smoked mackerel and a rich, mustardy flavor, made in a kadhai vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut-free annatto seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a kadhai over medium heat.",
+    "Add the chopped onion and saute until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the annatto seeds and cook, stirring constantly, for 1 minute.",
+    "Add the flaked smoked mackerel, fish sauce, vinegar, salt, and black pepper, and stir to combine.",
+    "Add the rendered pork fat and stir until melted and combined.",
+    "Add the mustard and stir to combine.",
+    "Reduce heat to low and simmer, stirring occasionally, for 10 minutes.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "high-protein",
+    "one-pan",
+    "smoked-fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "dried-monsoon-filipino-smoked-mackerel-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-monsoon-filipino-smoked-mackerel-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:27:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "dried monsoon",
+    "dishForm": "Kare Kare"
+  }
+}
