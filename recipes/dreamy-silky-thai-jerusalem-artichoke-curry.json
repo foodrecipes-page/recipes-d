@@ -1,0 +1,108 @@
+{
+  "title": "Dreamy Silky Thai Jerusalem Artichoke Curry",
+  "description": "A winey and silky Thai curry featuring Jerusalem artichokes, perfect for a lazy Sunday, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the diced Jerusalem artichokes and cook for 5 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and add the fish sauce, turmeric, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook until the Jerusalem artichokes are tender.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "thai-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dreamy-silky-thai-jerusalem-artichoke-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-silky-thai-jerusalem-artichoke-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:08:37Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Dreamy silky",
+    "dishForm": "Curry"
+  }
+}

@@ -3752,6 +3752,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-sour-indian-chicken-curry",
+    "title": "Delicate Sour Indian Chicken Curry",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "indian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-spanish-ume-plum-tapas-platter",
     "title": "Delicate Spanish Ume Plum Tapas Platter",
     "tags": [
@@ -8311,6 +8326,20 @@
       "weeknight"
     ],
     "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-silky-thai-jerusalem-artichoke-curry",
+    "title": "Dreamy Silky Thai Jerusalem Artichoke Curry",
+    "tags": [
+      "gluten-free",
+      "lazy-sunday",
+      "one-pan",
+      "thai-curry",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 50,
     "shard": "d"
   },
