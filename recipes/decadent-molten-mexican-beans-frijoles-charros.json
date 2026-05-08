@@ -1,0 +1,102 @@
+{
+  "title": "Decadent Molten Mexican Beans Frijoles Charros",
+  "description": "A pescatarian-friendly, molten Mexican dish featuring Thai green curry paste, with a mustardy flavor and cozy Oaxacan inspiration, served in a tajine clay vessel.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "fish broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried pinto beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "In a large skillet, heat the olive oil over medium heat, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic, Thai green curry paste, ground cumin, smoked paprika, and salt to the skillet, and cook for 1 minute, stirring constantly.",
+    "Stir in the diced tomatoes and fish broth, then bring the mixture to a simmer.",
+    "Add the cooked pinto beans to the skillet, then stir to combine.",
+    "Transfer the bean mixture to a tajine clay vessel, then bake in a preheated oven at 375 degrees Fahrenheit for 20 minutes, or until the beans are molten and bubbly.",
+    "Remove the vessel from the oven, then let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "mexican-inspiration",
+    "one-pot",
+    "pescatarian-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "decadent-molten-mexican-beans-frijoles-charros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-molten-mexican-beans-frijoles-charros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:40:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "pescatarian",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Decadent Molten",
+    "dishForm": "Frijoles Charros"
+  }
+}

@@ -377,6 +377,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-velvety-egyptian-lamb-tagine",
+    "title": "Dark Velvety Egyptian Lamb Tagine",
+    "tags": [
+      "herbal",
+      "lamb-based",
+      "low-glycemic",
+      "middle-eastern",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "dark-zy-canadian-flour-poutine",
     "title": "Dark-Zy Canadian Flour Poutine",
     "tags": [
@@ -1077,6 +1092,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-molten-mexican-beans-frijoles-charros",
+    "title": "Decadent Molten Mexican Beans Frijoles Charros",
+    "tags": [
+      "cozy-dinner",
+      "mexican-inspiration",
+      "one-pot",
+      "pescatarian-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 110,
     "shard": "d"
   },
   {

@@ -1,0 +1,111 @@
+{
+  "title": "Dark Velvety Egyptian Lamb Tagine",
+  "description": "A rich and herbal Egyptian dish featuring lamb, juniper berries, and dashi extract, made with low glycemic ingredients for a healthier meal option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until it is softened and lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb and cook until it is browned on all sides.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the crushed juniper berries and stir to combine.",
+    "Add the dashi extract and 1 cup of water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 2 1/2 hours.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "lamb-based",
+    "low-glycemic",
+    "middle-eastern",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dark-velvety-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-velvety-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:40:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "juniper berries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "dark velvety",
+    "dishForm": "Tagine"
+  }
+}
