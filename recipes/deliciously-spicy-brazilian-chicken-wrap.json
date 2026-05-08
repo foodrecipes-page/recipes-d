@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Spicy Brazilian Chicken Wrap",
+  "description": "A spicy and cozy Brazilian dish featuring almond butter and flambe, wrapped in a pandan leaf wrap, perfect for a Mediterranean-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat and add the olive oil.",
+    "Add the chicken breast strips and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the sliced red onion and red bell pepper to the skillet and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the almond butter and flambe sauce until smooth.",
+    "Add the almond butter mixture to the skillet and stir to combine with the chicken and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the chicken and vegetable mixture onto a pandan leaf and topping with crumbly feta cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-spicy-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:23:26Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "almond butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "deliciously spicy",
+    "dishForm": "Wrap"
+  }
+}
