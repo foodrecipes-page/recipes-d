@@ -1,0 +1,108 @@
+{
+  "title": "Deliciously Smoky Italian Turkey Mince Orecchiette",
+  "description": "A smoky and crunchy Italian dish featuring turkey mince, orecchiette pasta, and a mantecare emulsification, all made in a quick and easy manner, friendly to gluten-free diets.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "orecchiette pasta",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the orecchiette pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the turkey mince, cooking until browned, breaking it up into small pieces as it cooks.",
+    "Add the smoked paprika, garlic, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cherry tomatoes to the skillet and cook for 2 minutes, stirring occasionally.",
+    "Add the chicken broth to the skillet and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and let the sauce simmer while the pasta finishes cooking.",
+    "Reserve 1 cup of pasta water before draining the orecchiette, then add the pasta to the skillet, tossing to combine with the sauce and adding some reserved pasta water if the sauce seems too thick.",
+    "Stir in the grana padano cheese until melted and well combined, then season with salt and black pepper to taste.",
+    "Serve the orecchiette hot, topped with chopped fresh parsley and a drizzle of extra olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "one-pot",
+    "pasta-recipes",
+    "quick-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "deliciously-smoky-italian-turkey-mince-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoky-italian-turkey-mince-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "turkey mince",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Deliciously Smoky",
+    "dishForm": "Orecchiette"
+  }
+}

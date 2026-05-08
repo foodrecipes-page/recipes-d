@@ -3118,6 +3118,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-fresh-croatian-fish-sashimi",
+    "title": "Delicate Fresh Croatian Fish Sashimi",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-garlicky-mediterranean-apricot-bowl",
     "title": "Delicate Garlicky Mediterranean Apricot Bowl",
     "tags": [
@@ -6237,6 +6252,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoky-italian-turkey-mince-orecchiette",
+    "title": "Deliciously Smoky Italian Turkey Mince Orecchiette",
+    "tags": [
+      "gluten-free",
+      "italian-food",
+      "one-pot",
+      "pasta-recipes",
+      "quick-dinner",
+      "smoky-flavors"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
