@@ -1,0 +1,101 @@
+{
+  "title": "Dreamy Smoky Italian Plum Tomatoes Carbonara",
+  "description": "A smoky and shaggy Italian dish featuring plum tomatoes and a rich glaze, perfect for a lazy Sunday, and egg-free friendly. This dish is a creative twist on the classic carbonara.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12 oz",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetarian bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and cook the vegetarian bacon until crispy.",
+    "Add the smoked paprika and garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the crushed plum tomatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Stir in the grated grana padano cheese and cook until melted and smooth.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the tomato sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the spaghetti hot, topped with chopped fresh parsley and additional grated cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "one-pot-meals",
+    "smoky-flavors",
+    "vegetarian-options",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "dreamy-smoky-italian-plum-tomatoes-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-smoky-italian-plum-tomatoes-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "dreamy smoky",
+    "dishForm": "Carbonara"
+  }
+}
