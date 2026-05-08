@@ -1,0 +1,119 @@
+{
+  "title": "Decadent Roasted Mediterranean Trout Bake",
+  "description": "A rich, aromatic, and flavorful Mediterranean dish featuring roasted trout, perfect for a midnight craving or special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4",
+      "notes": "Fresh trout fillets, skin removed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh thyme",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Mixed olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Fresh lemon wedges",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the trout fillets on the prepared baking sheet.",
+    "Drizzle the olive oil over the trout fillets.",
+    "Sprinkle the minced garlic over the trout fillets.",
+    "Sprinkle the chopped oregano, thyme, and parsley over the trout fillets.",
+    "Season the trout with salt and black pepper.",
+    "Top each trout fillet with crumbled feta cheese and sliced olives.",
+    "Bake the trout for 12-15 minutes or until cooked through.",
+    "Serve the trout hot with fresh lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "oven-baked",
+    "paleo-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "decadent-roasted-mediterranean-trout-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-roasted-mediterranean-trout-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:07:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "trout",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "trout",
+    "descriptor": "Decadent roasted",
+    "dishForm": "Bake"
+  }
+}
