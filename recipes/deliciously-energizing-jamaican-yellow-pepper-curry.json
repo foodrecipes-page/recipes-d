@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Energizing Jamaican Yellow Pepper Curry",
+  "description": "A fermented, creamy, and energizing Jamaican dish featuring yellow pepper, this curry is a perfect blend of flavors and textures, made in a hot-pot vessel using a bain-marie method to ensure raw-friendly preparation.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow pepper",
+      "amount": "2 medium",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented vegetable paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a hot-pot vessel over low heat using a bain-marie method.",
+    "Add the sliced onion, minced garlic, and grated ginger to the coconut milk and simmer for 10 minutes.",
+    "Add the curry powder, turmeric, salt, and black pepper to the mixture and stir well.",
+    "Add the sliced yellow pepper to the mixture and simmer for another 10 minutes.",
+    "Use an immersion blender to puree the mixture to the desired consistency.",
+    "Stir in the fermented vegetable paste, if using.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh herbs or a sprinkle of coconut flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-recipes",
+    "fermented-foods",
+    "gluten-free",
+    "jamaican-cuisine",
+    "raw-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "deliciously-energizing-jamaican-yellow-pepper-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-energizing-jamaican-yellow-pepper-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "yellow pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Deliciously Energizing",
+    "dishForm": "Curry"
+  }
+}
