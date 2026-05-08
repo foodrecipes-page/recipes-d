@@ -1,0 +1,93 @@
+{
+  "title": "Uruguayan Shrimp Skewers",
+  "description": "Garlicky and crunchy shrimp skewers with a touch of sea salt, inspired by the monsoon season in Uruguay, and prepared in a way that is friendly to the ayurvedic tamasic diet. This dish is perfect for a dinner or snack",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, garlic, sea salt, black pepper, and paprika",
+    "Add the shrimp to the bowl and toss to coat with the marinade",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp",
+    "Grill the skewers for 8-10 minutes, turning occasionally",
+    "Brush the shrimp with lemon juice during the last 2 minutes of grilling",
+    "Remove the skewers from the grill and sprinkle with parsley",
+    "Serve the skewers hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "deliciously-crunchy-uruguayan-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-uruguayan-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:51:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "sea salt",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "shrimp",
+    "descriptor": "deliciously crunchy",
+    "dishForm": "Skewers"
+  }
+}
