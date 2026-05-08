@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Yeasty Uruguayan Dough Bake",
+  "description": "A traditional Uruguayan dish with a yeasty and velvety texture, featuring mixed peel and a wood-fired bake, also friendly to gluten-free diets.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gluten-free flour",
+      "amount": "2 cups",
+      "notes": "containing rice flour, potato starch, and tapioca flour"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the gluten-free flour, yeast, sugar, and salt.",
+    "Add the mixed peel, eggs, milk, and melted butter to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased baking dish and let it rise for 30 minutes.",
+    "Bake the dough in the preheated wood-fired oven for 25 minutes, or until it is golden brown.",
+    "Remove the bake from the oven and let it cool for 10 minutes before serving.",
+    "Serve the Delicate Yeasty Uruguayan Dough Bake warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "mixed-peel",
+    "quick-fix",
+    "uruguayan",
+    "wood-fired",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "delicate-yeasty-uruguayan-dough-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-yeasty-uruguayan-dough-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:09:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "mixed peel",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dough",
+    "descriptor": "delicate yeasty",
+    "dishForm": "Bake"
+  }
+}
