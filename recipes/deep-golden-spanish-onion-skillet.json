@@ -1,0 +1,88 @@
+{
+  "title": "Deep Golden Spanish Onion Skillet",
+  "description": "A traditional Galician dish featuring caramelized yellow onions, this recipe is a umami-rich and satisfying solo dinner option. The use of a mortar and pestle to pound the onions adds a unique texture and depth of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-low heat.",
+    "Add the sliced onions to the skillet and cook, stirring occasionally, for 20 minutes or until they are deep golden brown and caramelized.",
+    "Use a mortar and pestle to pound the cooked onions into a rough paste.",
+    "Add the minced garlic, paprika, salt, and black pepper to the mortar and pestle and pound until well combined.",
+    "Add the onion paste back to the skillet and stir to combine with any remaining oil and spices.",
+    "Pour in the chicken broth and stir to deglaze the skillet, scraping up any browned bits from the bottom.",
+    "Bring the mixture to a simmer and cook for an additional 5 minutes, stirring occasionally, until the liquid has reduced slightly and the flavors have melded together.",
+    "Serve the skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "galician-dish",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "deep-golden-spanish-onion-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-golden-spanish-onion-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:16:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "yellow onion",
+    "diet": "gluten-free",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "onion",
+    "descriptor": "Deep golden",
+    "dishForm": "Skillet"
+  }
+}
