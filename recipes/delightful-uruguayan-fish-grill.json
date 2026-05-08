@@ -1,0 +1,118 @@
+{
+  "title": "Delightful Uruguayan Fish Grill",
+  "description": "A simple yet flavorful Uruguayan dish featuring char-grilled fish with earthy notes from chimichurri sauce and crunchy texture from toasted almonds.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    null,
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound sea bass fillet",
+      "amount": "1",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": "for brushing fish"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 cup parsley",
+      "amount": "1/4",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 tablespoons vinegar",
+      "amount": "2",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1",
+      "notes": "Uruguayan oregano"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "1/4 cup Brie cheese",
+      "amount": "1/4",
+      "notes": "softened"
+    },
+    {
+      "name": "1/4 cup toasted almonds",
+      "amount": "1/4",
+      "notes": "sliced"
+    },
+    {
+      "name": "1/4 cup chimichurri sauce",
+      "amount": "1/4",
+      "notes": "see notes for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Rinse the sea bass fillet under cold water and pat dry with paper towels.",
+    "In a small bowl, mix together olive oil, garlic, parsley, vinegar, oregano, salt, and black pepper.",
+    "Brush the mixture evenly over both sides of the fish fillet.",
+    "Grill the fish for 4 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "While the fish is cooking, toast the almonds in a small skillet over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Once the fish is cooked, transfer it to a plate and top with Brie cheese.",
+    "Drizzle the chimichurri sauce over the fish and sprinkle with toasted almonds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "almonds",
+    "brie",
+    "fish",
+    "grill",
+    "one-pan",
+    "seafood",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "delightful-uruguayan-fish-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-uruguayan-fish-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:21:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "brie",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Fish",
+    "descriptor": "Delightful",
+    "dishForm": "Grill"
+  }
+}
