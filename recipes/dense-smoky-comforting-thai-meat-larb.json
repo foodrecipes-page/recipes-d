@@ -1,0 +1,129 @@
+{
+  "title": "Dense Smoky Comforting Thai Meat Larb",
+  "description": "A rich, bold, comforting Thai meat larb dish featuring the smoky flavors of red wine and the tender crumb of double-rise bread, with a focus on plant-based ingredients. Perfect for a weeknight dinner or a cozy evening in.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pan over medium-high heat, heat 1 tablespoon of oil and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the red wine to the pan and cook until the liquid has almost completely evaporated, stirring occasionally.",
+    "Add the soy sauce, fish sauce, lime juice, ginger, garlic, coconut sugar, and rice vinegar to the pan and stir to combine.",
+    "Stir in the chopped scallions and cook for an additional 2 minutes.",
+    "Add the double-rise bread to the pan and cook until it is well coated with the meat mixture and is starting to crumble.",
+    "Remove the pan from the heat and let it cool slightly before serving the larb hot.",
+    "Serve the larb hot, garnished with additional scallions if desired.",
+    "This dish is best served immediately, but it can be refrigerated for up to 3 days or frozen for up to 2 months if desired.",
+    "To reheat the larb, cook it in a pan over medium heat until it is hot and crispy.",
+    "Adjust the seasoning of the larb as needed before serving.",
+    "Consider serving the larb with steamed vegetables, a simple salad, or additional double-rise bread for a satisfying meal.",
+    "For an extra rich and indulgent touch, consider topping the larb with a fried egg or a sprinkle of chopped fresh herbs like cilantro or basil.",
+    "If desired, serve the larb with a side of steamed jasmine rice for a more traditional Thai meal.",
+    "To make the larb more substantial, consider adding cooked vegetables like bell peppers or zucchini to the pan with the meat mixture.",
+    "To make the larb more spicy, consider adding diced jalapenos or serrano peppers to the pan with the meat mixture.",
+    "To make the larb more substantial, consider adding cooked noodles like rice noodles or egg noodles to the pan with the meat mixture.",
+    "To make the larb more flavorful, consider adding a few sprigs of fresh mint or basil to the pan with the meat mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bold",
+    "comforting",
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "smoky",
+    "thai",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "dense-smoky-comforting-thai-meat-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-comforting-thai-meat-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "red wine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Meat",
+    "descriptor": "Dense Smoky Comforting",
+    "dishForm": "Larb"
+  }
+}
