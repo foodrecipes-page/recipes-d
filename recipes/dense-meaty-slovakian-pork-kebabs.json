@@ -1,0 +1,96 @@
+{
+  "title": "Dense Meaty Slovakian Pork Kebabs",
+  "description": "A traditional Slovakian dish featuring pork back ribs, mustard, and a cure, served in scallop shells, perfect for a post-workout meal. This high-protein friendly dish is aerated and full of flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12 shells"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together mustard, cure, brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the pork back ribs to the bowl and toss to coat with the mustard mixture.",
+    "Thread the coated pork onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 20 minutes, turning occasionally.",
+    "While the pork is cooking, prepare the scallop shells by rinsing them under cold water.",
+    "Once the pork is cooked, remove it from the grill and let it rest for 5 minutes.",
+    "Serve the pork in the scallop shells, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "one-pan",
+    "pork-recipes",
+    "post-workout",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dense-meaty-slovakian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-meaty-slovakian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "pork back ribs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "dense meaty",
+    "dishForm": "Kebabs"
+  }
+}
