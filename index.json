@@ -2010,6 +2010,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-australian-lime-bowl",
+    "title": "Delicate Australian Lime Bowl",
+    "tags": [
+      "australian-cuisine",
+      "cozy-snack",
+      "lime-featured",
+      "scallop-shell-serving",
+      "soffritto-based",
+      "vegan-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-australian-prunes-mousse",
     "title": "Delicate Australian Prunes Mousse",
     "tags": [
@@ -5507,6 +5522,21 @@
     ],
     "cuisine": "middle-eastern",
     "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-molten-german-white-chocolate-bowl",
+    "title": "Deliciously Molten German White Chocolate Bowl",
+    "tags": [
+      "egg-free",
+      "german-dish",
+      "molten-chocolate",
+      "stone-bowl",
+      "vegetarian",
+      "white-chocolate"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {

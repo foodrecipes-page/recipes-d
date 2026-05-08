@@ -1,0 +1,91 @@
+{
+  "title": "Deliciously Molten German White Chocolate Bowl",
+  "description": "A festive German dessert featuring molten white chocolate, served in a stone bowl, perfect for any occasion, and is egg-free friendly.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup",
+      "notes": "high quality"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "stone bowl",
+      "amount": "1"
+    },
+    {
+      "name": "fresh raspberries",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Melt the white chocolate chips in a double boiler over low heat, stirring occasionally.",
+    "In a separate bowl, whisk together the heavy cream, granulated sugar, and unsalted butter until well combined.",
+    "Add the vanilla extract to the cream mixture and whisk until smooth.",
+    "Pour the cream mixture over the melted white chocolate and stir until well combined.",
+    "Pour the mixture into the stone bowl and place under the broiler for 2-3 minutes, or until the top is lightly browned.",
+    "Remove the bowl from the oven and let cool for 1 minute.",
+    "Garnish with fresh raspberries and serve immediately.",
+    "Be careful when handling the hot stone bowl.",
+    "Serve in the stone bowl and enjoy the molten white chocolate.",
+    "You can also add other toppings such as whipped cream or chopped nuts."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "german-dish",
+    "molten-chocolate",
+    "stone-bowl",
+    "vegetarian",
+    "white-chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "deliciously-molten-german-white-chocolate-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-molten-german-white-chocolate-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:55:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white chocolate",
+    "descriptor": "Deliciously molten",
+    "dishForm": "Bowl"
+  }
+}
