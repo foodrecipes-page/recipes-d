@@ -1,0 +1,102 @@
+{
+  "title": "Dreamy Roasted Egyptian Ovoli Mushroom Tagine",
+  "description": "A romantic Egyptian dish featuring roasted ovoli mushrooms in a rich and flavorful tagine sauce, perfect for a special occasion. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh or dried, rehydrated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, honey, cumin, smoked paprika, salt, and black pepper.",
+    "Add the ovoli mushrooms to the bowl and toss to coat with the marinade.",
+    "Spread the mushrooms in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the mushrooms are roasting, heat the chicken broth in a large saucepan over medium heat.",
+    "Once the mushrooms are done, add them to the saucepan with the chicken broth.",
+    "Reduce the heat to low and simmer the tagine sauce for 10 minutes.",
+    "Stir in the chopped parsley and serve the dreamy roasted Egyptian ovoli mushroom tagine hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mushroom-lovers",
+    "one-pan",
+    "special-occasion",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "dreamy-roasted-egyptian-ovoli-mushroom-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-roasted-egyptian-ovoli-mushroom-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:20:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "dreamy roasted",
+    "dishForm": "Tagine"
+  }
+}
