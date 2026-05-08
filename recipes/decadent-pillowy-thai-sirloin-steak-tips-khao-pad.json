@@ -1,0 +1,105 @@
+{
+  "title": "Decadent Pillowy Thai Sirloin Steak Tips Khao Pad",
+  "description": "A fermented and indulgent Thai dish featuring sirloin steak tips, served with dum and khao pad, suitable for shojin-friendly diets.",
+  "cuisine": "Thai",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "khao pad",
+      "amount": "2 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the sirloin steak tips and cook until they are browned on all sides.",
+    "Add the coconut milk, fish sauce, and brown sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened.",
+    "Stir in the cooked dum and khao pad.",
+    "Cook for an additional 2 minutes, until the ingredients are well combined.",
+    "Serve the decadent pillowy Thai sirloin steak tips khao pad hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "decadent",
+    "indulgent",
+    "one-pan",
+    "shojin-friendly",
+    "steak-recipes",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "decadent-pillowy-thai-sirloin-steak-tips-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-pillowy-thai-sirloin-steak-tips-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:33:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Decadent pillowy",
+    "dishForm": "Khao Pad"
+  }
+}

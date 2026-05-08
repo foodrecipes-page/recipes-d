@@ -1330,6 +1330,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-pillowy-thai-sirloin-steak-tips-khao-pad",
+    "title": "Decadent Pillowy Thai Sirloin Steak Tips Khao Pad",
+    "tags": [
+      "decadent",
+      "indulgent",
+      "one-pan",
+      "shojin-friendly",
+      "steak-recipes",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-pungent-australian-mushroom-dumplings",
     "title": "Decadent Pungent Australian Mushroom Dumplings",
     "tags": [
@@ -3585,6 +3600,21 @@
       "one-pan",
       "vegetarian",
       "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-slovakian-perilla-leaf-dumplings",
+    "title": "Delicate Slovakian Perilla Leaf Dumplings",
+    "tags": [
+      "banana-leaf",
+      "jain-friendly",
+      "perilla-leaf",
+      "slovakian",
+      "steamed",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,

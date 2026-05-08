@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Slovakian Perilla Leaf Dumplings",
+  "description": "A light and buttery Slovakian dish featuring perilla leaf, perfect for a snack or lunch, this jain friendly recipe is wrapped in a banana leaf vessel",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "20 leaves",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the perilla leaves by washing and drying them thoroughly.",
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Gradually add the water to the flour mixture and knead until a smooth dough forms.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a perilla leaf in the center of each dough circle.",
+    "Place a tablespoon of unsalted butter and a sprinkle of feta cheese on top of the perilla leaf.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the dumpling.",
+    "Wrap each dumpling in a banana leaf and steam for 10 minutes.",
+    "Serve the dumplings hot with a side of melted butter for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 10,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "jain-friendly",
+    "perilla-leaf",
+    "slovakian",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "delicate-slovakian-perilla-leaf-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-slovakian-perilla-leaf-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:33:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "delicate buttery",
+    "dishForm": "Dumplings"
+  }
+}
