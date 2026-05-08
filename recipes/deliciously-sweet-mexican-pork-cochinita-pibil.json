@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Sweet Mexican Pork Cochinita Pibil",
+  "description": "A sweet and shattering Mexican dish featuring tender pork cooked in a clay pot with liquid cheese, perfect for a special occasion. This recipe is also anti-inflammatory friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "large enough to hold pork"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together orange juice, lime juice, chili powder, cumin, salt, and black pepper.",
+    "Add the minced garlic to the bowl and stir to combine.",
+    "Place the pork shoulder in the clay pot and pour the juice mixture over the pork.",
+    "Cover the clay pot with a lid and place it in the oven.",
+    "Baste the pork with the juice mixture every 30 minutes.",
+    "After 2 hours, remove the clay pot from the oven and stir in the liquid cheese.",
+    "Return the clay pot to the oven and cook for an additional 30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the clay pot from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "clay-pot-cooking",
+    "mexican-food",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "deliciously-sweet-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-sweet-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "liquid cheese",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "deliciously sweet",
+    "dishForm": "Cochinita Pibil"
+  }
+}
