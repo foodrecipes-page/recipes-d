@@ -1,0 +1,87 @@
+{
+  "title": "Delicate Roasted Australian Callaloo Grill",
+  "description": "A gluten-free friendly brunch dish featuring roasted callaloo, confit-tomato, and a hint of smokiness from the binchotan grill.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 bag"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato confit",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "Rinse the callaloo and pat dry with paper towels.",
+    "Toss the callaloo with olive oil, garlic, salt, and tomato confit in a bowl.",
+    "Place the callaloo on the preheated binchotan grill and roast for 8 minutes.",
+    "Shake the grill to redistribute the callaloo and continue roasting for another 8 minutes.",
+    "Remove the callaloo from the grill and garnish with parsley and lemon wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "brunch",
+    "gluten-free",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "delicate-roasted-australian-callaloo-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roasted-australian-callaloo-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T23:38:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "callaloo",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "callaloo",
+    "descriptor": "delicate roasted",
+    "dishForm": "grill"
+  }
+}
