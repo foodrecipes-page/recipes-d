@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Dehydrated Indian Cauliflower Aloo Gobi",
+  "description": "A grassy, fluffy, monsoon Indian dish featuring egg roll wrappers, dehydrated to perfection, with an ayurvedic-rajasic friendly twist on the classic aloo gobi recipe.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 135 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium heat and saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the cumin seeds, turmeric, and salt to the pan and stir for 1 minute.",
+    "Add the cauliflower and potatoes to the pan and stir to combine with the spice mixture.",
+    "Arrange the egg roll wrappers on the dehydrator trays in a single layer.",
+    "Spoon the cauliflower and potato mixture onto the center of each egg roll wrapper, leaving a 1 inch border around the edges.",
+    "Fold the bottom edge of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Dehydrate the aloo gobi rolls for 6 hours, or until they are dry and slightly flexible.",
+    "Serve the dehydrated aloo gobi rolls warm, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "gluten-free",
+    "indian-inspired",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "delicate-dehydrated-indian-cauliflower-aloo-gobi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dehydrated-indian-cauliflower-aloo-gobi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "ayurvedic-rajasic",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Delicate Dehydrated",
+    "dishForm": "Aloo Gobi"
+  }
+}
