@@ -1,0 +1,102 @@
+{
+  "title": "Delicious Jamaican Sweet Potato Casserole",
+  "description": "A kid-friendly Jamaican dish featuring sweet potatoes, this casserole is a perfect blend of bitter and velvety flavors. It is a great option for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced sweet potatoes and brown sugar.",
+    "In a separate bowl, whisk together the melted butter, heavy cream, salt, black pepper, cinnamon, and nutmeg.",
+    "Add the fast action yeast and ferment-jang to the wet ingredients and whisk until well combined.",
+    "Pour the wet ingredients over the sweet potatoes and toss until they are evenly coated.",
+    "Transfer the sweet potato mixture to a 9x13 inch baking dish.",
+    "Bake the casserole for 45 minutes, or until the sweet potatoes are tender.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "gluten-free",
+    "jamaican",
+    "sweet-potato",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicious-jamaican-sweet-potato-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-jamaican-sweet-potato-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:54:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "fast action yeast",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potato",
+    "descriptor": "dark velvety",
+    "dishForm": "Casseroles"
+  }
+}
