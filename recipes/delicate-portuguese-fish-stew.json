@@ -1,0 +1,108 @@
+{
+  "title": "Delicate Portuguese Fish Stew",
+  "description": "A floral and silky Portuguese dish featuring butter and infuse oil, this stew is an energizing and egg free friendly meal, cooked to perfection in a hot pot vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten free",
+    "egg free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the hot pot vessel over medium heat until melted.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cod fish pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the infuse oil, white wine, fish stock, lemon juice, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the fish is cooked through, about 10 minutes.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve the stew in bowls and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "fish",
+    "gluten-free",
+    "one-pot",
+    "portuguese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-portuguese-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-portuguese-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:11:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "butter",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "delicate floral",
+    "dishForm": "Stew"
+  }
+}
