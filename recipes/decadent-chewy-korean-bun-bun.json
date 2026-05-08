@@ -1,0 +1,100 @@
+{
+  "title": "Decadent Chewy Korean Bun",
+  "description": "A low-calorie-friendly, solo-dinner Korean dish featuring a unique blend of floral flavors, chewy texture, and a hint of smokiness.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "about 1-inch piece"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "condensed milk",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, salt, and yeast.",
+    "Add grated ginger, water, milk, and butter to the dry ingredients.",
+    "Mix the dough until it forms a sticky ball, then knead for 10 minutes.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan or griddle over medium-high heat.",
+    "Divide the dough into 4-6 equal pieces, depending on desired bun size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Cook the buns for 2-3 minutes on each side, or until they are golden brown.",
+    "Brush the cooked buns with condensed milk, then sprinkle with sesame seeds.",
+    "Serve the buns warm, garnished with additional sesame seeds and a drizzle of honey if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "breakfast-alternative",
+    "korean",
+    "low-calorie",
+    "one-pan",
+    "sweet-buns",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "decadent-chewy-korean-bun-bun",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-chewy-korean-bun-bun",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:57:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "condensed milk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bun",
+    "descriptor": "Decadent Chewy",
+    "dishForm": "Bun"
+  }
+}

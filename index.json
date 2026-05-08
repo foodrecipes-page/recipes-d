@@ -805,6 +805,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-chewy-korean-bun-bun",
+    "title": "Decadent Chewy Korean Bun",
+    "tags": [
+      "afternoon-tea",
+      "breakfast-alternative",
+      "korean",
+      "low-calorie",
+      "one-pan",
+      "sweet-buns",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-chinese-goats-cheese-chow-fun",
     "title": "Decadent Chinese Goats Cheese Chow-Fun",
     "tags": [
@@ -1846,6 +1862,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crispy-greek-chicken-fritters",
+    "title": "Delicate Crispy Greek Chicken Fritters",
+    "tags": [
+      "gluten-free",
+      "greek",
+      "low-glycemic",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {

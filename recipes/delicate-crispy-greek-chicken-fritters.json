@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Crispy Greek Chicken Fritters",
+  "description": "Tender Greek chicken fritters made with rice flour pancakes and a hint of Mediterranean flavors. Perfect for a romantic dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": "unbleached all-purpose"
+    },
+    {
+      "name": "feta cheese crumbles",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kalamata olives, pitted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together eggs, lemon zest, kosher salt, and black pepper.",
+    "Add the chopped parsley, garlic, and red onion to the bowl and mix well.",
+    "In a separate bowl, combine the chicken, feta cheese crumbles, and olives.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop tablespoon-sized balls of the batter onto the skillet and flatten slightly.",
+    "Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Serve hot and enjoy!",
+    "If desired, serve with a side of tzatziki sauce or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek",
+    "low-glycemic",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "delicate-crispy-greek-chicken-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crispy-greek-chicken-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:57:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate Crispy",
+    "dishForm": "Fritters"
+  }
+}
