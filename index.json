@@ -5164,6 +5164,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-quick-ethiopian-salt-cod-dabo",
+    "title": "Delicious Quick Ethiopian Salt Cod Dabo",
+    "tags": [
+      "easy-dinner",
+      "ethiopian-cuisine",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-smoky-korean-noodles-kalguksu",
     "title": "Delicious Smoky Korean Noodles Kalguksu",
     "tags": [
@@ -9142,6 +9156,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "doughy-molten-slovakian-yeast-bake",
+    "title": "doughy molten slovakian yeast bake",
+    "tags": [
+      "gluten-free",
+      "high-calorie",
+      "meal-prep",
+      "one-pan",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

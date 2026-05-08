@@ -1,0 +1,108 @@
+{
+  "title": "Delicious Quick Ethiopian Salt Cod Dabo",
+  "description": "A peppery, snappy, and quick Ethiopian dish featuring salt cod, perfect for a weeknight dinner. This recipe is inspired by traditional Ethiopian cuisine and is designed to be easy to make and packed with flavor.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 piece (about 1 pound)",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "niter kibbeh (ethiopian clarified butter)",
+      "amount": "2 tablespoons",
+      "notes": "can be substituted with regular butter or oil"
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it starts to brown and caramelize, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook, stirring constantly, for 1 minute.",
+    "Add the chopped cilantro and cook, stirring constantly, for 1 minute.",
+    "Add the salt cod, ground cumin, ground coriander, ground cayenne pepper, salt, and black pepper. Cook, stirring occasionally, until the fish is flaked and the spices are fragrant, about 3-4 minutes.",
+    "Serve hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "ethiopian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicious-quick-ethiopian-salt-cod-dabo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-quick-ethiopian-salt-cod-dabo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "salt cod",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Delicious Quick",
+    "dishForm": "Dabo"
+  }
+}

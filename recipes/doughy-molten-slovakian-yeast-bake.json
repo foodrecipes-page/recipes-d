@@ -1,0 +1,70 @@
+{
+  "title": "doughy molten slovakian yeast bake",
+  "description": "a yeasty, molten, gluten-free-friendly slovakian dish featuring tarragon and a touch of french flavors, perfect for meal prep and served in a mason jar.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm milk",
+      "amount": "1 cup",
+      "notes": "around 100°F to 110°F"
+    }
+  ],
+  "instructions": [
+    "mix the gluten-free flour and warm milk in a bowl until just combined.",
+    "add the yeast and let it sit for 5 minutes, or until frothy.",
+    "add the tarragon, salt, and vegetable oil, and mix until a smooth batter forms.",
+    "pour the batter into a greased mason jar, about 3/4 of the way full.",
+    "cover the jar with a clean cloth and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "preheat the oven to 375°F (190°C).",
+    "place the jar on the middle rack of the oven and bake for 25 minutes, or until the top is golden brown and the edges are set.",
+    "remove the jar from the oven and let it cool on a wire rack for 5 minutes.",
+    "use oven mitts to carefully remove the mason jar from the oven and let it cool for a few more minutes before serving.",
+    "carefully invert the jar onto a plate and serve hot, with a spoon to scoop out the molten center.",
+    "serve immediately and enjoy!",
+    "note: if you prefer a more solid center, bake for 30-35 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-calorie",
+    "meal-prep",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 12,
+    "carbs": 96,
+    "fat": 20
+  },
+  "slug": "doughy-molten-slovakian-yeast-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/doughy-molten-slovakian-yeast-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "tarragon-french",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "yeast",
+    "descriptor": "doughy molten",
+    "dishForm": "Bake"
+  }
+}
