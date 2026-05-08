@@ -290,6 +290,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-molten-jamaican-chicken-curry",
+    "title": "Dark Molten Jamaican Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "curry-recipes",
+      "jamaican-cuisine",
+      "low-sodium",
+      "one-pot",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-peppery-british-chocolate-victoria-sponge-cake",
     "title": "Dark Peppery British Victoria Sponge Cake",
     "tags": [

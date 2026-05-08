@@ -1,0 +1,97 @@
+{
+  "title": "Dark Molten Jamaican Chicken Curry",
+  "description": "A spicy and adventurous Jamaican dish featuring unsweetened cocoa, this dark molten chicken curry is a unique twist on traditional curry recipes, served in a lacquerware bowl.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the chicken to the skillet and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the curry powder, unsweetened cocoa powder, and diced scotch bonnet peppers to the skillet, stirring to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Deglaze the skillet with the chicken broth, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the curry, covered, for 20 minutes, until the chicken is cooked through and the sauce has thickened.",
+    "Stir in the coconut milk and cook for an additional 2-3 minutes, until the sauce is smooth and creamy.",
+    "Serve the curry hot, in a lacquerware bowl, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "curry-recipes",
+    "jamaican-cuisine",
+    "low-sodium",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dark-molten-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-molten-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Dark molten",
+    "dishForm": "Curry"
+  }
+}
