@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Sweet Slovakian Strawberry Pancakes",
+  "description": "A traditional Slovakian dish featuring fermented pancakes with a sweet strawberry topping, perfect for a brunch mood. This recipe uses a mirepoix base and is low in calories.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, yeast, and salt to make the pancake batter.",
+    "In a separate bowl, combine milk, sugar, and eggs, then add this mixture to the dry ingredients and mix until smooth.",
+    "Let the batter rest at room temperature for 1 hour to allow fermentation.",
+    "In a pan, sauté the chopped onion, carrots, and celery over medium heat until they are softened.",
+    "Add the sliced strawberries to the pan and cook for an additional 2 minutes.",
+    "Heat a non-stick skillet or griddle over medium heat and drop the batter by 1/4 cupfuls onto the skillet.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with the strawberry and mirepoix topping.",
+    "Garnish with additional sliced strawberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-calorie",
+    "pancakes",
+    "slovakian",
+    "strawberry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-sweet-slovakian-strawberry-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sweet-slovakian-strawberry-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "strawberries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "strawberries",
+    "descriptor": "delicate sweet",
+    "dishForm": "Pancakes"
+  }
+}
