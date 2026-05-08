@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Spiced Moroccan Lamb Briouat",
+  "description": "A cultured and festive Moroccan dish featuring lamb and five spice powder, perfect for special occasions. This flexitarian-friendly recipe is boiled and then fried to create a crispy and molten treat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warqa dough",
+      "amount": "1 package",
+      "notes": "or spring roll wrappers"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, boil the lamb shoulder in water until it is tender, then drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until they are softened.",
+    "Add the five spice powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked lamb to the skillet and stir to combine with the spice mixture.",
+    "Lay a warqa dough sheet on a flat surface and place a tablespoon of the lamb mixture in the center of the dough.",
+    "Brush the edges of the dough with water and fold the dough into a triangle, pressing the edges to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Heat about 2 inches of oil in a deep frying pan over medium-high heat and fry the briouat until they are golden brown.",
+    "Drain the briouat on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "fried-foods",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "deliciously-spiced-moroccan-lamb-briouat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spiced-moroccan-lamb-briouat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:59:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "five spice powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously spiced",
+    "dishForm": "Briouat"
+  }
+}
