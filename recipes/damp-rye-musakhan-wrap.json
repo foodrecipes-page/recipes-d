@@ -1,0 +1,116 @@
+{
+  "title": "Damp Rye Musakhan Wrap",
+  "description": "A Middle Eastern-inspired dish featuring rye, steam, and a crunchy corn-husk wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add olive oil, sauté onion and mushrooms until softened.",
+    "Add cumin, coriander, salt, and black pepper. Stir for 1 minute.",
+    "Add spinach and stir until wilted.",
+    "Cut rye bread into 4-6 pieces, depending on size.",
+    "Brush corn husks with water, then place a piece of rye bread inside each husk.",
+    "Spoon the mushroom-spinach mixture onto each piece of rye bread.",
+    "Fold the bottom of the corn husk up over the filling, then fold in the sides and roll up to form a compact package.",
+    "Steam the musakhan wraps for 10-12 minutes, or until the rye bread is soft and the filling is hot.",
+    "Serve immediately, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "damp-rye-musakhan-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/damp-rye-musakhan-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:10:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "rye",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Rye",
+    "descriptor": "Damp, Soft, Steamed",
+    "dishForm": null
+  }
+}
