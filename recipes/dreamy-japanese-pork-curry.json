@@ -1,0 +1,96 @@
+{
+  "title": "Dreamy Japanese Pork Curry",
+  "description": "A rich and creamy Japanese curry dish featuring pork, whole milk, and a yuzu cure, perfect for a relaxing brunch, this sugar-free-friendly recipe is cooked to perfection in a kadhai.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kadhai over medium heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the yuzu juice, salt, and pepper, and stir to combine.",
+    "Add the whole milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the pork is tender, about 20 minutes.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "japanese-curry",
+    "one-pot-meals",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "dreamy-japanese-pork-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-japanese-pork-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:30:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "whole milk",
+    "diet": "sugar-free",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Curry"
+  }
+}
