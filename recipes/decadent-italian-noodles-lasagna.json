@@ -1,0 +1,105 @@
+{
+  "title": "Decadent Italian Noodles Lasagna",
+  "description": "A rich and satisfying Italian dish featuring layers of noodles, meat sauce, and melted cheese, perfect for a cozy evening meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the marinara sauce to the skillet and stir to combine, then reduce heat to low and simmer.",
+    "In a large bowl, combine the ricotta cheese, egg, salt, and pepper, and mix well.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish, then arrange 4 lasagna noodles on top.",
+    "Spread half of the ricotta cheese mixture over the noodles, then sprinkle with half of the mozzarella cheese and half of the parmesan cheese.",
+    "Repeat the layers, starting with the meat sauce, then the noodles, the remaining ricotta cheese mixture, and finally the remaining mozzarella and parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it rest for 10 minutes before slicing and serving, garnished with chopped fresh basil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "italian",
+    "meat-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "decadent-italian-noodles-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-italian-noodles-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:51:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "noodles",
+    "descriptor": "Decadent",
+    "dishForm": "Lasagna"
+  }
+}
