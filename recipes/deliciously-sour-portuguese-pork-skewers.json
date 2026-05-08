@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Sour Portuguese Pork Skewers",
+  "description": "A festive Portuguese dish featuring rum, pickle, and anti-inflammatory friendly ingredients, these sour pork skewers are perfect for any occasion. The combination of sour and sweet flavors will leave you wanting more.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together rum, pickle juice, olive oil, garlic, ginger, turmeric, salt, and black pepper.",
+    "Add the pork cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "Garnish with bay leaves and serve immediately.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with your favorite sides, such as grilled vegetables or quinoa.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "festive",
+    "gluten-free",
+    "grilled",
+    "pork",
+    "portuguese",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "deliciously-sour-portuguese-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-sour-portuguese-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:03:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "rum",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Deliciously sour",
+    "dishForm": "Skewers"
+  }
+}
