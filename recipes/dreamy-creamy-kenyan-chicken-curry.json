@@ -1,0 +1,104 @@
+{
+  "title": "Dreamy Creamy Kenyan Chicken Curry",
+  "description": "A funky and creamy Kenyan dish perfect for a date night, featuring marjoram and nuka-pickle, with a dash-friendly twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the curry powder, salt, and pepper, and cook for 1 minute, until fragrant.",
+    "Add the marjoram, nuka-pickle, and coconut milk, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through, about 15-20 minutes.",
+    "Reduce the heat to low and let the curry simmer for 5 minutes, until the sauce has thickened.",
+    "Serve the curry hot, garnished with additional marjoram if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "creamy-curry",
+    "date-night",
+    "gluten-free",
+    "kenyan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dreamy-creamy-kenyan-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-kenyan-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:53:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "marjoram",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Curry"
+  }
+}
