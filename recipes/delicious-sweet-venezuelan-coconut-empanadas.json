@@ -1,0 +1,98 @@
+{
+  "title": "Delicious Sweet Venezuelan Coconut Empanadas",
+  "description": "Sweet and crumbly empanadas filled with coconut and candied peel, perfect for a snack or dessert. This halal-friendly recipe is made in a kazan cauldron.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": "sweetened"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "In a large bowl, combine the flour, confectioners sugar, and cold butter, and mix until the mixture resembles coarse crumbs.",
+    "Add the shredded coconut, candied peel, eggs, coconut milk, and salt to the bowl, and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces, and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, and place a tablespoon of coconut filling in the center of each circle.",
+    "Fold the dough over the filling, and press the edges together to seal the empanada.",
+    "Place the empanadas in the preheated kazan cauldron, and cook for 10 minutes on each side, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-lovers",
+    "dessert-recipes",
+    "empanada-recipes",
+    "halal-friendly",
+    "sweet-treats",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "delicious-sweet-venezuelan-coconut-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-sweet-venezuelan-coconut-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "candied peel",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "coconut",
+    "descriptor": "delicious sweet",
+    "dishForm": "Empanadas"
+  }
+}
