@@ -1,0 +1,99 @@
+{
+  "title": "Decadent Middle Eastern Sweet Potatoes Hummus",
+  "description": "A rich and creamy hummus dish featuring sweet potatoes, perfect for a brunch mood, this Jain-friendly recipe is cooked to perfection in a tagine pot. The cheese-pull effect adds a delightful twist to this traditional Middle Eastern dip.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Pressure cook the sweet potatoes in a tagine pot with 2 cups of water for 10 minutes.",
+    "Drain the sweet potatoes and let them cool.",
+    "In a blender, combine the chickpeas, tahini, lemon juice, garlic, and salt, and blend until smooth.",
+    "Add the cooked sweet potatoes to the blender and blend until well combined.",
+    "With the blender running, slowly pour in the olive oil and continue blending until the hummus is creamy and smooth.",
+    "Transfer the hummus to a serving bowl and top with paprika and vegan mozzarella shreds.",
+    "Use a kitchen torch to melt the mozzarella shreds and create a cheese-pull effect.",
+    "Serve the hummus warm, garnished with additional paprika and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheesy",
+    "hummus",
+    "jain-friendly",
+    "middle-eastern",
+    "sweet-potato",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "decadent-middle-eastern-sweet-potatoes-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-middle-eastern-sweet-potatoes-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:10:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Decadent cheesy",
+    "dishForm": "Hummus"
+  }
+}
