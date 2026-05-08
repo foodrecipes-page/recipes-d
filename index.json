@@ -1529,6 +1529,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-venezuelan-beef-stew",
+    "title": "Decadent Venezuelan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-venezuelan-chicken-wrap",
     "title": "Decadent Venezuelan Chicken Wrap",
     "tags": [
