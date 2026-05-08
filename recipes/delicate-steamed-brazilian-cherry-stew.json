@@ -1,0 +1,87 @@
+{
+  "title": "Delicate Steamed Brazilian Cherry Stew",
+  "description": "This paleo-friendly stew features tender Brazilian cherries steamed in a cataplana vessel, creating a tangy and pillowy festive dish. It is perfect for special occasions and can be served as a dessert or snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian cherries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cataplana vessel",
+      "amount": "1",
+      "notes": "or large steamer basket"
+    }
+  ],
+  "instructions": [
+    "Rinse the Brazilian cherries and remove any stems or leaves.",
+    "In a large bowl, mix together the coconut milk, honey, lime juice, grated ginger, and salt.",
+    "Add the Brazilian cherries to the bowl and toss to coat with the coconut milk mixture.",
+    "Place the cherry mixture in the cataplana vessel or large steamer basket.",
+    "Steam the cherry mixture over boiling water for 10 minutes, or until the cherries are tender.",
+    "Remove the cataplana vessel from the heat and let it cool for a few minutes.",
+    "Serve the stew warm, garnished with additional grated ginger if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "cataplana-recipe",
+    "fruit-based",
+    "paleo-friendly",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "delicate-steamed-brazilian-cherry-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-steamed-brazilian-cherry-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:04:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "steam",
+    "primaryIngredient": "cherry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cherry",
+    "descriptor": "delicate steamed",
+    "dishForm": "Stew"
+  }
+}
