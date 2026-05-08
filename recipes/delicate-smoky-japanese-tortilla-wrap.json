@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Smoky Japanese Tortilla Wrap",
+  "description": "A satvik-friendly Japanese dish featuring a flour tortilla with smoky and floral flavors, inspired by the Kyushu region.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "pickled plum",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and sesame oil.",
+    "Brush the mixture onto the flour tortilla, making sure to coat it evenly.",
+    "Add the smoked tofu to the skillet and cook for 3-4 minutes on each side, until lightly browned.",
+    "Add the pickled plum, shiso leaves, sesame seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Place a cooked tortilla on a flat surface and spoon the tofu and plum mixture onto the center of the tortilla.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the tortilla into a tight cylinder.",
+    "Repeat with the remaining ingredients and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-lunch",
+    "floral-notes",
+    "japanese-inspired",
+    "smoky-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-smoky-japanese-tortilla-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-japanese-tortilla-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "flour tortilla",
+    "diet": "satvik",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tortilla",
+    "descriptor": "delicate smoky",
+    "dishForm": "Wrap"
+  }
+}
