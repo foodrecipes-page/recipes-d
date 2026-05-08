@@ -526,6 +526,21 @@
     "shard": "d"
   },
   {
+    "slug": "darkly-savory-argentinian-sausages-skewers",
+    "title": "Darkly Savory Argentinian Sausages Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "meat-based",
+      "one-pan",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
     "slug": "darkly-smoked-german-pork-skewers",
     "title": "Darkly Smoked German Pork Skewers",
     "tags": [
@@ -4793,6 +4808,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-croatian-datterini-tomato-toast",
+    "title": "Delicious Croatian Datterini Tomato Toast",
+    "tags": [
+      "croatian-cuisine",
+      "easy-snack",
+      "jain-friendly",
+      "quick-appetizer",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

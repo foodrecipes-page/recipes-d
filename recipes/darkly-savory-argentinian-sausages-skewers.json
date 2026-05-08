@@ -1,0 +1,99 @@
+{
+  "title": "Darkly Savory Argentinian Sausages Skewers",
+  "description": "A tangy and crumbly Argentinian dish featuring German sausages, dashi extract, and plant-based friendly ingredients, perfect for a midnight craving. This recipe combines the flavors of Argentina and Germany with a Japanese twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "plant-based",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "12 sausages",
+      "notes": "preferably vegan"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large onion",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 large peppers",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large zucchini",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together dashi extract, chimichurri sauce, salt, and black pepper.",
+    "Add the German sausages to the bowl and marinate for at least 10 minutes.",
+    "Thread the marinated sausages, red onion, red bell pepper, and zucchini onto skewers.",
+    "Brush the skewers with olive oil.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with additional chimichurri sauce if desired.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "meat-based",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "darkly-savory-argentinian-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/darkly-savory-argentinian-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "german sausages",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sausages",
+    "descriptor": "darkly savory",
+    "dishForm": "Skewers"
+  }
+}

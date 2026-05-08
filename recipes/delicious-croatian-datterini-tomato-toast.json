@@ -1,0 +1,96 @@
+{
+  "title": "Delicious Croatian Datterini Tomato Toast",
+  "description": "A traditional Croatian dish featuring datterini tomatoes and cheese, perfect for a snack or light lunch, and jain-friendly as it does not contain any animal products except for cheese which can be substituted with a jain-friendly alternative",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "baguette",
+      "amount": "1",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Arrange the baguette slices on a baking sheet.",
+    "Drizzle the olive oil over the baguette slices.",
+    "Sprinkle the salt and black pepper over the baguette slices.",
+    "Bake the baguette slices in the oven for 10 minutes, or until lightly toasted.",
+    "Remove the baguette slices from the oven and let cool for 2 minutes.",
+    "Top each baguette slice with a halved datterini tomato.",
+    "Drizzle the balsamic vinegar over the datterini tomatoes.",
+    "Sprinkle the chopped fresh basil over the datterini tomatoes.",
+    "Top each baguette slice with a slice of vegan mozzarella cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "easy-snack",
+    "jain-friendly",
+    "quick-appetizer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "delicious-croatian-datterini-tomato-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-croatian-datterini-tomato-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:08:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "datterini tomato",
+    "descriptor": "delicious",
+    "dishForm": "Toast"
+  }
+}
