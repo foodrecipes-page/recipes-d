@@ -1,0 +1,116 @@
+{
+  "title": "Deliciously Dense Middle Eastern Lamb Tagine",
+  "description": "A rich and flavorful Middle Eastern dish featuring lamb, raspberry jam, and lardons, perfect for a special date night, this recipe is also anti-inflammatory friendly and made in a kadhai vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai vessel over medium heat and add the rendered lardons to cook until crispy.",
+    "Remove the lardons from the kadhai and set aside, leaving the drippings in the vessel.",
+    "Add the chopped onion to the kadhai and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger to the kadhai and cook for 1 minute, stirring constantly.",
+    "Add the lamb pieces to the kadhai and cook until they are browned on all sides, about 5 minutes.",
+    "Add the ground cumin, coriander, cayenne pepper, salt, and black pepper to the kadhai and stir to combine.",
+    "Add the chicken broth, raspberry jam, and cooked lardons to the kadhai, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "lamb",
+    "middle-eastern",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "deliciously-dense-middle-eastern-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-middle-eastern-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:57:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "raspberry jam",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously Dense",
+    "dishForm": "Tagine"
+  }
+}
