@@ -391,6 +391,20 @@
     "shard": "d"
   },
   {
+    "slug": "dark-smoky-chinese-chicken-biryani",
+    "title": "Dark Smoky Chinese Chicken Biryani",
+    "tags": [
+      "chinese-inspired",
+      "gluten-free",
+      "one-pot",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dark-velvety-egyptian-lamb-tagine",
     "title": "Dark Velvety Egyptian Lamb Tagine",
     "tags": [

@@ -1,0 +1,91 @@
+{
+  "title": "Dark Smoky Chinese Chicken Biryani",
+  "description": "A charred and silky Chinese dish featuring lemons and a smoky flavor, made in a Dutch oven, this recipe is onion and garlic free.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven over medium high heat.",
+    "Add the sesame oil and cook the chicken until browned.",
+    "Add the smoked paprika, dark soy sauce, and brown sugar, and stir to combine.",
+    "Add the basmati rice and cook for 1 minute.",
+    "Add the chicken broth and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the rice and chicken with a fork and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "gluten-free",
+    "one-pot",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "dark-smoky-chinese-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-smoky-chinese-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:18:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lemons",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "dark smoky",
+    "dishForm": "Biryani"
+  }
+}
