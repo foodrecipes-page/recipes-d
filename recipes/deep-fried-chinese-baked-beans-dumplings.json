@@ -1,0 +1,100 @@
+{
+  "title": "Deep Fried Chinese Baked Beans Dumplings",
+  "description": "A yeasty, gooey, Chinese dish featuring baked beans, deep fried to perfection, suitable for a sick day, with ayurvedic sattvic friendly ingredients",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "yeast friendly"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, sugar, and 1/4 cup of warm water in a bowl to make the dough",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Let the dough rest for 1 hour in a warm place",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball",
+    "Flatten each ball into a disk shape and place 1 tablespoon of baked beans in the center",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees",
+    "Deep fry the dumplings for 3-4 minutes on each side until they are golden brown",
+    "Drain the dumplings on paper towels and brush with sesame oil",
+    "Sprinkle chopped scallions and grated ginger on top of the dumplings"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "chinese-food",
+    "comfort-food",
+    "deep-fried",
+    "sick-day",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "deep-fried-chinese-baked-beans-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-chinese-baked-beans-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "baked beans",
+    "diet": "ayurvedic-sattvic",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "baked beans",
+    "descriptor": "Deep fried",
+    "dishForm": "Dumplings"
+  }
+}
