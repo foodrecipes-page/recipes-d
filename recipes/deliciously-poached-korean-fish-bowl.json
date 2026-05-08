@@ -1,0 +1,120 @@
+{
+  "title": "Deliciously Poached Korean Fish Bowl",
+  "description": "A comforting and flavorful korean dish featuring fresh fish poached in a sweet and spicy sauce, served over a bed of steaming white rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1200g",
+      "notes": "Wild-caught Alaskan salmon"
+    },
+    {
+      "name": "white rice",
+      "amount": "2 cups",
+      "notes": "Short-grain rice for authentic korean texture"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste for spicy kick"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium soy sauce for balanced flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "Balances acidity and sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and sauté for depth of flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly slice for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "Add nutty flavor and aroma"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Toasted for crunchy texture"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish and freshness"
+    }
+  ],
+  "instructions": [
+    "Rinse the salmon fillets under cold water and pat dry with paper towels.",
+    "In a medium saucepan, combine gochujang, soy sauce, brown sugar, garlic, and 1/4 cup water.",
+    "Whisk until smooth and bring to a simmer over medium heat.",
+    "Reduce heat to low and poach the salmon fillets for 8-10 minutes, or until cooked through.",
+    "While the fish is cooking, cook the white rice according to package instructions.",
+    "In a small skillet, toast the sesame seeds over low heat, stirring constantly, until fragrant and lightly browned.",
+    "Once the fish is done, remove it from the sauce and place on a plate.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Simmer the sauce over low heat until reduced and slightly thickened, about 5 minutes.",
+    "To assemble the bowls, place a scoop of cooked white rice on the bottom, followed by a piece of poached salmon.",
+    "Drizzle the reduced sauce over the top and garnish with toasted sesame seeds, chopped cilantro, and thinly sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fish-recipes",
+    "gluten-free",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "poached-fish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "deliciously-poached-korean-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-poached-korean-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:29:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "dairy-free",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "Deliciously poached",
+    "dishForm": "Bowl"
+  }
+}

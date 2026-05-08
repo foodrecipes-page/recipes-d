@@ -1,0 +1,100 @@
+{
+  "title": "Deliciously Dense Southern Thai Millet Pilaf",
+  "description": "A fatty and bouncy Southern Thai dish featuring millet, namul-blanch-season, and vegetarian-friendly ingredients, this pilaf is perfect for adventurous eaters. It combines the richness of coconut milk with the spiciness of Thai chilies.",
+  "cuisine": "Southern Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the millet and cook for 2 minutes, until lightly toasted.",
+    "Add the coconut milk, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, until the millet is tender.",
+    "Fluff the pilaf with a fork and stir in the namul and Thai chilies.",
+    "Serve hot, garnished with additional namul and chilies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "millet-based",
+    "one-pot",
+    "southern-thai",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "deliciously-dense-southern-thai-millet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-southern-thai-millet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:30:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "millet",
+    "diet": "vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "millet",
+    "descriptor": "deliciously dense",
+    "dishForm": "Pilaf"
+  }
+}

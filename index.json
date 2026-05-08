@@ -3736,6 +3736,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-southern-thai-millet-pilaf",
+    "title": "Deliciously Dense Southern Thai Millet Pilaf",
+    "tags": [
+      "coconut-based",
+      "millet-based",
+      "one-pot",
+      "southern-thai",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Southern Thai",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-thai-papaya-som-tum",
     "title": "Deliciously Dense Thai Papaya Som Tum",
     "tags": [
@@ -3898,6 +3913,23 @@
     ],
     "cuisine": "filipino",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-poached-korean-fish-bowl",
+    "title": "Deliciously Poached Korean Fish Bowl",
+    "tags": [
+      "dairy-free",
+      "fish-recipes",
+      "gluten-free",
+      "high-protein",
+      "korean",
+      "one-pan",
+      "poached-fish",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
