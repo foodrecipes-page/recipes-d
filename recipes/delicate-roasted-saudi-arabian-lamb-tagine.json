@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Roasted Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi Arabian dish featuring roasted lamb, pomegranate, and a blend of spices, cooked to perfection in a copper pot. This recipe brings back nostalgic memories of Middle Eastern cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large copper pot, heat the olive oil over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the pomegranate juice, garlic, and parsley, and stir to combine.",
+    "Transfer the copper pot to the preheated air fryer and cook for 20 minutes.",
+    "Reduce the heat to 300 degrees Fahrenheit and cook for an additional 10 minutes, or until the lamb is tender.",
+    "Remove the pot from the air fryer and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "copper-pot",
+    "gluten-free",
+    "lamb-based",
+    "middle-eastern",
+    "pomegranate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "delicate-roasted-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roasted-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:48:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "pomegranate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Delicate Roasted",
+    "dishForm": "Tagine"
+  }
+}
