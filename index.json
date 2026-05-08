@@ -4417,6 +4417,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-spicy-french-cheese-terrine",
+    "title": "Deliciously Spicy French Cheese Terrine",
+    "tags": [
+      "cheesy",
+      "french-cuisine",
+      "kid-friendly",
+      "one-dish",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-spicy-italian-paprika-stir-fry",
     "title": "Deliciously Spicy Italian Paprika Stir-fry",
     "tags": [
