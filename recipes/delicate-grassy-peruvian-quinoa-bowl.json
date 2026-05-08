@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Grassy Peruvian Quinoa Bowl",
+  "description": "A flavorful and nutritious Peruvian dish featuring quinoa, sesame seeds, and fresh herbs, perfect for a brunch gathering. This ayurvedic-tamasic-friendly recipe is carefully prepared in a kadhai vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brine-wet feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa in a fine mesh strainer and drain well.",
+    "In a kadhai vessel, heat the olive oil over medium heat.",
+    "Add the sesame seeds and cook, stirring frequently, until lightly toasted.",
+    "Add the quinoa to the kadhai vessel and cook, stirring constantly, for 2 minutes.",
+    "Add 2 cups of water to the kadhai vessel and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes or until the quinoa is tender.",
+    "Fluff the quinoa with a fork and stir in the chopped cilantro, scallions, lime juice, salt, and black pepper.",
+    "Crumble the brine-wet feta cheese over the quinoa mixture and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "peruvian-cuisine",
+    "quinoa-bowl",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-grassy-peruvian-quinoa-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-grassy-peruvian-quinoa-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "brine-wet",
+    "primaryIngredient": "sesame seed",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Delicate Grassy",
+    "dishForm": "Bowl"
+  }
+}
