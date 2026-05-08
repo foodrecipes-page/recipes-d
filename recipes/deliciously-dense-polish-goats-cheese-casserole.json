@@ -1,0 +1,111 @@
+{
+  "title": "Deliciously Dense Polish Goats Cheese Casserole",
+  "description": "A rich and savory one-pot Polish dish featuring goats cheese, infused oil, and a glassy-jelly texture, perfect for a flexitarian-friendly dinner option.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "250g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "infused oil",
+      "amount": "60ml",
+      "notes": "with garlic and herbs"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g",
+      "notes": "for thickening"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "5g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large cazuela, heat the infused oil over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "In a small bowl, whisk together the flour and a splash of the vegetable broth until smooth.",
+    "Add the flour mixture to the cazuela and stir to combine.",
+    "Add the remaining vegetable broth, dried thyme, salt, and black pepper, and stir to combine.",
+    "Crumble the goats cheese into the cazuela and stir until well combined.",
+    "Transfer the cazuela to the preheated oven and bake for 25 minutes, or until the casserole is hot and the cheese is melted and glassy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "one-pot",
+    "polish-cuisine",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "deliciously-dense-polish-goats-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-polish-goats-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:16:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "infuse-oil",
+    "primaryIngredient": "goats cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Deliciously Dense",
+    "dishForm": "Casserole"
+  }
+}
