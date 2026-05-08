@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Crisp Peruvian Beef Anticuchos",
+  "description": "A kid-friendly Peruvian dish featuring ssamjang and miso-marinate, perfect for a sugar-free friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "or beef strips"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a blender, combine miso paste, ssamjang, garlic, and ginger to make the marinade.",
+    "Place the beef heart in a large bowl and pour the marinade over it, making sure it is fully coated.",
+    "Let the beef marinate for at least 30 minutes.",
+    "Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the anticuchos for 3-4 minutes per side, or until they are cooked to an internal temperature of 145 degrees.",
+    "Season with salt and black pepper to taste.",
+    "Serve the anticuchos hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "grilled-meats",
+    "kid-friendly",
+    "peruvian-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-crisp-peruvian-beef-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-peruvian-beef-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:27:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ssamjang",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "delicate crisp",
+    "dishForm": "Anticuchos"
+  }
+}
