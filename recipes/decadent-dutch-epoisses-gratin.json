@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Dutch Epoisses Gratin",
+  "description": "A peppery, molten, comforting Dutch dish featuring Epoisses cheese, this Jain-friendly gratin is perfect for a cold winter's night. The nimono-simmer method adds a depth of flavor to the dish.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced onions and minced garlic and cook over medium heat until the onions are translucent.",
+    "Add the sliced potatoes, vegetable broth, black pepper, and nutmeg to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer the potato mixture for 10 minutes, or until the potatoes are slightly tender.",
+    "In a greased 9x13 inch baking dish, arrange a layer of the potato mixture.",
+    "Sprinkle a third of the crumbled Epoisses cheese over the potato layer.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Dot the top of the cheese layer with the unsalted butter.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Sprinkle the chopped parsley over the top of the gratin and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "decadent-dutch-epoisses-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-dutch-epoisses-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "epoisses",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Decadent",
+    "dishForm": "Gratin"
+  }
+}
