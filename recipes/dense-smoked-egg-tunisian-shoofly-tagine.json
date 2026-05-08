@@ -1,0 +1,95 @@
+{
+  "title": "Dense Smoked Egg Tunisian Shoofly Tagine",
+  "description": "A post-workout ovo-vegetarian dish combining the flavors of smoked egg, shiso-leaf, and lacquer-glaze, wrapped in a cedar plank.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked egg",
+      "amount": "2",
+      "notes": "preferably from local farm"
+    },
+    {
+      "name": "Shiso leaf",
+      "amount": "1 bunch",
+      "notes": "freshly harvested"
+    },
+    {
+      "name": "Lacquer-glazed cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade lacquer recipe available"
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1",
+      "notes": "pre-soaked in water"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shoofly syrup",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Soak the cedar plank in water for at least 1 hour before use.",
+    "Cut the smoked egg into small pieces and set aside.",
+    "Heat the ghee in a pan over medium heat.",
+    "Add the minced garlic and sauté until fragrant.",
+    "Add the lacquer-glazed cherry tomatoes and cook for 2 minutes.",
+    "Add the shiso leaf and cook until wilted.",
+    "Transfer the mixture to the prepared cedar plank.",
+    "Place the smoked egg pieces on top of the mixture.",
+    "Drizzle with shoofly syrup and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "post-workout",
+    "snack",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dense-smoked-egg-tunisian-shoofly-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoked-egg-tunisian-shoofly-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:41:57Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shoofly",
+    "descriptor": "Dense Smoked Egg",
+    "dishForm": "Tagine"
+  }
+}

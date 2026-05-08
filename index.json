@@ -290,6 +290,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-peppery-british-chocolate-victoria-sponge-cake",
+    "title": "Dark Peppery British Victoria Sponge Cake",
+    "tags": [
+      "british",
+      "chocolate",
+      "deep-fried",
+      "gluten-free",
+      "pepper",
+      "vegan"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-australian-lamb-roast",
     "title": "Dark Roasted Australian Lamb Roast",
     "tags": [
@@ -5535,6 +5550,23 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 195,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoked-egg-tunisian-shoofly-tagine",
+    "title": "Dense Smoked Egg Tunisian Shoofly Tagine",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "ovo-vegetarian",
+      "post-workout",
+      "snack",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

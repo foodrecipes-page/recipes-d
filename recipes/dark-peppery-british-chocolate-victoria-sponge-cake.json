@@ -1,0 +1,101 @@
+{
+  "title": "Dark Peppery British Victoria Sponge Cake",
+  "description": "Moist, pillowy sponge cake infused with pepper and deep-fried to perfection with dark chocolate.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free flour can be used as a substitute"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "2 eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large mixing bowl, whisk together the flour, cocoa powder, coconut sugar, and black pepper.",
+    "In a separate bowl, whisk together the non-dairy milk, apple cider vinegar, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until combined.",
+    "Add the vegan egg replacement and mix until a smooth batter forms.",
+    "Using a piping bag, pipe the batter into the preheated oil in a continuous loop.",
+    "Fry the cake for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "Remove the cake from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments.",
+    "Dip the top of the cake into the melted chocolate and let set before serving.",
+    "Repeat the process to create a second cake and sandwich the two cakes together with the remaining chocolate.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "chocolate",
+    "deep-fried",
+    "gluten-free",
+    "pepper",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "dark-peppery-british-chocolate-victoria-sponge-cake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-peppery-british-chocolate-victoria-sponge-cake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:41:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "dark chocolate",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chocolate",
+    "descriptor": "Dark, Peppery",
+    "dishForm": "Victoria Sponge Cake"
+  }
+}
