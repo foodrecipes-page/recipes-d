@@ -1,0 +1,107 @@
+{
+  "title": "Delicate Grassy German Seafood Noodles",
+  "description": "A light German dish featuring seafood stock and wok-hei flavors, sugar-free-friendly and perfect for a quick dinner",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Seafood stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Scallops",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the seafood stock to a boil in a large pot over high heat",
+    "Add the egg noodles to the pot and cook according to package instructions",
+    "In a large skillet, heat the olive oil over medium-high heat",
+    "Add the shrimp, mussels, and scallops to the skillet and cook until the seafood is opaque and cooked through",
+    "Stir in the chopped parsley and dill, and cook for an additional minute",
+    "Drain the cooked noodles and add them to the skillet with the seafood",
+    "Pour the lemon juice over the noodles and seafood, and toss to combine",
+    "Season with salt and pepper to taste",
+    "Serve the noodles and seafood hot, garnished with additional parsley and dill if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "seafood-lovers",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "delicate-grassy-german-seafood-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-grassy-german-seafood-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "seafood stock",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "seafood",
+    "descriptor": "Delicate Grassy",
+    "dishForm": "Noodles"
+  }
+}
