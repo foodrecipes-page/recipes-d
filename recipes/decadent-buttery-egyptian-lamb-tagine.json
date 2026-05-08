@@ -1,0 +1,106 @@
+{
+  "title": "Decadent Buttery Egyptian Lamb Tagine",
+  "description": "A rich and savory Egyptian dish featuring lamb, black olives, and a blend of spices, all wrapped in a lotus leaf and slow-cooked to perfection, making it an ideal hangover cure due to its hearty and comforting nature.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the melted butter over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the sliced black olives, ground cumin, ground coriander, and dried thyme, stirring to combine.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the lamb mixture for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "While the lamb is cooking, prepare the lotus leaves by rinsing them in cold water and patting them dry with paper towels.",
+    "To serve, place a portion of the lamb mixture onto the center of each lotus leaf, then fold the leaves over the filling to form a tight packet.",
+    "Serve the tagine hot, garnished with additional black olives and melted butter if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian-cuisine",
+    "hangover-cure",
+    "lamb-recipes",
+    "lotus-leaf",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "decadent-buttery-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-buttery-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "pitted black olives",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Decadent Buttery",
+    "dishForm": "Tagine"
+  }
+}
