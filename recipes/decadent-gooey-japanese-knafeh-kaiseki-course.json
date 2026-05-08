@@ -1,0 +1,93 @@
+{
+  "title": "Decadent Gooey Japanese Knafeh Kaiseki Course",
+  "description": "A spicy and gooey Japanese dish featuring knafeh, render fat, and dairy free friendly ingredients, served in a banana leaf vessel as a kaiseki course.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "knafeh dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cut the knafeh dough into 1 inch pieces and set aside.",
+    "In a small saucepan, heat the render fat over low heat until melted.",
+    "In a separate saucepan, combine the coconut milk, maple syrup, and sesame oil, and heat over low heat until warm.",
+    "Add the shichimi togarashi and matcha powder to the coconut milk mixture and stir to combine.",
+    "To assemble the dish, place a piece of banana leaf on a flat surface and arrange 2-3 pieces of knafeh dough in the center.",
+    "Drizzle the melted render fat and coconut milk mixture over the knafeh dough.",
+    "Fold the banana leaf over the filling to form a packet and repeat with the remaining ingredients.",
+    "Place the packets on a baking sheet and bake for 20 minutes.",
+    "Serve the packets warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "dairy-free",
+    "japanese-inspired",
+    "kaiseki-course",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "decadent-gooey-japanese-knafeh-kaiseki-course",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-gooey-japanese-knafeh-kaiseki-course",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "render-fat",
+    "primaryIngredient": "knafeh",
+    "diet": "dairy-free",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Decadent Gooey",
+    "dishForm": "Kaiseki Course"
+  }
+}
