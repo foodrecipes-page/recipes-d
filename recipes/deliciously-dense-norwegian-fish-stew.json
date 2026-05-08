@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Dense Norwegian Fish Stew",
+  "description": "A hearty and comforting Norwegian fish stew featuring hotsauce and nimono-simmer, perfect for a sick day, this low-fat-friendly dish is sure to warm your belly and your soul.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hotsauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes.",
+    "Add the cod fillets, chicken broth, hotsauce, salt, and black pepper, stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Use two forks to break the cod into smaller pieces and stir to combine.",
+    "Continue to simmer for an additional 10 minutes or until the fish is cooked through and the vegetables are tender.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "low-fat",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "deliciously-dense-norwegian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-norwegian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:23:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "hotsauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "deliciously dense",
+    "dishForm": "Stew"
+  }
+}
