@@ -1,0 +1,100 @@
+{
+  "title": "Deliciously Crunchy Norwegian Yellow Pepper Skewers",
+  "description": "A kid-friendly Norwegian dish featuring yellow pepper, this recipe is halal-friendly and uses an air fryer for a crunchy snack, with a yeasty flavor from the addition of yeast extract.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow peppers",
+      "amount": "4 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Yeast extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Cut the yellow peppers into 1-inch pieces and set aside.",
+    "In a bowl, mix together olive oil, yeast extract, salt, black pepper, garlic powder, onion powder, and lemon juice.",
+    "Add the bread crumbs to the bowl and mix until well combined.",
+    "Dip each yellow pepper piece into the egg and then coat with the bread crumb mixture.",
+    "Thread 3-4 coated yellow pepper pieces onto each skewer.",
+    "Place the skewers in the air fryer basket in a single layer, leaving some space between each skewer.",
+    "Cook the skewers in the air fryer for 10-12 minutes, shaking halfway through.",
+    "Serve the crunchy Norwegian yellow pepper skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "halal-friendly",
+    "kid-friendly",
+    "norwegian",
+    "snack",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "deliciously-crunchy-norwegian-yellow-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-norwegian-yellow-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:25:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "yellow pepper",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Deliciously crunchy",
+    "dishForm": "Skewers"
+  }
+}
