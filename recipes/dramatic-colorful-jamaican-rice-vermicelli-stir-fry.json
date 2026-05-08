@@ -1,0 +1,114 @@
+{
+  "title": "Vibrant Jamaican Rice Vermicelli Stir-Fry",
+  "description": "A colorful and nutritious Jamaican-inspired dish featuring rice vermicelli, vegetables, and a hint of spice.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "8 oz"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook for 3 minutes, or until translucent.",
+    "Add the sliced mushrooms and cook for an additional 3 minutes, or until they start to brown.",
+    "Add the sliced red bell pepper, carrots, and sweet potatoes, and cook for 5 minutes, or until the vegetables start to soften.",
+    "Add the curry powder, thyme, garlic powder, salt, and black pepper, and stir to combine.",
+    "Add the rice vermicelli and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2-3 minutes, or until the vermicelli is lightly toasted.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "colorful",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dramatic-colorful-jamaican-rice-vermicelli-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dramatic-colorful-jamaican-rice-vermicelli-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:46:35Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "dramatic colorful",
+    "dishForm": "stir-fry"
+  }
+}
