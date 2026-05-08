@@ -1,0 +1,97 @@
+{
+  "title": "Dreamy Smoky Ukrainian Napa Cabbage Dumplings",
+  "description": "A comforting Ukrainian dish featuring napa cabbage and smoky flavors, perfect for a sick day, wrapped in lotus leaves and baked to perfection in a tandoor, ovo-vegetarian-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "2 heads",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "smoked mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12 large"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine chopped napa cabbage, shredded smoked mozzarella cheese, all purpose flour, egg, salt, and black pepper, and mix well.",
+    "Lay a large lotus leaf flat on a work surface and place a tablespoon of the cabbage mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or a square shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining ingredients to form 12 dumplings.",
+    "Place the dumplings in the preheated tandoor, leaving about 1 inch of space between each dumpling.",
+    "Drizzle the dumplings with olive oil and sprinkle with tandoor spice blend.",
+    "Bake the dumplings for 25 minutes, or until the lotus leaves are crispy and the filling is heated through.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lotus-leaf-wraps",
+    "ovo-vegetarian",
+    "smoky-flavors",
+    "tandoor-cooking",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "dreamy-smoky-ukrainian-napa-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-smoky-ukrainian-napa-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:23:07Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "napa cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "dreamy smoky",
+    "dishForm": "Dumplings"
+  }
+}
