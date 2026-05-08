@@ -1,0 +1,102 @@
+{
+  "title": "Darkly Charred Portuguese Chicken Skewers",
+  "description": "A crowd-pleasing Portuguese dish featuring sesame seed and miso-marinate, these skewers are low in calories and big on flavor, with a darkly charred exterior and a glassy-jelly interior. Perfect for any occasion, these skewers are sure to impress.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, sesame oil, garlic, ginger, paprika, salt, and black pepper to make the marinade.",
+    "Add the chicken to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, threading the marinated chicken onto skewers.",
+    "Brush the grill or grill pan with oil to prevent sticking, then cook the skewers for 8-10 minutes per side, or until darkly charred.",
+    "Brush the skewers with lemon juice during the last minute of cooking.",
+    "Sprinkle the skewers with sesame seeds and serve immediately.",
+    "Garnish with additional sesame seeds and lemon wedges, if desired.",
+    "Let the skewers rest for 5 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "low-calorie",
+    "miso-paste",
+    "portuguese-cuisine",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "darkly-charred-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/darkly-charred-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:29:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Darkly charred",
+    "dishForm": "Skewers"
+  }
+}
