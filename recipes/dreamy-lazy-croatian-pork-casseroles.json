@@ -1,0 +1,96 @@
+{
+  "title": "Dreamy Lazy Croatian Pork Casserole",
+  "description": "A malty and pillowy Croatian dish featuring orange juice, perfect for a lazy Sunday, this casserole is nut-free-friendly and sure to satisfy, it is a hearty and comforting meal that combines the richness of pork with the brightness of orange juice",
+  "cuisine": "Croatian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Cut the pork shoulder into 1-inch cubes and season with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat and brown the pork cubes until they are browned on all sides.",
+    "Add the sliced onion to the pot and cook until it is softened and translucent.",
+    "Add the sliced carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the orange juice and malt syrup to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake the casserole for 2 1/2 hours, or until the pork is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "orange-juice",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "dreamy-lazy-croatian-pork-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-lazy-croatian-pork-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:13:04Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "orange juice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "dreamy lazy",
+    "dishForm": "Casseroles"
+  }
+}
