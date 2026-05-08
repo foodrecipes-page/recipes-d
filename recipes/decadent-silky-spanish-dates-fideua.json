@@ -1,0 +1,104 @@
+{
+  "title": "Decadent Silky Spanish Dates Fideua",
+  "description": "A rich and savory Spanish dish featuring stoned dates and tempering chocolate, perfect for a special occasion, and diabetic friendly due to the use of dark chocolate and portion control.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stoned dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "8 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "fideua noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the fideua noodles and cook for 2 minutes, stirring constantly.",
+    "Add the dry white wine and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes, or until the noodles are tender.",
+    "While the noodles are cooking, melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Stir the melted chocolate into the noodle mixture and cook for an additional 2 minutes.",
+    "Stir in the pitted dates and cook for 1 minute, or until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "decadent-silky-spanish-dates-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-silky-spanish-dates-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:01:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "stoned dates",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "dates",
+    "descriptor": "Decadent Silky",
+    "dishForm": "Fideua"
+  }
+}
