@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Smoky Canadian Vegan Trout Poutine",
+  "description": "A festive twist on a classic Canadian comfort dish featuring smoky carrot-based vegan trout and a dramatic brandy flambe finish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen thick-cut fries",
+      "amount": "500g",
+      "notes": "baked until extra crispy"
+    },
+    {
+      "name": "Vegan cheese curds",
+      "amount": "200g",
+      "notes": "mozzarella-style chunks"
+    },
+    {
+      "name": "Carrot lox",
+      "amount": "150g",
+      "notes": "marinated in liquid smoke and sea salt"
+    },
+    {
+      "name": "Vegan brown gravy",
+      "amount": "400ml",
+      "notes": "piping hot"
+    },
+    {
+      "name": "Brandy",
+      "amount": "60ml",
+      "notes": "for the flambe"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp",
+      "notes": "drained"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Bake the thick-cut fries at 220 degrees Celsius until they are golden and very crunchy.",
+    "Place the hot fries into a large heat-proof serving bowl or cast iron skillet.",
+    "Layer the vegan cheese curds evenly over the hot fries so they begin to soften.",
+    "Tear the smoky carrot lox into bite-sized pieces and distribute them over the cheese.",
+    "Pour the boiling hot vegan brown gravy over the entire dish to melt the curds.",
+    "Warm the brandy in a small long-handled saucepan over low heat until wisps of vapor appear.",
+    "Carefully ignite the brandy with a long reach lighter and pour the flaming liquid over the poutine.",
+    "Wait for the flames to subside naturally before touching the dish.",
+    "Garnish the poutine with fresh dill, capers, and lemon zest for brightness.",
+    "Serve immediately while the gravy is bubbling and the smoky aroma is at its peak."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "serv": 2,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "holiday-special",
+    "plant-based",
+    "poutine",
+    "smoky-flavor",
+    "vegan-seafood"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 12,
+    "carbs": 78,
+    "fat": 28
+  },
+  "slug": "decadent-smoky-canadian-vegan-trout-poutine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoky-canadian-vegan-trout-poutine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:45:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "trout",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Vegan Trout",
+    "descriptor": "Decadent Smoky",
+    "dishForm": "Poutine"
+  }
+}

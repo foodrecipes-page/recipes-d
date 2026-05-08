@@ -1,0 +1,107 @@
+{
+  "title": "Dairy-light Slovakian Macaroni Pasta",
+  "description": "A light, sour, and fluffy Slovakian dish featuring macaroni, pasta-water-emulsion, and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "50g",
+      "notes": "Ayurvedic-tamasic-friendly alternative to traditional dairy."
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Dried marjoram",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni according to the package instructions until al dente.",
+    "Drain the macaroni and set it aside.",
+    "In a large saucepan, combine the rapeseed oil, sour cream, chopped fresh dill, chopped fresh parsley, salt, black pepper, lemon juice, and dried marjoram.",
+    "Bring the mixture to a simmer over low heat.",
+    "Stir in the pasta water to create a light, creamy emulsion.",
+    "Add the cooked macaroni to the saucepan and toss to coat with the pasta-water-emulsion.",
+    "Serve the Dairy-light Slovakian Macaroni Pasta hot, garnished with additional chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dairy-light-slovakian-macaroni-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dairy-light-slovakian-macaroni-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:45:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "macaroni",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "macaroni",
+    "descriptor": "dairy-light",
+    "dishForm": "Pasta"
+  }
+}
