@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Buttery Filipino Apricots Pancit Bihon",
+  "description": "A lacto-vegetarian friendly Filipino dish featuring dried apricots and served in a scallop shell, this pancit bihon is a romantic and buttery treat. It is crumbly and delicate, perfect for a special occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "rehydrated in water"
+    },
+    {
+      "name": "pancit bihon noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried apricots in water for at least 4 hours.",
+    "Cook the pancit bihon noodles according to package instructions and set aside.",
+    "In a large pan, heat the unsalted butter and vegetable oil over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rehydrated apricots, cooked noodles, and soy sauce to the pan and stir to combine.",
+    "Season with salt to taste.",
+    "Serve the pancit bihon in scalloped shells.",
+    "Garnish with additional dried apricots if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "dried-apricots",
+    "filipino-cuisine",
+    "lacto-vegetarian",
+    "scallop-shell",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "delicate-buttery-filipino-apricots-pancit-bihon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-buttery-filipino-apricots-pancit-bihon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "dried apricots",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "apricots",
+    "descriptor": "Delicate Buttery",
+    "dishForm": "Pancit Bihon"
+  }
+}
