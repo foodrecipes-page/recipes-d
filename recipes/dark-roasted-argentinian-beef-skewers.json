@@ -1,0 +1,94 @@
+{
+  "title": "Dark Roasted Argentinian Beef Skewers",
+  "description": "A light and flavorful post-workout dish featuring dark roasted Argentinian beef skewers with a sweet and savory molasses glaze, perfect for a low-sodium diet. This recipe is easy to make and packed with protein.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together molasses, olive oil, garlic powder, black pepper, and salt-free seasoning blend.",
+    "Add the beef cubes to the bowl and toss to coat with the molasses glaze.",
+    "Thread the beef cubes, red bell pepper, and onion onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the beef is cooked to desired doneness.",
+    "Remove the skewers from the oven and let rest for 5 minutes.",
+    "Serve the skewers hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef",
+    "low-sodium",
+    "molasses",
+    "post-workout",
+    "roasted",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dark-roasted-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:34:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "molasses",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "dark roasted",
+    "dishForm": "Skewers"
+  }
+}
