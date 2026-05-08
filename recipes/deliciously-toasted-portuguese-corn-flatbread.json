@@ -1,0 +1,97 @@
+{
+  "title": "Portuguese Corn Flatbread",
+  "description": "A traditional Portuguese dish featuring corn arepa filled with mozzarella cheese, served with a side of fry grind rice khao khuas, this recipe is kosher friendly and perfect for a cozy night in.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups",
+      "notes": "fine ground"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Khao khuas",
+      "amount": "1/2 cup",
+      "notes": "fried"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the cornmeal, salt, and sugar.",
+    "Add the beaten eggs to the bowl and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet.",
+    "Spread a quarter cup of mozzarella cheese on each disk, leaving a half inch border around the edges.",
+    "Top the cheese with a spoonful of fry grind rice khao khuas.",
+    "Fold the edges of the dough up over the filling to form a crust.",
+    "Brush the tops of the flatbreads with vegetable oil and bake for 20 minutes.",
+    "Remove the flatbreads from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "homemade",
+    "kosher-friendly",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "deliciously-toasted-portuguese-corn-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-toasted-portuguese-corn-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:34:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "corn",
+    "descriptor": "Deliciously toasted",
+    "dishForm": "Flatbread"
+  }
+}
