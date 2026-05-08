@@ -1,0 +1,91 @@
+{
+  "title": "Dense Roasted Brazilian Egg Noodles",
+  "description": "A romantic Brazilian dish featuring roasted egg noodles with a yuzu cure, perfect for a dairy free dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium high heat",
+    "Add the roasted garlic and cook for 1 minute",
+    "Add the egg noodles and cook for 2 minutes",
+    "Add the yuzu juice and coconut milk and stir to combine",
+    "Bring the mixture to a simmer and cook for 5 minutes",
+    "Season with salt and black pepper to taste",
+    "Garnish with chopped scallions and serve hot",
+    "Stir constantly to prevent the noodles from sticking to the wok"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "dairy-free",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-roasted-brazilian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-roasted-brazilian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:15:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "egg noodles",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Dense Roasted",
+    "dishForm": "Noodles"
+  }
+}
