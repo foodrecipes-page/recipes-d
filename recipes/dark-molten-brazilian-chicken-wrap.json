@@ -1,0 +1,88 @@
+{
+  "title": "Dark Molten Brazilian Chicken Wrap",
+  "description": "A paleo-friendly Brazilian dish featuring black cardamom pods and wrapped in a ssam-wrap, served hot and molten from a comal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the chicken, crushed black cardamom pods, coconut oil, yellow mustard, and salt until the chicken is well coated.",
+    "Place the chicken mixture on the preheated comal and cook for 5 minutes per side, or until the chicken is cooked through.",
+    "Warm the ssam-wrap on the comal for 30 seconds on each side.",
+    "Assemble the wrap by placing the cooked chicken onto the warmed ssam-wrap and topping with chopped fresh cilantro.",
+    "Serve the wrap hot and molten from the comal.",
+    "Repeat the assembly and serving process for the remaining ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "comal-cooking",
+    "molten-dishes",
+    "paleo-friendly",
+    "wrap-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dark-molten-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-molten-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:13:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "dark molten",
+    "dishForm": "Wrap"
+  }
+}

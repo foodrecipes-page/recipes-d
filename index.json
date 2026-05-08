@@ -245,6 +245,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-molten-brazilian-chicken-wrap",
+    "title": "Dark Molten Brazilian Chicken Wrap",
+    "tags": [
+      "brazilian-cuisine",
+      "chicken-recipes",
+      "comal-cooking",
+      "molten-dishes",
+      "paleo-friendly",
+      "wrap-dishes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-australian-lamb-roast",
     "title": "Dark Roasted Australian Lamb Roast",
     "tags": [
