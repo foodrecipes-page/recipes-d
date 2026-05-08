@@ -1,0 +1,94 @@
+{
+  "title": "Decadent Umami Portuguese Semolina Grill",
+  "description": "A rich and savory Portuguese dish featuring semolina rimacinata, grilled to perfection with a boost of umami flavor, Whole30 friendly and aerated for a light texture. This recipe combines the best of Portuguese cuisine with a modern twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina rimacinata",
+      "amount": "1 1/2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together semolina rimacinata, olive oil, garlic, sea salt, black pepper, and paprika.",
+    "Add sliced mushrooms to the bowl and toss to coat with the semolina mixture.",
+    "Grill the semolina mixture for 4-5 minutes per side, or until golden brown and crispy.",
+    "Transfer the grilled semolina to a plate and drizzle with lemon juice.",
+    "Let it rest for a few minutes before serving.",
+    "Slice into wedges and serve immediately.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "gluten-free",
+    "grilled",
+    "portuguese-cuisine",
+    "umami-rich",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "decadent-umami-portuguese-semolina-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-umami-portuguese-semolina-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:13:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "semolina",
+    "descriptor": "Decadent Umami",
+    "dishForm": "Grill"
+  }
+}
