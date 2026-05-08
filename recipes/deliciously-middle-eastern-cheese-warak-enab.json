@@ -1,0 +1,124 @@
+{
+  "title": "deliciously middle-eastern cheese warak enab",
+  "description": "a kid-friendly middle-eastern dish featuring a winey, cheese-pull, and high-protein salsa served with crispy dumplings.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly, salty, and tangy"
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": "tangy, creamy, and smooth"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": " adds freshness and aroma"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": " adds crunch and flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": " adds freshness and aroma"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": " adds flavor and aroma"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": " adds flavor and aroma"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup",
+      "notes": " adds crunch and flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": " adds brightness and acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": " adds richness and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": " enhances flavor"
+    },
+    {
+      "name": "warak-enab dumplings",
+      "amount": "1 package",
+      "notes": " crispy and crunchy"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium bowl, mix together the crumbled feta cheese, labneh cheese, chopped cilantro, scallions, parsley, dill, garlic, and walnuts.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the lemon juice mixture over the cheese mixture and stir until well combined.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "While the cheese mixture is chilling, cook the warak-enab dumplings according to the package instructions.",
+    "Once the dumplings are cooked, place them on a baking sheet lined with parchment paper.",
+    "Drizzle the dumplings with a little bit of olive oil and sprinkle with salt.",
+    "Bake the dumplings in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "To assemble the warak enab, place a few dumplings on a plate, followed by a spoonful of the cheese mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "high-protein",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "deliciously-middle-eastern-cheese-warak-enab",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-middle-eastern-cheese-warak-enab",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:59:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "salsa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Cheese",
+    "descriptor": "Deliciously",
+    "dishForm": "Warak Enab"
+  }
+}
