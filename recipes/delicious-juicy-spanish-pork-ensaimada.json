@@ -1,0 +1,96 @@
+{
+  "title": "Delicious Juicy Spanish Pork Ensaimada",
+  "description": "A rich and juicy Spanish dish featuring ground pork and score fat, perfect for a satisfying meal. This recipe is FODMAP friendly and formed into an ensaimada shape.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten free",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably from pasture raised pigs"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/2 cup",
+      "notes": "or lard"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked pork mixture, score fat, and beaten egg, and mix until well combined.",
+    "Knead the mixture into a dough, and shape it into an ensaimada shape.",
+    "Place the ensaimada on a baking sheet lined with parchment paper, and bake for 35 minutes.",
+    "Remove the ensaimada from the oven, and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "pork-recipes",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 32
+  },
+  "slug": "delicious-juicy-spanish-pork-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-juicy-spanish-pork-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:52:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "ground pork",
+    "diet": "fodmap",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork",
+    "descriptor": "delicious juicy",
+    "dishForm": "Ensaimada"
+  }
+}
