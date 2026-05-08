@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Snappy Malaysian Duck Legs Satay",
+  "description": "A jammy and snappy Malaysian dish featuring duck legs, perfect for an energizing meal, made with whole30-friendly ingredients. This recipe is a twist on traditional satay, using duck legs for a unique flavor and texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 legs",
+      "notes": "skin removed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a blender, combine coconut milk, lime juice, olive oil, ginger paste, garlic paste, salt, and black pepper, and blend until smooth.",
+    "Place the duck legs in a large bowl and pour the marinade over them, making sure they are fully coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the duck legs from the marinade and grill for 20-25 minutes, or until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "While the duck is cooking, prepare the pickle slices by slicing them into thin strips.",
+    "Once the duck is cooked, let it rest for 5 minutes before slicing it into thin strips.",
+    "Serve the duck with the pickle slices and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "deliciously-snappy-malaysian-duck-legs-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-snappy-malaysian-duck-legs-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:58:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "duck legs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "duck legs",
+    "descriptor": "deliciously snappy",
+    "dishForm": "Satay"
+  }
+}
