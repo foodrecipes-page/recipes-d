@@ -1,0 +1,107 @@
+{
+  "title": "Deliciously Nutty Filipino Pinakbet",
+  "description": "A nutty and silky Filipino dish made with chickpea flour and a variety of vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "sitao",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1/4 pound"
+    },
+    {
+      "name": "salted fish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "string beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Sauté garlic and onion until softened.",
+    "Add pork belly and cook until browned.",
+    "Add bok choy, sitao, eggplant, and string beans. Cook until the vegetables are tender.",
+    "Add tomato and salted fish. Stir well.",
+    "Add chickpea flour mixture and stir until well combined.",
+    "Season with patis and salt to taste.",
+    "Serve hot over steamed rice.",
+    "Garnish with green onions and a sprinkle of patis."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "filipino",
+    "one-pan",
+    "vegetarian",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "deliciously-nutty-filipino-vegetables-pinakbet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-nutty-filipino-vegetables-pinakbet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:20:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "shio-cure",
+    "primaryIngredient": "chickpea flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "Deliciously nutty",
+    "dishForm": "Pinakbet"
+  }
+}
