@@ -2194,6 +2194,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-flaky-tunisian-pastry-bao",
+    "title": "Delicate Flaky Tunisian Pastry Bao",
+    "tags": [
+      "flaky-pastry",
+      "kid-friendly",
+      "tunisian-cuisine",
+      "vegetarian-friendly",
+      "winey-flavor"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-flaky-venezuelan-pork-empanadas",
     "title": "Delicate Flaky Venezuelan Pork Empanadas",
     "tags": [
@@ -4664,6 +4678,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-delicate-middle-eastern-shungiku-umm-ali",
+    "title": "Dense Delicate Middle Eastern Shungiku Umm Ali",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "low-calorie",
+      "middle-eastern",
+      "post-workout",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {

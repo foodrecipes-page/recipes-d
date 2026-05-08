@@ -1,0 +1,101 @@
+{
+  "title": "Dense Delicate Middle Eastern Shungiku Umm Ali",
+  "description": "A traditional Middle Eastern dessert, made with layers of flaky pastry, sweetened milk, and fragrant herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shungiku leaves",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (thawed)",
+      "notes": "For brushing with butter"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 cups",
+      "notes": "Warm"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Layer the phyllo dough in a 9x13 inch baking dish, brushing each layer with melted butter.",
+    "In a large bowl, mix together the warm milk, granulated sugar, ground cinnamon, ground cardamom, and salt.",
+    "Add the shungiku leaves to the milk mixture and stir to combine.",
+    "Pour the milk mixture over the layered phyllo dough.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve warm, garnished with additional shungiku leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "low-calorie",
+    "middle-eastern",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "dense-delicate-middle-eastern-shungiku-umm-ali",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-delicate-middle-eastern-shungiku-umm-ali",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:52:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "shungiku",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "shungiku",
+    "descriptor": "Dense Delicate",
+    "dishForm": "Umm Ali"
+  }
+}

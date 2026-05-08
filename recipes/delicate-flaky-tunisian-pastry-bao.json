@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Flaky Tunisian Pastry Bao",
+  "description": "A kid-friendly Tunisian dish featuring vanilla extract and bhuna, this pastry bao is winey, flaky, and vegetarian-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sifted flour, sugar, salt, and yeast.",
+    "Add the bhuna spice mix and mix well.",
+    "Gradually add the warm water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle and brush with vegetable oil.",
+    "Place a teaspoon of vanilla extract in the center of each circle and fold the dough over to form a bao.",
+    "Bake the bao for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-pastry",
+    "kid-friendly",
+    "tunisian-cuisine",
+    "vegetarian-friendly",
+    "winey-flavor"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-flaky-tunisian-pastry-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-tunisian-pastry-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:51:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "vanilla extract",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pastry",
+    "descriptor": "Delicate flaky",
+    "dishForm": "Bao"
+  }
+}
