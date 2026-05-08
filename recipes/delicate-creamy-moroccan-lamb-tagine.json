@@ -1,0 +1,111 @@
+{
+  "title": "Delicate Creamy Moroccan Lamb Tagine",
+  "description": "A floral and comforting Moroccan dish featuring lamb, creamy sauce, and unique flavors, made flexitarian-friendly with the option to substitute lamb with portobello mushrooms, and incorporating Thai fish sauce for added depth, all cooked to perfection in a yakimono-grill and served in a traditional tagine form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms for flexitarian option"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, Thai fish sauce, cumin, and paprika to make the marinade.",
+    "Add the lamb shoulder or portobello mushrooms to the marinade, tossing to coat, and let it sit for at least 30 minutes.",
+    "Remove the lamb or mushrooms from the marinade, letting any excess liquid drip off.",
+    "Grill the lamb or mushrooms for 5 minutes per side, or until they are browned and cooked to the desired level of doneness.",
+    "In a large tagine or Dutch oven, cook the chopped onion over medium heat until it is softened and translucent.",
+    "Add the minced garlic and grated ginger to the tagine, cooking for an additional 2 minutes.",
+    "Add the heavy cream, dried apricots, and preserved lemon to the tagine, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 10 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Add the grilled lamb or mushrooms to the tagine, stirring to coat with the creamy sauce.",
+    "Serve the tagine hot, garnished with fresh herbs and crusty bread on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "grilled-meats",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "tagine-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "delicate-creamy-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-creamy-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Delicate Creamy",
+    "dishForm": "Tagine Lamb"
+  }
+}
