@@ -1,0 +1,104 @@
+{
+  "title": "Decadent Garlicky Algerian Buckwheat Tagine",
+  "description": "A rich and flavorful Algerian dish featuring buckwheat, garlic, and a deglaze fond, perfect for a plant-based dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrots and zucchini and cook until they begin to soften, about 5 minutes.",
+    "Add the toasted buckwheat and cook for 1 minute, stirring constantly.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove the lid and deglaze the fond by scraping the bottom of the pot with a wooden spoon.",
+    "Simmer for an additional 5 minutes, or until the liquid has thickened slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "north-african",
+    "one-pot",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "decadent-garlicky-algerian-buckwheat-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-garlicky-algerian-buckwheat-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:12:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "buckwheat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Decadent garlicky",
+    "dishForm": "Tagine"
+  }
+}
