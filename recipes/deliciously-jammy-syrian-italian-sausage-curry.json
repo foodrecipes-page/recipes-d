@@ -1,0 +1,107 @@
+{
+  "title": "Deliciously Jammy Syrian Italian Sausage Curry",
+  "description": "A post-workout Syrian dish featuring Italian fennel sausages in a jammy and creamy curry sauce, cooked in a kadhai and suitable for ovo-vegetarian diets. This recipe combines the flavors of Syria and Italy with a sweet and spicy lacquer-glaze.",
+  "cuisine": "Syrian Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "sweet Italian sausage with fennel seeds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat and cook the Italian fennel sausages until browned on all sides.",
+    "Remove the sausages from the kadhai and set them aside.",
+    "Add more oil if necessary and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the kadhai and cook for 1 minute.",
+    "Stir in the curry powder and cumin powder and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the lacquer-glaze to the kadhai and stir to combine.",
+    "Return the sausages to the kadhai and cook until they are fully coated in the curry sauce.",
+    "Stir in the beaten egg and cook until the egg is fully incorporated.",
+    "Season the curry with salt to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jammy-curry",
+    "one-pan",
+    "ovo-vegetarian",
+    "post-workout",
+    "syrian-italian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "deliciously-jammy-syrian-italian-sausage-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-jammy-syrian-italian-sausage-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:29:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian Italian",
+    "mainIngredient": "sausages",
+    "descriptor": "deliciously jammy",
+    "dishForm": "Curry"
+  }
+}
