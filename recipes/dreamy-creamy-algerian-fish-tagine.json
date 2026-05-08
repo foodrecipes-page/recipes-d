@@ -1,0 +1,112 @@
+{
+  "title": "Dreamy Creamy Algerian Fish Tagine",
+  "description": "A cultured and creamy Algerian dish featuring papelon, perfect for a sick day, made pescatarian-friendly and cooked in a copper pot. This recipe is a twist on traditional tagine, with a rich and comforting flavor profile.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "papelon",
+      "amount": "2 tablespoons",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the ground cumin and coriander and cook for 1 minute, stirring constantly.",
+    "Add the cod fillets and cook for 2 minutes on each side, until browned.",
+    "Add the papelon, salt, and black pepper, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes, or until the fish is cooked through.",
+    "Use a pressure cooker to speed up the cooking process, if desired, and cook for 5 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "comfort-food",
+    "copper-pot",
+    "north-african",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dreamy-creamy-algerian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-algerian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:33:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "papelon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fish",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Tagine"
+  }
+}
