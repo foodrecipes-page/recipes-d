@@ -1,0 +1,101 @@
+{
+  "title": "Dry Crunchy Indian Chicken Kebabs",
+  "description": "A paleo-friendly Indian dish featuring crunchy chicken kebabs with a bitter and creamy mayonnaise sauce, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mayonnaise, lemon juice, garam masala, cumin powder, coriander powder, cayenne pepper, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the marinated chicken pieces onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the kebabs for 20-25 minutes, or until they are cooked through and slightly charred.",
+    "Remove the kebabs from the oven and garnish with chopped cilantro.",
+    "Serve the kebabs hot with a side of mayonnaise sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "dry-crunchy-indian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-crunchy-indian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "mayonnaise",
+    "diet": "paleo",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "dry crunchy",
+    "dishForm": "Kebabs"
+  }
+}
