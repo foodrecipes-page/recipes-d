@@ -5401,6 +5401,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-slow-roasted-uruguayan-lamb-roast",
+    "title": "Uruguayan Lamb Roast",
+    "tags": [
+      "high-protein",
+      "lamb-based",
+      "one-pan",
+      "slow-roasted",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 195,
+    "shard": "d"
+  },
+  {
     "slug": "dense-smoked-middle-eastern-smoked-haddock-umm-ali",
     "title": "Dense Smoked Middle-Eastern Smoked Haddock Umm Ali",
     "tags": [
