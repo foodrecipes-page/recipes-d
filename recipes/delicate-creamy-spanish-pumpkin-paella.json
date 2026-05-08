@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Creamy Spanish Pumpkin Paella",
+  "description": "A floral and creamy Spanish dish featuring pumpkin, cooked to perfection in a papillote on a wooden board, perfect for a midnight craving.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced pumpkin, olive oil, smoked paprika, salt, and black pepper.",
+    "Spread the pumpkin mixture on a wooden board lined with parchment paper, leaving a 1-inch border around the edges.",
+    "In a separate bowl, mix together the Arborio rice, saffron threads, and heavy cream.",
+    "Pour the rice mixture over the pumpkin, making sure to stay within the border.",
+    "Cover the wooden board with aluminum foil, creating a papillote, and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "While the paella is baking, heat a small skillet over medium heat and saute the diced onion and minced garlic until softened.",
+    "Once the paella is done, top it with the sauteed onion and garlic mixture and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "gluten-free",
+    "one-pan",
+    "pumpkin",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-creamy-spanish-pumpkin-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-creamy-spanish-pumpkin-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "pumpkin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pumpkin",
+    "descriptor": "delicate creamy",
+    "dishForm": "Paella"
+  }
+}

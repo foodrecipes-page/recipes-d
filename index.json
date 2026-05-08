@@ -1911,6 +1911,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-creamy-spanish-pumpkin-paella",
+    "title": "Delicate Creamy Spanish Pumpkin Paella",
+    "tags": [
+      "creamy",
+      "gluten-free",
+      "one-pan",
+      "pumpkin",
+      "spanish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-crisp-argentinian-raspberry-empanadas",
     "title": "Delicate Crisp Argentinian Raspberry Empanadas",
     "tags": [
@@ -2647,6 +2663,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-korean-baby-aubergine-dosirak",
+    "title": "Delicate Korean Baby Aubergine Dosirak",
+    "tags": [
+      "date-night",
+      "korean-cuisine",
+      "nimono-simmer",
+      "shojin-friendly",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

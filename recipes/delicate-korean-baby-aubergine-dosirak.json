@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Korean Baby Aubergine Dosirak",
+  "description": "A winey and shaggy Korean dish featuring baby aubergine, perfect for a date night, made with nimono-simmer and shojin-friendly ingredients, served in a dosirak format.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "small, purple"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, rice vinegar, and sesame oil to make the nimono-simmer sauce.",
+    "Add the grated ginger and minced garlic to the sauce and whisk until well combined.",
+    "Cut the baby aubergine in half and add to the sauce, making sure they are fully coated.",
+    "Let the aubergine marinate in the sauce for at least 30 minutes.",
+    "In a large pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "Remove the aubergine from the sauce, letting any excess liquid drip off, and add to the pan.",
+    "Cook the aubergine for 5 minutes on each side, or until they are tender and lightly browned.",
+    "Add the cubed tofu to the pan and cook for an additional 2 minutes.",
+    "Stir in the chopped green onions and pitted dates.",
+    "Season with sesame seeds and serve in a dosirak container."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "korean-cuisine",
+    "nimono-simmer",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "delicate-korean-baby-aubergine-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-korean-baby-aubergine-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "baby aubergine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Delicate",
+    "dishForm": "Dosirak"
+  }
+}
