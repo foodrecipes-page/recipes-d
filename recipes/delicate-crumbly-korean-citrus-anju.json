@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Crumbly Korean Citrus Anju",
+  "description": "A citrusy and crumbly Korean dish featuring white vinegar, traditionally cooked in ttukbaegi earthenware, and wrapped in a corn husk, perfect for a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "citrus juice",
+      "amount": "1/4 cup",
+      "notes": "preferably yuja or Korean citrus"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware or a small ceramic bowl over low heat.",
+    "In a large mixing bowl, whisk together the flour, cornstarch, and salt.",
+    "Gradually add in the white vinegar, citrus juice, and water, stirring until a crumbly dough forms.",
+    "Add the sesame oil and sugar to the dough and stir until just combined.",
+    "Knead the dough gently for about 5 minutes until it becomes cohesive and crumbly.",
+    "Divide the dough into 12 equal pieces and shape each into a small ball.",
+    "Wrap each ball in a corn husk, making sure to seal the edges tightly.",
+    "Place the wrapped anju in the preheated ttukbaegi or ceramic bowl and cook for 10-15 minutes on each side, or until lightly browned and crispy.",
+    "Serve the anju warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-recipes",
+    "crumbly-texture",
+    "jain-friendly",
+    "korean-food",
+    "snack-ideas",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-crumbly-korean-citrus-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crumbly-korean-citrus-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "white vinegar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "citrus",
+    "descriptor": "Delicate Crumbly",
+    "dishForm": "Anju"
+  }
+}

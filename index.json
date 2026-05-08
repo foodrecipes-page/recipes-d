@@ -290,6 +290,22 @@
     "shard": "d"
   },
   {
+    "slug": "dark-indulgent-ukrainian-chocolate-dumplings",
+    "title": "Dark Indulgent Ukrainian Chocolate Dumplings",
+    "tags": [
+      "comfort-food",
+      "dark-chocolate",
+      "herbal",
+      "indulgent",
+      "low-glycemic",
+      "ukrainian-desserts",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dark-molten-brazilian-chicken-wrap",
     "title": "Dark Molten Brazilian Chicken Wrap",
     "tags": [
@@ -2504,6 +2520,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crumbly-korean-citrus-anju",
+    "title": "Delicate Crumbly Korean Citrus Anju",
+    "tags": [
+      "citrus-recipes",
+      "crumbly-texture",
+      "jain-friendly",
+      "korean-food",
+      "snack-ideas",
+      "vegetarian-options"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -8505,6 +8536,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-creamy-algerian-lamb-tagine",
+    "title": "Dreamy Creamy Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "ayurvedic-recipes",
+      "dairy-free-recipes",
+      "gluten-free-recipes",
+      "lamb-recipes",
+      "one-pot-meals"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 120,
     "shard": "d"
   },
   {

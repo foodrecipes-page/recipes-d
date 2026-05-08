@@ -1,0 +1,94 @@
+{
+  "title": "Dark Indulgent Ukrainian Chocolate Dumplings",
+  "description": "A rich and herbal Ukrainian dessert featuring dark chocolate and chewy dumplings, low in glycemic index for a guilt-free treat. This dish combines the best of Eastern European flavors with the decadence of dark chocolate.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried mint leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "buckwheat honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, eggs, sour cream, dried mint leaves, vanilla extract, and salt until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of dark chocolate chips in the center of each disk.",
+    "Fold the dough over the chocolate to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and gently add the dumplings to the pot.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and place them on a plate.",
+    "Drizzle the dumplings with buckwheat honey and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dark-chocolate",
+    "herbal",
+    "indulgent",
+    "low-glycemic",
+    "ukrainian-desserts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "dark-indulgent-ukrainian-chocolate-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-indulgent-ukrainian-chocolate-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:16:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "dark chocolate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chocolate",
+    "descriptor": "dark indulgent",
+    "dishForm": "Dumplings"
+  }
+}
