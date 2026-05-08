@@ -1,0 +1,96 @@
+{
+  "title": "Delicious Fluffy Venezuelan Chicken Hash",
+  "description": "A fresh and fluffy Venezuelan dish perfect for a sick day, featuring onion salt and wok-hei flavors, and is nut-free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok or skillet over medium-high heat.",
+    "Add the diced onion and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken to the wok and cook until browned, about 5-6 minutes.",
+    "Add the diced bell pepper and cook until tender, about 4 minutes.",
+    "Add the diced potato, chicken broth, and onion salt to the wok, and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, until the potatoes are tender, about 15 minutes.",
+    "Use a spatula to break up the chicken and potatoes into a fluffy hash.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "latin-american",
+    "nut-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "delicious-fluffy-venezuelan-chicken-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-fluffy-venezuelan-chicken-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:59:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "onion salt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "delicious fluffy",
+    "dishForm": "Hash"
+  }
+}

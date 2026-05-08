@@ -5080,6 +5080,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-fluffy-venezuelan-chicken-hash",
+    "title": "Delicious Fluffy Venezuelan Chicken Hash",
+    "tags": [
+      "gluten-free",
+      "latin-american",
+      "nut-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-greek-snapper-stifado",
     "title": "Delicious Greek Snapper Stifado",
     "tags": [
@@ -8614,6 +8628,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 195,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoke-hot-filipino-challots-menudo",
+    "title": "Dense Smoke Hot Filipino Challots Menudo",
+    "tags": [
+      "filipino-cuisine",
+      "hearty",
+      "one-pot",
+      "post-workout",
+      "shojin-friendly",
+      "smoky"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
