@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Chinese Beef Buddha Jumps Over Wall",
+  "description": "A kid-friendly Chinese dish featuring garlicky and springy beef in a hot stock, served in a bento box.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "4 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the beef stock to a boil in a large pot.",
+    "Add the sliced ginger and minced garlic to the pot and cook for 2 minutes.",
+    "Add the sliced beef to the pot and cook for 3 minutes or until browned.",
+    "Remove the beef from the pot with a slotted spoon and immediately submerge it in an ice bath to stop the cooking process.",
+    "In a small bowl, whisk together the soy sauce, sugar, and cornstarch.",
+    "Add the soy sauce mixture to the pot and cook for 2 minutes or until the sauce has thickened.",
+    "Remove the beef from the ice bath and add it to the pot, stirring to coat with the sauce.",
+    "Stir in the chopped scallions and sesame oil.",
+    "Serve the beef mixture in a bento box."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "chinese",
+    "garlicky",
+    "high-protein",
+    "kid-friendly",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-chinese-beef-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-chinese-beef-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:54:08Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hot beef stock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "delicate garlicky",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
