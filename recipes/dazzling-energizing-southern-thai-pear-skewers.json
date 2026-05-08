@@ -1,0 +1,105 @@
+{
+  "title": "Dazzling Energizing Southern Thai Pear Skewers",
+  "description": "A funky and fluffy Southern Thai dish featuring pears, this air-fry recipe is high in protein and perfect for a snack or dessert. It combines the natural sweetness of pears with the savory flavors of Southern Thai cuisine.",
+  "cuisine": "Southern Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pears",
+      "amount": "4",
+      "notes": "any variety, cored and cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "air-fryer spray",
+      "amount": "1 spray"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, honey, and chili flakes.",
+    "Add the pear pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pear pieces onto skewers, leaving a small space between each piece.",
+    "Spray the air fryer basket with air-fryer spray and cook the skewers for 10 minutes, shaking halfway through.",
+    "While the skewers are cooking, mix together toasted peanuts, salt, and chopped cilantro in a small bowl.",
+    "Once the skewers are done, sprinkle the peanut mixture over the top of each skewer.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "southern-thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "dazzling-energizing-southern-thai-pear-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dazzling-energizing-southern-thai-pear-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "pears",
+    "diet": "high-protein",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "pear",
+    "descriptor": "Dazzling Energizing",
+    "dishForm": "Skewers"
+  }
+}
