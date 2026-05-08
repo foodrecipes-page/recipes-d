@@ -2357,6 +2357,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-crispy-egyptian-beef-kebabs",
+    "title": "Delicate Crispy Egyptian Beef Kebabs",
+    "tags": [
+      "copper-pot",
+      "diabetic-friendly",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-crispy-french-chickpeas-terrine",
     "title": "Delicate Crispy French Chickpeas Terrine",
     "tags": [
@@ -8415,6 +8430,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-creamy-norwegian-coconut-pudding",
+    "title": "Dreamy Creamy Norwegian Coconut Pudding",
+    "tags": [
+      "coconut-cream-pudding",
+      "egg-free",
+      "gluten-free",
+      "lazy-sunday",
+      "norwegian-dessert",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {

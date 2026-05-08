@@ -1,0 +1,93 @@
+{
+  "title": "Dreamy Creamy Norwegian Coconut Pudding",
+  "description": "A rich and creamy Norwegian dessert featuring coconut cream and a crunchy coconut cream crack topping, perfect for a lazy Sunday, and is egg-free friendly. This nutty and pillowy pudding is a delight to the taste buds.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream crack topping",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the coconut cream, coconut sugar, and salt, and heat over medium heat, stirring constantly, until the sugar has dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the unsweetened almond milk and vanilla extract.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, sprinkle the shredded coconut over the top of the pudding.",
+    "Drizzle the coconut oil over the shredded coconut.",
+    "Top the pudding with the coconut cream crack topping.",
+    "Serve the pudding chilled, garnished with additional shredded coconut if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-cream-pudding",
+    "egg-free",
+    "gluten-free",
+    "lazy-sunday",
+    "norwegian-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "dreamy-creamy-norwegian-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-norwegian-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:28:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "coconut cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "coconut",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Pudding"
+  }
+}
