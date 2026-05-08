@@ -1,0 +1,89 @@
+{
+  "title": "Decadent Canadian Lettuce Salad",
+  "description": "A rich and tender Canadian dish featuring iceberg lettuce, perfect for midnight cravings, and vegan-friendly. This salad combines the freshness of lettuce with the savory flavors of Canada",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "4 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced apple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chilled iceberg lettuce, diced apple, and chopped walnuts.",
+    "In a small bowl, whisk together the vegan mayonnaise and maple syrup until smooth.",
+    "Pour the mayonnaise mixture over the lettuce mixture and toss to combine.",
+    "Sprinkle the dried cranberries, salt, and black pepper over the top of the salad and toss again.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional chopped walnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "easy-to-make",
+    "healthy-snacks",
+    "midnight-cravings",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "decadent-canadian-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-canadian-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lettuce",
+    "descriptor": "Decadent",
+    "dishForm": "Salad"
+  }
+}

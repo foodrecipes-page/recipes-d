@@ -908,6 +908,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-canadian-lettuce-salad",
+    "title": "Decadent Canadian Lettuce Salad",
+    "tags": [
+      "canadian-cuisine",
+      "easy-to-make",
+      "healthy-snacks",
+      "midnight-cravings",
+      "vegan-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-chewy-korean-bun-bun",
     "title": "Decadent Chewy Korean Bun",
     "tags": [
