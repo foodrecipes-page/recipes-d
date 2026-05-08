@@ -128,6 +128,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-braised-russian-beef-stew",
+    "title": "Dark Braised Russian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "braising",
+      "comfort-food",
+      "one-pot",
+      "russian-cuisine",
+      "winter-recipe"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 230,
+    "shard": "d"
+  },
+  {
     "slug": "dark-brown-sugar-crumbled-garlic-argentinian",
     "title": "Dark Brown Sugar Crumbled Garlic Argentinian",
     "tags": [

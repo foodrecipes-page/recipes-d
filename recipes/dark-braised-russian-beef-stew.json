@@ -1,0 +1,112 @@
+{
+  "title": "Dark Braised Russian Beef Stew",
+  "description": "A rich and flavorful stew originating from Russia, featuring a balance of bitter and sweet flavors.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "tied with kitchen twine"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned, then set aside.",
+    "Sauté the onion, carrot, and celery until tender.",
+    "Add the lemongrass, beef broth, red wine, tomato paste, thyme, salt, and pepper.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover and transfer to the oven, where it will braise for 2 1/2 hours.",
+    "Remove the pot from the oven and stir in the brown sugar.",
+    "Simmer the stew over low heat for an additional 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs.",
+    "Strain the stew before serving, discarding the solids.",
+    "Skim off any excess fat that rises to the surface.",
+    "Serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "braising",
+    "comfort-food",
+    "one-pot",
+    "russian-cuisine",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "dark-braised-russian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-braised-russian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Dark Braised",
+    "dishForm": "Stew"
+  }
+}
