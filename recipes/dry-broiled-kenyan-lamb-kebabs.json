@@ -1,0 +1,98 @@
+{
+  "title": "Dry Broiled Kenyan Lamb Kebabs",
+  "description": "Savory and snappy lamb kebabs featuring lamb stock, broiled to perfection, and served as a paleo-friendly dish. This energizing Kenyan dish is perfect for a dinner meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lamb stock, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a broiler pan lined with aluminum foil and broil for 10-12 minutes, flipping halfway through.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving.",
+    "Serve the lamb kebabs hot, garnished with fresh cilantro or parsley.",
+    "Repeat the broiling process for any remaining skewers.",
+    "Let the lamb kebabs cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "dry-broiled-kenyan-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-broiled-kenyan-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:03:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "lamb stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Dry broiled",
+    "dishForm": "Kebabs"
+  }
+}
