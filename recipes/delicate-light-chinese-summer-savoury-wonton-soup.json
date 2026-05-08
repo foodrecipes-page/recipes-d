@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Light Chinese Summer Savoury Wonton Soup",
+  "description": "A light and refreshing Chinese soup featuring wontons and summer savoury, perfect for a low-carb diet",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces",
+      "notes": "low-carb"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "dried summer savoury leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, dried summer savoury leaves, soy sauce, and grated ginger, and mix well.",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the wonton.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "In a large pot, bring the chicken broth to a boil.",
+    "Add the wontons to the pot and cook for 5 minutes, or until they float to the surface.",
+    "Stir in sesame oil and chopped green onions.",
+    "Serve the soup hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "gluten-free",
+    "light-meal",
+    "low-carb",
+    "refreshing-soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-light-chinese-summer-savoury-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-light-chinese-summer-savoury-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "summer savoury",
+    "descriptor": "Delicate Light",
+    "dishForm": "Wonton Soup"
+  }
+}
