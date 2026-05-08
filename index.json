@@ -4272,6 +4272,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-dutch-chicken-stew",
+    "title": "Delicious Dutch Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "hearty-stew",
+      "homestyle",
+      "one-pot",
+      "winter-meal"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-egyptian-lentil-stew",
     "title": "Delicious Egyptian Lentil Stew",
     "tags": [

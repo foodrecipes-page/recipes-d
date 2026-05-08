@@ -1,0 +1,104 @@
+{
+  "title": "Delicious Dutch Chicken Stew",
+  "description": "A hearty and flavorful stew featuring chicken stock concentrate, perfect for a hangover cure or a comforting meal. This dish is known for its grassy and juicy flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the sliced carrots and cubed potatoes, and cook for 5 minutes.",
+    "Add the chicken thighs and cook until they are browned on all sides.",
+    "Add the chicken stock concentrate, thyme, black pepper, and salt, and stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stew",
+    "homestyle",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "delicious-dutch-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-dutch-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "delicious juicy",
+    "dishForm": "Stew"
+  }
+}
