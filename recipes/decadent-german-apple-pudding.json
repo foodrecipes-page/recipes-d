@@ -1,0 +1,92 @@
+{
+  "title": "Decadent German Apple Pudding",
+  "description": "A sweet and molten German dessert featuring dark brown soft sugar, air-fried to perfection in a banana leaf vessel, this dish is sure to impress your loved ones.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, dark brown soft sugar, and cinnamon.",
+    "Add the sliced apples to the bowl and toss until they are evenly coated with the sugar mixture.",
+    "In a separate bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the wet ingredients to the bowl with the apples and mix until everything is well combined.",
+    "Lay a banana leaf flat on a work surface and spoon one quarter of the apple mixture onto the center of the leaf.",
+    "Fold the banana leaf over the filling to form a square package, and repeat with the remaining ingredients.",
+    "Place the packages in the air fryer basket, leaving some space between each package.",
+    "Cook the packages in the air fryer for 12 minutes, or until they are golden brown and the apples are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "fall-recipes",
+    "german-desserts",
+    "kosher-friendly",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "decadent-german-apple-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-german-apple-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apples",
+    "descriptor": "Dark Brown",
+    "dishForm": "Pudding"
+  }
+}
