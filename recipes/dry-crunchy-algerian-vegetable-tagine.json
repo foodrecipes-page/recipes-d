@@ -1,0 +1,108 @@
+{
+  "title": "Dry Crunchy Algerian Vegetable Tagine",
+  "description": "A bitter and crunchy vegetable dish originating from Algeria, featuring unflavored gelatin and cooked in a ttukbaegi earthenware pot, also known as a cazuela, this recipe is jain friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1 cup water"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and cut into 1 inch sticks"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, dissolve the gelatin in water and set aside.",
+    "In a large cazuela or earthenware pot, heat the olive oil over medium heat.",
+    "Add the onions and garlic and cook until the onions are translucent.",
+    "Add the eggplant, zucchini, carrots, and bell peppers, and cook until the vegetables are tender.",
+    "Add the dissolved gelatin, salt, and black pepper, and stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 20 minutes.",
+    "Remove the pot from the oven and let it cool to room temperature.",
+    "Once cooled, refrigerate the tagine for at least 2 hours to allow it to set.",
+    "Before serving, cut the tagine into small pieces and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "bitter",
+    "crunchy",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dry-crunchy-algerian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-crunchy-algerian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "vegetables",
+    "descriptor": "dry crunchy",
+    "dishForm": "Tagine"
+  }
+}
