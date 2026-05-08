@@ -4825,6 +4825,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-energizing-greek-lamb-keftedes",
+    "title": "Deliciously Energizing Greek Lamb Keftedes",
+    "tags": [
+      "greek-food",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 38,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-energizing-thai-sea-bass-tom-yum",
     "title": "Deliciously energizing Thai sea bass Tom Yum",
     "tags": [
@@ -7911,6 +7926,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-rubbed-american-steak-skillet",
+    "title": "Dry Rubbed American Steak Skillet",
+    "tags": [
+      "american-classics",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 140,
     "shard": "d"
   },
   {

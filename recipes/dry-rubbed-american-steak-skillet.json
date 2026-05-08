@@ -1,0 +1,91 @@
+{
+  "title": "Dry Rubbed American Steak Skillet",
+  "description": "A resinous, crispy, date-night American dish featuring salted butter, cooked to perfection in a comal, using the sous-vide method for a paleo-friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ribeye steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "salted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the ribeye steak with paprika, garlic powder, onion powder, black pepper, and sea salt.",
+    "Place the steak in a sous-vide bag and seal, then cook for 2 hours.",
+    "Remove the steak from the bag and pat dry with paper towels.",
+    "Heat the salted butter in a comal over medium-high heat.",
+    "Sear the steak in the comal for 2-3 minutes per side, or until a crispy crust forms.",
+    "Let the steak rest for 5 minutes before slicing thinly against the grain.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "dry-rubbed-american-steak-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-rubbed-american-steak-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:40:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "salted butter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "steak",
+    "descriptor": "Dry Rubbed",
+    "dishForm": "Skillet"
+  }
+}
