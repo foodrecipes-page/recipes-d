@@ -1,0 +1,106 @@
+{
+  "title": "Deep Fried Turkish Pasta",
+  "description": "A roasted, shaggy, one-pot Turkish dish featuring bowtie pasta, deep-fried to a crispy perfection, Whole30-friendly and served on a bamboo tray.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "12 oz",
+      "notes": "gluten free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the bowtie pasta according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, whisk together the turkish spice blend, salt, and black pepper.",
+    "Add the cooked pasta, sauteed onion and garlic, and eggs to the bowl and mix until well combined.",
+    "Divide the mixture into 6 equal portions and shape each portion into a small rectangle.",
+    "Dip each rectangle into the almond flour, coating both sides evenly.",
+    "Heat the avocado oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep fry the coated pasta rectangles for 3-4 minutes on each side, until golden brown.",
+    "Remove the fried pasta from the oil and place on a bamboo tray lined with paper towels to drain excess oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "deep-fried",
+    "gluten-free",
+    "one-pot",
+    "turkish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "deep-fried-turkish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-turkish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:42:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pasta",
+    "descriptor": "Deep Fried",
+    "dishForm": "Pasta"
+  }
+}
