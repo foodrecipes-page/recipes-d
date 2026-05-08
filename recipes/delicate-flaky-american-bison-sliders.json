@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Flaky American Bison Sliders",
+  "description": "A romantic American dish featuring tender bison, flaky pastry, and a raclette grill, this recipe is paleo-friendly and perfect for a night in with loved ones.",
+  "cuisine": "American",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American bison meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground bison meat, almond flour, coconut oil, egg, salt, and black pepper, mixing well with your hands until just combined.",
+    "Divide the bison mixture into 8 equal parts and shape each part into a small ball.",
+    "Flatten each ball into a thin patty using your hands or a spatula.",
+    "Roll out the flaky pastry dough to a large sheet, about 1/4 inch thick.",
+    "Use a cookie cutter or the rim of a glass to cut out small circles of pastry dough.",
+    "Place a bison patty in the center of each pastry circle, leaving a 1/2 inch border around the patty.",
+    "Top each patty with a spoonful of caramelized onions and a sprinkle of chopped thyme.",
+    "Fold the pastry dough over the filling, pressing the edges to seal, and use your hands to shape into a nigiri-like shape.",
+    "Place the sliders on the preheated raclette grill and cook for 12-15 minutes, or until the pastry is golden brown and the bison is cooked to an internal temperature of 145 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-flaky-american-bison-sliders",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-american-bison-sliders",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "buns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bison",
+    "descriptor": "Delicate Flaky",
+    "dishForm": "Sliders"
+  }
+}
