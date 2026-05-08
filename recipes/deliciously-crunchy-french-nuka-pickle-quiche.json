@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Crunchy French Nuka Pickle Quiche",
+  "description": "A festive French dish featuring ground clove and nuka-pickle, perfect for a special occasion. This quiche is a delicious blend of briny and crunchy flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs, heavy cream, ground clove, salt, and black pepper.",
+    "Add the diced nuka pickle, grated cheese, and chopped parsley to the bowl and stir to combine.",
+    "Pour the egg mixture into the pie crust.",
+    "Bake the quiche for 35 minutes or until the edges are golden brown.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Serve the quiche warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "french-cuisine",
+    "pickle-recipes",
+    "quiche-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "deliciously-crunchy-french-nuka-pickle-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-french-nuka-pickle-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:01Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ground clove",
+    "diet": "dash",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "nuka pickle",
+    "descriptor": "Deliciously Crunchy",
+    "dishForm": "Quiche"
+  }
+}
