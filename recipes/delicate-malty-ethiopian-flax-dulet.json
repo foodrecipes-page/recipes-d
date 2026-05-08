@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Malty Ethiopian Flax Dulet",
+  "description": "A malty, flaky Ethiopian dish featuring flax eggs and papillote, perfect for a low-carb hangover cure. This dulet recipe combines traditional Ethiopian flavors with modern low-carb ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground flaxseed",
+      "amount": "1/2 cup",
+      "notes": "golden flaxseed preferred"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh scallions"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground flaxseed and water to create a flax egg, stirring well to combine.",
+    "Let the flax egg sit for 5 minutes to thicken, then stir in the malted barley flour, paprika, onion powder, garlic powder, salt, and black pepper.",
+    "Heat the coconut oil in a large skillet over medium heat, then pour in the flax egg mixture and scramble until it is just set.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes, or until the edges are lightly golden.",
+    "Remove the skillet from the oven and stir in the chopped scallions.",
+    "Serve the dulet hot, garnished with additional scallions if desired.",
+    "To cook in papillote, place a portion of the dulet mixture on a piece of parchment paper, fold the paper to create a packet, and bake for an additional 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "ethiopian-cuisine",
+    "flaxseed-recipe",
+    "low-carb",
+    "malty-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-malty-ethiopian-flax-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-malty-ethiopian-flax-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:05:54Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "flax eggs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "flax",
+    "descriptor": "delicate malty",
+    "dishForm": "Dulet"
+  }
+}
