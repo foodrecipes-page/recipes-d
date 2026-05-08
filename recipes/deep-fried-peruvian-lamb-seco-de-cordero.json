@@ -2,9 +2,7 @@
   "title": "Deep Fried Peruvian Lamb Seco de Cordero",
   "description": "A halal-friendly twist on the traditional Peruvian lamb stew, seco de cordero, featuring kaffir-lime-leaf and an agemono-deep-fry for a fluffy and umami-packed post-workout dish.",
   "cuisine": "Peruvian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -149,7 +147,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "high-protein",
     "lamb",
     "one-pan",
@@ -180,5 +177,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Deep Fried",
     "dishForm": "Seco de Cordero"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

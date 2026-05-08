@@ -2,10 +2,7 @@
   "title": "Delicate Australian Lime Bowl",
   "description": "A cozy Australian dish featuring unwaxed lime and a soffritto base, served in a scallop shell, with a balance of bitter and juicy flavors.",
   "cuisine": "Australian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "lime",
     "descriptor": "delicate juicy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -100,7 +100,9 @@
     "Slice the pork shoulder into thin strips and add to the broth, then cook for a further 10 minutes.",
     "In a separate pan, sear the sliced scallions until caramelized, then add to the broth.",
     "Add the Chinese leaf to the broth and cook until wilted, then serve hot, garnished with additional scallions and a sprinkle of black pepper.",
-    "Serve with steamed rice or noodles, if desired."
+    "Serve with steamed rice or noodles, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 55,
@@ -135,5 +137,10 @@
     "mainIngredient": "Chinese leaf",
     "descriptor": "Dense, Roasted",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

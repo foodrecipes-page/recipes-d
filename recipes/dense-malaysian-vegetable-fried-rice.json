@@ -2,10 +2,7 @@
   "title": "Dense Malaysian Vegetable Fried Rice",
   "description": "A hearty and flavorful Malaysian dish made with stir-fry vegetables and dense rice, perfect for a hangover cure or a satisfying meal. This recipe is egg-free and friendly for various dietary needs.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -107,5 +104,10 @@
     "mainIngredient": "vegetables",
     "descriptor": "dense",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A nutty and crisp Thai dish featuring natural yoghurt, this satay is a nostalgic treat that is dairy-free friendly. It combines the richness of yoghurt with the crunch of nuts and the flavor of Thai spices.",
   "cuisine": "Thai",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -65,7 +64,6 @@
   "difficulty": "easy",
   "tags": [
     "crunchy",
-    "dairy-free",
     "nutty",
     "quick-snack",
     "thai-inspired",
@@ -94,5 +92,9 @@
     "mainIngredient": "yoghurt",
     "descriptor": "Deliciously nutty",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

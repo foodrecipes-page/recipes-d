@@ -4,7 +4,6 @@
   "cuisine": "Japanese",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "snack",
@@ -75,7 +74,6 @@
     "crispy",
     "dairy-free",
     "easy-to-make",
-    "gluten-free",
     "japanese",
     "umami",
     "vegetarian"
@@ -103,5 +101,9 @@
     "mainIngredient": "White Yam",
     "descriptor": "Dense Crispy",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

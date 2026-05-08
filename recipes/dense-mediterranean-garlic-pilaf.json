@@ -55,7 +55,8 @@
     "Fluff the pilaf gently with a fork, discard the garlic skins, and stir in the lemon zest.",
     "Taste and adjust seasoning if needed, adding more salt or pepper.",
     "Transfer the pilaf to a serving dish and garnish with chopped fresh parsley.",
-    "Serve hot as a comforting Mediterranean lunch."
+    "Serve hot as a comforting Mediterranean lunch.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "garlic",
     "descriptor": "Dense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

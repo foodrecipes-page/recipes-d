@@ -3,8 +3,7 @@
   "description": "A funky and silky Algerian dish featuring pappardelle pasta, mortar-pestle-pound, and ayurvedic-sattvic-friendly ingredients to cure hangovers. This dish is made with love and care to provide a comforting meal.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "mediterranean",
     "one-pot",
     "vegetarian",
@@ -104,5 +102,9 @@
     "mainIngredient": "pappardelle",
     "descriptor": "delicate silky",
     "dishForm": "pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

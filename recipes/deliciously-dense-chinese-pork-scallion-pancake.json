@@ -55,7 +55,8 @@
     "Divide the dough into 4 equal pieces, and roll each piece into a ball.",
     "Roll out each ball into a thin circle, about 1/8 inch thick.",
     "Heat the vegetable oil in a large skillet over medium-high heat, and fry the pancakes until they are golden brown and crispy, about 2-3 minutes per side.",
-    "Serve the pancakes hot on a cedar plank, garnished with additional scallions if desired."
+    "Serve the pancakes hot on a cedar plank, garnished with additional scallions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "Deliciously dense",
     "dishForm": "Scallion Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

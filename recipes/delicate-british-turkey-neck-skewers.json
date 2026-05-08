@@ -3,7 +3,6 @@
   "description": "A romantic British dish featuring malty and silky turkey neck, lacquer-glazed to perfection, and grilled on a robata-grill for a unique flavor experience, this anti-inflammatory friendly recipe is perfect for a special dinner",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "anti-inflammatory",
-    "gluten-free",
     "grilled-meat",
     "low-carb",
     "romantic-dinner",
@@ -97,5 +95,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "delicate lacquer glaze",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

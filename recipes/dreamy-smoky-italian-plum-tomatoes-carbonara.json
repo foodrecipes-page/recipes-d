@@ -2,10 +2,7 @@
   "title": "Dreamy Smoky Italian Plum Tomatoes Carbonara",
   "description": "A smoky and shaggy Italian dish featuring plum tomatoes and a rich glaze, perfect for a lazy Sunday, and egg-free friendly. This dish is a creative twist on the classic carbonara.",
   "cuisine": "Italian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "dreamy smoky",
     "dishForm": "Carbonara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

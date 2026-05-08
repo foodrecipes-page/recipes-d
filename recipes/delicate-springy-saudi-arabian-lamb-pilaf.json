@@ -3,8 +3,7 @@
   "description": "A savory and springy Saudi Arabian dish featuring lamb, melted butter, and a pasta water emulsion, perfect for a brunch mood. This Whole30 friendly recipe is a delicious and healthy option.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Delicate Springy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

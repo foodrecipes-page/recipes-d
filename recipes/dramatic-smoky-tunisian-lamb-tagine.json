@@ -3,7 +3,6 @@
   "description": "This earthy and snappy dish is a classic Tunisian tagine featuring lamb, soy sauce, and a blend of spices, with a smoky flavor from the use of smoked paprika, and is tamasic friendly from an ayurvedic perspective.",
   "cuisine": "Tunisian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "lamb-based",
     "north-african",
     "one-pot",
@@ -104,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Dramatic Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Indulgent Venezuelan dish featuring walnuts, with earthy and crispy flavors, cooked on a salt block for a unique experience.",
   "cuisine": "Venezuelan",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "high-fiber",
     "indulgent",
     "one-pan",
@@ -92,5 +90,9 @@
     "mainIngredient": "walnuts",
     "descriptor": "Decadent earthy crispy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -54,7 +54,8 @@
     "In a large bowl, combine the cooked pork mixture, score fat, and beaten egg, and mix until well combined.",
     "Knead the mixture into a dough, and shape it into an ensaimada shape.",
     "Place the ensaimada on a baking sheet lined with parchment paper, and bake for 35 minutes.",
-    "Remove the ensaimada from the oven, and let it cool for 10 minutes before serving."
+    "Remove the ensaimada from the oven, and let it cool for 10 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "delicious juicy",
     "dishForm": "Ensaimada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

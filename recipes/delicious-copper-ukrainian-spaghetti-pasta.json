@@ -67,7 +67,8 @@
     "Pour in the sour cream, stirring until the sauce thickens and coats the spaghetti.",
     "Transfer the pasta to a copper mug, sprinkling grated cheddar on top.",
     "Place the mug on a low‑heat setting to melt the cheese until bubbly.",
-    "Deep‑fry the frozen onion rings in a small pan until golden and sprinkle over the pasta before serving."
+    "Deep‑fry the frozen onion rings in a small pan until golden and sprinkle over the pasta before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -100,11 +101,16 @@
     "mood": "kid-friendly",
     "technique": "deep-fry-tod",
     "primaryIngredient": "spaghetti",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "Spaghetti",
     "descriptor": "Delicious Copper",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

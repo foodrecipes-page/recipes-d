@@ -2,9 +2,7 @@
   "title": "Delicate Slovakian Coconut Curry",
   "description": "A fresh spring dish with unsweetened coconut milk, light spices, and a tadka for a gentle, Ayurvedic-friendly curry.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -91,8 +89,7 @@
     "one-pot",
     "quick",
     "slovakian",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 310,
@@ -117,5 +114,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Delicate",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

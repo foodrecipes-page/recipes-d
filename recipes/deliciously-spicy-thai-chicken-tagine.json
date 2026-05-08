@@ -86,7 +86,8 @@
     "Bring to a boil, then cover and transfer to oven.",
     "Bake at 375°F for 30 minutes.",
     "Stir in lemon juice and continue to bake for an additional 10 minutes.",
-    "Garnish with chopped cilantro and serve hot."
+    "Garnish with chopped cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -123,5 +124,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Deliciously Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

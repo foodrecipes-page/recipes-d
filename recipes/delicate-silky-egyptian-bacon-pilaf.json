@@ -3,7 +3,6 @@
   "description": "A malty, silky, and comforting Egyptian dish featuring streaky bacon, this pilaf is a raw-friendly and blanch-friendly meal option. It combines the richness of bacon with the simplicity of Egyptian spices.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "bacon",
     "descriptor": "Delicate silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

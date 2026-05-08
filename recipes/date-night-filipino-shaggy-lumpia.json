@@ -86,7 +86,8 @@
     "Repeat the frying process with the remaining lumpia, in batches, if necessary.",
     "Serve the shaggy lumpia hot with a dipping sauce of your choice, such as a sweet chili sauce or a peanut sauce.",
     "Serve immediately.",
-    "Enjoy!"
+    "Enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -124,5 +125,9 @@
     "mainIngredient": "shaggy",
     "descriptor": "date-night",
     "dishForm": "Lumpia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

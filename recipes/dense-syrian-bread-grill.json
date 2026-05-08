@@ -3,8 +3,7 @@
   "description": "A roasted, dense Syrian dish featuring a spicy twist with jalapeno and perfect for a weekend brunch.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -83,5 +82,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Dense",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

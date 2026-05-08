@@ -3,7 +3,6 @@
   "description": "A salty and flaky Syrian flatbread dish featuring Wagyu beef and a mirepoix base, perfect for a light and raw-friendly meal.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -89,5 +88,9 @@
     "mainIngredient": "wagyu",
     "descriptor": "delicate flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

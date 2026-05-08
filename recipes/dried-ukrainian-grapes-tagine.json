@@ -66,7 +66,8 @@
     "Add the chickpeas, chicken broth, salt, and black pepper. Stir to combine.",
     "Add the dried grapes and simmer, uncovered, for 20-25 minutes or until the liquid has thickened and the grapes are rehydrated.",
     "Garnish with fresh parsley and serve over couscous or rice.",
-    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "grapes",
     "descriptor": "dried",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

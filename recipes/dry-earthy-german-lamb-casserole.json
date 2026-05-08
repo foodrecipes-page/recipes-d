@@ -2,9 +2,7 @@
   "title": "dry earthy german lamb casserole",
   "description": "earthy and crumbly german lamb casserole made with ras el hanout and a mother sauce base, perfect for a solo dinner",
   "cuisine": "german",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -109,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "dry earthy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

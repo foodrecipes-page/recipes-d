@@ -36,7 +36,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-calorie",
     "meal-prep",
     "one-pan",
@@ -66,5 +65,9 @@
     "mainIngredient": "yeast",
     "descriptor": "doughy molten",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -101,11 +101,15 @@
     "mood": "post-workout",
     "technique": "yuzu-cure",
     "primaryIngredient": "pumpkin",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "pumpkin",
     "descriptor": "Donabe-Fresh Delightful",
     "dishForm": "Saganaki-Style Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

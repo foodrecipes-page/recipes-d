@@ -59,7 +59,8 @@
     "Place the skewers in the tandoor or smoker and smoke for 30 minutes.",
     "After 30 minutes, brush the chicken with cider and continue smoking for another 10 minutes.",
     "Remove the skewers from the tandoor or smoker and let them rest for 5 minutes.",
-    "Sprinkle the chopped cilantro over the kebabs and serve hot."
+    "Sprinkle the chopped cilantro over the kebabs and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Deliciously smoked",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

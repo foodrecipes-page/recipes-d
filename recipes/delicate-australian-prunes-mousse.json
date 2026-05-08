@@ -2,9 +2,7 @@
   "title": "Delicate Australian Prunes Mousse",
   "description": "A sour, velvety mousse that brings back nostalgic Australian memories, crafted from prunes, raw cashews, and citrus.",
   "cuisine": "Australian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "prune",
     "quick",
     "raw",
-    "sour",
-    "vegan"
+    "sour"
   ],
   "nutrition": {
     "calories": 1120,
@@ -88,5 +85,9 @@
     "mainIngredient": "prunes",
     "descriptor": "Delicate",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

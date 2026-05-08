@@ -60,7 +60,8 @@
     "Cover the dough with plastic wrap and let it rest in a warm place for 1 hour, or until it has doubled in size.",
     "Preheat a grill or grill pan to medium-high heat.",
     "Divide the dough into 8 equal pieces and shape each piece into a cylinder.",
-    "Grill the cig kofte for 4-5 minutes per side, or until they are cooked through and slightly charred."
+    "Grill the cig kofte for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "meat",
     "descriptor": "Delicate Yeasty",
     "dishForm": "Cig Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Peruvian",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "halal",
     "kosher"
   ],
@@ -112,5 +111,9 @@
     "mainIngredient": "tod",
     "descriptor": "deep-fry",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A smoky and savory brunch dish featuring grilled courgettes, crunchy bao, and a hint of herbal flavors.",
   "cuisine": "Hunan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "courgettes",
     "descriptor": "Delicate Smoky Grilled",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A romantic American dish featuring tender bison, flaky pastry, and a raclette grill, this recipe is paleo-friendly and perfect for a night in with loved ones.",
   "cuisine": "American",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "paleo-friendly",
@@ -96,5 +94,9 @@
     "mainIngredient": "bison",
     "descriptor": "Delicate Flaky",
     "dishForm": "Sliders"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

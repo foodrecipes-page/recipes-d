@@ -69,8 +69,7 @@
     "hummus",
     "jain-friendly",
     "middle-eastern",
-    "sweet-potato",
-    "vegan"
+    "sweet-potato"
   ],
   "nutrition": {
     "calories": 320,
@@ -95,5 +94,9 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "Decadent cheesy",
     "dishForm": "Hummus"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

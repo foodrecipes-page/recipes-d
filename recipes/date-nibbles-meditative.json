@@ -2,9 +2,7 @@
   "title": "Date Nibbles Meditative",
   "description": "A savory and fluffy Mediterranean dish perfect for date night, featuring peanut butter and dates in a vegan-friendly recipe.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -45,8 +43,7 @@
   "difficulty": "easy",
   "tags": [
     "date-night",
-    "salty-fluffy",
-    "vegan"
+    "salty-fluffy"
   ],
   "nutrition": {
     "calories": 416,
@@ -67,5 +64,9 @@
     "primaryIngredient": "peanut butter",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

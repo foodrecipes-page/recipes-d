@@ -80,8 +80,7 @@
     "gluten-free",
     "greek",
     "low-carb",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 150,
@@ -106,5 +105,9 @@
     "mainIngredient": "bok choi",
     "descriptor": "Deliciously Steamed",
     "dishForm": "Loukoumades"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Syrian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "chilli beans",
     "descriptor": "delicate malty",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

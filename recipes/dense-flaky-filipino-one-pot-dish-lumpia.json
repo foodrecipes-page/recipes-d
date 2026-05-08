@@ -2,10 +2,7 @@
   "title": "Lumpia",
   "description": "Lumpia is a Filipino one-pot dish featuring a flaky, fatty crust and a savory filling. This recipe is Buddhist-temple friendly and utilizes binchotan charcoal for cooking.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -88,9 +85,7 @@
   "tags": [
     "comfort-food",
     "filipino",
-    "gluten-free",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -116,5 +111,10 @@
     "mainIngredient": "one-pot dish",
     "descriptor": "Dense Flaky",
     "dishForm": "Lumpia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

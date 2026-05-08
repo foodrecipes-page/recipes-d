@@ -2,9 +2,7 @@
   "title": "Decadent Canadian Lettuce Salad",
   "description": "A rich and tender Canadian dish featuring iceberg lettuce, perfect for midnight cravings, and vegan-friendly. This salad combines the freshness of lettuce with the savory flavors of Canada",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -52,7 +50,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -85,5 +83,10 @@
     "mainIngredient": "lettuce",
     "descriptor": "Decadent",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

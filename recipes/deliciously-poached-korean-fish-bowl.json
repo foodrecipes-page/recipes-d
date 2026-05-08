@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful korean dish featuring fresh fish poached in a sweet and spicy sauce, served over a bed of steaming white rice.",
   "cuisine": "Korean",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -86,7 +85,6 @@
   "tags": [
     "dairy-free",
     "fish-recipes",
-    "gluten-free",
     "high-protein",
     "korean",
     "one-pan",
@@ -116,5 +114,9 @@
     "mainIngredient": "fish",
     "descriptor": "Deliciously poached",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

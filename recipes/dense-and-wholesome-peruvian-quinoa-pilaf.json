@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Peruvian-inspired dish made with quinoa, chicken broth, and a touch of unsalted butter.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "Stir to combine and bring to a boil.",
     "Reduce heat to low, cover, and simmer for 18-20 minutes or until quinoa is tender and liquid has been absorbed.",
     "Fluff the quinoa with a fork and stir in chopped fresh cilantro, if using.",
-    "Season with lime juice and serve hot."
+    "Season with lime juice and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -78,7 +78,6 @@
     "gluten-free",
     "high-fiber",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +103,10 @@
     "mainIngredient": "quinoa",
     "descriptor": "Dense and Wholesome",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

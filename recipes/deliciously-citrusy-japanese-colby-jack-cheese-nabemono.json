@@ -3,8 +3,6 @@
   "description": "A twist on a traditional Japanese hot pot dish, this recipe combines the flavors of citrus, ginger, and Colby Jack cheese for a deliciously unique meal.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "dairy",
     "low-carb"
   ],
@@ -120,5 +118,10 @@
     "mainIngredient": "Colby Jack Cheese",
     "descriptor": "deliciously citrusy",
     "dishForm": "Nabemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

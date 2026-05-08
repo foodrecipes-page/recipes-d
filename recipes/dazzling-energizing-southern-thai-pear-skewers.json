@@ -3,8 +3,7 @@
   "description": "A funky and fluffy Southern Thai dish featuring pears, this air-fry recipe is high in protein and perfect for a snack or dessert. It combines the natural sweetness of pears with the savory flavors of Southern Thai cuisine.",
   "cuisine": "Southern Thai",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,7 +74,6 @@
     "high-protein",
     "one-pan",
     "southern-thai",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -101,5 +99,9 @@
     "mainIngredient": "pear",
     "descriptor": "Dazzling Energizing",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

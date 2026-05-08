@@ -2,10 +2,7 @@
   "title": "Dry Crumbly Argentinian Beef Empanadas",
   "description": "A traditional Argentinian dish featuring beef and herbal flavors, perfect for a post-workout snack, with vegetarian-friendly options by substituting beef with portobello mushrooms or eggplant, and these empanadas can be made crumbly by using a mixture of all-purpose and corn flour, and the beef stock concentrate adds a rich flavor to the filling",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -72,10 +69,8 @@
   "tags": [
     "argentinian",
     "beef",
-    "gluten-free",
     "high-protein",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -101,5 +96,10 @@
     "mainIngredient": "beef",
     "descriptor": "Dry Crumbly",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

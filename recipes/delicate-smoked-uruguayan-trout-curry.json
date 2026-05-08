@@ -63,7 +63,8 @@
     "Reduce the heat to low and let the curry simmer for 10 minutes.",
     "Crack in the eggs and stir gently to distribute the eggs throughout the curry.",
     "Season the curry with salt and pepper to taste.",
-    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+    "Serve the curry hot, garnished with chopped fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "trout",
     "descriptor": "delicate smoked",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

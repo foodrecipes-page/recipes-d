@@ -3,8 +3,7 @@
   "description": "A rich and creamy Tunisian tagine made with boudin blanc, served in a ttukbaegi earthenware cookware.",
   "cuisine": "Tunisian",
   "diet": [
-    "omnivore",
-    "gluten-free"
+    "omnivore"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "Boudin-blanc",
     "descriptor": "Deliciously creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

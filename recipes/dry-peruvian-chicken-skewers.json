@@ -50,7 +50,8 @@
     "Place the skewers on a baking sheet lined with parchment paper.",
     "Dehydrate the chicken in the oven for 3 hours, or until dry and slightly crispy.",
     "Remove the skewers from the oven and let cool completely.",
-    "Serve the dry Peruvian chicken skewers chilled or at room temperature."
+    "Serve the dry Peruvian chicken skewers chilled or at room temperature.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 180,
@@ -87,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "dehydrated snappy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

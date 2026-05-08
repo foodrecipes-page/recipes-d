@@ -3,8 +3,6 @@
   "description": "A traditional Chinese dish featuring deeply fermented pork belly served in a steamed char siu bao, often consumed to cure hangovers. This recipe is suitable for a Buddhist temple-friendly setting.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -41,7 +39,7 @@
   ],
   "prepTimeMin": 4,
   "cookTimeMin": 15,
-  "totalTimeMin": 39,
+  "totalTimeMin": 19,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -74,5 +72,11 @@
     "mainIngredient": "pork belly",
     "descriptor": "Deeply Fermented",
     "dishForm": "Char Siu Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "recomputed-totalTime"
+  ]
 }

@@ -82,7 +82,8 @@
     "Reduce heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Fluff the paella with a fork, and stir in the chopped parsley, dried thyme, and freshly squeezed lemon juice.",
     "Serve hot, garnished with additional parsley if desired.",
-    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together."
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -121,5 +122,9 @@
     "mainIngredient": "whole wheat",
     "descriptor": "delicate light",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

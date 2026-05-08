@@ -3,8 +3,7 @@
   "description": "A high-protein, dense, and fresh flatbread perfect for post-workout snacking. Made with a hint of blue food colouring, this British dish is a twist on traditional flatbreads.",
   "cuisine": "British",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -111,5 +110,9 @@
     "mainIngredient": "dough",
     "descriptor": "Dense Fresh",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

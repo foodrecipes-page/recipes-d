@@ -2,10 +2,7 @@
   "title": "Delicate Filipino Tofu Soup",
   "description": "A light, bitter and creamy bowl of silken tofu in a coconut-ginger broth, perfect for a quick weeknight meal.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -83,7 +80,6 @@
     "low-carb",
     "soup",
     "tofu",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -109,5 +105,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Delicate",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

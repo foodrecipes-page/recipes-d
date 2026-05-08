@@ -3,9 +3,7 @@
   "description": "A festive twist on a classic Canadian comfort dish featuring smoky carrot-based vegan trout and a dramatic brandy flambe finish.",
   "cuisine": "Canadian",
   "diet": [
-    "Vegan",
-    "Vegetarian",
-    "Dairy-Free"
+    "Vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +97,10 @@
     "mainIngredient": "Vegan Trout",
     "descriptor": "Decadent Smoky",
     "dishForm": "Poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

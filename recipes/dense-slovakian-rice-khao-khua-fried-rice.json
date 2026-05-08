@@ -4,8 +4,7 @@
   "cuisine": "slovakian",
   "diet": [
     "vegan",
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "one-pan",
     "rice-bowl",
     "slovakian",
@@ -110,5 +108,9 @@
     "mainIngredient": "Rice-Khao-Khua",
     "descriptor": "Dense",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

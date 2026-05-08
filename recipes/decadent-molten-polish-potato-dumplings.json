@@ -57,7 +57,6 @@
   "tags": [
     "comfort-food",
     "dairy-free",
-    "gluten-free",
     "polish-cuisine",
     "whole30"
   ],
@@ -84,5 +83,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Decadent molten",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

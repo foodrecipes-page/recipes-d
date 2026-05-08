@@ -3,8 +3,7 @@
   "description": "A rich and savory Spanish dish featuring stoned dates and tempering chocolate, perfect for a special occasion, and diabetic friendly due to the use of dark chocolate and portion control.",
   "cuisine": "Spanish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "spanish-cuisine",
     "special-occasion"
@@ -100,5 +98,9 @@
     "mainIngredient": "dates",
     "descriptor": "Decadent Silky",
     "dishForm": "Fideua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

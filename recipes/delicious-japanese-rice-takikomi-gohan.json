@@ -3,7 +3,6 @@
   "description": "A floral and shattering one-pot Japanese dish made with low-glycemic-friendly ingredients, perfect for any meal of the day. This recipe features a gherkin relish and grilled flavors that will leave you wanting more.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "low-glycemic"
   ],
   "meal": "dinner",
@@ -112,5 +111,9 @@
     "mainIngredient": "rice",
     "descriptor": "Delicious",
     "dishForm": "Takikomi-Gohan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

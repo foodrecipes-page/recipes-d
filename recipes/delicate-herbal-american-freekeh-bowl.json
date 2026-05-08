@@ -3,8 +3,7 @@
   "description": "A crisp and refreshing solo dinner dish featuring freekeh, poached chicken, and herbal flavors, all within a keto-friendly framework.",
   "cuisine": "American",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
     "american",
     "crisp",
     "freekeh",
-    "gluten-free",
     "herbal",
     "keto-friendly",
     "poached-chicken"
@@ -92,5 +90,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "delicate herbal",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

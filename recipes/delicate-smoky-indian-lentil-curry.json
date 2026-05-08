@@ -3,8 +3,7 @@
   "description": "A malty, flaky, and romantic Indian dish featuring smoked paprika and bonito-shave, perfect for a special occasion, this dairy-free-friendly curry is served in a lazy-susan-spinner vessel.",
   "cuisine": "Indian",
   "diet": [
-    "dairy-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,8 +73,7 @@
     "indian-cuisine",
     "lentil-recipes",
     "smoky-flavors",
-    "special-occasion",
-    "vegetarian"
+    "special-occasion"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +98,9 @@
     "mainIngredient": "lentils",
     "descriptor": "delicate smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

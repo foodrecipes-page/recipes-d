@@ -3,7 +3,6 @@
   "description": "Tender lamb empanadas with gooey cheese filling, perfect for a crowd.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -104,5 +103,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Dense",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

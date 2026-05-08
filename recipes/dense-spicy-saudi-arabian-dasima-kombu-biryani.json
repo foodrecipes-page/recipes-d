@@ -92,7 +92,8 @@
     "add the dasima-kombu and stir well.",
     "cook for 10-12 minutes or until the liquid has thickened and the flavors have melded together.",
     "stir in the lemon juice and cook for another minute.",
-    "serve hot and garnish with chopped fresh cilantro if desired."
+    "serve hot and garnish with chopped fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -132,5 +133,9 @@
     "mainIngredient": "Dasima-kombu",
     "descriptor": "Dense Spicy",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

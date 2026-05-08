@@ -2,9 +2,7 @@
   "title": "Dense Yunnan Noodles Dan Dan Mian",
   "description": "A spicy, shaggy, light Yunnan noodle dish with lime and coconut cream, egg‑free and perfect for a quick meal.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -111,5 +109,9 @@
     "mainIngredient": "Noodles",
     "descriptor": "Dense",
     "dishForm": "Dan Dan Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

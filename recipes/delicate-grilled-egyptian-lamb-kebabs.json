@@ -2,9 +2,7 @@
   "title": "Delicate Grilled Egyptian Lamb Kebabs",
   "description": "A fresh and aerated Egyptian dish featuring Grand Marnier and miso-marinate, perfect for a special occasion. This halal-friendly recipe is cooked to perfection on a comal.",
   "cuisine": "Egyptian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Delicate Grilled",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

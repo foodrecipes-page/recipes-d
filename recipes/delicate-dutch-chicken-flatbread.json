@@ -63,7 +63,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 22,
-  "totalTimeMin": 97,
+  "totalTimeMin": 52,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -97,5 +97,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Delicate",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

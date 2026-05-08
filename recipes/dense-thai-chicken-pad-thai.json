@@ -66,7 +66,8 @@
     "Meanwhile, soak the rice noodles in warm water for 5 minutes, then drain.",
     "Add the noodles and bean sprouts to the skillet, tossing everything together until the noodles are coated and heated through, about 3 minutes.",
     "Taste the pad thai and adjust seasonings if needed, adding a splash more lime or soy sauce as desired.",
-    "Serve hot, optionally garnished with a sprinkle of toasted sesame seeds or extra lime wedges."
+    "Serve hot, optionally garnished with a sprinkle of toasted sesame seeds or extra lime wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -104,5 +105,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Dense",
     "dishForm": "Pad Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

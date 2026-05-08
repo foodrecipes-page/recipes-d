@@ -72,7 +72,8 @@
     "Reduce heat, simmer uncovered until the rice absorbs most liquid, about 15 minutes.",
     "Gently fold in shrimp and mussels, placing them evenly on top of the rice.",
     "Cover the pan with a lid or foil and cook until mussels open and shrimp turn pink, about 5 minutes.",
-    "Squeeze lemon slices over the paella, garnish with fresh lemon wedges, and serve hot."
+    "Squeeze lemon slices over the paella, garnish with fresh lemon wedges, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -110,5 +111,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Dense Rich",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

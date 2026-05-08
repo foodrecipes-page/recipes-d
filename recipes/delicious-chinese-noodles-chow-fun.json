@@ -3,8 +3,7 @@
   "description": "A quick and savory Chinese dish featuring oyster sauce and wok-hei, perfect for a weeknight dinner. This dairy-free-friendly recipe is made with chow fun noodles and can be prepared in under 30 minutes.",
   "cuisine": "Chinese",
   "diet": [
-    "dairy-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Delicious",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

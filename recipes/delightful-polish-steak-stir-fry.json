@@ -3,8 +3,7 @@
   "description": "A quick, herby Polish steak stir-fry brimming with fermented flavor and low-glycemic ingredients.",
   "cuisine": "Polish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "steak",
     "descriptor": "Delightful",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

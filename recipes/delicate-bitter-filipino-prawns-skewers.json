@@ -3,7 +3,6 @@
   "description": "A delicate and bitter Filipino dish featuring raw frozen prawns, perfect for a date night, this vegan-friendly recipe uses air-fry method for a silky texture.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "prawns",
     "descriptor": "delicate bitter",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

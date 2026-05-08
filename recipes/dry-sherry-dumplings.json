@@ -49,7 +49,8 @@
     "In a separate pan, lightly fry cherry tomatoes in a bit of oil until they start to soften and release their juices.",
     "Divide the pork mixture into small portions. On each portion, spread a thin layer of flour mixture. Place a cherry tomato half on one side of the filling, fold over from the opposite side, seal well, and pinch off any excess dough.",
     "Roll out small amounts of dough until they are about 3-4cm in diameter. Gently place dumplings onto a baking sheet lined with parchment paper.",
-    "Bake at 200°C for 15 minutes or until golden brown. Serve warm with a sprinkle of fresh herbs and extra sherry on the side."
+    "Bake at 200°C for 15 minutes or until golden brown. Serve warm with a sprinkle of fresh herbs and extra sherry on the side.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -78,7 +79,12 @@
     "mood": "monsoon",
     "technique": "rest",
     "primaryIngredient": "dry sherry",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

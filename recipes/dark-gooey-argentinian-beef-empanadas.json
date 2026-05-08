@@ -57,7 +57,8 @@
     "Place a tablespoon of the beef mixture onto the center of each dough circle.",
     "Fold the dough in half over the filling and press the edges together to seal the empanada.",
     "Brush the tops of the empanadas with egg wash.",
-    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "dark gooey",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

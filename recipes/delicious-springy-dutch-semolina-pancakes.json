@@ -53,7 +53,8 @@
     "Heat a non-stick skillet over medium heat and grease with a small amount of butter.",
     "Using a 1/4 cup measuring cup, scoop the batter into the skillet.",
     "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
-    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown."
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Delicious springy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

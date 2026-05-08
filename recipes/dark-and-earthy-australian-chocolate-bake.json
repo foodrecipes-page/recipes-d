@@ -60,8 +60,7 @@
     "australian",
     "bushfood",
     "chocolate",
-    "dessert",
-    "gluten-free"
+    "dessert"
   ],
   "nutrition": {
     "calories": 480,
@@ -86,5 +85,9 @@
     "mainIngredient": "Chocolate",
     "descriptor": "Dark and earthy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

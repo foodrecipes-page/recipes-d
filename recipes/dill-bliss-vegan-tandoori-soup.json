@@ -2,9 +2,7 @@
   "title": "Dill Bliss Vegan Tandoori Soup",
   "description": "A light and flavorful umami soup featuring dill and vegan-friendly ingredients for a sick-day comfort dish reminiscent of Portuguese cuisine.",
   "cuisine": "Vegan, Portuguese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -50,7 +48,6 @@
   "tags": [
     "dill",
     "tandoori",
-    "vegan",
     "soup"
   ],
   "nutrition": {
@@ -72,5 +69,9 @@
     "primaryIngredient": "dill",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

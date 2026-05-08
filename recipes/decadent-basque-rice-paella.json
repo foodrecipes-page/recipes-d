@@ -3,7 +3,6 @@
   "description": "A show-stopping Spanish dish from the Basque region, featuring mixed spice and anti-inflammatory-friendly ingredients.",
   "cuisine": "spanish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Add the kalamata olives and lemon juice, and stir to combine.",
     "Simmer for an additional 5 minutes, or until the rice is cooked and the liquid has been absorbed.",
-    "Remove from heat and let rest for 5 minutes before serving."
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -85,7 +85,6 @@
     "high-protein",
     "one-pan",
     "spanish",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -111,5 +110,10 @@
     "mainIngredient": "rice",
     "descriptor": "Decadent",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

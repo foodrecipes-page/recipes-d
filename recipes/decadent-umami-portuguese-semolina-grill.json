@@ -61,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "aerated",
-    "gluten-free",
     "grilled",
     "portuguese-cuisine",
     "umami-rich",
@@ -90,5 +89,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Decadent Umami",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

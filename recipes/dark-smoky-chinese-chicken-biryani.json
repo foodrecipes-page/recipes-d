@@ -3,7 +3,6 @@
   "description": "A charred and silky Chinese dish featuring lemons and a smoky flavor, made in a Dutch oven, this recipe is onion and garlic free.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "soy-free"
   ],
   "meal": "dinner",
@@ -50,7 +49,8 @@
     "Add the chicken broth and lemon juice, and bring to a boil.",
     "Reduce the heat to low, cover, and simmer for 20 minutes.",
     "Remove from heat and let rest for 5 minutes.",
-    "Fluff the rice and chicken with a fork and serve."
+    "Fluff the rice and chicken with a fork and serve.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -59,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-inspired",
-    "gluten-free",
     "one-pot",
     "smoky",
     "weeknight"
@@ -87,5 +86,10 @@
     "mainIngredient": "chicken",
     "descriptor": "dark smoky",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

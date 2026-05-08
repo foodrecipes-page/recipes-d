@@ -69,11 +69,12 @@
     "Remove from heat and stir in heavy cream, if using.",
     "Transfer the mixture to a shallow dish or tray and let it cool to room temperature.",
     "Cover the dish with plastic wrap and refrigerate for at least 24 hours, or until the mixture has fermented and developed a sticky, chewy texture.",
-    "Cut the mixture into small pieces and serve chilled."
+    "Cut the mixture into small pieces and serve chilled.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
-  "totalTimeMin": 45,
+  "totalTimeMin": 25,
   "servings": 8,
   "difficulty": "hard",
   "tags": [
@@ -106,5 +107,10 @@
     "mainIngredient": "Duck",
     "descriptor": "Dense",
     "dishForm": "Tiradito"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "german",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "plant-based"
   ],
   "meal": "breakfast",
@@ -102,7 +101,6 @@
   "tags": [
     "brunch",
     "german",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan",
@@ -131,5 +129,9 @@
     "mainIngredient": "tempeh",
     "descriptor": "deglazed",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

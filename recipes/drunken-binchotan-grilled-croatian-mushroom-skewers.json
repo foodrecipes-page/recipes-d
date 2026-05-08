@@ -3,8 +3,6 @@
   "description": "A festive fusion dish featuring tender mushrooms marinated in Croatian white wine and fermented bean paste, seared over high-heat binchotan charcoal.",
   "cuisine": "Croatian-Asian Fusion",
   "diet": [
-    "Vegan",
-    "Vegetarian",
     "Dairy-Free"
   ],
   "meal": "dinner",
@@ -70,7 +68,6 @@
   "tags": [
     "binchotan",
     "fusion",
-    "gluten-free",
     "grilled",
     "mushroom-skewers",
     "vegan-friendly"
@@ -98,5 +95,11 @@
     "mainIngredient": "King Oyster Mushroom",
     "descriptor": "Drunken Binchotan Grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

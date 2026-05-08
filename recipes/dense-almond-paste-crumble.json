@@ -2,9 +2,7 @@
   "title": "Dense Almond Paste Crumble",
   "description": "A festive French dessert featuring almond paste and garlic for a unique twist on traditional crumbles, suitable for those with gluten sensitivities.",
   "cuisine": "French",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -57,8 +55,7 @@
   "tags": [
     "almond-paste",
     "dense-crumbly",
-    "festive-dessert",
-    "gluten-free"
+    "festive-dessert"
   ],
   "nutrition": {
     "calories": 320,
@@ -83,5 +80,9 @@
     "mainIngredient": "Almond Paste",
     "descriptor": "Garlicky Dense Festive",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

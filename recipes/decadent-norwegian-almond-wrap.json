@@ -2,9 +2,7 @@
   "title": "Decadent Norwegian Almond Wrap",
   "description": "A nutty, springy wrap inspired by Norwegian flavors, featuring doubanjiang, almond flour, and steamed banana leaves. The dish is gluten-free and served warm for a cozy meal.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "doubanjiang",
-    "gluten-free",
     "leaf-wrap",
     "norwegian",
     "nutty",
@@ -105,5 +102,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Decadent",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

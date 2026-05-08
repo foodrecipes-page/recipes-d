@@ -3,8 +3,6 @@
   "description": "A fresh and energizing Thai dish featuring shredded green papaya, tomatoes, and chilies, served in a dolsot stone bowl, inspired by the streets of Bangkok and Buddhist temple friendly.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -107,5 +105,10 @@
     "mainIngredient": "papaya",
     "descriptor": "Deliciously Dense",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

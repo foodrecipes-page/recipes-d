@@ -2,9 +2,7 @@
   "title": "Deliciously Smoky Italian Turkey Mince Orecchiette",
   "description": "A smoky and crunchy Italian dish featuring turkey mince, orecchiette pasta, and a mantecare emulsification, all made in a quick and easy manner, friendly to gluten-free diets.",
   "cuisine": "Italian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,8 @@
     "Reduce the heat to low and let the sauce simmer while the pasta finishes cooking.",
     "Reserve 1 cup of pasta water before draining the orecchiette, then add the pasta to the skillet, tossing to combine with the sauce and adding some reserved pasta water if the sauce seems too thick.",
     "Stir in the grana padano cheese until melted and well combined, then season with salt and black pepper to taste.",
-    "Serve the orecchiette hot, topped with chopped fresh parsley and a drizzle of extra olive oil if desired."
+    "Serve the orecchiette hot, topped with chopped fresh parsley and a drizzle of extra olive oil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "italian-food",
     "one-pot",
     "pasta-recipes",
@@ -104,5 +102,10 @@
     "mainIngredient": "turkey mince",
     "descriptor": "Deliciously Smoky",
     "dishForm": "Orecchiette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

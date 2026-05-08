@@ -3,8 +3,7 @@
   "description": "A rich, umami-rich dish from Yunnan Province featuring deep red onions and a soffritto-based sauce, served on a cedar plank. This recipe is anti-inflammatory friendly and perfect for a crowd-pleasing dinner.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -117,5 +116,9 @@
     "mainIngredient": "Onions",
     "descriptor": "Deep Red Braised",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

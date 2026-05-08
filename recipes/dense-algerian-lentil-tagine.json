@@ -3,7 +3,6 @@
   "description": "Savory, glassy-jelly lentil tagine made with sake and a beurre-monte style oil finish, perfect for post-workout nourishment.",
   "cuisine": "algerian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

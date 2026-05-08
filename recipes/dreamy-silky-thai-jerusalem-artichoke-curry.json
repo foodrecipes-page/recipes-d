@@ -3,8 +3,7 @@
   "description": "A winey and silky Thai curry featuring Jerusalem artichokes, perfect for a lazy Sunday, with anti-inflammatory friendly ingredients.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,8 +77,7 @@
     "gluten-free",
     "lazy-sunday",
     "one-pan",
-    "thai-curry",
-    "vegetarian"
+    "thai-curry"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +102,9 @@
     "mainIngredient": "Jerusalem artichokes",
     "descriptor": "Dreamy silky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

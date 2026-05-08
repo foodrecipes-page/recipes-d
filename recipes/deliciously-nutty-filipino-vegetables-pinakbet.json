@@ -2,9 +2,7 @@
   "title": "Deliciously Nutty Filipino Pinakbet",
   "description": "A nutty and silky Filipino dish made with chickpea flour and a variety of vegetables.",
   "cuisine": "filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
     "easy-to-make",
     "filipino",
     "one-pan",
-    "vegetarian",
     "vegetarian-friendly",
     "weeknight"
   ],
@@ -103,5 +100,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Deliciously nutty",
     "dishForm": "Pinakbet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

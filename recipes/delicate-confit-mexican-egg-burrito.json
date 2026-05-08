@@ -3,8 +3,7 @@
   "description": "A floral, pillowy, and comforting Mexican dish featuring free-range egg beaten, confit-tomato, and Mediterranean-friendly ingredients, all wrapped in a binchotan-grill burrito.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "egg",
     "descriptor": "Delicate Confit",
     "dishForm": "Burrito"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

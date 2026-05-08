@@ -3,7 +3,6 @@
   "description": "A bitter, molten Vietnamese curry with cashews, coconut milk, and dark chocolate, made with a spice paste from the mortar and pestle.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,8 +77,7 @@
     "cashew-curry",
     "date-night",
     "gluten-free",
-    "one-pot",
-    "vegan"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 284,
@@ -104,5 +102,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Delicious",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

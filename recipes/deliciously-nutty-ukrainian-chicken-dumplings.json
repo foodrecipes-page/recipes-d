@@ -2,9 +2,7 @@
   "title": "Deliciously Nutty Ukrainian Chicken Dumplings",
   "description": "A creamy and nutty Ukrainian dish featuring sweet chilli sauce, air-fried to perfection, and gluten-free friendly, perfect for a monsoon evening.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
   "tags": [
     "air-fryer",
     "creamy",
-    "gluten-free",
     "monsoon-friendly",
     "nutty",
     "ukrainian-cuisine"
@@ -98,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Deliciously nutty",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

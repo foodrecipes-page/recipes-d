@@ -3,7 +3,6 @@
   "description": "A winey and bouncy-qq energizing Thai dish featuring sea bass fillets in a spicy and sour Tom Yum broth. This recipe is anti-inflammatory-friendly and perfect for a weeknight dinner.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -126,5 +125,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "Deliciously energizing",
     "dishForm": "Tom Yum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

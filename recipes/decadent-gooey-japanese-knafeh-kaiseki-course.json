@@ -3,7 +3,6 @@
   "description": "A spicy and gooey Japanese dish featuring knafeh, render fat, and dairy free friendly ingredients, served in a banana leaf vessel as a kaiseki course.",
   "cuisine": "Japanese",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -61,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "banana-leaf",
-    "dairy-free",
     "japanese-inspired",
     "kaiseki-course",
     "vegetarian"
@@ -89,5 +87,9 @@
     "mainIngredient": "Knafeh",
     "descriptor": "Decadent Gooey",
     "dishForm": "Kaiseki Course"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

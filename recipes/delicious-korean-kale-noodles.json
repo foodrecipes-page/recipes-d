@@ -2,9 +2,7 @@
   "title": "Korean Kale Noodles",
   "description": "A nutty and silky Korean dish featuring kale and crispy double-fried chicken, this crowd-pleaser is a must-try for any noodle lover.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,6 @@
   "difficulty": "medium",
   "tags": [
     "crowd-pleaser",
-    "gluten-free",
     "korean-food",
     "noodle-dish",
     "spicy"
@@ -86,5 +83,9 @@
     "mainIngredient": "kale",
     "descriptor": "double fried",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

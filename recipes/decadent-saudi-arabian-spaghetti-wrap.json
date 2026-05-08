@@ -3,7 +3,6 @@
   "description": "A rich and gooey Saudi Arabian dish featuring spaghetti, ssam-wrap, and dairy-free friendly ingredients, perfect for curing hangovers.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "high-carb",
     "one-pan",
     "vegetarian",
@@ -94,5 +92,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "Decadent",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

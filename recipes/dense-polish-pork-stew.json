@@ -63,7 +63,8 @@
     "Pour in the apple cider, sprinkle smoked paprika, and stir to combine all flavors.",
     "Reduce the liquid over medium heat until it thickens into a glassy-jelly consistency, about 15 minutes.",
     "Stir in the sugar-free sweetener to balance acidity and add a subtle sweetness.",
-    "Serve the dense stew hot, optionally garnished with fresh thyme leaves."
+    "Serve the dense stew hot, optionally garnished with fresh thyme leaves.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 115,
@@ -102,5 +103,9 @@
     "mainIngredient": "pork",
     "descriptor": "Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

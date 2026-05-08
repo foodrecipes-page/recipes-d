@@ -62,7 +62,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
-  "totalTimeMin": 45,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Delicate",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

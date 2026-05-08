@@ -75,7 +75,8 @@
     "Add the beef broth and tomato paste. Stir to combine, scraping up any browned bits from the bottom of the pot.",
     "Return the browned beef to the pot, cover it, and transfer it to the preheated oven.",
     "Braise the beef in the preheated oven at 300°F (150°C) for 2 hours, or until it reaches your desired level of tenderness.",
-    "Garnish with chopped fresh cilantro before serving."
+    "Garnish with chopped fresh cilantro before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -113,5 +114,9 @@
     "mainIngredient": "paprika",
     "descriptor": "dense floral",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -55,7 +55,8 @@
     "Add the beef broth and bring the mixture to a boil",
     "Reduce the heat to low and simmer, covered, for 30 minutes",
     "Add the chopped carrots and continue to simmer, covered, for an additional 20 minutes",
-    "Serve the stew hot, garnished with fresh herbs if desired"
+    "Serve the stew hot, garnished with fresh herbs if desired",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -92,5 +93,9 @@
     "mainIngredient": "onion",
     "descriptor": "Deliciously braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

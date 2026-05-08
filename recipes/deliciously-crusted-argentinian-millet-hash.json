@@ -71,7 +71,6 @@
   "tags": [
     "argentinian",
     "comfort-food",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -99,5 +98,9 @@
     "mainIngredient": "Millet",
     "descriptor": "Deliciously Crusted",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "This recipe brings together tender speck, herbal notes, and a tangy ferment-kimchi. Serve with injera or Ethiopian flatbread for a truly immersive experience.",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "lunch",
@@ -106,5 +105,9 @@
     "mainIngredient": "speck",
     "descriptor": "Dense",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

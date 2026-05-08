@@ -57,7 +57,8 @@
     "Add bell peppers and zucchini slices to the wok. Season with paprika, dill, salt, black pepper, and a pinch of sugar (optional). Stir-fry vegetables for another 4-5 minutes.",
     "Pour in water or broth if needed to cover the vegetables. Bring it to a boil then reduce heat to low, cover and simmer gently for about 10 minutes until the zucchini is tender but not mushy.",
     "Garnish with sesame seeds and chopped cilantro before serving.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -94,5 +95,9 @@
     "mainIngredient": "Paprika",
     "descriptor": "Deliciously Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

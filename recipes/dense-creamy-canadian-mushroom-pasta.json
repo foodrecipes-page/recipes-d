@@ -2,10 +2,7 @@
   "title": "Dense Creamy Canadian Mushroom Pasta",
   "description": "A rich and creamy pasta dish featuring Canadian mushrooms and long-fermentation-dough, perfect for a cold winter night. This dish is FODMAP-friendly and made with heavy cream for a silky texture.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +87,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "dense creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

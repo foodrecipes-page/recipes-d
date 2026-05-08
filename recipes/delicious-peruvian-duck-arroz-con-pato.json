@@ -61,7 +61,8 @@
     "Cover the claypot with a lid and transfer it to the preheated oven.",
     "Bake for 25 minutes, or until the rice is cooked and the liquid has been absorbed.",
     "Remove the claypot from the oven and stir in the chopped scallions.",
-    "Serve the arroz con pato hot, garnished with additional scallions if desired."
+    "Serve the arroz con pato hot, garnished with additional scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -98,5 +99,9 @@
     "mainIngredient": "duck",
     "descriptor": "dark charred",
     "dishForm": "Arroz Con Pato"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

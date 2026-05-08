@@ -2,11 +2,7 @@
   "title": "Delicate Dumpling Chinese Pork Xiaolongbao",
   "description": "Floral, fluffy, and romantic Chinese dish featuring ground nutmeg and namul-blanch-season, served in delicate xiaolongbao form on a hot stone plate.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -104,7 +100,8 @@
     "nutrition",
     "nutrition",
     "servings",
-    "difficulty"
+    "difficulty",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "tags": [
     "delicate-dumpling",
@@ -115,7 +112,7 @@
     "weeknight"
   ],
   "difficulty": "medium",
-  "totalTimeMin": 65,
+  "totalTimeMin": 40,
   "prepTimeMin": 15,
   "cookTimeMin": 25,
   "servings": 4,
@@ -142,5 +139,13 @@
     "mainIngredient": "pork",
     "descriptor": "Delicate Dumpling",
     "dishForm": "Xiaolongbao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp",
+    "recomputed-totalTime"
+  ]
 }

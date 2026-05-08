@@ -3,8 +3,7 @@
   "description": "A light, sour, and fluffy Slovakian dish featuring macaroni, pasta-water-emulsion, and ayurvedic-tamasic-friendly ingredients.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "one-pan",
     "slovakian",
     "vegetarian",
@@ -103,5 +101,9 @@
     "mainIngredient": "macaroni",
     "descriptor": "dairy-light",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "a sweet and savory brunch dish featuring jammy beet tibs over a bed of creamy millet gomen. shojin-friendly and perfect for a lazy sunday morning.",
   "cuisine": "ethiopian",
   "diet": [
-    "vegan",
     "vegetarian",
     "gluten-free"
   ],
@@ -82,7 +81,6 @@
     "high-protein",
     "one-pan",
     "shojin-friendly",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -108,5 +106,9 @@
     "mainIngredient": "millet",
     "descriptor": "Deliciously Jammy",
     "dishForm": "Gomen Beet Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

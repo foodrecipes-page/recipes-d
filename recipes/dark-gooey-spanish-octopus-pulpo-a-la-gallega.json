@@ -2,9 +2,7 @@
   "title": "Dark Gooey Spanish Octopus Pulpo A La Gallega",
   "description": "A vegetarian friendly Spanish dish featuring beer and kombu cold extract, this pulpo a la gallega is a midnight craving must have, with a rich mustardy flavor and gooey texture.",
   "cuisine": "Spanish",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,8 +71,7 @@
     "midnight-craving",
     "one-pot",
     "seafood",
-    "spanish-food",
-    "vegetarian"
+    "spanish-food"
   ],
   "nutrition": {
     "calories": 320,
@@ -99,5 +96,9 @@
     "mainIngredient": "octopus",
     "descriptor": "dark gooey",
     "dishForm": "Pulpo A La Gallega"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

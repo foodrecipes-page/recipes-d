@@ -2,9 +2,7 @@
   "title": "Dense Argentinian Chocolate Chips Brownies",
   "description": "Fresh, dense, and rich Argentinian-style brownies featuring dark chocolate chips, perfect as a post-workout treat. This vegan-friendly dessert is made with wholesome ingredients.",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "argentinian",
     "chocolate",
     "brownies",
-    "vegan",
     "dessert"
   ],
   "nutrition": {
@@ -89,5 +86,9 @@
     "mainIngredient": "chocolate chips",
     "descriptor": "dense post workout",
     "dishForm": "Brownies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

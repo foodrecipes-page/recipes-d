@@ -2,10 +2,7 @@
   "title": "dill-pickle mexican tacos",
   "description": "A kid-friendly twist on traditional Mexican tacos featuring dill pickles. Serve at lunch or dinner, and adjust to taste.",
   "cuisine": "mexican",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -60,7 +57,8 @@
     "Add the diced onion to the skillet and cook until softened, about 2 minutes.",
     "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the tacos by spooning the chicken mixture onto a tortilla, followed by a few slices of pickle, a sprinkle of cumin and chili powder, and a dollop of sour cream if using.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -96,5 +94,11 @@
     "mainIngredient": "tacos",
     "descriptor": "dill-pickle",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

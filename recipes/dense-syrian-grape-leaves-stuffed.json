@@ -54,7 +54,8 @@
     "Place the stuffed grape leaves in a large pot, seam-side down.",
     "Add enough water to the pot to cover the grape leaves.",
     "Bring the water to a boil, then reduce the heat to low and simmer for 30 minutes.",
-    "Serve the grape leaves hot, garnished with lemon juice and olive oil."
+    "Serve the grape leaves hot, garnished with lemon juice and olive oil.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "Grape leaves",
     "descriptor": "Dense",
     "dishForm": "Stuffed"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

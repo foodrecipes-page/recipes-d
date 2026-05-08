@@ -59,7 +59,8 @@
     "In a greased 9x13 inch baking dish, create a layer of potatoes.",
     "Pour some of the wine sauce over the potatoes, then sprinkle with some of the chopped parsley and a pinch of salt and pepper.",
     "Repeat the layering process until all the ingredients have been used, finishing with a layer of potatoes on top.",
-    "Dot the top of the potatoes with the unsalted butter."
+    "Dot the top of the potatoes with the unsalted butter.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -97,5 +98,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Delicate spring",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

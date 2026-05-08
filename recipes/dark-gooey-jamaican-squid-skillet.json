@@ -2,9 +2,7 @@
   "title": "Dark Gooey Jamaican Squid Skillet",
   "description": "A pungent and nostalgic Jamaican dish featuring squid, this recipe is halal-friendly and cooked to perfection on a tava-griddle.",
   "cuisine": "Jamaican",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,6 @@
   "difficulty": "medium",
   "tags": [
     "caribbean",
-    "halal",
     "jamaican",
     "one-pan",
     "seafood",
@@ -89,5 +86,9 @@
     "mainIngredient": "squid",
     "descriptor": "dark gooey",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

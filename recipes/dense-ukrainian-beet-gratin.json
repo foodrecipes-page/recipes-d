@@ -3,7 +3,6 @@
   "description": "A hearty, bitter, juicy beet gratin that doubles as a hangover cure, made with vegan butter and baked to caramelized perfection.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -80,7 +79,6 @@
     "gluten-free",
     "hangover-cure",
     "one-pan",
-    "vegan",
     "wood-fired"
   ],
   "nutrition": {
@@ -106,5 +104,9 @@
     "mainIngredient": "Beet",
     "descriptor": "Dense",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

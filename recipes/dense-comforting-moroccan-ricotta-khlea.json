@@ -3,8 +3,7 @@
   "description": "A rich and comforting dessert made with Moroccan spices, creamy ricotta cheese, and a hint of bitterness from the bitter orange blossom water. Perfect for a cold winter night.",
   "cuisine": "Moroccan",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -73,5 +72,9 @@
     "mainIngredient": "Ricotta",
     "descriptor": "Dense Comforting",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

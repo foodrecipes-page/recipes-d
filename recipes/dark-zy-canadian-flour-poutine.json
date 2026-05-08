@@ -29,7 +29,8 @@
     "Cook the pickles for 2-3 minutes until they start to soften, then add in 1 tablespoon of chopped scallions and cook for another minute.",
     "Assemble the poutine by placing a portion of the fried flour strips on the bottom of a bowl, then topping with a spoonful of the pickle mixture, and finally finishing with a sprinkle of grated cheddar cheese.",
     "Serve immediately and enjoy!",
-    "Bake the poutine in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly."
+    "Bake the poutine in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -66,5 +67,9 @@
     "mainIngredient": "flour",
     "descriptor": "dark-zy",
     "dishForm": "poutine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

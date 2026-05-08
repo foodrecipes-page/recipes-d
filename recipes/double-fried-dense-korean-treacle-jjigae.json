@@ -3,7 +3,6 @@
   "description": "A low-glycemic Korean dish featuring treacle, inspired by the richness of KFC's double-fried chicken. This dense, sour jjigae is a twist on traditional Korean recipes.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "low-glycemic"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "treacle",
     "descriptor": "Double-Fried, Dense",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

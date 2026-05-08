@@ -3,9 +3,7 @@
   "description": "Moist, pillowy sponge cake infused with pepper and deep-fried to perfection with dark chocolate.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -70,9 +68,7 @@
     "british",
     "chocolate",
     "deep-fried",
-    "gluten-free",
-    "pepper",
-    "vegan"
+    "pepper"
   ],
   "nutrition": {
     "calories": 320,
@@ -97,5 +93,10 @@
     "mainIngredient": "chocolate",
     "descriptor": "Dark, Peppery",
     "dishForm": "Victoria Sponge Cake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

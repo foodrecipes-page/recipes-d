@@ -2,9 +2,7 @@
   "title": "Delicate Dutch Corn Chowder",
   "description": "A bright citrusy chowder with a glassy, jelly-like texture, simmered in a mason jar for quick weeknight meals.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,7 +77,6 @@
     "glassy-chowder",
     "mason-jar",
     "one-pot",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +102,9 @@
     "mainIngredient": "corn",
     "descriptor": "Delicate",
     "dishForm": "Chowder"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

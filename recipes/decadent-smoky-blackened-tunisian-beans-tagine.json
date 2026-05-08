@@ -4,7 +4,6 @@
   "cuisine": "North African",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -124,7 +123,6 @@
     "north-african",
     "one-pan",
     "tunisian",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -151,5 +149,9 @@
     "mainIngredient": "beans",
     "descriptor": "Decadent Smoky Blackened",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

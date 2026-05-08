@@ -3,8 +3,7 @@
   "description": "A bitter and crunchy vegetable dish originating from Algeria, featuring unflavored gelatin and cooked in a ttukbaegi earthenware pot, also known as a cazuela, this recipe is jain friendly.",
   "cuisine": "Algerian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,8 +77,7 @@
     "bitter",
     "crunchy",
     "jain-friendly",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 220,
@@ -104,5 +102,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "dry crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

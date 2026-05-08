@@ -3,8 +3,7 @@
   "description": "A high-protein Jamaican dish featuring green red lentils in a rich and earthy curry, perfect for adventurous eaters. This crumbly and flavorful curry is a great option for a weeknight dinner.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "green red lentils",
     "descriptor": "Deliciously earthy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

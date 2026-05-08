@@ -54,7 +54,9 @@
     "Add the paprika, salt, and black pepper, and stir to combine.",
     "Pour in the chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to medium-low and cook, uncovered, for 10 minutes, stirring occasionally.",
-    "Serve hot, garnished with chopped fresh parsley if desired."
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -92,5 +94,10 @@
     "mainIngredient": "pork",
     "descriptor": "Deliciously savory",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

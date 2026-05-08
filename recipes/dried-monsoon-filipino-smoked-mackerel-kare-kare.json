@@ -3,7 +3,6 @@
   "description": "A traditional Filipino dish with a twist, featuring smoked mackerel and a rich, mustardy flavor, made in a kadhai vessel.",
   "cuisine": "Filipino",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -96,11 +95,16 @@
     "mood": "monsoon",
     "technique": "render-fat",
     "primaryIngredient": "smoked-mackerel",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "smoked mackerel",
     "descriptor": "dried monsoon",
     "dishForm": "Kare Kare"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "aligned-axes-diet"
+  ]
 }

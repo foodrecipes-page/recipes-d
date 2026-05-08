@@ -3,8 +3,7 @@
   "description": "A light and refreshing Chinese soup featuring wontons and summer savoury, perfect for a low-carb diet",
   "cuisine": "Chinese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -54,7 +53,9 @@
     "In a large pot, bring the chicken broth to a boil.",
     "Add the wontons to the pot and cook for 5 minutes, or until they float to the surface.",
     "Stir in sesame oil and chopped green onions.",
-    "Serve the soup hot."
+    "Serve the soup hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -63,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-cuisine",
-    "gluten-free",
     "light-meal",
     "low-carb",
     "refreshing-soup"
@@ -91,5 +91,11 @@
     "mainIngredient": "summer savoury",
     "descriptor": "Delicate Light",
     "dishForm": "Wonton Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

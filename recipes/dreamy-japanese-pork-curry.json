@@ -55,7 +55,8 @@
     "Add the yuzu juice, salt, and pepper, and stir to combine.",
     "Add the whole milk and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, until the pork is tender, about 20 minutes.",
-    "Serve hot, garnished with chopped scallions if desired."
+    "Serve hot, garnished with chopped scallions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "dreamy creamy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

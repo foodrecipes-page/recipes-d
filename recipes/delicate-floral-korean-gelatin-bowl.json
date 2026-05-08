@@ -2,9 +2,7 @@
   "title": "Delicate Floral Korean Gelatin Bowl",
   "description": "A pillowy, fragrant dessert that layers subtle floral notes in a chilled stone bowl, perfect for a halal-friendly Korean treat.",
   "cuisine": "Korean",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "Delicate Floral",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

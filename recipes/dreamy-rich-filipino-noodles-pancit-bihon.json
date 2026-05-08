@@ -2,9 +2,7 @@
   "title": "Dreamy Rich Filipino Noodles Pancit Bihon",
   "description": "A rich and creamy Filipino noodle dish featuring a sweet and savory jam-based sauce, perfect for a lazy Sunday meal, made with halal-friendly ingredients and a tadka twist, in the form of traditional pancit bihon.",
   "cuisine": "Filipino",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "noodles",
     "descriptor": "dreamy rich",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

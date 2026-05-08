@@ -3,7 +3,6 @@
   "description": "Peppery, juicy, and aromatic Normandy rillettes featuring Pecorino-Romano cheese, perfect for a casual dinner or snack. Serve with toasted bread or crackers for an effortless and flavorful meal.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
     "dairy"
   ],
   "meal": "dinner",
@@ -50,7 +49,8 @@
     "Transfer the mixture to a saucepan and add the unsalted butter. Heat over low heat, stirring constantly, until the butter has melted and the rillettes have reached a smooth, creamy consistency.",
     "Remove the saucepan from the heat and let the rillettes cool to room temperature before serving.",
     "Transfer the rillettes to a serving dish or ramekins and refrigerate for at least 2 hours to allow the flavors to meld and the cheese to firm up.",
-    "Serve the rillettes chilled, garnished with fresh thyme and crusty bread or crackers on the side."
+    "Serve the rillettes chilled, garnished with fresh thyme and crusty bread or crackers on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
@@ -88,5 +88,10 @@
     "mainIngredient": "Pecorino-Romano",
     "descriptor": "Dense",
     "dishForm": "Rillettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

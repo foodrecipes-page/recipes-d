@@ -44,7 +44,8 @@
     "Pour in the stock concentrate and simmer for another minute.",
     "Remove from heat and stir in pickled radish and sliced pepperoni until evenly distributed.",
     "Garnish with green onion and serve warm as a side dish or main course.",
-    "Optional: Serve over rice or noodles for a complete meal."
+    "Optional: Serve over rice or noodles for a complete meal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Hangover-Cured",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

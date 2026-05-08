@@ -4,8 +4,7 @@
   "cuisine": "polish",
   "diet": [
     "vegan",
-    "sattvic",
-    "gluten-free"
+    "sattvic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "difficulty": "hard",
   "tags": [
     "date-night",
-    "gluten-free",
     "herbal",
     "polish",
     "sattvic",
@@ -103,5 +101,9 @@
     "mainIngredient": "chewy polish",
     "descriptor": "date night",
     "dishForm": "Polish Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

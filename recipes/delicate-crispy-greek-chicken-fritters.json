@@ -3,8 +3,7 @@
   "description": "Tender Greek chicken fritters made with rice flour pancakes and a hint of Mediterranean flavors. Perfect for a romantic dinner.",
   "cuisine": "Greek",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Drop tablespoon-sized balls of the batter onto the skillet and flatten slightly.",
     "Cook for 3-4 minutes on each side, until golden brown and crispy.",
     "Serve hot and enjoy!",
-    "If desired, serve with a side of tzatziki sauce or a simple salad."
+    "If desired, serve with a side of tzatziki sauce or a simple salad.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -76,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "greek",
     "low-glycemic",
     "one-pan",
@@ -106,5 +105,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Delicate Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

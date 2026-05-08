@@ -3,8 +3,7 @@
   "description": "A yeasty and pillowy Uruguayan dish featuring cod, cooked to perfection using sous-vide, without onion or garlic, making it friendly to all palates.",
   "cuisine": "Uruguayan",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "cod",
     "descriptor": "dreamy pillowy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

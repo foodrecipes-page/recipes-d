@@ -3,8 +3,7 @@
   "description": "A festive Mexican dish featuring toor dal, stir-fry, and anti-inflammatory friendly ingredients, with a salty and fluffy texture. This dish is perfect for special occasions and can be served as a main course.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "festive",
-    "gluten-free",
     "mexican",
     "one-pan",
     "special-occasion",
@@ -103,5 +101,9 @@
     "mainIngredient": "toor dal",
     "descriptor": "delicious festive",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

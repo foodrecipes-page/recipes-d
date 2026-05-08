@@ -3,7 +3,6 @@
   "description": "Sour, fluffy, meal-prep Malaysian dish featuring celery, pressure-cooked, ayurvedic-sattvic-friendly, served in a clay cazuela. Perfect for a weeknight dinner or meal prep for the next day.",
   "cuisine": "malaysian",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "pescatarian"
   ],
@@ -86,7 +85,6 @@
     "celery",
     "meal-prep",
     "pressure-cooked",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -112,5 +110,10 @@
     "mainIngredient": "celery",
     "descriptor": "Dense Pressure- Cooked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

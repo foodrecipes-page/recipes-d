@@ -3,7 +3,6 @@
   "description": "A mustardy and pillowy Tunisian dish featuring snapper fish, perfect for a date night, cooked to perfection in a bamboo steamer using a bain-marie method.",
   "cuisine": "Tunisian",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -74,7 +73,8 @@
     "Place the steamer over a pot of boiling water, making sure the water level is below the bottom of the steamer.",
     "Cover the pot with a lid and steam the fish for 12 minutes.",
     "Remove the steamer from the pot and let it cool for a few minutes.",
-    "Serve the fish hot, garnished with chopped fresh parsley and lemon wedges."
+    "Serve the fish hot, garnished with chopped fresh parsley and lemon wedges.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -112,5 +112,10 @@
     "mainIngredient": "snapper fish",
     "descriptor": "delicate mustardy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

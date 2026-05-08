@@ -3,8 +3,7 @@
   "description": "A yeasty and creamy Algerian dish featuring hoisin sauce and flambe, made with ayurvedic-sattvic-friendly ingredients, served on a talavera plate.",
   "cuisine": "Algerian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "dreamy creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

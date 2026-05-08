@@ -56,7 +56,8 @@
     "Add the turmeric powder, salt, and black pepper to the bowl and stir to combine.",
     "Add the confit tomatoes and apple cider vinegar to the bowl and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
-    "Serve the adobo hot, garnished with chopped fresh herbs if desired."
+    "Serve the adobo hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -93,5 +94,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Deliciously Dense",
     "dishForm": "Adobo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

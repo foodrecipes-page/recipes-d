@@ -4,7 +4,6 @@
   "cuisine": "middle eastern",
   "diet": [
     "raw-friendly",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -73,8 +72,7 @@
     "easy-to-make",
     "gluten-free",
     "middle-eastern",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 220,
@@ -99,5 +97,9 @@
     "mainIngredient": "dates",
     "descriptor": "Dessert-like, Chewy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

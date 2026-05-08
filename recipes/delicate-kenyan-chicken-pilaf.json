@@ -63,7 +63,8 @@
     "Stir in the basmati rice, cover the clay pot, and reduce the heat to low.",
     "Let the pilaf steam for 18 to 20 minutes, or until the rice is tender and the liquid is absorbed.",
     "Remove the pot from heat and let it sit, covered, for 5 minutes to allow the grains to fluff.",
-    "Fluff the rice with a fork, taste and adjust seasoning if necessary, then serve hot."
+    "Fluff the rice with a fork, taste and adjust seasoning if necessary, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Delicate",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

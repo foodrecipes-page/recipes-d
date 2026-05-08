@@ -83,11 +83,15 @@
     "mood": "energizing",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "stilton cheese",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "northern-irish",
     "cuisineAdjective": "British",
     "mainIngredient": "Stilton Cheese",
     "descriptor": "Deliciously Rich",
     "dishForm": "Spotted Dick"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

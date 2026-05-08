@@ -3,9 +3,6 @@
   "description": "A rich, post-workout American dish featuring melted butter, confit-tomato, and a glassy-jelly texture. Suitable for satvik diet.",
   "cuisine": "American",
   "diet": [
-    "vegan",
-    "gluten-free",
-    "dairy-free",
     "nut-free"
   ],
   "meal": "breakfast",
@@ -86,5 +83,11 @@
     "mainIngredient": "butter",
     "descriptor": "melted-smoky",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

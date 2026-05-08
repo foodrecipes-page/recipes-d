@@ -3,8 +3,7 @@
   "description": "A one-pot dish that combines the flavors of Jamaica and France, with a citrusy twist.",
   "cuisine": "caribbean",
   "diet": [
-    "sattvic",
-    "vegetarian"
+    "sattvic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -111,5 +110,9 @@
     "mainIngredient": "Andouille-French",
     "descriptor": "Diced, Snappy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

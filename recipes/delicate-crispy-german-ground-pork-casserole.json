@@ -3,7 +3,6 @@
   "description": "A savory German dish featuring ground pork, crispy on the outside and delicate on the inside, made in individual mini cocottes. This meal prep friendly recipe is onion and garlic free.",
   "cuisine": "German",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -52,7 +51,8 @@
     "Dip each oval into the breadcrumbs, pressing gently to adhere, then place in individual mini cocottes.",
     "Drizzle the tops with vegetable oil.",
     "Bake for 25 minutes, then increase the oven temperature to 425 degrees Fahrenheit and continue baking for an additional 10 minutes, or until crispy and golden brown.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -63,7 +63,6 @@
     "crispy-top",
     "dairy-free",
     "german-cuisine",
-    "gluten-free",
     "ground-pork",
     "meal-prep"
   ],
@@ -90,5 +89,10 @@
     "mainIngredient": "ground pork",
     "descriptor": "Delicate Crispy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

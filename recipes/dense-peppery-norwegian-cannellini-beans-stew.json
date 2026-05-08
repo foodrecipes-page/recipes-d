@@ -2,9 +2,7 @@
   "title": "Dense Peppery Norwegian Cannellini Beans Stew",
   "description": "A hearty, comforting stew originating from Norway, featuring cannellini beans, cured in shio-koji, as the main attraction.",
   "cuisine": "Norwegian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "Dense peppery",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

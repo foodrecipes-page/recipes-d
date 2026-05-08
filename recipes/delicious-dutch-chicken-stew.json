@@ -62,7 +62,8 @@
     "Add 4 cups of water to the pot and bring to a boil.",
     "Reduce the heat to low and simmer for 30 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "delicious juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

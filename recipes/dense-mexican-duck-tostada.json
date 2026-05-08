@@ -2,9 +2,7 @@
   "title": "Dense Mexican Duck Tostada",
   "description": "A malty, chewy, dairy-free Mexican dish featuring shredded duck, coconut-tamarind sauce, and crispy tostada shells, served in an earthenware bowl.",
   "cuisine": "Mexican",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dense",
     "malty",
     "mexican",
@@ -104,5 +101,9 @@
     "mainIngredient": "duck",
     "descriptor": "Dense",
     "dishForm": "Tostada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

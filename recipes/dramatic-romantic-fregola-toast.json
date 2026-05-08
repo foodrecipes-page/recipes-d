@@ -3,8 +3,7 @@
   "description": "a winey, molten, romantic malaysian dish featuring fregola, toast, and seafood. perfect for a candlelit evening in.",
   "cuisine": "malaysian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indulgent",
     "one-pan",
     "pescatarian",
@@ -111,5 +109,9 @@
     "mainIngredient": "fregola",
     "descriptor": "dramatic",
     "dishForm": "toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

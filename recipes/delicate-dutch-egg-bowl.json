@@ -2,9 +2,7 @@
   "title": "Delicate Dutch Egg Bowl",
   "description": "An airy, low-sodium brunch bowl featuring sous‑vied eggs, dashi‑infused tofu, and a touch of sesame oil.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
     "egg-bowl",
     "low-sodium",
     "quick",
-    "sous-vide",
-    "vegetarian"
+    "sous-vide"
   ],
   "nutrition": {
     "calories": 270,
@@ -95,5 +92,9 @@
     "mainIngredient": "Egg",
     "descriptor": "Delicate",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

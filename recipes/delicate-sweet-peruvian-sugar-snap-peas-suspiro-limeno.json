@@ -4,8 +4,7 @@
   "cuisine": "Peruvian",
   "diet": [
     "Whole30",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -56,7 +55,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "dessert",
     "flaky",
     "gluten-free",
@@ -87,5 +85,9 @@
     "mainIngredient": "sugar snap peas",
     "descriptor": "delicate sweet",
     "dishForm": "Suspiro Limeno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

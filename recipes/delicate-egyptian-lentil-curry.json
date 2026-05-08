@@ -3,8 +3,7 @@
   "description": "A fragrant, anti-inflammatory curry with panang paste, yuzu zest, and earthy lentils that captures the essence of a monsoon in Cairo.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,8 +75,7 @@
     "easy-curry",
     "egyptian",
     "herbal",
-    "monsoon",
-    "vegan"
+    "monsoon"
   ],
   "nutrition": {
     "calories": 1100,
@@ -102,5 +100,9 @@
     "mainIngredient": "lentil",
     "descriptor": "Delicate",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

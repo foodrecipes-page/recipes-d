@@ -60,7 +60,8 @@
     "Drizzle hoisin sauce over the chicken and stir to coat evenly.",
     "Pour in lemon juice, reduce heat, and simmer for 5 to 7 minutes until the sauce thickens.",
     "Add dried dill and chopped parsley, stir to combine.",
-    "Serve immediately over a bed of rice or noodles."
+    "Serve immediately over a bed of rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Delicate",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

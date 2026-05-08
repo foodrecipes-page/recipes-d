@@ -2,9 +2,7 @@
   "title": "Deliciously Char Grilled Jamaican Chicken Skewers",
   "description": "A briny and springy Jamaican dish featuring char-grilled chicken skewers, perfect for a sick day, made with whole milk and gluten-free friendly ingredients, cooked on a comal.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "difficulty": "medium",
   "tags": [
     "comal-cooking",
-    "gluten-free",
     "grilled-chicken",
     "high-protein",
     "jamaican-cuisine",
@@ -91,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "deliciously char-grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }
