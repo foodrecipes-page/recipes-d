@@ -1,0 +1,95 @@
+{
+  "title": "Dark Molten Filipino Pork Dinuguan",
+  "description": "A traditional Filipino dish with a twist, featuring biryani masala and a molten texture, served in a tagliere vessel. This sugar-free-friendly recipe is perfect for dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large tagliere vessel over medium heat on a yakimono-grill.",
+    "Add the pork shoulder and cook until browned on all sides.",
+    "Add the garlic and onion and cook until the onion is translucent.",
+    "Add the biryani masala, salt, and black pepper, and stir to combine.",
+    "Add the pork blood and vinegar, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir the mixture occasionally to prevent scorching.",
+    "Serve the dinuguan hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-recipe",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pot",
+    "pork-recipe",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dark-molten-filipino-pork-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-molten-filipino-pork-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:59:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "biryani masala",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Dark Molten",
+    "dishForm": "Dinuguan"
+  }
+}

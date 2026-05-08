@@ -1,0 +1,99 @@
+{
+  "title": "Decadent Dutch Oven Mushroom Stew",
+  "description": "A romantic and umami-rich pescatarian-friendly stew featuring mushrooms and a flambe touch, perfect for a cozy evening",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "mix of cremini and shiitake"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the Dutch oven over medium heat until melted",
+    "Add the sliced onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the mushrooms and cook until they release their liquid and start to brown",
+    "Add the white wine and flambe the mixture by igniting the wine with a match",
+    "Once the flames have died down, add the fish stock, thyme, bay leaves, salt, and pepper",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Serve hot, garnished with fresh thyme if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "mushroom-based",
+    "one-pot",
+    "pescatarian-friendly",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "decadent-dutch-oven-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-dutch-oven-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:00:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "mushrooms",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Decadent Dutch Oven",
+    "dishForm": "Stew"
+  }
+}

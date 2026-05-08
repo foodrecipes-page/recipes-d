@@ -305,6 +305,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-molten-filipino-pork-dinuguan",
+    "title": "Dark Molten Filipino Pork Dinuguan",
+    "tags": [
+      "dinner-recipe",
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pot",
+      "pork-recipe",
+      "sugar-free"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "dark-molten-jamaican-chicken-curry",
     "title": "Dark Molten Jamaican Chicken Curry",
     "tags": [
@@ -1057,6 +1072,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-dutch-oven-mushroom-stew",
+    "title": "Decadent Dutch Oven Mushroom Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "mushroom-based",
+      "one-pot",
+      "pescatarian-friendly",
+      "romantic-dinner"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
