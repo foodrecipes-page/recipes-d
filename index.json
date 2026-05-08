@@ -3546,6 +3546,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-slovakian-grape-leaves-dumplings",
+    "title": "Delicate Slovakian Grape Leaves Dumplings",
+    "tags": [
+      "comfort-food",
+      "jain-friendly",
+      "kid-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-smoked-uruguayan-trout-curry",
     "title": "Delicate Smoked Uruguayan Trout Curry",
     "tags": [
@@ -5790,6 +5805,21 @@
     ],
     "cuisine": "thaicuisine",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-spicy-thai-mushroom-curry",
+    "title": "Deliciously Spicy Thai Mushroom Curry",
+    "tags": [
+      "halal-friendly",
+      "mushroom-based",
+      "one-pan",
+      "spicy",
+      "thai-curry",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
