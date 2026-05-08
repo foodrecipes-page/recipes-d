@@ -1,0 +1,98 @@
+{
+  "title": "Deliciously Smoky Norwegian Mulukhiyah Stew",
+  "description": "A hearty and smoky Norwegian stew featuring mulukhiyah, perfect for a lazy Sunday, and keto-friendly. This dish is slow-cooked to bring out the rich flavors of the ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt-baked lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with smoked paprika and let it sit at room temperature for 30 minutes.",
+    "In a large Dutch oven, sear the lamb shoulder over medium-high heat until browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the mulukhiyah, beef broth, and browned lamb shoulder to the pot, making sure that the lamb is mostly submerged.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the stew for 2.5 hours, or until the lamb is tender and falling off the bone.",
+    "Stir in the heavy cream and cook for an additional 10 minutes, until the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "norwegian-cuisine",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "deliciously-smoky-norwegian-mulukhiyah-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoky-norwegian-mulukhiyah-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "deliciously smoky",
+    "dishForm": "Stew"
+  }
+}
