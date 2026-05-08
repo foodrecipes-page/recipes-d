@@ -1,0 +1,95 @@
+{
+  "title": "Dreamy Gooey Brazilian Mussels Paella",
+  "description": "A savory and nostalgic Brazilian dish featuring mussels, cooked to perfection in a tandoor, with a macrobiotic-friendly twist, combining the flavors of Brazil with the richness of paella.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the tandoor over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mussels, saffron threads, smoked paprika, and sea salt, and stir to combine.",
+    "Add the tomato paste and stir to combine.",
+    "Cook for 10 minutes, or until the mussels are cooked through and the sauce is gooey.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, paella is cooked over an open flame, but a tandoor can be used as a substitute.",
+    "Make sure to adjust the heat as needed to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "flavorful",
+    "macrobiotic",
+    "one-pan",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dreamy-gooey-brazilian-mussels-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-gooey-brazilian-mussels-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:13:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "mussels",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mussels",
+    "descriptor": "dreamy gooey",
+    "dishForm": "Paella"
+  }
+}
