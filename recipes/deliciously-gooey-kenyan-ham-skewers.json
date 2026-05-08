@@ -1,0 +1,95 @@
+{
+  "title": "Deliciously Gooey Kenyan Ham Skewers",
+  "description": "A kid-friendly Kenyan dish featuring charred and gooey ham, perfect for a snack or dinner. This ovo-vegetarian-friendly recipe is easy to make and fun to eat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the diced ham, bell peppers, onions, mushrooms, and pineapple chunks onto skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the ham is charred and the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as roasted potatoes or a green salad.",
+    "Repeat the recipe as needed to feed a crowd."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grilled",
+    "healthy",
+    "kid-friendly",
+    "oven-optional",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "deliciously-gooey-kenyan-ham-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-gooey-kenyan-ham-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:39:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "ham",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "ham",
+    "descriptor": "deliciously gooey",
+    "dishForm": "Skewers"
+  }
+}
