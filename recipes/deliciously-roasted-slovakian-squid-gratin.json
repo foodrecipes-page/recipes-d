@@ -1,0 +1,99 @@
+{
+  "title": "Deliciously Roasted Slovakian Squid Gratin",
+  "description": "A tender and energizing Slovakian dish featuring roasted squid, this gratin is perfect for a dinner meal, and is ovo-vegetarian-friendly. It combines the flavors of squid, bhuna, and vegetables in a rich and satisfying way.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "12 oz",
+      "notes": "cleaned and cut into 1 inch pieces"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the squid to the skillet and cook until it is opaque and tender.",
+    "In a small bowl, mix together the bhuna sauce and vegetable broth.",
+    "Add the bhuna sauce mixture to the skillet and stir to combine.",
+    "Transfer the mixture to individual mini cocottes.",
+    "Top each cocotte with grated cheese and bread crumbs.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "ovo-vegetarian",
+    "roasted",
+    "seafood",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-roasted-slovakian-squid-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-slovakian-squid-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "squid",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "squid",
+    "descriptor": "deliciously roasted",
+    "dishForm": "Gratin"
+  }
+}
