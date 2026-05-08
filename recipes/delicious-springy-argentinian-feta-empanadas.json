@@ -1,0 +1,101 @@
+{
+  "title": "Delicious Springy Argentinian Feta Empanadas",
+  "description": "A kid-friendly Argentinian dish featuring feta and a nimono-simmer, these empanadas are perfect for a fun and tasty snack. The combination of feta and springy dough creates a delicious umami flavor.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for nimono-simmer"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balancing flavor"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "for springy dough"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and sugar in a large mixing bowl to create the empanada dough.",
+    "Gradually add water to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of feta cheese in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes, or until golden brown.",
+    "Let the empanadas cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "feta",
+    "kid-friendly",
+    "nimono-simmer",
+    "springy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicious-springy-argentinian-feta-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-springy-argentinian-feta-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "feta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "feta",
+    "descriptor": "delicious springy",
+    "dishForm": "Empanadas"
+  }
+}
