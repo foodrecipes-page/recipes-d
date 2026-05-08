@@ -1,0 +1,101 @@
+{
+  "title": "Delicate British Turkey Neck Skewers",
+  "description": "A romantic British dish featuring malty and silky turkey neck, lacquer-glazed to perfection, and grilled on a robata-grill for a unique flavor experience, this anti-inflammatory friendly recipe is perfect for a special dinner",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit",
+    "Thread the turkey neck onto skewers, leaving a small space between each piece",
+    "In a small bowl, whisk together the malt syrup, olive oil, honey, apple cider vinegar, ginger powder, garlic powder, salt, and black pepper",
+    "Brush the mixture onto the turkey neck, making sure to coat all surfaces evenly",
+    "Grill the skewers for 15 minutes, turning occasionally, or until the turkey reaches an internal temperature of 165 degrees Fahrenheit",
+    "During the last 2 minutes of cooking, brush the skewers with the lacquer glaze",
+    "Remove the skewers from the grill and garnish with chopped fresh thyme",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "grilled-meat",
+    "low-carb",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-british-turkey-neck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-british-turkey-neck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:33:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "turkey neck",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "turkey neck",
+    "descriptor": "delicate lacquer glaze",
+    "dishForm": "Skewers"
+  }
+}
