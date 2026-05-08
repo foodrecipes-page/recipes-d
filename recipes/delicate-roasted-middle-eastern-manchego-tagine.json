@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Roasted Middle Eastern Manchego Tagine",
+  "description": "A cozy and flavorful Middle Eastern dish featuring roasted Manchego cheese, served in an agave leaf vessel with a glassy jelly texture, perfect for a cold evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the agave leaves and pat them dry with a paper towel.",
+    "In a small bowl, mix together olive oil, honey, sumac, and lemon juice.",
+    "Place a large agave leaf in a baking dish and brush the oil mixture onto the leaf.",
+    "Crumble the Manchego cheese onto the center of the agave leaf.",
+    "Fold the agave leaf over the cheese to form a packet.",
+    "Roast the packet in the oven for 20 minutes, or until the cheese is melted and the leaf is caramelized.",
+    "While the cheese is roasting, steam the pomegranate seeds and parsley in a steamer basket until tender.",
+    "Remove the packet from the oven and let it cool for a few minutes.",
+    "Serve the roasted Manchego cheese in the agave leaf vessel, topped with steamed pomegranate seeds and parsley, and drizzled with the remaining oil mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "flavorful",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "delicate-roasted-middle-eastern-manchego-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roasted-middle-eastern-manchego-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "manchego",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "manchego",
+    "descriptor": "Delicate Roasted",
+    "dishForm": "Tagine"
+  }
+}
