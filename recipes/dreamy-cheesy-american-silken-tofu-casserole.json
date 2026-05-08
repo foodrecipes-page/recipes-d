@@ -1,0 +1,100 @@
+{
+  "title": "Dreamy Cheesy American Silken Tofu Casserole",
+  "description": "A romantic American dish featuring silken tofu in a rich, cheesy sauce, perfect for a cozy dinner, this low-sodium casserole is simmered to perfection and served hot on a stone plate.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "low-sodium cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "low-sodium mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": "for simmering"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic in olive oil until softened.",
+    "Add the cubed silken tofu to the skillet and cook until lightly browned.",
+    "In a separate saucepan, whisk together the low-sodium vegetable broth and all-purpose flour to make a thickening agent.",
+    "Bring the broth mixture to a simmer and cook until thickened, stirring constantly.",
+    "Remove the saucepan from the heat and stir in the shredded low-sodium cheddar and mozzarella cheese until melted and smooth.",
+    "In a large bowl, combine the cooked silken tofu, sauteed onion and garlic, and cheesy sauce, stirring until well combined.",
+    "Transfer the mixture to a hot stone plate and bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-comfort-food",
+    "cozy-dinner",
+    "low-sodium",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "dreamy-cheesy-american-silken-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-cheesy-american-silken-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:38:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "silken tofu",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "silken tofu",
+    "descriptor": "dreamy cheesy",
+    "dishForm": "Casserole"
+  }
+}

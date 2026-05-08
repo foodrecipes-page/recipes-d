@@ -5780,6 +5780,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-shredded-venezuelan-beef-empanadas",
+    "title": "Deliciously Shredded Venezuelan Beef Empanadas",
+    "tags": [
+      "beef-recipes",
+      "empanada-recipes",
+      "meal-prep",
+      "shojin-friendly",
+      "snack-recipes",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-smoked-kenyan-chicken-kebabs",
     "title": "Deliciously Smoked Kenyan Chicken Kebabs",
     "tags": [
@@ -8241,6 +8256,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-cheesy-american-silken-tofu-casserole",
+    "title": "Dreamy Cheesy American Silken Tofu Casserole",
+    "tags": [
+      "american-comfort-food",
+      "cozy-dinner",
+      "low-sodium",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
