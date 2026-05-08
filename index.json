@@ -1937,6 +1937,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-basque-chicken-paella",
+    "title": "Delicate Basque Chicken Paella",
+    "tags": [
+      "chicken-recipes",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "spanish-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-basque-vermicelli-pasta",
     "title": "Delicate Basque Vermicelli Pasta",
     "tags": [

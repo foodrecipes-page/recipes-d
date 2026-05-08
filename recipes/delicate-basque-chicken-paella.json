@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Basque Chicken Paella",
+  "description": "A traditional Basque dish with a French twist, featuring chicken, tarragon, and a lacquer glaze, made with low glycemic ingredients. This paella is perfect for a special dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Add the tarragon, salt, and pepper to the pan and stir to combine.",
+    "Add the Arborio rice to the pan and stir to combine with the chicken and onion mixture.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
+    "Brush the lacquer glaze over the top of the paella and continue to cook for an additional 5 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "delicate-basque-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-basque-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tarragon-french",
+    "diet": "low-glycemic",
+    "region": "basque",
+    "cuisineAdjective": "basque",
+    "mainIngredient": "chicken",
+    "descriptor": "delicate malty",
+    "dishForm": "Paella"
+  }
+}
