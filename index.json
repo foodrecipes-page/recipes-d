@@ -3635,6 +3635,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-peruvian-duck-arroz-con-pato",
+    "title": "Delicious Peruvian Duck Arroz Con Pato",
+    "tags": [
+      "claypot-cooking",
+      "diabetic-friendly",
+      "duck-recipes",
+      "one-pot-meals",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-portuguese-cheese-pie",
     "title": "Delicious Portuguese Cheese Pie",
     "tags": [
@@ -5267,6 +5281,21 @@
     ],
     "cuisine": "northern thai",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-dutch-navy-bean-stew",
+    "title": "Dense Dutch Navy Bean Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "gluten-free",
+      "one-pot",
+      "vegetarian",
+      "winter-stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 90,
     "shard": "d"
   },
   {

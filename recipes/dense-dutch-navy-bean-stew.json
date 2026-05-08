@@ -1,0 +1,111 @@
+{
+  "title": "Dense Dutch Navy Bean Stew",
+  "description": "A hearty and flavorful Dutch dish featuring dried white navy beans, perfect for a crowd, this stew is cooked in individual mini cocottes and served in stone bowls, making it a unique and satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pot, saute the chopped onion, carrot, and celery in a little bit of oil until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the soaked and drained navy beans, vegetable broth, tomato paste, dried thyme, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Divide the stew among individual mini cocottes, leaving about 1 inch of space at the top.",
+    "Cover the cocottes with lids and transfer them to the preheated oven.",
+    "Bake the stew for 45 minutes, or until the beans are tender and the liquid has thickened.",
+    "Remove the cocottes from the oven and let them cool for a few minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "dense-dutch-navy-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-dutch-navy-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:11:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "navy beans",
+    "descriptor": "Dense Dutch",
+    "dishForm": "Stew"
+  }
+}

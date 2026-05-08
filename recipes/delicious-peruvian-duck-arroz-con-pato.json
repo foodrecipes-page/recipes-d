@@ -1,0 +1,102 @@
+{
+  "title": "Delicious Peruvian Duck Arroz Con Pato",
+  "description": "A traditional Peruvian dish made with duck, rice, and spices, served in a claypot. This charred and snappy meal is a great hangover cure.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "casabe",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "char-grill-yang sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peruvian spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck legs with peruvian spices, salt, and black pepper.",
+    "Heat the olive oil in the claypot over medium heat and sear the duck legs until browned.",
+    "Add the chicken broth, char-grill-yang sauce, and crushed casabe to the claypot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the uncooked white rice to the claypot and stir to combine.",
+    "Cover the claypot with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the claypot from the oven and stir in the chopped scallions.",
+    "Serve the arroz con pato hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "diabetic-friendly",
+    "duck-recipes",
+    "one-pot-meals",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "delicious-peruvian-duck-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-peruvian-duck-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:12:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "casabe",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "dark charred",
+    "dishForm": "Arroz Con Pato"
+  }
+}
