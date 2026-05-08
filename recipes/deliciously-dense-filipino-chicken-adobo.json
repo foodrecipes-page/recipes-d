@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Dense Filipino Chicken Adobo",
+  "description": "A traditional Filipino dish made with chicken, turmeric powder, and confit tomatoes, cooked in an earthenware bowl, this adobo is a hearty and flavorful meal, ayurvedic sattvic friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the earthenware bowl over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the bowl and cook until it is browned on all sides.",
+    "Add the turmeric powder, salt, and black pepper to the bowl and stir to combine.",
+    "Add the confit tomatoes and apple cider vinegar to the bowl and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve the adobo hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "dairy-free",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-dense-filipino-chicken-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-filipino-chicken-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:44:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "confit-tomato",
+    "primaryIngredient": "turmeric powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Deliciously Dense",
+    "dishForm": "Adobo"
+  }
+}

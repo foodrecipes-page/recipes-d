@@ -3601,6 +3601,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-filipino-chicken-adobo",
+    "title": "Deliciously Dense Filipino Chicken Adobo",
+    "tags": [
+      "ayurvedic-friendly",
+      "dairy-free",
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pot"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-french-cheese-gratin",
     "title": "Deliciously Dense French Cheese Gratin",
     "tags": [
@@ -3819,6 +3833,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-slovakian-pork-roast",
+    "title": "Deliciously Roasted Slovakian Pork Roast",
+    "tags": [
+      "comfort-food",
+      "european-cuisine",
+      "family-dinner",
+      "one-pot",
+      "roasted-meats"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 110,
     "shard": "d"
   },
   {

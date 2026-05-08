@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Roasted Slovakian Pork Roast",
+  "description": "A savory and energizing Slovakian dish featuring a deliciously roasted pork roast, seasoned with kosher salt and cooked to perfection in a donabe vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Season the pork roast with kosher salt, black pepper, garlic powder, and onion powder.",
+    "Heat the olive oil in the donabe vessel over medium-high heat.",
+    "Sear the pork roast in the donabe vessel until browned on all sides.",
+    "Add the chopped carrots and potatoes to the donabe vessel.",
+    "Transfer the donabe vessel to the preheated oven.",
+    "Roast the pork and vegetables in the oven for 20 minutes per pound.",
+    "Remove the donabe vessel from the oven and let the pork rest for 10 minutes.",
+    "Slice the pork roast and serve with the roasted carrots and potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "family-dinner",
+    "one-pot",
+    "roasted-meats"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "deliciously-roasted-slovakian-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-slovakian-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:44:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "kosher salt",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "deliciously roasted",
+    "dishForm": "Roast"
+  }
+}
