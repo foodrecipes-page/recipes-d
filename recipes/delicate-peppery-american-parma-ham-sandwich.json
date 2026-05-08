@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Peppery American Parma Ham Sandwich",
+  "description": "A romantic American dish featuring peppery parma ham and mushimono-steam, perfect for a special occasion, this nut-free-friendly sandwich is sure to impress.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shaggy pepper lettuce",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for mushimono-steam"
+    }
+  ],
+  "instructions": [
+    "Begin by preparing the mushimono-steam by boiling the water in a large pot.",
+    "Reduce the heat to a simmer and place a steamer basket over the pot.",
+    "Add the shaggy pepper lettuce to the steamer basket and cover with a lid.",
+    "Steam the lettuce for 2 minutes, or until it is slightly wilted.",
+    "Butter one side of each slice of white bread.",
+    "Spread mayonnaise on the unbuttered side of two slices of bread.",
+    "Add two slices of parma ham to each slice of bread with mayonnaise.",
+    "Top the parma ham with a spoonful of steamed lettuce and a sprinkle of black pepper.",
+    "Spread Dijon mustard on the unbuttered side of the remaining two slices of bread.",
+    "Place the slices of bread with Dijon mustard on top of the sandwiches to complete them."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "delicate-peppery-american-parma-ham-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peppery-american-parma-ham-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:40:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "parma ham",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "parma ham",
+    "descriptor": "delicate peppery",
+    "dishForm": "Sandwich"
+  }
+}

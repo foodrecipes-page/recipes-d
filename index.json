@@ -3678,6 +3678,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-peppery-american-parma-ham-sandwich",
+    "title": "Delicate Peppery American Parma Ham Sandwich",
+    "tags": [
+      "american-classic",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-peppery-british-tofu-ploughmans",
     "title": "Delicate Peppery British Tofu Ploughmans",
     "tags": [
@@ -6250,6 +6265,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoky-algerian-lamb-kebabs",
+    "title": "Deliciously Smoky Algerian Lamb Kebabs",
+    "tags": [
+      "brunch-ideas",
+      "grilled-meats",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Smoky Algerian Lamb Kebabs",
+  "description": "Fatty and bouncy Algerian lamb kebabs featuring lime juice, perfect for a brunch mood, made with ayurvedic sattvic friendly ingredients and cooked on a yakimono grill.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh herbs and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grilled-meats",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "deliciously-smoky-algerian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoky-algerian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:41:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "lime juice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously smoky",
+    "dishForm": "Kebabs"
+  }
+}
