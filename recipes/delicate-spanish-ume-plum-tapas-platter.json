@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Spanish Ume Plum Tapas Platter",
+  "description": "A resinous and snappy Spanish dish featuring ume-plum with an al-dente finish, perfect for a nostalgic tapas experience. This macrobiotic-friendly platter is a delightful combination of flavors and textures.",
+  "cuisine": "Spanish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ume plums",
+      "amount": "12",
+      "notes": "pickled in salt and sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pimenton",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together olive oil, garlic, lemon juice, pimenton, and sea salt.",
+    "Arrange the pickled ume plums on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil mixture over the ume plums and toss to coat.",
+    "Roast the ume plums in the preheated oven for 10 minutes, or until they are slightly caramelized.",
+    "While the ume plums are roasting, toast the sliced almonds in a small skillet over medium heat.",
+    "In a large serving platter, arrange the roasted ume plums, toasted almonds, chopped parsley, and crumbled manchego cheese.",
+    "Drizzle any remaining olive oil mixture over the top of the platter and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "macrobiotic-friendly",
+    "plum-recipes",
+    "spanish-cuisine",
+    "tapas-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "delicate-spanish-ume-plum-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-spanish-ume-plum-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ume-plum",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "ume plum",
+    "descriptor": "Delicate resinous",
+    "dishForm": "Tapas Platter"
+  }
+}
