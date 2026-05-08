@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Herby Algerian Lamb Tagine",
+  "description": "A rich and snappy Algerian dish featuring lamb, mitsuba, and dum, perfect for a brunch mood, served on a slate tile vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "raw friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "dum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped mitsuba, dum, garlic, ginger, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with additional chopped mitsuba if desired.",
+    "Place the tagine on a slate tile vessel to serve.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "herby-dishes",
+    "lamb-recipes",
+    "raw-friendly",
+    "slate-tile-serving"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "delicate-herby-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herby-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "mitsuba",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "delicate herby",
+    "dishForm": "Tagine"
+  }
+}
