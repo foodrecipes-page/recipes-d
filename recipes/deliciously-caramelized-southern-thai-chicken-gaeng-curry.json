@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Caramelized Southern Thai Chicken Gaeng Curry",
+  "description": "A citrusy and snappy Southern Thai dish featuring caramelized chicken and coconut flakes, perfect for a brunch mood, this curry is also FODMAP friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gaeng curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the coconut flakes to the skillet and cook, stirring constantly, until lightly toasted, about 2 minutes.",
+    "Add the gaeng curry paste to the skillet and cook, stirring constantly, for 1 minute.",
+    "Add the fish sauce, lime juice, palm sugar, salt, and black pepper to the skillet and stir to combine.",
+    "Add the chicken back to the skillet and stir to coat with the curry sauce.",
+    "Reduce heat to low and simmer, uncovered, until the chicken is cooked through and the sauce has thickened, about 10 minutes.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "coconut-based",
+    "fodmap-friendly",
+    "gluten-free",
+    "southern-thai",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-caramelized-southern-thai-chicken-gaeng-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-caramelized-southern-thai-chicken-gaeng-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:30:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "coconut flakes",
+    "diet": "fodmap",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously caramelized",
+    "dishForm": "Gaeng Curry"
+  }
+}

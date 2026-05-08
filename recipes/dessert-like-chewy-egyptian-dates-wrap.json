@@ -1,0 +1,103 @@
+{
+  "title": "Egyptian Date Delight",
+  "description": "A romantic dessert-like treat from Egypt featuring chewy dates and crispy egg roll wrappers.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "raw-friendly",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "8-10 wrappers",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "12-15 dates",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp",
+      "notes": "or sunflower seed butter for a nut-free option"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler.",
+    "In a small bowl, mix together almond butter, maple syrup, vanilla extract, and salt.",
+    "Add a spoonful of the almond butter mixture to the center of each egg roll wrapper.",
+    "Place 2-3 pitted dates on top of the almond butter mixture.",
+    "Sprinkle coconut flakes and shredded coconut on top of the dates.",
+    "Brush edges of the egg roll wrapper with water.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up to form a tight cylinder.",
+    "Place the wrapped dates on a baking sheet lined with parchment paper.",
+    "Broil for 2-3 minutes on each side, or until the wrappers are golden brown.",
+    "Serve warm and enjoy!",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "gluten-free",
+    "middle-eastern",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "dessert-like-chewy-egyptian-dates-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dessert-like-chewy-egyptian-dates-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "Dessert-like, Chewy",
+    "dishForm": "Wrap"
+  }
+}

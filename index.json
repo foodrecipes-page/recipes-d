@@ -3315,6 +3315,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-caramelized-southern-thai-chicken-gaeng-curry",
+    "title": "Deliciously Caramelized Southern Thai Chicken Gaeng Curry",
+    "tags": [
+      "brunch-idea",
+      "coconut-based",
+      "fodmap-friendly",
+      "gluten-free",
+      "southern-thai",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
     "title": "Deliciously Citrusy Japanese Colby Jack Cheese Nabemono",
     "tags": [
@@ -5621,6 +5636,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "dessert-like-chewy-egyptian-dates-wrap",
+    "title": "Egyptian Date Delight",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "gluten-free",
+      "middle-eastern",
+      "romantic",
+      "vegan"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 16,
     "shard": "d"
   },
   {
