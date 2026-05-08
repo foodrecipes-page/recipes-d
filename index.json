@@ -3740,6 +3740,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-vegan-canadian-baby-new-potato-hash",
+    "title": "Delicate Vegan Canadian Baby New Potato Hash",
+    "tags": [
+      "canadian",
+      "one-pan",
+      "potato",
+      "side-dish",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-velvety-turkish-turkey-papillote",
     "title": "Delicate Velvety Turkish Turkey Papillote",
     "tags": [
@@ -5970,6 +5985,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-dry-ethiopian-red-lentils-misir-wot",
+    "title": "Dense Dry Ethiopian Red Lentils Misir Wot",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "spicy",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-dutch-navy-bean-stew",
     "title": "Dense Dutch Navy Bean Stew",
     "tags": [
@@ -6724,6 +6754,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 100,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-roasted-greek-vegetable-casserole",
+    "title": "Dense Roasted Greek Vegetable Casserole",
+    "tags": [
+      "casserole",
+      "greek-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "roasted-vegetables",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {

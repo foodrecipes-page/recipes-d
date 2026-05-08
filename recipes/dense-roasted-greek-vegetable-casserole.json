@@ -1,0 +1,110 @@
+{
+  "title": "Dense Roasted Greek Vegetable Casserole",
+  "description": "A light and flavorful Greek dish featuring roasted vegetables and piccalilli, perfect for a weeknight dinner. This ovo-vegetarian friendly casserole is dense and satisfying.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant and zucchini with salt to draw out excess moisture.",
+    "Let the vegetables sit for 10 minutes, then rinse and pat dry with paper towels.",
+    "In a separate bowl, whisk together the beaten eggs and a pinch of salt and pepper.",
+    "In a large skillet, roast the sliced red bell pepper over medium heat until tender, about 10 minutes.",
+    "In a greased 9x13 inch baking dish, create a layer of roasted bell pepper.",
+    "Add a layer of eggplant and zucchini slices, followed by a sprinkle of feta cheese, olives, and parsley.",
+    "Pour some of the egg mixture over the vegetables, then repeat the layering process until all ingredients are used, ending with a layer of egg mixture on top.",
+    "Bake the casserole in the preheated oven for 40 minutes, or until the eggs are set and the top is golden brown.",
+    "Let the casserole rest for 10 minutes before slicing and serving with a side of piccalilli."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "greek-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "roasted-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "dense-roasted-greek-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-roasted-greek-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:51:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "piccalilli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vegetables",
+    "descriptor": "Dense Roasted",
+    "dishForm": "Casserole"
+  }
+}
