@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Crunchy Mediterranean Duck Confit",
+  "description": "A rich and indulgent Mediterranean dish featuring crispy duck confit leg, served with a flavorful saute, macrobiotic-friendly ingredients and a crunchy texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "confit style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and quartered"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Season the duck legs with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the duck legs until browned on all sides.",
+    "Transfer the duck legs to a baking dish and roast in the oven for 20 minutes.",
+    "In the same skillet, add the minced garlic and cook for 1 minute.",
+    "Add the lemon juice, sliced olives, artichoke hearts, and sun dried tomatoes to the skillet and cook for 2 minutes.",
+    "Stir in the chopped parsley and cook for an additional minute.",
+    "To serve, place a roasted duck leg on each plate and top with the saute and crumbled feta cheese.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "macrobiotic",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "decadent-crunchy-mediterranean-duck-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-crunchy-mediterranean-duck-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:20:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "duck",
+    "descriptor": "Decadent Crunchy",
+    "dishForm": "Confit"
+  }
+}
