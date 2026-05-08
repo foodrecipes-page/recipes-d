@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Mexican Pork Tacos Al Pastor",
+  "description": "A sweet and shaggy Mexican dish featuring red chilli flakes and a shio-cure, served in a copper mug as tacos al pastor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium high heat.",
+    "In a large bowl, combine the sliced pork, red chilli flakes, shio cure, onion, and garlic.",
+    "Mix well to coat the pork evenly.",
+    "Thread the pork mixture onto skewers, if desired.",
+    "Grill the pork for 10-12 minutes, or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the grilled pork and serving it in the tortillas with pineapple, cilantro, and a squeeze of lime juice.",
+    "Serve the tacos in a copper mug, if desired.",
+    "Garnish with additional cilantro and pineapple, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "grilled-pork",
+    "low-glycemic",
+    "mexican-food",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:10:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "shio-cure",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Dry Spiced",
+    "dishForm": "Tacos Al Pastor"
+  }
+}

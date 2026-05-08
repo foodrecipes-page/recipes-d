@@ -2612,6 +2612,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-mexican-pork-tacos-al-pastor",
+    "title": "Delicate Mexican Pork Tacos Al Pastor",
+    "tags": [
+      "copper-mug",
+      "grilled-pork",
+      "low-glycemic",
+      "mexican-food",
+      "tacos-al-pastor"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-mexican-redcurrants-horchata-bowl",
     "title": "Delicate Mexican Redcurrants Horchata Bowl",
     "tags": [
