@@ -1,0 +1,94 @@
+{
+  "title": "Dark Rich Polish Boudin Noir Tartine",
+  "description": "A rich and romantic Polish dish featuring boudin noir, served with a glassy jelly and a touch of binchotan charcoal, perfect for a flexitarian friendly dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "also known as blood sausage"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1/4 cup",
+      "notes": "activated charcoal powder"
+    },
+    {
+      "name": "red wine reduction",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apple cider jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baguette slices",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Slice the boudin noir into 1/2 inch thick rounds",
+    "Heat the olive oil in a skillet over medium heat",
+    "Add the chopped shallots to the skillet and cook until caramelized",
+    "Add the red wine reduction to the skillet and cook until reduced by half",
+    "Add the boudin noir slices to the skillet and cook for 2-3 minutes per side",
+    "Toast the baguette slices in the oven for 5-7 minutes",
+    "Spread a layer of apple cider jelly on each toasted baguette slice",
+    "Top each baguette slice with a slice of boudin noir, a sprinkle of binchotan charcoal powder, and a sprinkle of chopped fresh thyme"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charcoal-recipes",
+    "flexitarian-friendly",
+    "jelly-topped",
+    "polish-cuisine",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "dark-rich-polish-boudin-noir-tartine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-rich-polish-boudin-noir-tartine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "boudin-noir",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Dark Rich",
+    "dishForm": "Tartine"
+  }
+}
