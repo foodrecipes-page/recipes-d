@@ -2161,6 +2161,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-algerian-pappardelle-pasta",
+    "title": "Delicate Algerian Pappardelle Pasta",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "mediterranean",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-american-chocolate-pancake",
     "title": "Delicate American Chocolate Pancake",
     "tags": [
