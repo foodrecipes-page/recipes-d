@@ -1,0 +1,94 @@
+{
+  "title": "Delicious Springy Dutch Semolina Pancakes",
+  "description": "Savory semolina pancakes with a springy texture, featuring pickle and perfect for a nostalgic Dutch meal, this ovo-vegetarian friendly dish is a treat for the senses, bringing back memories of traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together semolina, flour, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in chopped pickle and parsley.",
+    "Let the batter rest for 10 minutes to allow the semolina to absorb the liquid.",
+    "Heat a non-stick skillet over medium heat and grease with a small amount of butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the skillet.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "dutch-recipes",
+    "ovo-vegetarian",
+    "semolina-recipes",
+    "springy-pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "delicious-springy-dutch-semolina-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-springy-dutch-semolina-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:06:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "semolina",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "semolina",
+    "descriptor": "Delicious springy",
+    "dishForm": "Pancakes"
+  }
+}
