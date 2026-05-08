@@ -2477,6 +2477,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-crumbly-korean-rice-flour-jeon",
+    "title": "Delicate Crumbly Korean Rice Flour Jeon",
+    "tags": [
+      "crumbly-texture",
+      "hot-pot-recipe",
+      "korean-cuisine",
+      "tempering-chocolate",
+      "umami-rich",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-decadent-roasted-herring-wrap",
     "title": "Delicate Decadent Roasted Herring Wrap",
     "tags": [
@@ -4006,6 +4021,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-springy-saudi-arabian-lamb-pilaf",
+    "title": "Delicate Springy Saudi Arabian Lamb Pilaf",
+    "tags": [
+      "brunch-ideas",
+      "high-protein",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-steamed-brazilian-cherry-stew",
     "title": "Delicate Steamed Brazilian Cherry Stew",
     "tags": [
@@ -4149,6 +4179,20 @@
       "lamb-recipes",
       "low-sodium",
       "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-turkish-tomato-icli-kofte",
+    "title": "Delicate Turkish Tomato Icli Kofte",
+    "tags": [
+      "fermented-food",
+      "middle-eastern",
+      "plant-based",
+      "turkish-cuisine",
+      "vegan-friendly"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,

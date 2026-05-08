@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Turkish Tomato Icli Kofte",
+  "description": "A traditional Turkish dish featuring fermented and fluffy icli kofte filled with a tomato and mother sauce base, perfect for a plant-based friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fine bulgur",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the fine bulgur in water overnight and drain well.",
+    "In a large bowl, combine the soaked bulgur, chopped red onion, tomato paste, salt, and black pepper, and mix well.",
+    "Gradually add the olive oil to the bulgur mixture and knead for about 10 minutes until it becomes fluffy.",
+    "Divide the bulgur mixture into small balls and flatten each ball slightly into a disk shape.",
+    "Place a tablespoon of the canned crushed tomatoes in the center of each disk.",
+    "Fold the bulgur over the filling to form a ball and seal the edges well.",
+    "Repeat with the remaining bulgur mixture and filling.",
+    "Serve the icli kofte warm, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "middle-eastern",
+    "plant-based",
+    "turkish-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-turkish-tomato-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-turkish-tomato-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:56:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "tomato",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "tomato",
+    "descriptor": "Delicate",
+    "dishForm": "Icli Kofte"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Crumbly Korean Rice Flour Jeon",
+  "description": "A traditional Korean dish featuring crumbly rice flour pancakes, this jeon is a vegetarian friendly and umami rich treat, often served in a hot pot vessel and paired with tempering chocolate for a unique flavor combination.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "finely milled"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, all purpose flour, salt, sugar, and black pepper.",
+    "Gradually add in water and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a hot pot vessel over medium heat.",
+    "Using a ladle, drop small amounts of the batter into the oil and cook until the bottom is golden brown.",
+    "Loosen the jeon with a spatula and flip it over to cook the other side.",
+    "Once cooked, remove the jeon from the oil and place it on a paper towel lined plate to drain excess oil.",
+    "Serve the jeon hot with melted tempering chocolate, chopped kimchi, and green onions.",
+    "Repeat the cooking process with the remaining batter.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-texture",
+    "hot-pot-recipe",
+    "korean-cuisine",
+    "tempering-chocolate",
+    "umami-rich",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delicate-crumbly-korean-rice-flour-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crumbly-korean-rice-flour-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:57:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "vegetarian",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice flour",
+    "descriptor": "Delicate Crumbly",
+    "dishForm": "Jeon"
+  }
+}
