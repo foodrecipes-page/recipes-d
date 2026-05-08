@@ -1,0 +1,93 @@
+{
+  "title": "Dark Charred Norwegian Lamb Skewers",
+  "description": "Tender and flavorful lamb skewers charred to perfection, served on a hot stone plate, featuring the distinct taste of Shaoxing wine",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together Shaoxing wine, olive oil, garlic, ginger, black pepper, and salt",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube",
+    "Place the skewers on the preheated hot stone plate and cook for 5 minutes per side",
+    "Brush the lamb with the brown sugar during the last minute of cooking",
+    "Remove the skewers from the heat and let rest for 5 minutes before serving",
+    "Serve the lamb skewers on the hot stone plate, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-meats",
+    "hot-stone-cooking",
+    "kosher-friendly",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "shaoxing-wine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dark-charred-norwegian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-charred-norwegian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:28:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "dark charred",
+    "dishForm": "Skewers"
+  }
+}

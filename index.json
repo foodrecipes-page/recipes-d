@@ -142,6 +142,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-charred-norwegian-lamb-skewers",
+    "title": "Dark Charred Norwegian Lamb Skewers",
+    "tags": [
+      "charred-meats",
+      "hot-stone-cooking",
+      "kosher-friendly",
+      "lamb-recipes",
+      "norwegian-cuisine",
+      "shaoxing-wine"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-choco-tandoori-salad",
     "title": "Dark Choco Tandoori Salad",
     "tags": [
@@ -1788,6 +1803,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-crispy-german-ground-pork-casserole",
+    "title": "Delicate Crispy German Ground Pork Casserole",
+    "tags": [
+      "crispy-top",
+      "dairy-free",
+      "german-cuisine",
+      "gluten-free",
+      "ground-pork",
+      "meal-prep"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-crispy-japanese-carrot-tamagoyaki",
     "title": "Delicate Crispy Japanese Carrot Tamagoyaki",
     "tags": [
@@ -3092,6 +3122,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-japanese-rice-biryani",
+    "title": "Delicious Japanese Rice Biryani",
+    "tags": [
+      "arabic-influence",
+      "gluten-free",
+      "japanese-cuisine",
+      "one-pot",
+      "rainy-day",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
