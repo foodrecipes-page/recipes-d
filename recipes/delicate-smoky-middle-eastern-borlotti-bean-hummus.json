@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Smoky Middle Eastern Borlotti Bean Hummus",
+  "description": "A smoky and light Middle Eastern dish featuring borlotti beans and confit tomato, perfect for a healthy snack or appetizer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 350 degrees Fahrenheit.",
+    "In a blender or food processor, combine the borlotti beans, confit tomato, lemon juice, tahini, garlic, smoked paprika, salt, and black pepper.",
+    "Blend the mixture on high speed until smooth and creamy.",
+    "With the blender or food processor running, slowly pour in the olive oil.",
+    "Continue blending until the hummus is light and fluffy.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the hummus to a serving bowl and garnish with a sprinkle of smoked paprika.",
+    "Serve the hummus on the preheated hot stone plate, garnished with additional confit tomato if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy-snack",
+    "middle-eastern",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-smoky-middle-eastern-borlotti-bean-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-middle-eastern-borlotti-bean-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:57:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "confit-tomato",
+    "primaryIngredient": "borlotti beans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Delicate Smoky",
+    "dishForm": "Hummus"
+  }
+}
