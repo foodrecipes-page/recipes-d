@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Crunchy Mexican Corn Sopes",
+  "description": "A funky, crumbly, and delicious Mexican dish featuring icing sugar and papillote, perfect for a snack or light meal. This jain-friendly recipe is made with sopes and served on a lazy-susan-spinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Masa harina",
+      "amount": "2 cups",
+      "notes": "fine corn flour"
+    },
+    {
+      "name": "Icing sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the masa harina and icing sugar.",
+    "Gradually add in the vegetable oil and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle using a rolling pin.",
+    "Place a sheet of papillote paper on top of each circle and brush with a little water.",
+    "Top each sope with a spoonful of corn kernels, a sprinkle of salt, and a pinch of chili powder.",
+    "Fold the papillote paper over the filling to form a packet and bake for 15 minutes.",
+    "Serve the sopes hot with a squeeze of lime juice and a sprinkle of icing sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "jain-friendly",
+    "mexican",
+    "one-pan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-crunchy-mexican-corn-sopes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crunchy-mexican-corn-sopes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:07:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "icing sugar",
+    "diet": "jain",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "delicate crunchy",
+    "dishForm": "Sopes"
+  }
+}
