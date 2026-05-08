@@ -1,0 +1,103 @@
+{
+  "title": "Deliciously Crispy Ethiopian Lentils Misir Wot",
+  "description": "A bitter, crispy, and comforting Ethiopian dish featuring fajita seasoning, this vegetarian-friendly Misir Wot is served in a Korean brass bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the fajita seasoning, berbere spice, salt, and black pepper, and stir for 1 minute.",
+    "Add the rinsed lentils and water to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Use a whisk to mash some of the lentils and create a thicker consistency.",
+    "Increase the heat to medium-high and cook for an additional 5 minutes, or until the lentils are crispy.",
+    "Serve the Misir Wot hot in a Korean brass bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-protein",
+    "lentil-recipes",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "deliciously-crispy-ethiopian-lentils-misir-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-ethiopian-lentils-misir-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:54:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Deliciously crispy",
+    "dishForm": "Misir Wot"
+  }
+}
