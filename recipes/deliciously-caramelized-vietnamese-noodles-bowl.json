@@ -1,0 +1,105 @@
+{
+  "title": "Deliciously Caramelized Vietnamese Noodles Bowl",
+  "description": "A tangy and springy Vietnamese dish featuring caramelized dasima-kombu, perfect for kids and macrobiotic diets, served in a Korean brass bowl.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "dasima-kombu",
+      "amount": "2 sheets",
+      "notes": "dried seaweed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the dasima-kombu sheets and cook for 2 minutes, stirring constantly.",
+    "Add the soy sauce, fish sauce, and lime juice, and stir to combine.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the skillet and stir to combine with the caramelized onion and dasima-kombu mixture.",
+    "Top with bean sprouts and chopped cilantro.",
+    "Serve the noodles in a Korean brass bowl.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "macrobiotic",
+    "noodle-bowl",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "deliciously-caramelized-vietnamese-noodles-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-caramelized-vietnamese-noodles-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "Deliciously caramelized",
+    "dishForm": "Noodles"
+  }
+}
