@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Light Chinese Eggplant Stir Fry",
+  "description": "A rich and tender Shandong-inspired dish featuring eggplant and ferment-jang, made in a copper mug.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the copper mug over medium heat and add the vegetable oil.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the thinly sliced eggplant and stir-fry for 3 minutes.",
+    "Add the ferment-jang, soy sauce, and rice vinegar, and stir-fry for 2 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "copper-cooking",
+    "jain-friendly",
+    "quick-dinner",
+    "shandong-cuisine",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-light-chinese-eggplant-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-light-chinese-eggplant-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:07:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "ferment-jang",
+    "primaryIngredient": "eggplant",
+    "diet": "jain",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "eggplant",
+    "descriptor": "delicate light",
+    "dishForm": "Stir-fry"
+  }
+}
