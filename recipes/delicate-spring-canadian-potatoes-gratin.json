@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Spring Canadian Potatoes Gratin",
+  "description": "A paleo-friendly, wine-infused Canadian dish featuring Jersey Royal potatoes, perfect for a date night. This recipe combines the freshness of spring with the richness of a gratin.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the potatoes are slightly tender.",
+    "Drain the potatoes and set them aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook, stirring occasionally, for 4 minutes, or until fragrant.",
+    "Add the dry white wine and chicken broth to the skillet and bring to a simmer.",
+    "Cook, stirring occasionally, for 5 minutes, or until the liquid has reduced by half.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the wine sauce over the potatoes, then sprinkle with some of the chopped parsley and a pinch of salt and pepper.",
+    "Repeat the layering process until all the ingredients have been used, finishing with a layer of potatoes on top.",
+    "Dot the top of the potatoes with the unsalted butter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "date-night",
+    "one-pan",
+    "paleo-friendly",
+    "spring-recipe",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "delicate-spring-canadian-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-spring-canadian-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Delicate spring",
+    "dishForm": "Gratin"
+  }
+}
