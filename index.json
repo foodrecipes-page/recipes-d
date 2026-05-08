@@ -5851,6 +5851,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-roasted-polish-potato-roast",
+    "title": "Dense Roasted Polish Potato Roast",
+    "tags": [
+      "brunch-ideas",
+      "hearty-dishes",
+      "plant-based",
+      "polish-cuisine",
+      "roasted-vegetables",
+      "vegan-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "dense-romantic-british-egg-scotch-egg",
     "title": "Dense Romantic British Egg Scotch Egg",
     "tags": [
@@ -6765,6 +6780,20 @@
       "weeknight"
     ],
     "cuisine": "Tunisian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-wood-fired-portuguese-cheese-bake",
+    "title": "Dreamy Wood Fired Portuguese Cheese Bake",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "portuguese-cuisine",
+      "weekend-meal",
+      "wood-fired"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 45,
     "shard": "d"
   },

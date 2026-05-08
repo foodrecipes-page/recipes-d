@@ -1,0 +1,92 @@
+{
+  "title": "Dreamy Wood Fired Portuguese Cheese Bake",
+  "description": "A tangy and juicy Portuguese dish featuring fresh thyme, baked to perfection in a wood fired oven, wrapped in a corn husk vessel, perfect for a lazy Sunday",
+  "cuisine": "Portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Queijo fresco",
+      "amount": "1 cup",
+      "notes": "crumbly Portuguese cheese"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 400 degrees Fahrenheit.",
+    "Mix the Queijo fresco, chopped thyme, olive oil, garlic, salt, black pepper, and paprika in a bowl.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "Wrap the cheese mixture in the corn husks, making sure to seal the edges.",
+    "Place the wrapped cheese in the wood fired oven and bake for 25 minutes.",
+    "Remove the cheese from the oven and let it cool for 5 minutes.",
+    "Serve the cheese hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "portuguese-cuisine",
+    "weekend-meal",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "dreamy-wood-fired-portuguese-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-wood-fired-portuguese-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:42:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fresh thyme",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "dreamy wood fired",
+    "dishForm": "Bake"
+  }
+}

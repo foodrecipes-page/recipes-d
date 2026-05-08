@@ -1,0 +1,100 @@
+{
+  "title": "Dense Roasted Polish Potato Roast",
+  "description": "A hearty, plant-based Polish dish featuring roasted potatoes and fries, perfect for a brunch gathering.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "fries",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes, onion, carrots, and mushrooms with the vegetable oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the vegetables in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 30 minutes, stirring occasionally.",
+    "While the vegetables are roasting, heat the fries according to the package instructions.",
+    "After the vegetables have roasted for 30 minutes, add the heated fries to the baking sheet and stir to combine.",
+    "Continue roasting the vegetables and fries for an additional 20 minutes, stirring occasionally, until they are golden brown and crispy.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "hearty-dishes",
+    "plant-based",
+    "polish-cuisine",
+    "roasted-vegetables",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-roasted-polish-potato-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-roasted-polish-potato-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:25Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "fries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Dense Roasted",
+    "dishForm": "Roast"
+  }
+}
