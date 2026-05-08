@@ -1,0 +1,101 @@
+{
+  "title": "Delicate German Semolina Pudding",
+  "description": "A light German dessert featuring semolina, with a delicate mustard flavor and a glassy-jelly texture, made in a ramekin.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "low fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/2 teaspoon",
+      "notes": "dry mustard powder"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup",
+      "notes": "pickle brine"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "pure vanilla"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the milk, sugar, and salt, and heat over medium heat, stirring occasionally.",
+    "In a small bowl, whisk together the semolina, mustard, and a pinch of salt.",
+    "Gradually whisk the dry ingredients into the milk mixture, and cook for 2 minutes, stirring constantly.",
+    "Remove the saucepan from the heat, and stir in the brine, vanilla extract, and cold water.",
+    "Pour the mixture into 6 ramekins, and place them in a large baking dish.",
+    "Add hot water to the baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath, and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-desserts",
+    "mustard-flavor",
+    "ramekin-recipes",
+    "satvik-friendly",
+    "semolina-pudding",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "delicate-german-semolina-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-german-semolina-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "semolina",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "semolina",
+    "descriptor": "delicate glassy",
+    "dishForm": "Pudding"
+  }
+}
