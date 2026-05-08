@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Crumbly Uruguayan Cheese Empanadas",
+  "description": "A kid-friendly Uruguayan dish featuring fermented cheese and ginger cordial, perfect for a Mediterranean-inspired snack. This recipe uses a fondue pot for a fun and interactive eating experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "fermented cheese preferred"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, and baking powder.",
+    "Add the grated cheese, ginger cordial, eggs, milk, and melted butter to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle and place a tablespoon of cheese in the center of each circle.",
+    "Fold the dough over the cheese and press the edges together to seal the empanada.",
+    "Place the empanadas in a fondue pot and bake for 20 minutes or until golden brown.",
+    "Serve the empanadas hot and enjoy.",
+    "Let the empanadas cool for a few minutes before serving to kids."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheese-lover",
+    "kid-friendly",
+    "mediterranean-inspired",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "deliciously-crumbly-uruguayan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crumbly-uruguayan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "ginger cordial",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "deliciously crumbly",
+    "dishForm": "Empanadas"
+  }
+}
