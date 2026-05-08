@@ -1,0 +1,95 @@
+{
+  "title": "Decadent Charred Spanish Cheese Pa Amb Tomaquet",
+  "description": "A rich and satisfying Spanish dish featuring charred bread, melted cheese, and a side of creamy creme fraiche, perfect for a midnight craving. This halal-friendly recipe is made with namul-blanch-seasoned tomatoes and crispy bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "manchego or similar"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "namul-blanch-seasoned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with minced garlic.",
+    "Bake the bread in the oven for 10 minutes, or until lightly charred.",
+    "While the bread is baking, slice the cheese into thin strips.",
+    "Remove the bread from the oven and top each slice with a slice of cheese.",
+    "Return the bread to the oven and bake for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "While the cheese is melting, mix the creme fraiche with a pinch of salt and pepper.",
+    "Remove the bread from the oven and top each slice with a dollop of creme fraiche and a few slices of namul-blanch-seasoned tomato.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "halal-friendly",
+    "midnight-cravings",
+    "namul-blanch-season",
+    "one-pan",
+    "spanish-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "decadent-charred-spanish-cheese-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-charred-spanish-cheese-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:33:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "creme fraiche",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Decadent Charred",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
