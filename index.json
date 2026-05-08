@@ -346,6 +346,21 @@
     "shard": "d"
   },
   {
+    "slug": "dash-friendly-bitter-syrian-confit-tomato-confit",
+    "title": "Bitter Syrian Confit-Tomato Confit",
+    "tags": [
+      "bitter",
+      "easy-to-make",
+      "flaky",
+      "one-pan",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 16,
+    "shard": "d"
+  },
+  {
     "slug": "dashing-australian-kangaroo-curry",
     "title": "Dashing Australian Kangaroo Curry",
     "tags": [
@@ -3932,6 +3947,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-aerated-korean-rice-mixed-rice-bowl",
+    "title": "Korean Aerated Rice Mixed-Bowl",
+    "tags": [
+      "bibimbap",
+      "gluten-free",
+      "korean-cuisine",
+      "lacto-vegetarian",
+      "mixed-rice-bowl",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
