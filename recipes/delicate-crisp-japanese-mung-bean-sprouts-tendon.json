@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Crisp Japanese Mung Bean Sprouts Tendon",
+  "description": "A light and crispy Japanese dish featuring mung bean sprouts, perfect for a weeknight dinner in the Chubu region, this recipe is egg-free-friendly and utilizes a brine-wet method to enhance flavor and texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for brine"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": "for brine"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine water and salt to create a brine, stirring until the salt is dissolved.",
+    "Add the mung bean sprouts to the brine and let them soak for 30 minutes.",
+    "Drain and rinse the mung bean sprouts with cold water, then set them aside.",
+    "In a small saucepan, combine rice vinegar, sugar, and 2 tablespoons of water, bringing the mixture to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes, or until it thickens slightly.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the mung bean sprouts to the skillet and cook, stirring frequently, until they are crispy and golden brown, about 5 minutes.",
+    "Add the sesame oil, grated ginger, and cooked mung bean sprouts to the skillet, stirring to combine.",
+    "Pour the sauce into the skillet and stir to coat the mung bean sprouts.",
+    "Transfer the mung bean sprouts to a serving platter and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "delicate",
+    "japanese-cuisine",
+    "mung-bean-sprouts",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "delicate-crisp-japanese-mung-bean-sprouts-tendon",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-japanese-mung-bean-sprouts-tendon",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "brine-wet",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "egg-free",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Delicate Crisp",
+    "dishForm": "Tendon"
+  }
+}
