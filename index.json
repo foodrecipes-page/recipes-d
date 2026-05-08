@@ -7428,6 +7428,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-roasted-australian-flour-bake",
+    "title": "Dense Roasted Australian Flour Bake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "hearty",
+      "high-fiber",
+      "snack",
+      "wholesome"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "dense-roasted-chinese-leaf-pho",
     "title": "Dense Roasted Chinese Leaf Pho",
     "tags": [
