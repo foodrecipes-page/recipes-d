@@ -1,0 +1,108 @@
+{
+  "title": "Decadent Spicy British Linguine Pasta Skillet",
+  "description": "A spicy and savory British-inspired linguine pasta dish cooked in a cast-iron skillet, featuring a blend of tamasic-friendly ingredients and a molten, cheesy sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "preferably made from durum wheat semolina"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al dente.",
+    "Heat the olive oil in a cast-iron skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, smoked paprika, and cayenne pepper, cooking for 1 minute.",
+    "Add the cooked linguine pasta to the skillet, tossing to combine with the spice mixture.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce heat to low and stir in the shredded cheddar cheese until melted and smooth.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the Decadent Spicy British Linguine Pasta Skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "decadent-spicy-british-linguine-pasta-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-spicy-british-linguine-pasta-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:20:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "linguine pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Decadent Spicy",
+    "dishForm": "Pasta"
+  }
+}
