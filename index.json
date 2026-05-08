@@ -5787,6 +5787,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-earthy-croatian-corn-flatbread",
+    "title": "Croatian Corn Flatbread",
+    "tags": [
+      "croatian-cuisine",
+      "earth-food",
+      "flatbread",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-earthy-irish-tofu-stew",
     "title": "Deliciously Earthy Irish Tofu Stew",
     "tags": [
