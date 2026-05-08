@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Garlicky Mediterranean Apricot Bowl",
+  "description": "A crispy and flavorful Mediterranean dish featuring apricots, garlic, and a blend of herbs, served in a lacquerware bowl. This jain-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apricots",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "toasted and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "Add the diced apricots to the bowl and toss to coat with the garlic mixture.",
+    "Spread the apricot mixture on a baking sheet and roast in the oven for 15 minutes.",
+    "While the apricots are roasting, toast the pita bread slices and cube them into small pieces.",
+    "In a small bowl, mix together chopped parsley and mint.",
+    "To assemble the dish, place the roasted apricots in a lacquerware bowl, top with toasted pita bread cubes, and sprinkle with the parsley and mint mixture.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "garlicky",
+    "jain-friendly",
+    "mediterranean",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "delicate-garlicky-mediterranean-apricot-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-garlicky-mediterranean-apricot-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "apricot",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "apricot",
+    "descriptor": "Delicate garlicky",
+    "dishForm": "Bowl"
+  }
+}
