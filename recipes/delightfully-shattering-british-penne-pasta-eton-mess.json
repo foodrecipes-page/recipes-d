@@ -1,0 +1,99 @@
+{
+  "title": "Delightfully Shattering British Penne Pasta Eton Mess",
+  "description": "A peppery and shattering British dish featuring penne pasta, beurre-monte, and a plant-based friendly twist on the classic Eton mess, perfect for a brunch mood.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup",
+      "notes": "or plant-based alternative"
+    },
+    {
+      "name": "mixed berries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "meringue",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": "plant-based"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to package instructions.",
+    "Drain the pasta and set aside to cool.",
+    "In a small saucepan, warm the beurre-monte over low heat, stirring constantly.",
+    "Add the black pepper and salt to the beurre-monte and stir to combine.",
+    "In a large bowl, combine the cooled pasta, mixed berries, and meringue.",
+    "Drizzle the beurre-monte mixture over the pasta mixture and toss to combine.",
+    "Top the pasta mixture with whipped cream and chopped fresh mint.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "brunch-ideas",
+    "eton-mess",
+    "pasta-dishes",
+    "plant-based",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delightfully-shattering-british-penne-pasta-eton-mess",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delightfully-shattering-british-penne-pasta-eton-mess",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:28:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "penne pasta",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Delightfully Shattering",
+    "dishForm": "Eton Mess"
+  }
+}

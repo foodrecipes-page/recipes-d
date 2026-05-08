@@ -4769,6 +4769,19 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dehydrated-moroccan-peanut-tagine",
+    "title": "Deliciously Dehydrated Moroccan Peanut Tagine",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 210,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-australian-corn-tacos",
     "title": "Deliciously Dense Australian Corn Tacos",
     "tags": [
@@ -5676,6 +5689,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "delightfully-shattering-british-penne-pasta-eton-mess",
+    "title": "Delightfully Shattering British Penne Pasta Eton Mess",
+    "tags": [
+      "british-cuisine",
+      "brunch-ideas",
+      "eton-mess",
+      "pasta-dishes",
+      "plant-based",
+      "quick-meals"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
