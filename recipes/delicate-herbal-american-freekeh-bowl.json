@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Herbal American Freekeh Bowl",
+  "description": "A crisp and refreshing solo dinner dish featuring freekeh, poached chicken, and herbal flavors, all within a keto-friendly framework.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "cracked or whole"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh in a fine mesh sieve and drain well.",
+    "In a medium saucepan, bring 2 cups of water to a boil, then add the freekeh, reduce heat to low, cover, and simmer for 20 minutes.",
+    "While the freekeh cooks, fill a large saucepan with water, bring to a boil, then reduce the heat to a simmer.",
+    "Poach the chicken breast in the simmering water for 15-20 minutes, or until it reaches an internal temperature of 165 degrees.",
+    "Remove the chicken from the water, let it rest for a few minutes, then slice it into thin strips.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Fluff the cooked freekeh with a fork and stir in the chopped parsley and dill.",
+    "To assemble the bowl, place the cooked freekeh on the bottom, top with sliced chicken, and drizzle with the lemon juice mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "crisp",
+    "freekeh",
+    "gluten-free",
+    "herbal",
+    "keto-friendly",
+    "poached-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "delicate-herbal-american-freekeh-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herbal-american-freekeh-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "freekeh",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "freekeh",
+    "descriptor": "delicate herbal",
+    "dishForm": "Bowl"
+  }
+}

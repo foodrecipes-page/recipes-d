@@ -2535,6 +2535,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-herbal-american-freekeh-bowl",
+    "title": "Delicate Herbal American Freekeh Bowl",
+    "tags": [
+      "american",
+      "crisp",
+      "freekeh",
+      "gluten-free",
+      "herbal",
+      "keto-friendly",
+      "poached-chicken"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-herbal-mexican-fish-tamales",
     "title": "Delicate Herbal Mexican Fish Tamales",
     "tags": [
@@ -5766,6 +5782,21 @@
     ],
     "cuisine": "korean",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-lazy-mediterranean-lamb-tagine",
+    "title": "Dense Lazy Mediterranean lamb Tagine",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "lamb",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
