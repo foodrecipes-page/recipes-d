@@ -2950,6 +2950,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-light-chinese-tofu-noodles",
+    "title": "Delicate Light Chinese Tofu Noodles",
+    "tags": [
+      "kid-friendly",
+      "macrobiotic",
+      "noodle-dish",
+      "one-pot",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-light-german-ham-braise",
     "title": "Delicate Light German Ham Braise",
     "tags": [
