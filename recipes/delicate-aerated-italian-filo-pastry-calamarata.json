@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Aerated Italian Filo Pastry Calamarata",
+  "description": "A nostalgic Italian dish featuring filo pastry, served in a calamarata form and cooked in a wok, this recipe combines fresh ingredients with a delicate aerated texture. It is a satvik-friendly, ssam-wrap inspired dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium heat and brush it with olive oil.",
+    "Roll out the filo pastry and cut it into calamarata shapes.",
+    "In a bowl, mix together ricotta cheese, spinach, garlic, salt, black pepper, and lemon zest.",
+    "Place a spoonful of the cheese mixture onto the center of each filo pastry shape.",
+    "Fold the filo pastry into a ssam-wrap shape and press the edges to seal.",
+    "Place the filled pastry into the wok and cook for 2-3 minutes on each side, until golden brown.",
+    "Repeat the process with the remaining pastry and filling.",
+    "Serve the calamarata hot, garnished with chopped fresh basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calamarata",
+    "filo-pastry",
+    "italian-cuisine",
+    "satvik-friendly",
+    "vegetarian-dish",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "delicate-aerated-italian-filo-pastry-calamarata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-aerated-italian-filo-pastry-calamarata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:08:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "filo pastry",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Delicate Aerated",
+    "dishForm": "Calamarata"
+  }
+}
