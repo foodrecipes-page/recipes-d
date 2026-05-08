@@ -1,0 +1,112 @@
+{
+  "title": "Delicate Earthy Middle Eastern Eggs Shakshuka",
+  "description": "A light and earthy Middle Eastern dish featuring dried red chillies and flaky pastry, perfect for a wholesome breakfast. This ayurvedic-sattvic-friendly recipe is made with wholesome ingredients and gentle cooking methods.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried red chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the chopped bell peppers and cook until they are tender.",
+    "Add the crushed dried red chillies and cook for one minute, stirring constantly.",
+    "Add the chopped tomatoes and cook until they are tender and the mixture is heated through.",
+    "Make four wells in the mixture and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the oven and bake at 375 degrees for 15-20 minutes, or until the eggs are cooked to your desired level of doneness.",
+    "Remove the skillet from the oven and sprinkle the crumbled feta cheese over the top.",
+    "Serve the shakshuka hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "healthy",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "delicate-earthy-middle-eastern-eggs-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-earthy-middle-eastern-eggs-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:28:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "dried red chillies",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggs",
+    "descriptor": "Delicate Earthy",
+    "dishForm": "Shakshuka"
+  }
+}
