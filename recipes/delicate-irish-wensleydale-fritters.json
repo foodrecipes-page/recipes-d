@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Irish Wensleydale Fritters",
+  "description": "A garlicky and silky Irish dish featuring Wensleydale cheese, perfect for a weeknight meal, and friendly to shojin dietary preferences. It is a delicate and flavorful fry.",
+  "cuisine": "Irish",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, garlic powder, onion powder, salt, and black pepper.",
+    "Add the crumbly Wensleydale cheese to the bowl and stir until well combined with the flour mixture.",
+    "In a separate bowl, whisk together the egg and milk.",
+    "Add the egg mixture to the cheese mixture and stir until a smooth batter forms.",
+    "Using a spoon, drop small amounts of the batter into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the Delicate Irish Wensleydale Fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "irish-food",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight",
+    "wensleydale-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "delicate-irish-wensleydale-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-irish-wensleydale-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:41:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "wensleydale",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Delicate Garlicky",
+    "dishForm": "Fritters"
+  }
+}

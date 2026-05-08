@@ -2907,6 +2907,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-irish-wensleydale-fritters",
+    "title": "Delicate Irish Wensleydale Fritters",
+    "tags": [
+      "fritters",
+      "irish-food",
+      "shojin-friendly",
+      "vegetarian",
+      "weeknight",
+      "wensleydale-cheese"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-italian-nut-orecchiette",
     "title": "Delicate Italian Nut Orecchiette",
     "tags": [
@@ -7899,6 +7914,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-garlicky-ukrainian-dried-cranberries-dumplings",
+    "title": "Dreamy Garlicky Ukrainian Dried Cranberries Dumplings",
+    "tags": [
+      "comfort-food",
+      "eastern-european",
+      "grilled",
+      "macrobiotic",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
