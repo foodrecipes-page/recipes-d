@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Smoked Kenyan Chicken Kebabs",
+  "description": "A funky and light Kenyan dish featuring cider and tandoor smoked chicken, perfect for a lazy Sunday, this recipe is raw-friendly and full of flavor. It combines the richness of chicken with the tanginess of cider and spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cider",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wood chips for smoking",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or smoker to 250 degrees Fahrenheit.",
+    "In a large bowl, whisk together cider vinegar, tandoor spice mix, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a little space between each piece.",
+    "Place the skewers in the tandoor or smoker and smoke for 30 minutes.",
+    "After 30 minutes, brush the chicken with cider and continue smoking for another 10 minutes.",
+    "Remove the skewers from the tandoor or smoker and let them rest for 5 minutes.",
+    "Sprinkle the chopped cilantro over the kebabs and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cider-based",
+    "dairy-free",
+    "gluten-free",
+    "kenyan-cuisine",
+    "lazy-sunday",
+    "smoked-chicken",
+    "tandoor-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "deliciously-smoked-kenyan-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoked-kenyan-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:55:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "cider",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously smoked",
+    "dishForm": "Kebabs"
+  }
+}
