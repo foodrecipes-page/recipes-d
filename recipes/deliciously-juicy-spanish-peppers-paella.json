@@ -1,0 +1,108 @@
+{
+  "title": "Spanish Peppers Paella",
+  "description": "A deliciously juicy and floral Spanish dish featuring peppers, with an al-dente finish, perfect for vegetarians. This Andalusian-inspired paella is energizing and full of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped Spanish peppers and cook until they start to soften, about 5 minutes.",
+    "Add the chopped tomato, smoked paprika, salt, and black pepper, and cook for 2 minutes.",
+    "Add the soaked saffron threads and their liquid, and stir to combine.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Add the uncooked Arborio rice and stir to combine.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is al-dente and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "deliciously-juicy-spanish-peppers-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-juicy-spanish-peppers-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:35:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "peppers",
+    "diet": "vegetarian",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peppers",
+    "descriptor": "Deliciously juicy",
+    "dishForm": "Paella"
+  }
+}

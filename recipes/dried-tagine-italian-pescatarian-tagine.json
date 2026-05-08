@@ -1,0 +1,111 @@
+{
+  "title": "Dried-Tagine Italian Pescatarian Tagine",
+  "description": "A comforting Italian pescatarian dish featuring gochugaru and tadka in a ceramic tagine.",
+  "cuisine": "Italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fregula",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Clam juice",
+      "amount": "1 cup",
+      "notes ": "reserved 1/4 cup for tadka"
+    },
+    {
+      "name": "Pescatorial oil",
+      "amount": "2 tablespoons",
+      "notes ": "olive oil or grapeseed oil"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 teaspoon",
+      "notes ": "Korean chili flakes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes ": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes ": "minced"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes ": "scrubbed and debearded"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes ": "peeled and deveined"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes ": "halved"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes ": "chopped",
+      "notes2": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of pescatorial oil in a large ceramic tagine over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until translucent.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the gochugaru and sauté for 1 minute until the aroma is released.",
+    "Add the mussels and shrimp and sauté for 2-3 minutes until they start to turn opaque.",
+    "Add the fregula and clam juice, reserved 1/4 cup for tadka, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10-15 minutes until the fregula is tender and the liquid has been absorbed.",
+    "Transfer the tagine to the preheated oven and cook for 5-7 minutes until the flavors have melded together and the fregula is cooked through.",
+    "Meanwhile, heat the reserved 1/4 cup of clam juice in a small skillet over medium-high heat until it starts to simmer and slightly reduce, known as tadka; set aside.",
+    "Stir the chopped parsley into the tagine and serve hot, garnished with the tadka on top.",
+    "Let it rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 39,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "dried-tagine-italian-pescatarian-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-tagine-italian-pescatarian-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "gochugaru",
+    "diet": "pescatarian",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pescatarian",
+    "descriptor": "dried-tagine",
+    "dishForm": "Tagine"
+  }
+}

@@ -6265,6 +6265,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-juicy-spanish-peppers-paella",
+    "title": "Spanish Peppers Paella",
+    "tags": [
+      "flavorful",
+      "gluten-free",
+      "one-pan",
+      "spanish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-middle-eastern-cheese-warak-enab",
     "title": "deliciously middle-eastern cheese warak enab",
     "tags": [
@@ -9615,6 +9630,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "dried-tagine-italian-pescatarian-tagine",
+    "title": "Dried-Tagine Italian Pescatarian Tagine",
+    "tags": [
+      "comfort-food",
+      "italian",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
