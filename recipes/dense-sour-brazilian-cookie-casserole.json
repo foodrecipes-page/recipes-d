@@ -1,0 +1,93 @@
+{
+  "title": "Dense Sour Brazilian Cookie Casserole",
+  "description": "A sour and dense Brazilian dish featuring cookies and tadka, perfect for a weeknight dinner. This Mediterranean-friendly recipe is made in a cazuela.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian cookies",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the crushed cookies, melted butter, and tadka spice blend.",
+    "In a separate bowl, whisk together the sour cream, eggs, salt, and black pepper.",
+    "Add the shredded parmesan cheese to the sour cream mixture and stir until combined.",
+    "Add the cookie mixture to the sour cream mixture and stir until a dense dough forms.",
+    "Transfer the dough to a cazuela and smooth the top.",
+    "Bake the casserole for 35 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "mediterranean-friendly",
+    "one-pan",
+    "sour-cream-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dense-sour-brazilian-cookie-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-sour-brazilian-cookie-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:56:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "cookies",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cookies",
+    "descriptor": "dense sour",
+    "dishForm": "Casserole"
+  }
+}
