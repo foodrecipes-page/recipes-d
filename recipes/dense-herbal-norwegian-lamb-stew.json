@@ -1,0 +1,103 @@
+{
+  "title": "Dense Herbal Norwegian Lamb Stew",
+  "description": "A hearty and flavorful Norwegian stew made with lamb and a blend of herbs, featuring allspice and kombu-cold-extract for added depth, this dish is paleo-friendly and perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and brown the lamb cubes on all sides, then set them aside.",
+    "Add the chopped onion to the pot and cook until it is lightly browned, about 5 minutes.",
+    "Add the chopped carrots and celery to the pot and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the browned lamb, allspice, kombu-cold-extract, thyme, and rosemary to the pot and stir to combine.",
+    "Pour in the beef broth and bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "herbal-recipes",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "paleo-diet",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "dense-herbal-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-herbal-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:37:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "allspice",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "dense herbal",
+    "dishForm": "Stew"
+  }
+}
