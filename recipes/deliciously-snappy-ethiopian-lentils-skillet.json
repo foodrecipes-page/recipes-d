@@ -1,0 +1,112 @@
+{
+  "title": "Deliciously Snappy Ethiopian Lentils Skillet",
+  "description": "A fermented and snappy Ethiopian dish featuring chocolate chips, perfect for a brunch mood, this plant-based friendly recipe is a unique twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "deglaze"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the red lentils, vegetable broth, and tomato paste, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Stir in the dark chocolate chips until melted and well combined.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "deliciously-snappy-ethiopian-lentils-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-snappy-ethiopian-lentils-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:33:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "chocolate chips",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Deliciously snappy",
+    "dishForm": "Skillet"
+  }
+}
