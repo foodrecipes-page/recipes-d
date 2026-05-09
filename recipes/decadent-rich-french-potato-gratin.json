@@ -1,0 +1,95 @@
+{
+  "title": "Decadent Rich French Potato Gratin",
+  "description": "A rich and creamy potato dish featuring lardons and a perfect brunch option, this French potato gratin is sure to please with its resinous and molten texture, and is onion and garlic free for added convenience.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, render the lardons over medium heat until crispy.",
+    "In a separate bowl, combine the sliced potatoes and kosher salt, and toss to coat.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Sprinkle a quarter of the gruyere cheese and a quarter of the crispy lardons over the potatoes.",
+    "Drizzle a quarter of the heavy cream over the top of the potatoes.",
+    "Repeat the layering process three more times, ending with a layer of cheese on top.",
+    "Dot the top of the cheese with the butter.",
+    "Cover the dish with foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "french-cuisine",
+    "potato-dishes",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "decadent-rich-french-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-rich-french-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:00:53Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "kosher salt",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "Decadent Rich",
+    "dishForm": "Gratin"
+  }
+}
