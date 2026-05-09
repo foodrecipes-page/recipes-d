@@ -1,0 +1,111 @@
+{
+  "title": "Deliciously Creamy Mexican Taleggio Quesadilla",
+  "description": "A creamy and mustardy Mexican dish featuring taleggio, perfect for a flexitarian-friendly meal, this poached and kid-friendly veracruzan dish is sure to delight",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large",
+      "notes": "none"
+    },
+    {
+      "name": "poached chicken breast",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "mexican crema",
+      "amount": "1 cup",
+      "notes": "none"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp",
+      "notes": "none"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "none"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup",
+      "notes": "none"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "none"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat with olive oil.",
+    "Add diced onion and cook until softened, about 3 minutes.",
+    "Add poached chicken breast and cook until heated through.",
+    "In a bowl, mix together mexican crema, whole grain mustard, and a pinch of salt and pepper.",
+    "Place a whole wheat tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add a spoonful of the crema mixture, some diced tomatoes, and a sprinkle of chopped cilantro on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until crispy and golden.",
+    "Repeat with remaining ingredients and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "flexitarian",
+    "kid-friendly",
+    "lunch-ideas",
+    "mexican-inspired",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "deliciously-creamy-mexican-taleggio-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-creamy-mexican-taleggio-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:59:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "taleggio",
+    "diet": "flexitarian",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Deliciously Creamy",
+    "dishForm": "Quesadilla"
+  }
+}
