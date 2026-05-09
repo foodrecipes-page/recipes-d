@@ -1,0 +1,107 @@
+{
+  "title": "Double Fried Italian Seafood Fried Rice",
+  "description": "A pungent and silky Italian seafood dish featuring chicken stock concentrate, double-fry technique, and pescatarian-friendly ingredients, inspired by Venetian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": " Arborio rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1/2 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp, scallops, mussels, and clams, and cook for 2-3 minutes until the seafood is lightly browned.",
+    "Add the white wine and cook for 1 minute until the liquid is almost completely evaporated.",
+    "Add the chicken stock concentrate and cook for 1 minute until the mixture is well combined.",
+    "Add the Arborio rice to the skillet, stirring to combine with the seafood mixture.",
+    "Cook for 2 minutes until the rice is lightly toasted.",
+    "Remove the skillet from the heat and let it cool for 5 minutes.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "Add the rice mixture to the skillet, pressing it down gently with a spatula to form a flat layer.",
+    "Cook for 2-3 minutes until the bottom of the rice is crispy and golden brown.",
+    "Loosen the rice with a spatula and stir in the chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "italian",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "double-fried-italian-seafood-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/double-fried-italian-seafood-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:36:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "pescatarian",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "seafood",
+    "descriptor": "double fried",
+    "dishForm": "Fried Rice"
+  }
+}

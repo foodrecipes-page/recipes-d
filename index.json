@@ -12065,6 +12065,20 @@
     "shard": "d"
   },
   {
+    "slug": "double-fried-italian-seafood-fried-rice",
+    "title": "Double Fried Italian Seafood Fried Rice",
+    "tags": [
+      "fried-rice",
+      "italian",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "double-fried-portuguese-mitsuba-fried-rice",
     "title": "Double Fried Portuguese Mitsuba Fried Rice",
     "tags": [
