@@ -1,0 +1,94 @@
+{
+  "title": "Dreamy Gooey Argentinian Little Gem Lettuce Gratin",
+  "description": "A briny and gooey Argentinian dish featuring little gem lettuce, perfect for a romantic dinner, made in a bain-marie for a low-fat friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "argentinian cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the chicken broth, heavy cream, and butter, and heat over medium heat until the butter has melted.",
+    "Add the garlic, salt, and black pepper to the saucepan and stir to combine.",
+    "Arrange the little gem lettuce leaves in a single layer in a 9x13 inch baking dish.",
+    "Pour the broth and cream mixture over the lettuce leaves.",
+    "Sprinkle the argentinian cheese over the top of the lettuce.",
+    "Place the baking dish in a larger dish and add hot water to come halfway up the sides of the baking dish.",
+    "Bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the water bath and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "bain-marie",
+    "low-fat",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "dreamy-gooey-argentinian-little-gem-lettuce-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-gooey-argentinian-little-gem-lettuce-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "little gem lettuce",
+    "descriptor": "dreamy gooey",
+    "dishForm": "Gratin"
+  }
+}
