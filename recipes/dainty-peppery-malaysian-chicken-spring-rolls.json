@@ -1,0 +1,107 @@
+{
+  "title": "Dainty Peppery Malaysian Chicken Spring-Rolls",
+  "description": "A high-protein, peppery Malaysian-inspired snack using crisp phyllo dough and blanched vegetables for a light post-workout recovery meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Halal",
+    "High-Protein",
+    "Dairy-Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "300g",
+      "notes": "finely minced or ground"
+    },
+    {
+      "name": "Phyllo Dough",
+      "amount": "8 sheets",
+      "notes": "thawed"
+    },
+    {
+      "name": "White Peppercorns",
+      "amount": "2 tbsp",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "Carrots",
+      "amount": "100g",
+      "notes": "julienned"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "halal certified"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Olive Oil Spray",
+      "amount": "1 bottle",
+      "notes": "for browning"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "150g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Blanch the shredded cabbage and julienned carrots in boiling water for sixty seconds until slightly tender.",
+    "Drain the vegetables thoroughly and squeeze out any excess moisture with a clean cloth.",
+    "Saute the minced garlic and ground chicken in a non-stick pan until the meat is fully cooked.",
+    "Stir in the cracked white pepper and soy sauce to season the chicken mixture.",
+    "Mix the blanched vegetables with the peppery chicken and drizzle with sesame oil.",
+    "Lay out one sheet of phyllo dough and spray lightly with olive oil before folding it in half.",
+    "Place two tablespoons of the filling at the bottom edge of the dough and roll tightly while tucking in the sides.",
+    "Repeat the process until all filling is used and place rolls on a parchment-lined baking sheet.",
+    "Bake the spring rolls at 200 degrees Celsius for fifteen minutes until the pastry is golden and crisp.",
+    "Serve the warm rolls immediately with a side of light dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "halal-friendly",
+    "high-protein",
+    "low-fat",
+    "malaysian-flavors",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "dainty-peppery-malaysian-chicken-spring-rolls",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dainty-peppery-malaysian-chicken-spring-rolls",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T08:53:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "phyllo dough",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Dainty Peppery",
+    "dishForm": "Spring-Rolls"
+  }
+}
