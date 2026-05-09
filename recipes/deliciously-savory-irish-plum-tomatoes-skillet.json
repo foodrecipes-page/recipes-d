@@ -1,0 +1,101 @@
+{
+  "title": "Deliciously Savory Irish Plum Tomatoes Skillet",
+  "description": "A savory and snappy Irish dish featuring plum tomatoes, perfect for a date night, and friendly to all diets including Buddhist temple friendly",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "irish sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium high heat",
+    "Add sliced irish sausage and cook until browned, about 5 minutes",
+    "Add chopped onion and cook until translucent, about 3 minutes",
+    "Add minced garlic and cook for 1 minute",
+    "Add halved plum tomatoes, diced potato, salt, and black pepper, stir to combine",
+    "Reduce heat to medium low and simmer, covered, for 20 minutes",
+    "Stir in chopped fresh parsley",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "irish-food",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "deliciously-savory-irish-plum-tomatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-savory-irish-plum-tomatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:54:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Deliciously savory",
+    "dishForm": "Skillet"
+  }
+}
