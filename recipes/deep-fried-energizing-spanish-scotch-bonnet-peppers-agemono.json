@@ -1,0 +1,85 @@
+{
+  "title": "Deep-Fried Energizing Spanish Scotch Bonnet Peppers Agemono",
+  "description": "A spicy and energizing Spanish dish featuring scotch bonnet peppers, deep-fried to perfection in Agemono style.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "4-6"
+    },
+    {
+      "name": "vital wheat gluten",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "neutral oil for frying",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a food processor, grind the scotch bonnet peppers into a coarse paste, leaving some texture.",
+    "In a large bowl, combine the vital wheat gluten, all-purpose flour, and a pinch of salt. Mix well.",
+    "Gradually add 1/4 cup of water to the dry ingredients and mix until a dough forms. Knead the dough for 5 minutes.",
+    "Divide the dough into 4-6 equal pieces, depending on desired size. Roll each piece into a ball.",
+    "Using a rolling pin, flatten each ball into a thin sheet, about 1/8 inch thick.",
+    "Heat the neutral oil in a deep frying pan to 375°F (190°C).",
+    "Carefully place the pepper sheets into the hot oil, a few at a time.",
+    "Fry the peppers for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the peppers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle the fried peppers with sea salt and black pepper to taste.",
+    "Serve the Deep-Fried Energizing Spanish Scotch Bonnet Peppers Agemono hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "snack",
+    "spanish",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "deep-fried-energizing-spanish-scotch-bonnet-peppers-agemono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-energizing-spanish-scotch-bonnet-peppers-agemono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:46:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "scotch bonnet peppers",
+    "descriptor": "deep-fried energizing",
+    "dishForm": "Agemono"
+  }
+}

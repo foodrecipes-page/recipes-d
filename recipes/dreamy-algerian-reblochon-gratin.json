@@ -1,0 +1,93 @@
+{
+  "title": "Dreamy Algerian Reblochon Gratin",
+  "description": "A sweet and gooey Algerian dish featuring reblochon cheese, perfect for a lazy Sunday, this ovo-vegetarian friendly recipe is a delight to make and eat.",
+  "cuisine": "Algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 wheel",
+      "notes": "softened"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, heavy cream, salt, and black pepper until well combined.",
+    "Add the softened reblochon cheese to the bowl and stir until the cheese is fully incorporated.",
+    "Add the chopped parsley and minced garlic to the bowl and stir to combine.",
+    "Grease a 9x13 inch baking dish with the olive oil.",
+    "Pour the egg and cheese mixture into the prepared baking dish.",
+    "Place the dish under the broiler and cook for 5 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "brunch-ideas",
+    "cheesy",
+    "comfort-food",
+    "lazy-sunday",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "dreamy-algerian-reblochon-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-algerian-reblochon-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:47:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "reblochon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Dreamy",
+    "dishForm": "Gratin"
+  }
+}

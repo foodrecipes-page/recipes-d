@@ -2081,6 +2081,21 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fried-energizing-spanish-scotch-bonnet-peppers-agemono",
+    "title": "Deep-Fried Energizing Spanish Scotch Bonnet Peppers Agemono",
+    "tags": [
+      "one-pan",
+      "snack",
+      "spanish",
+      "spicy",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "deep-fried-japanese-chicken-gyoza",
     "title": "Deep Fried Japanese Chicken Gyoza",
     "tags": [
@@ -2209,6 +2224,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 39,
+    "shard": "d"
+  },
+  {
+    "slug": "deeply-savory-italian-lamb-pasta",
+    "title": "Deeply Savory Italian Lamb Pasta",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "lamb-recipes",
+      "one-pot",
+      "pasta-dishes",
+      "shojin-friendly"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -10440,6 +10470,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-algerian-reblochon-gratin",
+    "title": "Dreamy Algerian Reblochon Gratin",
+    "tags": [
+      "algerian-cuisine",
+      "brunch-ideas",
+      "cheesy",
+      "comfort-food",
+      "lazy-sunday",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

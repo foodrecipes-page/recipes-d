@@ -1,0 +1,99 @@
+{
+  "title": "Deeply Savory Italian Lamb Pasta",
+  "description": "A hearty Italian dish featuring lamb stock and air-fried lamb, served with pasta and a blend of Italian seasonings, this recipe is shojin-friendly and perfect for a rainy day.",
+  "cuisine": "Italian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "preferably pappardelle"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large bowl, whisk together the lamb stock, olive oil, garlic, Italian seasoning, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and marinate for at least 30 minutes.",
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Remove the lamb from the marinade and cook in the air fryer for 10-12 minutes, or until browned and cooked through.",
+    "Drain the pasta and add it to the bowl with the lamb stock mixture.",
+    "Toss the pasta in the lamb stock mixture until well coated.",
+    "Serve the pasta hot, topped with the air-fried lamb and grated parmesan.",
+    "Garnish with fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "lamb-recipes",
+    "one-pot",
+    "pasta-dishes",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "deeply-savory-italian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deeply-savory-italian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:46:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "lamb stock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deeply savory",
+    "dishForm": "Pasta"
+  }
+}
