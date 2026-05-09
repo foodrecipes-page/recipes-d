@@ -1,0 +1,94 @@
+{
+  "title": "Uruguayan Sloe Berries Lasagna",
+  "description": "A dense and cozy Uruguayan dish featuring sloe berries, cheese, and pasta, all wrapped in a banana leaf. This satvik friendly recipe is perfect for a cold winter night.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a bowl, mix together the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "Add the sloe berries to the cheese mixture and stir well.",
+    "Brush the banana leaves with olive oil and place a sheet of lasagna noodle on each leaf.",
+    "Spread a quarter of the cheese and sloe berry mixture on each noodle.",
+    "Repeat the layers three more times, ending with a layer of cheese on top.",
+    "Fold the banana leaves over the lasagna and secure with toothpicks.",
+    "Bake for 30 minutes and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "uruguayan-cuisine",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "deliciously-dense-uruguayan-sloe-berries-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-uruguayan-sloe-berries-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:49:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sloe-berries",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sloe berries",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Lasagna"
+  }
+}
