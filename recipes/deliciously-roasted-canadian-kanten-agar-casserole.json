@@ -1,0 +1,90 @@
+{
+  "title": "Deliciously Roasted Canadian Kanten Agar Casserole",
+  "description": "A vegetarian-friendly weeknight dish featuring kanten agar and tempering chocolate, served in a molcajete vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kanten agar",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots and Brussels sprouts"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the kanten agar, tempering chocolate, roasted vegetables, olive oil, salt, pepper, garlic powder, and onion powder.",
+    "Transfer the mixture to a molcajete vessel.",
+    "Roast in the preheated oven for 30 minutes.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "deliciously-roasted-canadian-kanten-agar-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-canadian-kanten-agar-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:06:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "kanten-agar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "kanten agar",
+    "descriptor": "Deliciously roasted",
+    "dishForm": "Casserole"
+  }
+}
