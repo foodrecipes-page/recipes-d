@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Dense Slovakian Pork Wrap",
+  "description": "A pungent and cozy Slovakian dish featuring shoyu-koji and ssam-wrap, made in a fondue pot for a unique experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together shoyu-koji, caraway seeds, paprika, salt, and black pepper.",
+    "Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the coconut oil in the fondue pot and sear the pork shoulder until browned on all sides.",
+    "Add the sliced onion to the fondue pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the fondue pot and cook for an additional minute.",
+    "Wrap the cooked pork shoulder in the ssam wrap and serve with the onion and garlic mixture.",
+    "Cook the pork shoulder in the fondue pot for 10 minutes, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Let the pork shoulder rest for 5 minutes before slicing and serving.",
+    "Serve the pork wrap hot, garnished with additional paprika and caraway seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flavorful",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "delicate-dense-slovakian-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-dense-slovakian-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:15:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "dense delicate",
+    "dishForm": "Wrap"
+  }
+}
