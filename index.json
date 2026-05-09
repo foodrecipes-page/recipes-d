@@ -5406,6 +5406,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-crunchy-thai-chicken-curry",
+    "title": "Delicious Crunchy Thai Chicken Curry",
+    "tags": [
+      "crunchy",
+      "low-sodium",
+      "one-pan",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-diabetic-friendly-mediterranean-mung-bean-sprouts-pilaf",
     "title": "Delicious Diabetic-friendly Mediterranean Mung bean sprouts Pilaf",
     "tags": [
