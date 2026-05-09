@@ -1,0 +1,95 @@
+{
+  "title": "Dense Romantic Slovakian Chestnut Mushroom Gratin",
+  "description": "A rich and earthy gratin featuring chestnut mushrooms, perfect for a romantic dinner, with a dense and herbal flavor profile, this dish is also onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter four ramekins and set them aside.",
+    "In a large skillet, melt the butter over medium heat and add the sliced mushrooms, cooking until they release their moisture and start to brown.",
+    "Add the heavy cream to the skillet and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "Stir in the shredded gruyere cheese until it is fully melted and the mixture is smooth.",
+    "Add the chopped thyme, salt, and pepper to the skillet and stir to combine.",
+    "Divide the mushroom mixture among the prepared ramekins, topping each one with a sprinkle of additional gruyere cheese.",
+    "Sprinkle a pinch of flour over the top of each ramekin to help brown the cheese.",
+    "Place the ramekins on a baking sheet and bake for 20 minutes, or until the top is golden brown and the gratin is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "mushroom-based",
+    "romantic-dinner",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "dense-romantic-slovakian-chestnut-mushroom-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-romantic-slovakian-chestnut-mushroom-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:18:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "dense romantic",
+    "dishForm": "Gratin"
+  }
+}
