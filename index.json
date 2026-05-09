@@ -3898,6 +3898,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-french-vegetable-ratatouille",
+    "title": "Delicate French Vegetable Ratatouille",
+    "tags": [
+      "french-cuisine",
+      "kid-friendly",
+      "kosher-friendly",
+      "one-pot",
+      "stone-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-fresh-croatian-fish-sashimi",
     "title": "Delicate Fresh Croatian Fish Sashimi",
     "tags": [

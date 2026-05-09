@@ -1,0 +1,111 @@
+{
+  "title": "Delicate French Vegetable Ratatouille",
+  "description": "A kid-friendly French dish featuring dried fruit and vegetables, cooked in a stone bowl and served in a ratatouille form, this recipe is kosher-friendly and has a unique bitter and glassy-jelly texture.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, toss the sliced eggplant and zucchini with 2 tablespoons of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the eggplant and zucchini mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat and saute the chopped onions and minced garlic until they are softened.",
+    "Add the sliced bell peppers to the skillet and continue to cook for an additional 5 minutes.",
+    "Stir in the chopped dried apricots, tomato paste, and dried thyme, and cook for 1 minute.",
+    "Add the roasted eggplant and zucchini to the skillet and stir to combine with the onion and bell pepper mixture.",
+    "Transfer the ratatouille to a stone bowl and serve hot.",
+    "Garnish with fresh herbs if desired.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "kid-friendly",
+    "kosher-friendly",
+    "one-pot",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-french-vegetable-ratatouille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-french-vegetable-ratatouille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:32:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dried fruit",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Delicate",
+    "dishForm": "Ratatouille"
+  }
+}
