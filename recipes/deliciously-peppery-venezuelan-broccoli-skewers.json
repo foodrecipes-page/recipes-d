@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Peppery Venezuelan Broccoli Skewers",
+  "description": "A peppery and chewy Venezuelan dish featuring char-grilled broccoli, this recipe is keto-friendly and perfect for a festive meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 large head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, black pepper, salt, paprika, lime juice, and chili flakes.",
+    "Add the broccoli florets to the bowl and toss to coat with the marinade.",
+    "Thread the marinated broccoli onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the broccoli skewers for 10-12 minutes, turning occasionally, until tender and slightly charred.",
+    "Serve the skewers hot, garnished with additional lime juice and chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-food",
+    "gluten-free",
+    "grilled-vegetables",
+    "keto-friendly",
+    "low-carb",
+    "south-american",
+    "veggie-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "deliciously-peppery-venezuelan-broccoli-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-peppery-venezuelan-broccoli-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:22:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "broccoli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "broccoli",
+    "descriptor": "Deliciously peppery",
+    "dishForm": "Skewers"
+  }
+}
