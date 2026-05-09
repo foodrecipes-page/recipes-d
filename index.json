@@ -11344,6 +11344,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-smoked-croatian-haddock-pilaf",
+    "title": "Dense Smoked Croatian Haddock Pilaf",
+    "tags": [
+      "croatian-cuisine",
+      "high-protein",
+      "low-carb-friendly",
+      "one-pan",
+      "smoked-fish",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "dense-smoked-egg-tunisian-shoofly-tagine",
     "title": "Dense Smoked Egg Tunisian Shoofly Tagine",
     "tags": [
