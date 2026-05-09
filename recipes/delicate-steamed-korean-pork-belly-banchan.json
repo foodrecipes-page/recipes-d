@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Steamed Korean Pork Belly Banchan",
+  "description": "A peppery and fluffy Korean dish featuring pork belly slices, perfect for a midnight craving, originating from the Gangwon region. This low-fat-friendly banchan is steamed to perfection in a cataplana vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Slice the pork belly into 1/4 inch thick pieces and set aside.",
+    "In a small bowl, mix together Korean chili flakes, black pepper, garlic, and green onions.",
+    "In a cataplana vessel, arrange a layer of the pork belly slices.",
+    "Drizzle a small amount of sesame oil over the pork belly slices.",
+    "Sprinkle a portion of the chili flake mixture over the pork belly slices.",
+    "Repeat the layering process until all ingredients are used, ending with a layer of the chili flake mixture on top.",
+    "Pour soy sauce and rice vinegar over the top layer.",
+    "Steam the banchan in the cataplana vessel over boiling water for 10 minutes.",
+    "Remove the cataplana from the heat and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gangwon-style",
+    "korean-cuisine",
+    "low-fat",
+    "midnight-craving",
+    "pork-belly",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-steamed-korean-pork-belly-banchan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-steamed-korean-pork-belly-banchan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:43:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "pork belly slices",
+    "diet": "low-fat",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork belly",
+    "descriptor": "delicate steamed",
+    "dishForm": "Banchan"
+  }
+}
