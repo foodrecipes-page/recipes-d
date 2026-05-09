@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Aerated Ethiopian Melon Salad",
+  "description": "A refreshing and festive Ethiopian dish featuring melons, temper, and low-sodium-friendly ingredients, perfect for warm weather gatherings.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "watermelon",
+      "amount": "2 cups diced",
+      "notes": "seedless"
+    },
+    {
+      "name": "honeydew melon",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "casaba melon",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup thinly sliced"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced watermelon, honeydew melon, and casaba melon.",
+    "In a small bowl, whisk together the lemon juice, olive oil, berbere spice, and salt-free seasoning blend.",
+    "Pour the dressing over the melon mixture and toss to coat.",
+    "Sprinkle the chopped fresh mint leaves and thinly sliced red onion over the top of the salad.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, use a fork to gently aerate the salad, breaking up any clumps and releasing the flavors.",
+    "Serve the salad chilled, garnished with additional fresh mint leaves if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "festive",
+    "low-sodium",
+    "melon-salad",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "deliciously-aerated-ethiopian-melon-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-aerated-ethiopian-melon-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:22:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "melons",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "melons",
+    "descriptor": "Deliciously aerated",
+    "dishForm": "Salad"
+  }
+}
