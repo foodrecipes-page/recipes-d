@@ -1,0 +1,103 @@
+{
+  "title": "Delicious Dessert Scottish Eggs Eton Mess Pudding",
+  "description": "A rich and creamy dessert pudding featuring caramel sauce and a twist on traditional Scottish eggs, all within the comfort of an Eton mess.",
+  "cuisine": "British",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": "Use room temperature egg yolks for easier emulsification."
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups",
+      "notes": "Choose high-quality, full-fat heavy cream for the best results."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "Use a fine-grained sugar for even dissolving."
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "Keep the butter at room temperature for easier melting."
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1 cup",
+      "notes": "Make your own caramel sauce from scratch for a deeper flavor."
+    },
+    {
+      "name": "Salted almonds",
+      "amount": "1/2 cup",
+      "notes": "Choose a variety with a high salt content for added depth."
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup",
+      "notes": "Use fresh, seasonal raspberries for the best flavor and texture."
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup",
+      "notes": "Sift the sugar before using to prevent lumps."
+    },
+    {
+      "name": "Mantecare emulsifier",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality emulsifier for a smooth, stable pudding."
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and unsalted butter. Heat over medium heat, stirring occasionally, until the sugar dissolves and the mixture reaches a simmer.",
+    "In a separate bowl, whisk the egg yolks until light and fluffy. Temper the egg yolks by slowly pouring the warm cream mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the stovetop and heat the mixture over low heat, stirring constantly, until it coats the back of a spoon.",
+    "Remove the saucepan from the heat and stir in the mantecare emulsifier and salted almonds. Let the mixture cool slightly.",
+    "Fold in the fresh raspberries and confectioners' sugar until well combined.",
+    "Pour the pudding into individual serving cups or a large serving dish. Chill in the refrigerator for at least 2 hours.",
+    "Just before serving, drizzle the caramel sauce over the top of the pudding. Garnish with additional raspberries and almonds, if desired.",
+    "Serve chilled, with the caramel sauce drizzled on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "caramel-sauce",
+    "dessert",
+    "eton-mess",
+    "scottish-eggs",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delicious-dessert-scottish-eggs-eton-mess-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-dessert-scottish-eggs-eton-mess-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T20:46:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "caramel sauce",
+    "diet": "whole30",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "Eggs",
+    "descriptor": "Delicious Dessert",
+    "dishForm": "Eton Mess Pudding"
+  }
+}
