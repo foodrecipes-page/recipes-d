@@ -1,0 +1,100 @@
+{
+  "title": "Drenched Chewy Canadian Pasta",
+  "description": "A Mediterranean-inspired Canadian dish featuring herbes-de-provence and a pasta-water-emulsion, perfect for a rainy day.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "Reserve 1 cup of pasta water before draining the pappardelle.",
+    "Heat the olive oil in a large skillet over medium heat and saute the garlic until fragrant.",
+    "Add the herbes-de-provence to the skillet and cook for 1 minute.",
+    "Stir in the canned diced tomatoes, vegetable broth, and reserved pasta water, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes.",
+    "Stir in the grated mozzarella cheese until melted and well combined.",
+    "Add the cooked pappardelle pasta to the skillet, tossing to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "mediterranean-inspired",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "drenched-chewy-canadian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/drenched-chewy-canadian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:56:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pasta",
+    "descriptor": "drenched chewy",
+    "dishForm": "Pasta"
+  }
+}
