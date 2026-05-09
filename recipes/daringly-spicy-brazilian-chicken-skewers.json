@@ -1,0 +1,99 @@
+{
+  "title": "Daringly Spicy Brazilian Chicken Skewers",
+  "description": "A flavorful and adventurous Brazilian dish featuring chicken skewers with a spicy kick, umami taste, and a cheesy pull, all while being Whole30-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dairy-free cheese shreds",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hot sauce, coconut milk, tandoor spice blend, and lime juice.",
+    "Add the chicken to the bowl and toss to coat with the marinade, then cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken, bell peppers, and onions onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and the vegetables are tender.",
+    "While the skewers are cooking, melt the dairy-free cheese shreds in a saucepan over low heat, stirring constantly.",
+    "Once the skewers are done, brush them with the melted cheese and serve immediately.",
+    "Garnish with minced garlic and serve with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "daringly-spicy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/daringly-spicy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:28:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "hotsauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Daringly Spicy",
+    "dishForm": "Skewers"
+  }
+}
