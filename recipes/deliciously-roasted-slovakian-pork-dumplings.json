@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Roasted Slovakian Pork Dumplings",
+  "description": "A hearty and comforting Slovakian dish featuring roasted pork dumplings with Parmigiano-Reggiano cheese, served with a side of Mediterranean-friendly vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean ground pork"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, grated Parmigiano-Reggiano cheese, all purpose flour, egg, chopped onion, and minced garlic, and mix well.",
+    "Using your hands, shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Roast the dumplings in the preheated oven for 20 minutes, or until browned on the bottom.",
+    "While the dumplings are roasting, toss the chopped carrots and zucchini with a little bit of oil and season with salt and pepper.",
+    "After the dumplings have roasted for 20 minutes, add the carrots and zucchini to the baking sheet and continue to roast for an additional 20 minutes, or until the vegetables are tender.",
+    "Remove the dumplings and vegetables from the oven and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "mediterranean-inspired",
+    "one-pan",
+    "pork-recipes",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "deliciously-roasted-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:23:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "deliciously roasted",
+    "dishForm": "Dumplings"
+  }
+}
