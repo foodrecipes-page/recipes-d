@@ -1,0 +1,89 @@
+{
+  "title": "Delicate Comforting Turkish Daikon Kazandibi",
+  "description": "A traditional Turkish dessert featuring daikon, kazandibi is a comforting and sweet treat, now adapted to be onion and garlic free. This recipe reduces the amount of sugar used in traditional kazandibi.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the grated daikon and milk, and cook over medium heat, stirring occasionally, until the daikon is tender.",
+    "In a small bowl, whisk together the sugar and cornstarch.",
+    "Add the sugar mixture to the saucepan with the daikon and milk, and cook, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat, and stir in the melted butter, rose water, and lemon juice.",
+    "Pour the mixture into a 9x13 inch baking dish, and let it cool to room temperature.",
+    "Cover the dish with plastic wrap, and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, use a fork to scrape the top of the kazandibi, creating a shaggy texture.",
+    "Serve the kazandibi chilled, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "easy-to-make",
+    "no-onion-no-garlic",
+    "turkish-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-comforting-turkish-daikon-kazandibi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-comforting-turkish-daikon-kazandibi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:22:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "daikon",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "daikon",
+    "descriptor": "Delicate Comforting",
+    "dishForm": "Kazandibi"
+  }
+}
