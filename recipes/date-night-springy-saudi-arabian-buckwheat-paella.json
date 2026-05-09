@@ -1,0 +1,117 @@
+{
+  "title": "Saudi Arabian Buckwheat Paella",
+  "description": "A sweet and savory spring-inspired Paella dish from Saudi Arabia, featuring buckwheat and render fat, perfect for a date night dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rendered duck fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dates",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed pistachios",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in a large skillet over medium-high heat.",
+    "Add the onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the buckwheat groats and stir to coat with the fat and mix with the onion and garlic.",
+    "Add the dates, cumin, and crushed red pepper, and stir to combine.",
+    "Add the salt and stir to combine.",
+    "Pour in the lemon juice and stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes, stirring occasionally.",
+    "Stir in the parsley, ginger, and pistachios.",
+    "Serve immediately, garnished with additional parsley and pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "date-night",
+    "one-pan",
+    "saudi-arabian",
+    "spring",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "date-night-springy-saudi-arabian-buckwheat-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-springy-saudi-arabian-buckwheat-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "buckwheat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "date-night springy",
+    "dishForm": "Paella"
+  }
+}
