@@ -3903,6 +3903,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-mediterranean-chicken-tagine",
+    "title": "Delicate Mediterranean Chicken Tagine",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "halal",
+      "mediterranean",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-mediterranean-shio-cure-flatbread",
     "title": "Delicate Mediterranean Shio-cure Flatbread",
     "tags": [
