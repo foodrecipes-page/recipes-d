@@ -1211,6 +1211,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-chinese-noodles-lo-mein",
+    "title": "Decadent Chinese Noodles Lo Mein",
+    "tags": [
+      "noodle-dish",
+      "one-pan",
+      "seafood",
+      "special-occasion",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-creamy-kenyan-tempeh-grill",
     "title": "Decadent Creamy Kenyan Tempeh Grill",
     "tags": [

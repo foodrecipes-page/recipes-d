@@ -1,0 +1,106 @@
+{
+  "title": "Decadent Chinese Noodles Lo Mein",
+  "description": "A winey and velvety Chinese dish featuring lo mein noodles, cooking wine, and a mediterranean-friendly flavor profile, this recipe is perfect for a special occasion or a night in with friends and family.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo mein noodles",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the lo mein noodles for 2 minutes.",
+    "Drain the noodles and set them aside.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger to the skillet and stir-fry for 1 minute.",
+    "Add the shrimp to the skillet and stir-fry until they are pink and cooked through.",
+    "Add the cooking wine, soy sauce, and oyster sauce to the skillet and stir to combine.",
+    "Add the blanched noodles to the skillet and stir-fry for 2 minutes.",
+    "Stir in the chopped scallions and sesame oil.",
+    "Season the lo mein with salt and pepper to taste.",
+    "Serve the lo mein hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "noodle-dish",
+    "one-pan",
+    "seafood",
+    "special-occasion",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "decadent-chinese-noodles-lo-mein",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-chinese-noodles-lo-mein",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:46:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "cooking wine",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Decadent",
+    "dishForm": "Lo Mein"
+  }
+}
