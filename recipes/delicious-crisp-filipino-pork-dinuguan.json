@@ -1,0 +1,104 @@
+{
+  "title": "Delicious Crisp Filipino Pork Dinuguan",
+  "description": "A winey, crisp, and flavorful Filipino dish made with pork, coconut milk, and beurre-monte, perfect for meal prep and low-sodium diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork blood, pork belly, coconut milk, beurre-monte, vinegar, salt, black pepper, garlic, onion, and bay leaves.",
+    "Bring the mixture to a boil over high heat, stirring occasionally.",
+    "Reduce the heat to medium-low and simmer for 30 minutes, or until the pork is tender and the sauce has thickened.",
+    "Remove the bay leaves and stir in additional vinegar if desired.",
+    "Increase the heat to high and cook for an additional 5 minutes, or until the sauce has reached the desired consistency.",
+    "Serve the dinuguan hot, garnished with chopped green onions and steamed rice on the side.",
+    "Let the dish cool completely before refrigerating or freezing for meal prep.",
+    "Reheat the dinuguan over low heat, stirring occasionally, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "filipino-food",
+    "low-sodium",
+    "meal-prep",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "delicious-crisp-filipino-pork-dinuguan",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-crisp-filipino-pork-dinuguan",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Delicious Crisp",
+    "dishForm": "Dinuguan"
+  }
+}
