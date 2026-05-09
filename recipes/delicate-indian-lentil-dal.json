@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Indian Lentil Dal",
+  "description": "An earthy and energizing Indian dish featuring lentils and fermented jang, with a low calorie count and a hint of praline flavor from the caramelized onions.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "In a large pan, heat 2 tablespoons of oil over medium heat and caramelize the onions for 20 minutes.",
+    "Add the minced garlic and grated ginger to the pan and saute for 1 minute.",
+    "Add the cumin seeds and turmeric to the pan and saute for 1 minute.",
+    "Add the soaked lentils, water, fermented jang, and salt to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer the dal for 30 minutes or until the lentils are tender.",
+    "Use an immersion blender to puree the dal to the desired consistency.",
+    "Serve the dal hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "lentil-recipes",
+    "low-calorie",
+    "one-pot-meals",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "delicate-indian-lentil-dal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-indian-lentil-dal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:06:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "praline-french",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "delicate earthy",
+    "dishForm": "Dal"
+  }
+}
