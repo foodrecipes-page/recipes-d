@@ -1,0 +1,88 @@
+{
+  "title": "Dense Galician-Style Banana Salmorejo",
+  "description": "A rich, savory, banana-based dish originating from Galicia, Spain, featuring a unique texture and a touch of sweetness.",
+  "cuisine": "galician",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought, lamination-puff recommended"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole, room temperature"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse, flaky"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.25 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Combine sliced bananas and sugar in a bowl, set aside.",
+    "Roll out puff pastry to a thickness of 1/4 inch.",
+    "Transfer the pastry to a salt block or a large, flat surface.",
+    "Spread the banana mixture evenly over the center of the pastry, leaving a 1-inch border on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "bananas",
+    "dessert-free",
+    "easy-breakfast",
+    "galician",
+    "laminated",
+    "snack",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "dense-galician-style-banana-salmorejo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-galician-style-banana-salmorejo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "banana",
+    "diet": "egg-free",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "banana",
+    "descriptor": "Dense Galician-Style",
+    "dishForm": "Salmorejo"
+  }
+}
