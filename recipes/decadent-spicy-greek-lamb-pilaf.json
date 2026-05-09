@@ -1,0 +1,106 @@
+{
+  "title": "Decadent Spicy Greek Lamb Pilaf",
+  "description": "A peppery and molten Greek dish featuring green chilli and tadka, perfect for a Mediterranean-inspired meal prep dinner. This recipe combines the flavors of lamb, rice, and spices for a delicious and satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced green chilli and cook for 1 minute, until slightly softened.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the basmati rice and cook for 1 minute, stirring constantly, until the rice is coated in the tomato paste mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 20 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the crumbly feta cheese and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lamb-based",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "decadent-spicy-greek-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-spicy-greek-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:32:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "green chilli",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Decadent Spicy",
+    "dishForm": "Pilaf"
+  }
+}

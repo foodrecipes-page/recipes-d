@@ -2100,6 +2100,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-spicy-greek-lamb-pilaf",
+    "title": "Decadent Spicy Greek Lamb Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lamb-based",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-spicy-irish-sausage-hash",
     "title": "Decadent Spicy Irish Sausage Hash",
     "tags": [
