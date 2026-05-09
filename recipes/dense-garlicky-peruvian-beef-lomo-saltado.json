@@ -2,9 +2,7 @@
   "title": "Dense Garlicky Peruvian Beef Lomo Saltado",
   "description": "A crowd-pleasing Peruvian dish featuring tender beef, tagliatelle, and nuka-pickle, all cooked to perfection in a claypot.",
   "cuisine": "Peruvian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "tags": [
     "beef-recipes",
     "crowd-pleaser",
-    "gluten-free",
     "one-pot",
     "peruvian-cuisine"
   ],

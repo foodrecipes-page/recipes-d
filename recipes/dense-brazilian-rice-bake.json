@@ -4,8 +4,7 @@
   "cuisine": "brazilian",
   "diet": [
     "gluten-free",
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -53,7 +52,8 @@
     "cover the dish with aluminum foil and bake for 30 minutes.",
     "remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
     "remove from the oven and let cool for 5 minutes before serving.",
-    "serve hot and enjoy!"
+    "serve hot and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 50,

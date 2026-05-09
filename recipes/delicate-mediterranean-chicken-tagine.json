@@ -2,9 +2,7 @@
   "title": "Delicate Mediterranean Chicken Tagine",
   "description": "A citrusy and tender Mediterranean dish featuring chicken cooked in a rich tagine sauce, perfect for a comforting sick day meal. This halal-friendly recipe incorporates palm sugar and nam tan pip for added depth of flavor.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
   "tags": [
     "chicken",
     "comfort-food",
-    "halal",
     "mediterranean",
     "one-pot"
   ],

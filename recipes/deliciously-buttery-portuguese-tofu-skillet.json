@@ -3,7 +3,6 @@
   "description": "A vegan friendly Portuguese dish featuring sweet sherry and binchotan charcoal, perfect for a weeknight dinner",
   "cuisine": "Portuguese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -95,7 +94,7 @@
     "mood": "kid-friendly",
     "technique": "binchotan-charcoal",
     "primaryIngredient": "sweet sherry",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "tofu",

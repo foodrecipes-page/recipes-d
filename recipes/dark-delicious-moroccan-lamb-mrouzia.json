@@ -3,7 +3,6 @@
   "description": "A rich and flavorful Moroccan dish featuring lamb, dark soy sauce, and a blend of spices, served in a cast-iron skillet. This recipe is egg-free and features an ice-bath-shock step to create a unique texture.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "egg-free",
-    "gluten-free",
     "lamb-recipes",
     "moroccan-cuisine",
     "one-pan-meals"

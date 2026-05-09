@@ -3,7 +3,6 @@
   "description": "A traditional Ethiopian dish with a twist, featuring roasted teff injera with a cheese pull, made with red food coloring and long-fermentation dough, perfect for meal prep and FODMAP friendly",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -58,7 +57,6 @@
     "cheese-pull",
     "ethiopian-cuisine",
     "fodmap-friendly",
-    "gluten-free",
     "meal-prep",
     "roasted",
     "vegetarian"

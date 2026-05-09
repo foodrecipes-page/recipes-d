@@ -3,7 +3,6 @@
   "description": "A malty and velvety Middle Eastern dish featuring beef flank steak, served in a mason jar, perfect for a hangover cure. This ayurvedic-sattvic-friendly recipe is made with a mother-sauce-base and has a harees form.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -76,7 +75,6 @@
   "tags": [
     "beef",
     "dairy-free",
-    "gluten-free",
     "hangover-cure",
     "mason-jar",
     "middle-eastern"

@@ -3,8 +3,7 @@
   "description": "A light and herbal Irish dish featuring harissa spice, this pie is a perfect representation of Ayurvedic-sattvic friendly cuisine, made with flaky crust and delicate potato filling.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "ayurvedic-sattvic",
     "flaky-crust",
-    "gluten-free",
     "harissa-spice",
     "irish-cuisine",
     "potato-pie",

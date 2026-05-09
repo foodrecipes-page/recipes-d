@@ -96,7 +96,7 @@
     "mood": "sick-day",
     "technique": "rest",
     "primaryIngredient": "almond butter",
-    "diet": "dairy-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "almond butter",

@@ -2,9 +2,7 @@
   "title": "Delicate Peruvian Morcilla Papa Rellena",
   "description": "A malty, pillowy Peruvian dish featuring morcilla and a mirepoix base, perfect for a date night, pescatarian friendly, in the form of papa rellena.",
   "cuisine": "Peruvian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
     "date-night",
     "latin-american",
     "peruvian-cuisine",
-    "pescatarian",
     "potato-dish"
   ],
   "nutrition": {

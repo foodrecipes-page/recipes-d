@@ -2,9 +2,7 @@
   "title": "Delicate Smoky Mexican Shrimp Paste Enchiladas",
   "description": "A light and flaky Mexican dish featuring saeujeot-shrimp-paste and smoked cold flavors, perfect for a vegetarian-friendly meal option.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,8 +73,7 @@
     "mexican-food",
     "one-pan",
     "seafood-paste",
-    "smoky-flavors",
-    "vegetarian"
+    "smoky-flavors"
   ],
   "nutrition": {
     "calories": 420,
