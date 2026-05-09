@@ -1,0 +1,98 @@
+{
+  "title": "Dark Roasted Japanese Pork Ramen",
+  "description": "A midnight-craving Japanese dish featuring shredded roasted pork, lacquer-glaze, and ayurvedic-rajasic-friendly ingredients, this dark roasted Japanese pork ramen is a hearty and satisfying meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Whisk together soy sauce, sake, mirin, and brown sugar in a small bowl.",
+    "Place the pork shoulder in a large Dutch oven and brush the soy sauce mixture evenly over the pork.",
+    "Roast the pork in the preheated oven for 2 hours, or until it reaches an internal temperature of 190 degrees Fahrenheit.",
+    "Remove the pork from the oven and let it rest for 10 minutes before shredding it into bite-sized pieces.",
+    "Bring a large pot of water to a boil and cook the ramen noodles according to the package instructions.",
+    "Drain the noodles and divide them among four bowls.",
+    "Top each bowl with shredded pork, green onions, and sesame seeds.",
+    "Drizzle the lacquer-glaze sauce over the top of each bowl and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "japanese-inspired",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "dark-roasted-japanese-pork-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-japanese-pork-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:10:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "shredded meat",
+    "diet": "ayurvedic-rajasic",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Dark roasted",
+    "dishForm": "Ramen"
+  }
+}

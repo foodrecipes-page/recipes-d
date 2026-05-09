@@ -455,6 +455,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-roasted-japanese-pork-ramen",
+    "title": "Dark Roasted Japanese Pork Ramen",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "japanese-inspired",
+      "one-pan",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-portuguese-chocolate-hash",
     "title": "Dark Roasted Portuguese Chocolate Hash",
     "tags": [
