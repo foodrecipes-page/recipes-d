@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Roast Vietnamese Provola Tagine",
+  "description": "A light and flavorful Vietnamese dish featuring provola cheese, roasted to perfection in a tagine pot with a hint of mustard and a bouncy texture, perfect for a dinner meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "1 cup",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": " vietnamese coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together mustard seeds, fish sauce, lime juice, and olive oil.",
+    "Add the sliced provola cheese to the bowl and toss to coat with the mustard mixture.",
+    "In a large tagine pot, combine the coated provola cheese, chopped vietnamese coriander, minced garlic, and grated ginger.",
+    "Add the diced red bell pepper to the tagine pot and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cover the tagine pot with a lid and roast in the preheated oven for 20 minutes.",
+    "Remove the lid and continue to roast for an additional 10 minutes, or until the cheese is lightly browned and the vegetables are tender.",
+    "Remove the tagine pot from the oven and let it cool for a few minutes before serving.",
+    "Serve the delicate roast Vietnamese provola tagine hot, garnished with additional chopped vietnamese coriander if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-dishes",
+    "gluten-free",
+    "roasted-vegetables",
+    "tagine-recipes",
+    "vegetarian-meals",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "delicate-roast-vietnamese-provola-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roast-vietnamese-provola-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:10:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "provola",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "provola",
+    "descriptor": "delicate roast",
+    "dishForm": "Tagine"
+  }
+}
