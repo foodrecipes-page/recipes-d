@@ -1,0 +1,95 @@
+{
+  "title": "Dreamy Irish Potato Bao",
+  "description": "A sweet and pillowy Irish dish featuring sweet chilli sauce and ferment-jang, perfect for a hangover cure, and jain-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, sweet chilli sauce, and ferment-jang, and mix well.",
+    "In a separate bowl, whisk together flour, yeast, salt, and sugar.",
+    "Add the dry ingredients to the potato mixture and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and shape it into small buns.",
+    "Place the buns on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bun.",
+    "Bake the buns for 20 minutes, or until they are golden brown.",
+    "While the buns are baking, heat the plant-based milk in a small saucepan over low heat.",
+    "Once the buns are done, brush them with the warm milk and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "hangover-cure",
+    "irish-food",
+    "jain-friendly",
+    "sweet-treats",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "dreamy-irish-potato-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-irish-potato-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:33:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "dreamy",
+    "dishForm": "Bao"
+  }
+}
