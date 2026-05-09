@@ -5914,6 +5914,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-tunisian-chicken-tagine",
+    "title": "Delicate Tunisian Chicken Tagine",
+    "tags": [
+      "chicken-recipe",
+      "delicate-flavors",
+      "low-sodium",
+      "one-pan",
+      "tunisian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-tunisian-snapper-fish-tagine",
     "title": "Delicate Tunisian Snapper Fish Tagine",
     "tags": [
