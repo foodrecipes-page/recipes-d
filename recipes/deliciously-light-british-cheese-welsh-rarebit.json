@@ -1,0 +1,101 @@
+{
+  "title": "Deliciously Light British Cheese Welsh Rarebit",
+  "description": "A nutty and light festive British dish featuring hot smoked paprika, perfect for a low-calorie friendly meal, this Welsh Rarebit is a delicious twist on a classic recipe.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "reduced fat cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the shredded cheese, hot smoked paprika, salt, and black pepper to the saucepan, stirring until the cheese is melted and smooth.",
+    "In a small bowl, whisk together the low-fat milk and large egg until well combined.",
+    "Add the milk and egg mixture to the cheese mixture, stirring until the sauce is smooth and creamy.",
+    "Toast the whole wheat bread slices until lightly browned.",
+    "Place the toasted bread slices on a baking sheet lined with parchment paper.",
+    "Spoon the cheese sauce over the toasted bread slices, making sure to cover the entire surface.",
+    "Place the baking sheet under the broiler and cook for 2-3 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the baking sheet from the oven and sprinkle with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "low-calorie",
+    "lunch-idea",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "deliciously-light-british-cheese-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-light-british-cheese-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:47:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Deliciously Light",
+    "dishForm": "Welsh Rarebit"
+  }
+}

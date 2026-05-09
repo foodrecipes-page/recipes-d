@@ -6104,6 +6104,21 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-crunchy-croatian-meat-wrap",
+    "title": "Deliciously Crunchy Croatian Meat Wrap",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "crunchy",
+      "meat-wraps",
+      "spicy",
+      "yeasty"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 70,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-crunchy-french-nuka-pickle-quiche",
     "title": "Deliciously Crunchy French Nuka Pickle Quiche",
     "tags": [
@@ -6873,6 +6888,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-light-british-cheese-welsh-rarebit",
+    "title": "Deliciously Light British Cheese Welsh Rarebit",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "low-calorie",
+      "lunch-idea",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {

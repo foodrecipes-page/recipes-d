@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Crunchy Croatian Meat Wrap",
+  "description": "A traditional Croatian dish featuring a yeasty and crunchy corn husk wrap filled with rest meat and spices, perfect for curing hangovers. This dish is a hearty and flavorful meal that combines the warmth of cinnamon with the comfort of slow cooked meat.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "rest meat, such as leftover roast beef or beef stew, can be used as a substitute"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon",
+      "notes": "smoked or sweet paprika can be used"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6 husks",
+      "notes": "fresh or dried corn husks can be used"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tablespoons of oil over medium heat and cook the diced onion until it is translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the ground beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the broken cinnamon stick, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "While the meat mixture is cooking, prepare the corn husks by soaking them in water for 30 minutes.",
+    "Once the corn husks are pliable, remove them from the water and fill each husk with about 1/2 cup of the meat mixture.",
+    "Fold the sides of the corn husk over the filling and roll the wrap up tightly, repeating with the remaining husks and filling.",
+    "Place the wraps on a baking sheet lined with parchment paper and bake in a preheated oven at 375 degrees for 20 minutes, or until the corn husks are crispy and golden brown.",
+    "Remove the wraps from the oven and let them cool for a few minutes before serving.",
+    "Serve the wraps hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "crunchy",
+    "meat-wraps",
+    "spicy",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "deliciously-crunchy-croatian-meat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-croatian-meat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:47:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "rest-meat",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "Deliciously Crunchy",
+    "dishForm": "Wrap"
+  }
+}
