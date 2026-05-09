@@ -1,0 +1,105 @@
+{
+  "title": "Delicate Smoky Mexican Shrimp Paste Enchiladas",
+  "description": "A light and flaky Mexican dish featuring saeujeot-shrimp-paste and smoked cold flavors, perfect for a vegetarian-friendly meal option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saeujeot-shrimp-paste",
+      "amount": "1/4 cup",
+      "notes": "Korean chili paste with fermented shrimp"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion and garlic until softened.",
+    "Add the diced jalapeno peppers and cook for an additional 2 minutes.",
+    "Stir in the saeujeot-shrimp-paste, smoked paprika, mustard, and salt.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the shrimp paste mixture onto the center of the tortilla.",
+    "Roll the tortilla up and place it seam-side down in a baking dish, repeating with the remaining tortillas and filling.",
+    "Pour the remaining shrimp paste mixture over the rolled enchiladas and top with shredded cheese.",
+    "Bake the enchiladas in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "enchiladas",
+    "mexican-food",
+    "one-pan",
+    "seafood-paste",
+    "smoky-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "delicate-smoky-mexican-shrimp-paste-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-mexican-shrimp-paste-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:43:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "smoke-cold",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "vegetarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shrimp paste",
+    "descriptor": "Delicate Smoky",
+    "dishForm": "Enchiladas"
+  }
+}
