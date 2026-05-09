@@ -1,0 +1,107 @@
+{
+  "title": "Delicate Flaky Irish Potato Pie",
+  "description": "A light and herbal Irish dish featuring harissa spice, this pie is a perfect representation of Ayurvedic-sattvic friendly cuisine, made with flaky crust and delicate potato filling.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "harissa spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, harissa spice, olive oil, chopped onion, minced garlic, chopped rosemary, salt, and pepper, and toss until the potatoes are evenly coated.",
+    "In a separate large bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "Gradually add cold water to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "Fill the pie crust with the potato mixture and spread it out evenly.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch and use it to cover the pie.",
+    "Crimp the edges of the pie to seal it and cut a few slits in the top to allow steam to escape.",
+    "Bake the pie for 45 minutes, or until the crust is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "flaky-crust",
+    "gluten-free",
+    "harissa-spice",
+    "irish-cuisine",
+    "potato-pie",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "delicate-flaky-irish-potato-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-irish-potato-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:38:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "harissa spice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "delicate flaky",
+    "dishForm": "Pie"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Deliciously Shaggy Filipino Chicken Adobo",
+  "description": "A fresh and shaggy Filipino dish featuring juniper berries and tadka, perfect for a brunch mood, this keto-friendly adobo is cooked to perfection in a banana leaf vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "1 teaspoon",
+      "notes": "mixed"
+    },
+    {
+      "name": "coconut vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken thighs, crushed juniper berries, tadka spices, salt, and black pepper.",
+    "In a small bowl, whisk together the coconut vinegar and fish sauce.",
+    "Add the vinegar mixture to the chicken mixture and mix well.",
+    "Lay a banana leaf flat on a work surface and place a quarter of the chicken mixture in the center of the leaf.",
+    "Fold the banana leaf over the chicken to form a packet and repeat with the remaining chicken and leaves.",
+    "Place the packets in a large baking dish and bake for 30 minutes.",
+    "Remove the packets from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-cooking",
+    "brunch-ideas",
+    "chicken-recipes",
+    "filipino-cuisine",
+    "gluten-free",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "deliciously-shaggy-filipino-chicken-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-shaggy-filipino-chicken-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:39:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "juniper berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Deliciously Shaggy",
+    "dishForm": "Adobo"
+  }
+}

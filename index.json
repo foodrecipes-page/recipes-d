@@ -3121,6 +3121,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-flaky-irish-potato-pie",
+    "title": "Delicate Flaky Irish Potato Pie",
+    "tags": [
+      "ayurvedic-sattvic",
+      "flaky-crust",
+      "gluten-free",
+      "harissa-spice",
+      "irish-cuisine",
+      "potato-pie",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-flaky-korean-citrus-pancakes",
     "title": "Delicate Flaky Korean Citrus Pancakes",
     "tags": [
@@ -6676,6 +6692,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-shaggy-filipino-chicken-adobo",
+    "title": "Deliciously Shaggy Filipino Chicken Adobo",
+    "tags": [
+      "banana-leaf-cooking",
+      "brunch-ideas",
+      "chicken-recipes",
+      "filipino-cuisine",
+      "gluten-free",
+      "keto-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
