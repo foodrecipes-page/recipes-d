@@ -1,0 +1,108 @@
+{
+  "title": "Delicate Malty Middle Eastern Beef Flank Steak Harees",
+  "description": "A malty and velvety Middle Eastern dish featuring beef flank steak, served in a mason jar, perfect for a hangover cure. This ayurvedic-sattvic-friendly recipe is made with a mother-sauce-base and has a harees form.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and sauté the onion until it is translucent.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, stirring constantly.",
+    "Add the cumin, coriander, turmeric, salt, and black pepper to the pan and cook for 1 minute, stirring constantly.",
+    "Add the sliced beef flank steak to the pan and cook until it is browned, about 5 minutes.",
+    "Add the malt syrup to the pan and stir to combine.",
+    "Transfer the mixture to a mason jar and bake in the preheated oven for 2 hours.",
+    "Remove the jar from the oven and let it cool to room temperature.",
+    "Serve the harees in the mason jar, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dairy-free",
+    "gluten-free",
+    "hangover-cure",
+    "mason-jar",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "delicate-malty-middle-eastern-beef-flank-steak-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-malty-middle-eastern-beef-flank-steak-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:04:40Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "beef flank steak",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "delicate malty",
+    "dishForm": "Harees"
+  }
+}
