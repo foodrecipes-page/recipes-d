@@ -1,0 +1,108 @@
+{
+  "title": "Delicate French Vegetable Gratin",
+  "description": "A light and tender French dish featuring a variety of vegetables in a jammy sauce, made with garlic granules and namul-blanch-seasoned vegetables, perfect for a vegan-friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced zucchini, eggplant, and red bell pepper with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat and saute the thinly sliced onion until it is softened and translucent.",
+    "Add the garlic granules to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the vegetable broth, tomato paste, and nutritional yeast, if using, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally, until it has thickened and reduced slightly.",
+    "In a greased 9x13 inch baking dish, create a layer of roasted vegetables, followed by a layer of the sauce, and repeat this process until all of the ingredients have been used, finishing with a layer of sauce on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned and the sauce is bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "delicious",
+    "french-cuisine",
+    "healthy",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "delicate-french-vegetable-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-french-vegetable-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:39:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "garlic granules",
+    "diet": "vegan",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "delicate tender",
+    "dishForm": "Gratin"
+  }
+}
