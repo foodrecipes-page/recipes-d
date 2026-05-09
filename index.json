@@ -5732,6 +5732,23 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-deep-fried-venezuelan-knafeh-papillote",
+    "title": "Delicious Deep-Fried Venezuelan Knafeh Papillote",
+    "tags": [
+      "deep-fried",
+      "macrobiotic",
+      "rich",
+      "snappy",
+      "vegan",
+      "vegan-friendly",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-diabetic-friendly-mediterranean-mung-bean-sprouts-pilaf",
     "title": "Delicious Diabetic-friendly Mediterranean Mung bean sprouts Pilaf",
     "tags": [
@@ -9681,6 +9698,20 @@
     ],
     "cuisine": "Scottish",
     "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-shaggy-herbal-dish-gratin",
+    "title": "Dense Shaggy Herbal Dish Gratin",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {

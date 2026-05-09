@@ -1,0 +1,105 @@
+{
+  "title": "Delicious Deep-Fried Venezuelan Knafeh Papillote",
+  "description": "Rich, snappy weeknight Venezuelan dish featuring Knafeh in a papillote, macrobiotic-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crispy Phyllo Dough (Knafeh)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Ricotta Cheese",
+      "amount": "2 cups",
+      "notes": "microbiotic-friendly alternative: make your own with probiotic powder"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": "ensure it's fresh, and store properly in airtight container"
+    },
+    {
+      "name": "Date Syrup",
+      "amount": "2 tbsp",
+      "notes": "sweetener option: use stevia or honey"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "macrobiotic-friendly cooking oil"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Almonds",
+      "amount": "chopped 1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix the Venezuelan Ricotta Cheese with the Tahini, Date Syrup, Ground Cinnamon, and Ground Cardamom in a large bowl until smooth.",
+    "Place 1/4 cup of the cheese mixture onto the center of each phyllo sheet, and top with a sprinkle of chopped Unsalted Almonds.",
+    "Fold the phyllo sheets in half, then in half again, to form a triangle. Seal the edges to prevent filling from escaping during frying.",
+    "Heat the Coconut Oil in a deep frying pan over medium-high heat until it reaches 350°F (180°C).",
+    "Carefully place the phyllo triangles into the hot oil, and fry for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the fried Knafeh Papillote to a baking sheet lined with parchment paper, and bake for an additional 5 minutes, or until crispy.",
+    "Once cooked, drizzle with Honey and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "deep-fried",
+    "macrobiotic",
+    "rich",
+    "snappy",
+    "vegan",
+    "vegan-friendly",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "delicious-deep-fried-venezuelan-knafeh-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-deep-fried-venezuelan-knafeh-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "knafeh",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "knafeh",
+    "descriptor": "Delicious Deep-Fried",
+    "dishForm": "Papillote"
+  }
+}

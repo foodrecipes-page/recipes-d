@@ -1,0 +1,102 @@
+{
+  "title": "Dense Shaggy Herbal Dish Gratin",
+  "description": "A rich and flavorful dish from Saudi Arabia featuring palm sugar and a lacquer glaze. This dish is paleo-friendly and perfect for a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palm sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Roasted chicken breast",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "4 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together the palm sugar, ghee, and roasted chicken breast in a large bowl.",
+    "Add the parsley, green chili peppers, coconut oil, salt, and black pepper to the bowl and mix well.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Drizzle the lacquer glaze over the top of the dish.",
+    "Bake in the preheated oven for 30-40 minutes or until the top is golden brown and the dish is hot and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "dense-shaggy-herbal-dish-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-shaggy-herbal-dish-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "palm sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "dish",
+    "descriptor": "herbal",
+    "dishForm": "gratin"
+  }
+}
