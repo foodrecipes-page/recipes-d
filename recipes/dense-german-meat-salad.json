@@ -1,0 +1,123 @@
+{
+  "title": "Dense German Meat Salad",
+  "description": "A hearty, grassy German dish perfect for a crowd-pleaser that combines miso-marinate with chilled butter, suitable for shojin-friendly diet.",
+  "cuisine": "german",
+  "diet": [
+    "shojin-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bavarian Sausage (Knockwurst)",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chilled Butter",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine miso paste, apple cider vinegar, Dijon mustard, salt, black pepper, and garlic, and blend until smooth.",
+    "Cut the Bavarian sausage into 1-inch pieces and set aside.",
+    "In a large bowl, combine the chopped parsley, dill, and chives.",
+    "Add the sliced red onion to the bowl and toss to combine.",
+    "Add the miso marinade to the bowl and toss to coat.",
+    "Add the chilled butter to the bowl and toss until the salad is well coated.",
+    "Add the sausage pieces to the bowl and toss gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "chilled-salad",
+    "crowd-pleaser",
+    "german-dish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "dense-german-meat-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-german-meat-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:20:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chilled butter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "meat",
+    "descriptor": "Dense",
+    "dishForm": "Salad"
+  }
+}

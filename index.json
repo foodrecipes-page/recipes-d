@@ -7891,6 +7891,23 @@
     "shard": "d"
   },
   {
+    "slug": "dense-german-meat-salad",
+    "title": "Dense German Meat Salad",
+    "tags": [
+      "chilled-salad",
+      "crowd-pleaser",
+      "german-dish",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "dense-gooey-middle-eastern-red-pepper-muhammara",
     "title": "Dense-Gooey Middle-Eastern Red-Pepper Muhammara",
     "tags": [
