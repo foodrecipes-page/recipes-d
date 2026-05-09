@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Japanese Kabocha Agedashi",
+  "description": "A traditional Japanese dish featuring deep-fried kabocha squash in a light broth, served in a lacquerware bowl. This earthy and chewy crowd-pleaser is egg-free and perfect for any occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour and cornstarch.",
+    "Toss the kabocha squash cubes in the flour mixture to coat.",
+    "Carefully add the coated squash cubes to the hot oil and deep-fry until golden brown, about 3-4 minutes.",
+    "Remove the fried squash from the oil with a slotted spoon and drain on paper towels.",
+    "In a small saucepan, combine the dashi broth, soy sauce, and mirin, and bring to a simmer over medium heat.",
+    "Add the grated ginger to the broth and cook for 1 minute.",
+    "To serve, place a few pieces of the fried squash in a lacquerware bowl and ladle the hot broth over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "japanese-cuisine",
+    "lacquerware-bowl",
+    "traditional-dish",
+    "vegetarian-friendly",
+    "winter-squash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delicate-japanese-kabocha-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-japanese-kabocha-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:57:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "kabocha",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kabocha",
+    "descriptor": "Delicate Deep Fried",
+    "dishForm": "Agedashi"
+  }
+}
