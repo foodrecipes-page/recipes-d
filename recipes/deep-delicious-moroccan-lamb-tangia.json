@@ -1,0 +1,104 @@
+{
+  "title": "Deep Delicious Moroccan Lamb Tangia",
+  "description": "A spicy and silky Moroccan dish featuring lamb, golden caster sugar, and a blend of aromatic spices, cooked to perfection in a traditional tangia pot. This satvik-friendly recipe is a nostalgic and flavorful delight.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion, minced garlic, and grated ginger to the skillet and cook until the onion is translucent.",
+    "Stir in the ground cumin, coriander, cayenne pepper, and salt.",
+    "Add the golden caster sugar and stir to combine.",
+    "Transfer the mixture to a traditional tangia pot or a large Dutch oven.",
+    "Cover the pot and cook over low heat for 2.5 hours, or until the lamb is tender.",
+    "Serve the tangia hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic-spices",
+    "lamb-recipes",
+    "moroccan-food",
+    "satvik-diet",
+    "slow-cooked",
+    "tangia-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "deep-delicious-moroccan-lamb-tangia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-delicious-moroccan-lamb-tangia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:40:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Deep Delicious",
+    "dishForm": "Tangia"
+  }
+}
