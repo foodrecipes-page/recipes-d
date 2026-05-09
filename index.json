@@ -587,6 +587,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-velvety-algerian-lamb-tagine",
+    "title": "Dark Velvety Algerian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "mediterranean",
+      "mustard",
+      "one-pot",
+      "pressure-cooker",
+      "thyme"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-velvety-egyptian-lamb-tagine",
     "title": "Dark Velvety Egyptian Lamb Tagine",
     "tags": [
