@@ -1,0 +1,112 @@
+{
+  "title": "Delicate Pungent Norwegian Vegetable Stew",
+  "description": "This hearty Norwegian stew features tender vegetables and the distinctive flavor of juniper berries, making it a perfect dish for adventurous eaters. The katsuramuki-cut vegetables add a delicate touch to the overall texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the katsuramuki-cut carrots and parsnips, and cook for 5 minutes, stirring occasionally.",
+    "Add the diced potatoes, vegetable broth, juniper berries, thyme, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the vegetables are tender.",
+    "Remove the pot from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "hearty-stew",
+    "norwegian-cuisine",
+    "vegetarian-friendly",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-pungent-norwegian-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-pungent-norwegian-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:37:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "juniper berries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Delicate pungent",
+    "dishForm": "Stew"
+  }
+}
