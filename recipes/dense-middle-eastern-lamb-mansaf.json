@@ -1,0 +1,115 @@
+{
+  "title": "Dense Middle-Eastern Lamb Mansaf",
+  "description": "A hearty and comforting lamb dish, characterized by its rich flavor and velvety texture, originating from the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1/4 cup",
+      "notes": " Middle Eastern ingredient, can be substituted with a mixture of equal parts molasses and pomegranate juice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked, ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt, such as Maldon"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old, fluffy white rice"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Score the lamb shoulder in a diamond pattern, cutting about 1/4 inch deep, being careful not to cut all the way through.",
+    "Place the lamb shoulder on a wire rack set over a large baking sheet or roasting pan, and let it air-dry in the refrigerator for at least 2 hours, or overnight.",
+    "Remove the lamb from the refrigerator and rub it all over with the minced garlic and grated ginger.",
+    "Season the lamb with cumin, paprika, salt, and black pepper, making sure to get some of the spice mixture into the cuts you made earlier.",
+    "Transfer the lamb to a bain-marie setup by placing the baking sheet or roasting pan over a larger pot or Dutch oven filled with water.",
+    "Cover the pot with a lid and bring the water to a simmer over medium heat.",
+    "Once the water is simmering, transfer the pot to the preheated oven and braise the lamb for about 2 1/2 hours, or until it's tender and easily shreds with a fork.",
+    "While the lamb is braising, prepare the hummus by stirring in the pomegranate molasses until well combined.",
+    "Warm the pita bread according to package instructions and slice it into wedges.",
+    "To serve, place a generous portion of the lamb on a platter, spoon some of the hummus over the top, and garnish with chopped fresh parsley and a sprinkle of sumac, if desired.",
+    "Serve with a side of fluffy white rice and pita wedges, and enjoy!"
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 180,
+  "totalTimeMin": 215,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "comfort-food",
+    "lamb",
+    "mansaf",
+    "middle-eastern",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "dense-middle-eastern-lamb-mansaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-middle-eastern-lamb-mansaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "hp-sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Dense",
+    "dishForm": "Mansaf"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Double-Fry-Indulgent Japanese Beef Flank Steak Udon",
+  "description": "Indulge in this pungent and creamy Japanese dish featuring tender beef flank steak and crispy udon noodles, perfect for a high-protein dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "keto",
+    "dairy-free",
+    "low-carb",
+    "high-protein",
+    "pescatarian",
+    "meat-free",
+    "lacto-ovo-vegetarian",
+    "lacto-ovo-vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "500g",
+      "notes": "preferably wagyu or kobe beef"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "250g",
+      "notes": "preferably fresh or homemade"
+    },
+    {
+      "name": "double-fry sauce",
+      "amount": "200g",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "100g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "20g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ground white pepper",
+      "amount": "2g",
+      "notes": "optional"
+    },
+    {
+      "name": "grated daikon radish",
+      "amount": "100g",
+      "notes": "optional"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "20g",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "400ml",
+      "notes": "for cooking udon noodles"
+    },
+    {
+      "name": "sake",
+      "amount": "100ml",
+      "notes": "for braising beef flank steak"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted beef broth to a boil and cook the udon noodles according to the package instructions. Drain and set aside.",
+    "Season the beef flank steak with salt, white pepper, and a pinch of sugar. ",
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat and sear the beef flank steak for 2-3 minutes per side, or until browned. ",
+    "Transfer the beef flank steak to a plate and set aside to rest.",
+    "Heat another 2 tablespoons of vegetable oil in the same skillet and add the sliced green onions. Cook for 1-2 minutes, or until fragrant.",
+    "Add the toasted sesame seeds, grated daikon radish, and grated ginger to the skillet and cook for another minute, stirring constantly.",
+    "Add the double-fry sauce to the skillet and stir to combine with the green onions and sesame seeds.",
+    "Return the beef flank steak to the skillet and coat with the double-fry sauce.",
+    "Cook for an additional 2-3 minutes, or until the beef flank steak is heated through and the double-fry sauce is bubbly.",
+    "Add the cooked udon noodles to the skillet and toss with the beef flank steak and double-fry sauce.",
+    "Serve immediately and garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "double-fry-sauce",
+    "easy-to-make",
+    "high-protein",
+    "indulgent",
+    "japanese-cuisine",
+    "kobe-beef",
+    "one-pan",
+    "pungent",
+    "udon-noodles",
+    "wagyu-beef",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "double-fry-indulgent-japanese-beef-flank-steak-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/double-fry-indulgent-japanese-beef-flank-steak-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "beef flank steak",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "double-fry-indulgent",
+    "dishForm": "Udon"
+  }
+}

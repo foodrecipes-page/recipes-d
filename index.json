@@ -9202,6 +9202,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-middle-eastern-lamb-mansaf",
+    "title": "Dense Middle-Eastern Lamb Mansaf",
+    "tags": [
+      "braised",
+      "comfort-food",
+      "lamb",
+      "mansaf",
+      "middle-eastern",
+      "one-pan"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 215,
+    "shard": "d"
+  },
+  {
     "slug": "dense-middle-eastern-lentils-broth",
     "title": "Dense Middle Eastern Lentils Broth",
     "tags": [
@@ -10376,6 +10391,28 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "double-fry-indulgent-japanese-beef-flank-steak-udon",
+    "title": "Double-Fry-Indulgent Japanese Beef Flank Steak Udon",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "double-fry-sauce",
+      "easy-to-make",
+      "high-protein",
+      "indulgent",
+      "japanese-cuisine",
+      "kobe-beef",
+      "one-pan",
+      "pungent",
+      "udon-noodles",
+      "wagyu-beef",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
