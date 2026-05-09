@@ -1,0 +1,94 @@
+{
+  "title": "Dense Chewy Ukrainian Bread Dumplings",
+  "description": "A traditional Ukrainian dish featuring citrusy and chewy bread dumplings, perfect for a hangover cure or a paleo-friendly meal option.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet",
+      "notes": "2 1/4 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the bread flour, yeast, salt, and sugar.",
+    "Add the lemon zest and juice to the dry ingredients and mix until well combined.",
+    "In a separate bowl, whisk together the eggs and water.",
+    "Add the wet ingredients to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a large pot of salted water to 190 degrees Fahrenheit.",
+    "Once the water is boiling, use a spoon to drop the dough into the water, making sure not to overcrowd the pot.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "comfort-food",
+    "homemade",
+    "paleo-friendly",
+    "traditional",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "dense-chewy-ukrainian-bread-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-chewy-ukrainian-bread-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:42:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "bread flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "dense chewy",
+    "dishForm": "Dumplings"
+  }
+}
