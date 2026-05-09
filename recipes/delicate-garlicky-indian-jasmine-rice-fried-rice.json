@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Garlicky Indian Jasmine Rice Fried Rice",
+  "description": "A garlicky and crisp Indian dish featuring jasmine rice, this air-fry recipe is a nostalgic and buddhist-temple-friendly option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for air fryer"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the air fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cooked jasmine rice, minced garlic, chopped onion, grated carrot, and frozen green peas.",
+    "In a small bowl, whisk together the soy sauce, salt, and black pepper.",
+    "Pour the soy sauce mixture over the rice mixture and stir until everything is well combined.",
+    "Add the olive oil to the air fryer basket and swirl it around to coat the bottom.",
+    "Add the rice mixture to the air fryer basket and stir to combine with the olive oil.",
+    "Cook the mixture in the air fryer for 10 minutes, stirring every 2 minutes, until the rice is crispy and golden brown.",
+    "Remove the fried rice from the air fryer and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer-recipes",
+    "easy-meals",
+    "indian-cuisine",
+    "quick-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-garlicky-indian-jasmine-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-garlicky-indian-jasmine-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:14:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "jasmine rice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "jasmine rice",
+    "descriptor": "delicate garlicky",
+    "dishForm": "Fried-Rice"
+  }
+}
