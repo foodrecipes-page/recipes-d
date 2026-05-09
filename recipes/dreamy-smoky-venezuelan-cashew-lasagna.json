@@ -1,0 +1,111 @@
+{
+  "title": "Dreamy Smoky Venezuelan Cashew Lasagna",
+  "description": "A smoky and cheesy Venezuelan dish featuring cashew nuts, perfect for a lazy Sunday, this ovo-vegetarian friendly lasagna is a twist on traditional recipes with the added depth of tadka spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "15 ounces",
+      "notes": "low fat"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a blender or food processor, combine the chopped cashew nuts, ricotta cheese, eggs, tadka spice mix, smoked paprika if using, and a pinch of salt, then blend until smooth.",
+    "In a large skillet, heat the olive oil over medium heat and add the blended cashew nut mixture, cooking for about 5 minutes or until it starts to thicken.",
+    "In a large baking dish, create a thin layer of the cashew nut mixture, then arrange 4 lasagna noodles on top.",
+    "Spread half of the remaining cashew nut mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the remaining cashew nut mixture, and finally the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before slicing and serving garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-nut",
+    "cheesy",
+    "lazy-sunday",
+    "ovo-vegetarian",
+    "smoky",
+    "tadka",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dreamy-smoky-venezuelan-cashew-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-smoky-venezuelan-cashew-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:33:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "cashew nuts",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "dreamy smoky",
+    "dishForm": "Lasagna"
+  }
+}
