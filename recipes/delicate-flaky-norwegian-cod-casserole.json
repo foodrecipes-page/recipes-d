@@ -1,0 +1,105 @@
+{
+  "title": "Delicate Flaky Norwegian Cod Casserole",
+  "description": "A briny and flaky Norwegian dish featuring cod, stoned dates, and caramelized flavors, perfect for a weeknight dinner. This pescatarian-friendly casserole is a delightful twist on traditional Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "stoned dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until caramelized.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a separate saucepan, whisk together the flour and milk, and cook over medium heat until the mixture thickens.",
+    "Season the cod fillets with salt and black pepper.",
+    "In a greased 9x13 inch baking dish, arrange a layer of cod fillets.",
+    "Spoon the caramelized onion and garlic mixture over the cod, followed by a layer of stoned dates.",
+    "Pour the flour and milk mixture over the dates, and sprinkle with grated cheddar cheese if using.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cod is flaky and the cheese is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "fish-dish",
+    "norwegian-cuisine",
+    "pescatarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-flaky-norwegian-cod-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-norwegian-cod-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:21:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "stoned dates",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "delicate flaky",
+    "dishForm": "Casserole"
+  }
+}
