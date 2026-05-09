@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Dense Ukrainian Cheese Curds Dumplings",
+  "description": "A hearty Ukrainian dish featuring cheese curds, infused oil, and no onions or garlic, perfect for a weeknight dinner. This malty, shaggy dish is sure to become a favorite.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "malty flavor"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "fine grind"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant yeast"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, cheese curds, infused oil, eggs, salt, sugar, and milk, stirring until a shaggy dough forms.",
+    "Add the active dry yeast to the dough and mix until fully incorporated.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a large pot of salted water to 190 degrees Fahrenheit.",
+    "Once the water is boiling, use a spoon to drop the dough into the water, forming dumplings.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and place them on a plate.",
+    "Drizzle the melted butter over the dumplings and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "hearty",
+    "high-carb",
+    "homemade",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "deliciously-dense-ukrainian-cheese-curds-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-ukrainian-cheese-curds-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:59:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cheese curds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "deliciously dense",
+    "dishForm": "Dumplings"
+  }
+}
