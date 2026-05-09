@@ -1,0 +1,110 @@
+{
+  "title": "Deliciously Chewy Turkish Chicken Wings Kebabs",
+  "description": "A herbal and chewy Turkish dish featuring chicken wings, bonito flakes, and ayurvedic sattvic friendly ingredients, perfect for festive occasions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "organic, free range"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried, shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "ayurvedic"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ayurvedic"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, cumin powder, paprika, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Arrange the chicken wings on the baking sheet in a single layer.",
+    "Sprinkle the bonito flakes over the chicken wings.",
+    "Bake the chicken wings for 30 minutes or until cooked through.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with a side of Turkish rice or salad for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-wings",
+    "festive",
+    "gluten-free",
+    "herbal",
+    "sattvic",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "deliciously-chewy-turkish-chicken-wings-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-chewy-turkish-chicken-wings-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:29:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "chicken wings",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken wings",
+    "descriptor": "deliciously chewy",
+    "dishForm": "Kebabs"
+  }
+}
