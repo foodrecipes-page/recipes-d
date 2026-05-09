@@ -1,0 +1,104 @@
+{
+  "title": "Delicious Briny Algerian Sea Bass Tagine",
+  "description": "A traditional Algerian dish featuring sea bass fillets in a flavorful and aromatic tagine, perfect for a hangover cure. This recipe is Buddhist-temple-friendly and can be prepared with crumbly and briny flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "preserved lemons",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the sea bass fillets to the bowl and coat with the marinade.",
+    "Let the fillets marinate for 15 minutes.",
+    "In a large tagine or Dutch oven, combine the marinated fillets and preserved lemons.",
+    "Cover the tagine and bake for 20 minutes.",
+    "Remove the tagine from the oven and let it cool for 5 minutes.",
+    "Serve the sea bass hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "flavorful",
+    "hangover-cure",
+    "north-african",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicious-briny-algerian-sea-bass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-briny-algerian-sea-bass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:30:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "knead",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Delicious Briny",
+    "dishForm": "Tagine"
+  }
+}
