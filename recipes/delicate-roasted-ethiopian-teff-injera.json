@@ -1,0 +1,90 @@
+{
+  "title": "Delicate Roasted Ethiopian Teff Injera",
+  "description": "A traditional Ethiopian dish with a twist, featuring roasted teff injera with a cheese pull, made with red food coloring and long-fermentation dough, perfect for meal prep and FODMAP friendly",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "make sure to use gluten-free teff flour"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, water, yeast, and salt, and mix well to form a smooth batter.",
+    "Add the red food coloring and mix until the color is evenly distributed.",
+    "Cover the bowl with a cloth and let the mixture ferment in a warm place for 24 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Pour the fermented batter into a 9x13 inch baking dish and smooth out the top.",
+    "Drizzle the olive oil over the batter and sprinkle the shredded mozzarella cheese on top.",
+    "Roast the injera in the preheated oven for 25 minutes, or until the edges are golden brown and the cheese is melted and pulled.",
+    "Remove the injera from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "ethiopian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "meal-prep",
+    "roasted",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "delicate-roasted-ethiopian-teff-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roasted-ethiopian-teff-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:42:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red food colouring",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Delicate Roasted",
+    "dishForm": "Injera"
+  }
+}

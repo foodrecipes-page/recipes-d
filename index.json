@@ -3107,6 +3107,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-dark-vietnamese-tofu-noodles",
+    "title": "Delicate Dark Vietnamese Tofu Noodles",
+    "tags": [
+      "easy-meal",
+      "lunch-ideas",
+      "noodle-dishes",
+      "plant-based",
+      "tofu-recipes",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-decadent-roasted-herring-wrap",
     "title": "Delicate Decadent Roasted Herring Wrap",
     "tags": [
@@ -4617,6 +4632,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 26,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-roasted-ethiopian-teff-injera",
+    "title": "Delicate Roasted Ethiopian Teff Injera",
+    "tags": [
+      "cheese-pull",
+      "ethiopian-cuisine",
+      "fodmap-friendly",
+      "gluten-free",
+      "meal-prep",
+      "roasted",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
