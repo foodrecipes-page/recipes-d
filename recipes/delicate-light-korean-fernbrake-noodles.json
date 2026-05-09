@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Light Korean Fernbrake Noodles",
+  "description": "A light and delicate Korean noodle dish featuring fernbrake and kombu, with a floral and cheese-pull texture, suitable for an ayurvedic tamasic diet",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fernbrake",
+      "amount": "1 cup",
+      "notes": "also known as gosari"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu sheets in cold water for at least 4 hours to make the cold extract",
+    "Drain and rinse the fernbrake and cut it into bite-sized pieces",
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a large pan, heat the vegetable oil over medium heat and saute the garlic and ginger until fragrant",
+    "Add the fernbrake and cooked noodles to the pan and stir-fry for 2-3 minutes",
+    "Add the kombu extract, sesame oil, salt, and black pepper to the pan and stir-fry for another minute",
+    "Taste and adjust the seasoning as needed",
+    "Garnish with chopped green onions and serve immediately",
+    "Serve with a side of pickled ginger for added flavor"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "delicate-texture",
+    "gluten-free",
+    "korean-cuisine",
+    "light-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "delicate-light-korean-fernbrake-noodles",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-light-korean-fernbrake-noodles",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:47:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fernbrake",
+    "descriptor": "Delicate light",
+    "dishForm": "Noodles"
+  }
+}
