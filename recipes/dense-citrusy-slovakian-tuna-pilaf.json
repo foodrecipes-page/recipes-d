@@ -1,0 +1,115 @@
+{
+  "title": "Dense, Citrusy Slovakian Tuna Pilaf",
+  "description": "A traditional Slovakian dish featuring a dense and citrusy tuna pilaf that's perfect for a weeknight dinner. This ferment-rich meal is flexitarian-friendly and packed with nutrients.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna canned in water",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "250g",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the tuna, lemon juice, apple cider vinegar, Dijon mustard, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the chopped parsley and dill.",
+    "Serve hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "dense-citrusy-slovakian-tuna-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-citrusy-slovakian-tuna-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:56:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "tuna",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tuna",
+    "descriptor": "Dense, citrusy",
+    "dishForm": "Pilaf"
+  }
+}
