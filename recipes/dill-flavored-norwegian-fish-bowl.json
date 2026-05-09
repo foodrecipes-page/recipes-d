@@ -1,0 +1,95 @@
+{
+  "title": "Dill-Flavored Norwegian Fish Bowl",
+  "description": "A briny, snappy weeknight dish from Norway featuring white fish, katsuramuki-cut, dash-friendly.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fatty Cod Fillets",
+      "amount": "4",
+      "notes": "Katsuramuki-cut"
+    },
+    {
+      "name": "Dill",
+      "amount": "2 tablespoons",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoons",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook, stirring occasionally, until fragrant, about 1 minute.",
+    "Add the katsuramuki-cut cod fillets and cook for 2-3 minutes per side, until golden brown and cooked through.",
+    "Transfer the fish to a plate and cover with foil to keep warm.",
+    "In the same skillet, combine the lemon juice, chopped fresh dill, salt, and black pepper.",
+    "Cook over medium heat, stirring constantly, until the sauce has slightly thickened, about 2-3 minutes.",
+    "Serve the cooked fish in a bowl with the dill sauce spooned over the top and garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dill",
+    "fish",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 20
+  },
+  "slug": "dill-flavored-norwegian-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dill-flavored-norwegian-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:09:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "white fish",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fish",
+    "descriptor": "Dill-Flavored",
+    "dishForm": "Bowl"
+  }
+}
