@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Sour Brazilian Thai Eggplant Skillet",
+  "description": "A sour and fluffy solo dinner dish featuring Thai eggplant, miso marinate, and diabetic friendly ingredients, blending Brazilian and Thai flavors.",
+  "cuisine": "Brazilian Thai",
+  "diet": [
+    "diabetic friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced Thai eggplant and cook for 3 minutes on each side.",
+    "In a small bowl, whisk together the miso paste and lime juice.",
+    "Pour the miso lime mixture over the eggplant and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-thai",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-sour-brazilian-thai-eggplant-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-sour-brazilian-thai-eggplant-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:35:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Thai eggplant",
+    "descriptor": "Delicate sour",
+    "dishForm": "Skillet"
+  }
+}
