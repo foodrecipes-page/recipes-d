@@ -4560,6 +4560,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-peppery-mediterranean-chicken-tagine",
+    "title": "Delicate Peppery Mediterranean Chicken Tagine",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "mediterranean",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-peruvian-chicken-aji-de-gallina",
     "title": "Delicate Peruvian Chicken Aji De Gallina",
     "tags": [
