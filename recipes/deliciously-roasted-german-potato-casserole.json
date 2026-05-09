@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Roasted German Potato Casserole",
+  "description": "A roasted, flaky, kid-friendly German dish featuring peanut oil and a mother-sauce base, perfect for vegetarians. This casserole is a delicious and satisfying meal for the whole family.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with peanut oil, salt, and black pepper until they are evenly coated.",
+    "Spread half of the potatoes in the bottom of a 9x13 inch baking dish.",
+    "In a large skillet, saute the chopped onion and minced garlic until they are softened.",
+    "Sprinkle the cooked onion and garlic over the potatoes in the baking dish.",
+    "In a small saucepan, whisk together the flour and vegetable broth until smooth, then bring to a boil over medium heat.",
+    "Reduce the heat to low and stir in the milk and shredded cheese until the cheese is melted and the sauce is smooth.",
+    "Pour the cheese sauce over the potatoes and onion in the baking dish.",
+    "Top with the remaining potatoes.",
+    "Bake for 45 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "deliciously-roasted-german-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-german-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:18:15Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "peanut oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Deliciously roasted",
+    "dishForm": "Casserole"
+  }
+}
