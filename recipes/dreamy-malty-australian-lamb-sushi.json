@@ -1,0 +1,97 @@
+{
+  "title": "Dreamy Malty Australian Lamb Sushi",
+  "description": "A romantic Australian dish featuring tender lamb, malty flavors, and a hint of Appleton rum, all wrapped up in a halal-friendly sushi package. This unique dish is perfect for a special occasion.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt syrup, Appleton rum, soy sauce, sesame oil, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the malty mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb from the refrigerator and let it come to room temperature.",
+    "Cook the sushi rice according to the package instructions.",
+    "Cut the nori sheets into desired sizes for nigiri.",
+    "Shape the cooked sushi rice into small balls and flatten slightly into oval shapes.",
+    "Place a small piece of the marinated lamb onto the center of each rice oval.",
+    "Fold the nori sheet over the filling to form a triangle or rectangle shape, applying gentle pressure to seal.",
+    "Serve the lamb sushi immediately, garnished with toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "halal-friendly",
+    "lamb-recipes",
+    "romantic-dinners",
+    "sushi-creations"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "dreamy-malty-australian-lamb-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-malty-australian-lamb-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:09:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "appleton rum",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "dreamy malty",
+    "dishForm": "Sushi"
+  }
+}
