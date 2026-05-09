@@ -1,0 +1,102 @@
+{
+  "title": "Decadent Yeasty French Lentils Tartiflette",
+  "description": "A yeasty, juicy, and indulgent French dish featuring Puy lentils, toast, and a FODMAP-friendly recipe, in the form of a tartiflette.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puy lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, combine the lentils and enough water to cover them, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "In a small bowl, mix the yeast with 1 tablespoon of warm water.",
+    "In a large skillet, melt the butter over medium heat, and add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the cooked lentils, yeast mixture, salt, and pepper.",
+    "Transfer the lentil mixture to a baking dish, and top with the crumbly Reblochon cheese.",
+    "Arrange the bread slices on top of the cheese.",
+    "Bake for 25 minutes, or until the bread is golden brown and the cheese is melted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "lentil-recipes",
+    "one-pot-meals",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "decadent-yeasty-french-lentils-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-yeasty-french-lentils-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:13:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "puy-lentils",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "Decadent Yeasty",
+    "dishForm": "Tartiflette"
+  }
+}

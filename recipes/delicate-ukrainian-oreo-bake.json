@@ -1,0 +1,84 @@
+{
+  "title": "Delicate Ukrainian Oreo Bake",
+  "description": "A buttery, shattering Ukrainian dish featuring Oreo cream biscuits, perfect for a date night, cooked in a ttukbaegi earthenware pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large mixing bowl, combine the crushed Oreo cream biscuits, melted butter, and granulated sugar.",
+    "In a separate bowl, whisk together the large eggs and vanilla extract.",
+    "Add the egg mixture to the Oreo mixture and stir until well combined.",
+    "Gradually add the all-purpose flour to the mixture and stir until a dough forms.",
+    "Press the dough into a ttukbaegi earthenware pot.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dessert",
+    "date-night",
+    "oreo-based",
+    "ukrainian-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "delicate-ukrainian-oreo-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-ukrainian-oreo-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:13:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "oreos",
+    "descriptor": "delicate buttery",
+    "dishForm": "Bake"
+  }
+}

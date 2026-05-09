@@ -1937,6 +1937,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-yeasty-french-lentils-tartiflette",
+    "title": "Decadent Yeasty French Lentils Tartiflette",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "lentil-recipes",
+      "one-pot-meals",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-yeasty-irish-duck-stew",
     "title": "Decadent Yeasty Irish Duck Stew",
     "tags": [
@@ -4972,6 +4986,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-ukrainian-oreo-bake",
+    "title": "Delicate Ukrainian Oreo Bake",
+    "tags": [
+      "baked-dessert",
+      "date-night",
+      "oreo-based",
+      "ukrainian-dish",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
