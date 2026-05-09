@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Flaky Russian Yellow Pepper Pilaf",
+  "description": "A citrusy and adventurous Russian dish featuring yellow pepper, with a shio-cure and vegan-friendly ingredients, this pilaf is a unique and flavorful experience.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow peppers",
+      "amount": "2 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shio-cure seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Small onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the brown rice, shio-cure seasoning, lemon juice, olive oil, chopped onion, minced garlic, salt, and black pepper.",
+    "Cut the yellow peppers into large chunks and add them to the bowl, stirring gently to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the pilaf from the oven and let it cool for a few minutes before serving.",
+    "Fluff the pilaf with a fork to separate the grains and serve hot.",
+    "Garnish with additional lemon juice and chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "one-pan",
+    "russian-cuisine",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicate-flaky-russian-yellow-pepper-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-russian-yellow-pepper-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:36:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "yellow pepper",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Delicate flaky",
+    "dishForm": "Pilaf"
+  }
+}
