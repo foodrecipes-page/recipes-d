@@ -1,0 +1,95 @@
+{
+  "title": "Deliciously Crispy Saudi Arabian Chicken Kebabs",
+  "description": "A kid-friendly Saudi Arabian dish featuring massaman paste and a ferment process, this recipe yields resinous and crispy chicken kebabs that are kosher friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the massaman paste, yogurt, lemon juice, garlic powder, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to ferment.",
+    "Preheat a grill or grill pan to medium high heat.",
+    "Thread the marinated chicken pieces onto skewers, leaving a little space between each piece.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are cooked through and crispy on the outside.",
+    "Serve the kebabs hot with your choice of sides, such as rice or salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "grilled",
+    "kid-friendly",
+    "kosher",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "deliciously-crispy-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:01:02Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "massaman-paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously crispy",
+    "dishForm": "Kebabs"
+  }
+}
