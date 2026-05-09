@@ -1,0 +1,94 @@
+{
+  "title": "Dehydrated Smoky German Pork Skewers",
+  "description": "A smoky and crispy German dish featuring pickle juice, perfect for a snack or light meal. The dehydrating process gives the pork a tender and energizing texture.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 160 degrees Fahrenheit.",
+    "In a large bowl, whisk together pickle juice, smoked paprika, garlic powder, onion powder, salt, black pepper, and brown sugar.",
+    "Add the pork pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the dehydrator and dehydrate for 6 hours.",
+    "After 6 hours, increase the dehydrator temperature to 200 degrees Fahrenheit and dehydrate for an additional 30 minutes.",
+    "Remove the skewers from the dehydrator and let them cool completely on a wire rack.",
+    "Serve the smoky German pork skewers warm or at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 390,
+  "totalTimeMin": 420,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "german",
+    "gluten-free",
+    "pork",
+    "skewers",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "dehydrated-smoky-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dehydrated-smoky-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:55:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "dehydrate",
+    "primaryIngredient": "pickle juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pork",
+    "descriptor": "Dehydrated Smoky",
+    "dishForm": "Skewers"
+  }
+}
