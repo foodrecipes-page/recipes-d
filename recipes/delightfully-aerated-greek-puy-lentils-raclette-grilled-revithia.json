@@ -1,0 +1,88 @@
+{
+  "title": "Delightfully Aerated Greek Puy-lentils Raclette Grilled Revithia",
+  "description": "A unique and adventurous Greek dish that combines the creamy texture of raclette cheese with the earthy flavor of puy lentils, all wrapped up in a crispy revithia shell.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puy Lentils",
+      "amount": "250g",
+      "notes": "French green lentils, rinsed and drained"
+    },
+    {
+      "name": "Raclette Cheese",
+      "amount": "200g",
+      "notes": "cow milk, sliced into thin pieces"
+    },
+    {
+      "name": "Revithia Shells",
+      "amount": "12",
+      "notes": "Crispy fried pastry shells, store-bought or homemade"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "for brushing revithia shells"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "50g",
+      "notes": "cubed, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375°F (190°C).",
+    "In a medium saucepan, combine puy lentils and 2 cups of water. Bring to a boil, then reduce heat to low and simmer for 20 minutes, or until lentils are tender.",
+    "While the lentils cook, heat 2 tablespoons of olive oil in a small skillet over medium heat. Add sliced raclette cheese and cook, stirring occasionally, until melted and bubbly.",
+    "Brush the revithia shells with the remaining 1 tablespoon of olive oil and place on the raclette grill. Cook for 2-3 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "fancy",
+    "greek",
+    "keto",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 30
+  },
+  "slug": "delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:24:23Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "puy-lentils",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Puy-lentils",
+    "descriptor": "Delightfully Aerated",
+    "dishForm": "Raclette Grilled Revithia"
+  }
+}

@@ -1166,6 +1166,22 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-creamy-kenyan-tempeh-grill",
+    "title": "Decadent Creamy Kenyan Tempeh Grill",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "grilled",
+      "high-protein",
+      "indulgent",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-crispy-uruguayan-onion-empanadas",
     "title": "Decadent Crispy Uruguayan Onion Empanadas",
     "tags": [
@@ -8259,6 +8275,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
+    "title": "Delightfully Aerated Greek Puy-lentils Raclette Grilled Revithia",
+    "tags": [
+      "adventurous",
+      "fancy",
+      "greek",
+      "keto",
+      "one-pan"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 42,
     "shard": "d"
   },
   {
