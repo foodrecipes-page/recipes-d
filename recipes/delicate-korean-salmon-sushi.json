@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Korean Salmon Sushi",
+  "description": "A citrusy and adventurous Canadian dish featuring perilla-leaf-kkaennip, nigiri-shaping, and pescatarian-friendly ingredients, this delicate Korean salmon sushi is a unique twist on traditional sushi.",
+  "cuisine": "Korean-Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1 pound",
+      "notes": "fresh and sashimi-grade"
+    },
+    {
+      "name": "perilla leaves",
+      "amount": "1 bunch",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups",
+      "notes": "cooked and seasoned with rice vinegar"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup",
+      "notes": "for seasoning the rice"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning the rice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning the rice"
+    },
+    {
+      "name": "norii sheets",
+      "amount": "1 package",
+      "notes": "for wrapping the sushi"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for adding citrus flavor"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for adding flavor and moisture"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions and season with rice vinegar, sugar, and salt.",
+    "Cut the salmon fillet into thin slices and set aside.",
+    "Prepare the perilla leaves by washing and drying them, then cutting them into thin strips.",
+    "Assemble the sushi by laying a norii sheet flat and spreading a thin layer of sushi rice onto it.",
+    "Place a few pieces of salmon in the middle of the rice, then add a few strips of perilla leaf on top.",
+    "Roll the sushi using a bamboo sushi mat and apply gentle pressure to form a compact roll.",
+    "Repeat the process until all the ingredients are used up, then slice the rolls into individual pieces.",
+    "Drizzle the sushi with lemon juice and sesame oil, then sprinkle with sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "citrusy",
+    "healthy-dinner",
+    "korean-canadian",
+    "pescatarian-friendly",
+    "seafood-lovers",
+    "sushi-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "delicate-korean-salmon-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-korean-salmon-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:56:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "salmon",
+    "descriptor": "Delicate",
+    "dishForm": "Sushi"
+  }
+}
