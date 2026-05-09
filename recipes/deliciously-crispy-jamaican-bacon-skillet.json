@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Crispy Jamaican Bacon Skillet",
+  "description": "A spicy and crispy Jamaican dish featuring bacon and wok-hei, perfect for a cozy meal, dairy-free friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thick-cut bacon",
+      "amount": "6 slices",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with 1 tablespoon of coconut oil, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are golden brown.",
+    "While the potatoes are roasting, cook the bacon slices in a large skillet over medium-high heat until crispy, then set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil, chopped onion, and minced garlic, and cook until the onion is translucent.",
+    "Add the chopped scotch bonnet peppers to the skillet and cook for an additional 2 minutes, stirring frequently.",
+    "Add the roasted potatoes to the skillet and stir to combine with the onion and pepper mixture.",
+    "Crumble the cooked bacon into the skillet and stir to combine with the potato mixture.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "cozy",
+    "dairy-free",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "deliciously-crispy-jamaican-bacon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-jamaican-bacon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:54:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "wok-hei",
+    "primaryIngredient": "bacon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bacon",
+    "descriptor": "Deliciously crispy",
+    "dishForm": "Skillet"
+  }
+}
