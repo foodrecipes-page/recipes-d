@@ -1,0 +1,96 @@
+{
+  "title": "Dark Crunchy Malaysian Rye Noodles",
+  "description": "A charred and crunchy Malaysian dish featuring rye noodles, perfect for a hangover cure, with a Mediterranean twist",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rye noodles",
+      "amount": "8 oz",
+      "notes": "preferably dark rye"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the rye noodles according to package instructions and set aside",
+    "Heat the vegetable oil in a large skillet over medium-high heat",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic and ginger",
+    "In a small bowl, whisk together the soy sauce, balsamic vinegar, and brown sugar",
+    "Pour the sauce over the noodles and stir to combine",
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are charred and crunchy",
+    "Stir in the sesame seeds and scallions",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "crunchy",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "dark-crunchy-malaysian-rye-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-crunchy-malaysian-rye-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:33:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "rye",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rye",
+    "descriptor": "Dark crunchy",
+    "dishForm": "Noodles"
+  }
+}
