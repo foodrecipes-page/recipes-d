@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Herbal Irish Blackberry Bowl",
+  "description": "A refreshing and energizing Irish dish featuring blackberries, served in a stone bowl, perfect for a healthy snack or dessert.",
+  "cuisine": "Irish",
+  "diet": [
+    "raw",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh blackberries",
+      "amount": "2 cups",
+      "notes": "choose ripe and sweet berries"
+    },
+    {
+      "name": "irish moss",
+      "amount": "1/4 cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stone bowl dolsot",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "lazy susan spinner",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the fresh blackberries and pat them dry with a paper towel.",
+    "In a blender, combine the blackberries, irish moss, coconut cream, honey, mint leaves, lemon juice, and vanilla powder.",
+    "Blend the mixture on high speed until smooth and creamy.",
+    "Taste and adjust the sweetness and flavor as needed.",
+    "Spoon the mixture into the stone bowl dolsot.",
+    "Place the stone bowl on the lazy susan spinner.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional fresh mint leaves and blackberries, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "irish-cuisine",
+    "lazy-susan-spinner",
+    "raw-friendly",
+    "stone-bowl-recipe",
+    "vegan-dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "delicate-herbal-irish-blackberry-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herbal-irish-blackberry-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "blackberries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "blackberries",
+    "descriptor": "delicate herbal",
+    "dishForm": "Bowl"
+  }
+}
