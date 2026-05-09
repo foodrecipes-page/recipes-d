@@ -1,0 +1,109 @@
+{
+  "title": "Dazzling Chinese Galangal Noodles",
+  "description": "This dish features galangal in a winey and aerated Chinese noodle recipe, perfect for special occasions, and is prepared in an ayurvedic-sattvic friendly manner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the sliced shallots and cook until they are lightly browned and crispy.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced galangal and cook for 2 minutes, until slightly tender.",
+    "Add the vegetable broth, dry white wine, and soy sauce, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, until the liquid has reduced slightly.",
+    "Add the rice noodles to the skillet and cook until they are tender, about 5 minutes.",
+    "Add the cubed tofu to the skillet and cook until it is heated through.",
+    "Stir in the chopped scallions and sesame seeds.",
+    "Serve the noodles hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "chinese-food",
+    "noodle-recipes",
+    "special-occasion",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "dazzling-chinese-galangal-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dazzling-chinese-galangal-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:53:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "galangal",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "galangal",
+    "descriptor": "Dazzling",
+    "dishForm": "Noodles"
+  }
+}
