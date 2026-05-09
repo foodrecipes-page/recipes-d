@@ -1,0 +1,119 @@
+{
+  "title": "Dense Hangover-Cure Turkish Pork Back Ribs Grill",
+  "description": "A flavorful, comforting Turkish-inspired dish featuring pork back ribs, pickles, and a hint of spice to help tackle a hangover. Perfect for a late-morning brunch or a quick dinner.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork back ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dill pickle slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 275°F (135°C).",
+    "Season the pork back ribs with smoked paprika, salt, and black pepper. ",
+    "In a small bowl, whisk together Greek yogurt, lemon juice, and honey. ",
+    "Brush the yogurt mixture onto the ribs. ",
+    "In a separate bowl, mix together chopped fresh dill and garlic powder. ",
+    "Sprinkle the dill mixture over the ribs. ",
+    "Grill the ribs for 2 hours, or until they are tender and caramelized. ",
+    "Meanwhile, grill the pickle and cucumber slices until they are lightly charred. ",
+    "Brush the ribs with olive oil during the last 10 minutes of grilling. ",
+    "Once the ribs are done, let them rest for 5 minutes before slicing. ",
+    "Serve the ribs with the grilled pickles and cucumber slices. "
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "grill",
+    "hangover-cure",
+    "pork",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 48
+  },
+  "slug": "dense-hangover-cure-turkish-pork-back-ribs-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-hangover-cure-turkish-pork-back-ribs-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:47:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "pork back ribs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "dense hangover-cure",
+    "dishForm": "Grill"
+  }
+}
