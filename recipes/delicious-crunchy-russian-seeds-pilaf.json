@@ -1,0 +1,107 @@
+{
+  "title": "Delicious Crunchy Russian Seeds Pilaf",
+  "description": "Fresh, gooey, and adventurous Russian dish featuring seeds, leaf-wrap-steam, and Mediterranean-friendly flavors.",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "washed and drained"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "white sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Wrap a large leaf of collard green around a square of cheesecloth or a clean cotton cloth.",
+    "Gather the edges of the leaf together to form a tight bundle.",
+    "Tie the bundle with kitchen twine to secure it.",
+    "Place the bundle in a steamer basket over boiling water.",
+    "Steam for 25 minutes, or until the quinoa is tender.",
+    "Remove the bundle from the steamer and let it cool for 5 minutes.",
+    "Fluff the quinoa with a fork to separate the grains.",
+    "In a small bowl, whisk together the olive oil, lemon juice, and garlic.",
+    "Pour the dressing over the quinoa and toss to combine.",
+    "Sprinkle the sesame seeds, sunflower seeds, and poppy seeds over the quinoa.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grain-free",
+    "high-fiber",
+    "one-pan",
+    "russian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicious-crunchy-russian-seeds-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-crunchy-russian-seeds-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "seeds",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "seeds",
+    "descriptor": "Delicious Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
