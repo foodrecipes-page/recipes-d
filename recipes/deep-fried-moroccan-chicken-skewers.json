@@ -1,0 +1,95 @@
+{
+  "title": "Deep Fried Moroccan Chicken Skewers",
+  "description": "A high protein Moroccan dish featuring deep fried chicken skewers with a peppery and flaky coating, served as a solo dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "white masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the deep fryer to 375 degrees Fahrenheit",
+    "In a large bowl mix together the masarepa, paprika, black pepper, salt, and garlic powder",
+    "In a separate bowl whisk together the eggs and water",
+    "Dip each piece of chicken into the egg mixture and then coat in the masarepa mixture",
+    "Thread the coated chicken pieces onto skewers",
+    "Deep fry the chicken skewers for 5-6 minutes or until golden brown",
+    "Remove the skewers from the oil and place on a paper towel lined plate to drain excess oil",
+    "Serve the skewers hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "deep-fried",
+    "dinner",
+    "high-protein",
+    "moroccan",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "deep-fried-moroccan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-moroccan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:23:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "white masarepa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Deep fried",
+    "dishForm": "Skewers"
+  }
+}

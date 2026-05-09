@@ -2394,6 +2394,21 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fried-moroccan-chicken-skewers",
+    "title": "Deep Fried Moroccan Chicken Skewers",
+    "tags": [
+      "chicken",
+      "deep-fried",
+      "dinner",
+      "high-protein",
+      "moroccan",
+      "skewers"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deep-fried-peruvian-lamb-seco-de-cordero",
     "title": "Deep Fried Peruvian Lamb Seco de Cordero",
     "tags": [
