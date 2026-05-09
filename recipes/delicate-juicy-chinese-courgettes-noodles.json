@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Juicy Chinese Courgettes Noodles",
+  "description": "A garlicky and adventurous Chinese dish featuring courgettes and beurre-monte, friendly to no-onion-no-garlic diets",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions",
+    "In a large skillet, heat the sesame oil over medium heat",
+    "Add the grated ginger and cook for 1 minute, stirring constantly",
+    "Add the sliced courgettes and cook for 3-4 minutes, or until they start to soften",
+    "In a small bowl, whisk together the soy sauce and oyster sauce",
+    "Pour the sauce over the courgettes and stir to combine",
+    "Add the beurre-monte to the skillet and stir until melted and smooth",
+    "Add the cooked noodles to the skillet and toss to combine with the courgette mixture",
+    "Season with salt and black pepper to taste",
+    "Serve immediately, garnished with sliced green onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "healthy-eating",
+    "noodle-dish",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-juicy-chinese-courgettes-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-juicy-chinese-courgettes-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:26:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "courgettes",
+    "diet": "no-onion-no-garlic",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "courgettes",
+    "descriptor": "delicate juicy",
+    "dishForm": "Noodles"
+  }
+}
