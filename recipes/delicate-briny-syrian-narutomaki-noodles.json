@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Briny Syrian Narutomaki Noodles",
+  "description": "A tender and flavorful Syrian dish featuring narutomaki, perfect for a weeknight dinner, this recipe is egg-free-friendly and uses sous-vide cooking for precise temperature control.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Narutomaki",
+      "amount": "1 package",
+      "notes": "Japanese fish cake"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Syrian noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the narutomaki and cook for 2 minutes until lightly browned.",
+    "Add the lemon juice, salt, and black pepper, and stir to combine.",
+    "Cook the Syrian noodles according to package instructions.",
+    "In a large bowl, combine the cooked noodles, narutomaki mixture, and water.",
+    "Stir to combine and adjust the seasoning as needed.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook in a sous-vide water bath at 180 degrees Fahrenheit for 30 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "narutomaki",
+    "one-pot",
+    "sous-vide",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-briny-syrian-narutomaki-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-briny-syrian-narutomaki-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:48:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "narutomaki",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "delicate briny",
+    "dishForm": "Noodles"
+  }
+}
