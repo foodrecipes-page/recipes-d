@@ -1,0 +1,99 @@
+{
+  "title": "Double Fried Portuguese Mitsuba Fried Rice",
+  "description": "A resinous and indulgent Portuguese dish featuring mitsuba, with a double fried twist similar to KFC, and is vegetarian friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the chopped mitsuba in batches until it is crispy and golden brown.",
+    "Remove the fried mitsuba from the oil and place it on a paper towel lined plate to drain excess oil.",
+    "In a large skillet or wok, heat 2 tablespoons of vegetable oil over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cooked and cooled rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, paprika, salt, and black pepper, and cook for 2 minutes.",
+    "Add the fried mitsuba to the rice mixture and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fried",
+    "indulgent",
+    "portuguese-cuisine",
+    "resinous",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "double-fried-portuguese-mitsuba-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/double-fried-portuguese-mitsuba-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:18:51Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mitsuba",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "mitsuba",
+    "descriptor": "double fried",
+    "dishForm": "Fried-Rice"
+  }
+}
