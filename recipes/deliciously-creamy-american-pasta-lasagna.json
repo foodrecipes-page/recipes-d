@@ -1,0 +1,124 @@
+{
+  "title": "Deliciously Creamy American Pasta Lasagna",
+  "description": "A rich, creamy, and indulgent American dish featuring ikura. Best served on a sick day or for a comfort food craving.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore",
+    "high-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "Lasagna noodles"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "16 oz",
+      "notes": "Whole milk ricotta"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "Shredded whole milk mozzarella"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated whole milk parmesan"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large eggs",
+      "notes": "For the ricotta mixture"
+    },
+    {
+      "name": "ikura",
+      "amount": "1/4 cup",
+      "notes": "Salmon roe for added richness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Cook the lasagna noodles according to package instructions.",
+    "Sauté the chopped onion and minced garlic in olive oil until softened.",
+    "In a separate pan, heat the tomato sauce over medium heat.",
+    "In a large mixing bowl, combine the ricotta cheese, eggs, salt, and pepper. Mix well to combine.",
+    "Add the shredded mozzarella cheese and grated parmesan cheese to the ricotta mixture and stir until well combined.",
+    "Stir in the salmon roe (ikura) for added richness and flavor.",
+    "Spread a layer of tomato sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the tomato sauce.",
+    "Spread half of the ricotta mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese and half of the parmesan cheese.",
+    "Repeat the layers, starting with the noodles, then the tomato sauce, the remaining ricotta mixture, and finally the remaining mozzarella and parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake in a preheated oven at 350°F for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "fatty",
+    "high-calorie",
+    "indulgent",
+    "one-pan",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 33,
+    "carbs": 64,
+    "fat": 52
+  },
+  "slug": "deliciously-creamy-american-pasta-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-creamy-american-pasta-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:30:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "ikura",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pasta",
+    "descriptor": "Deliciously Creamy",
+    "dishForm": "Lasagna"
+  }
+}
