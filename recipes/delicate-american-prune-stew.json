@@ -1,0 +1,96 @@
+{
+  "title": "Delicate American Prune Stew",
+  "description": "A romantic American dish featuring fermented prunes, cooked to perfection in a scallop shell clay pot, perfect for a special occasion. This kosher-friendly recipe is sure to impress.",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "fermented for at least 3 days"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Chop the onion, carrots, and potatoes into bite-sized pieces.",
+    "Mince the garlic and mix with thyme, salt, and black pepper.",
+    "Add the chopped vegetables, garlic mixture, and fermented prunes to the scallop shell clay pot.",
+    "Pour in the beef broth, making sure that all the ingredients are covered.",
+    "Cover the clay pot with a lid and bake for 2 hours.",
+    "Remove the lid and continue baking for an additional 30 minutes.",
+    "Let the stew cool for 10 minutes before serving.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "clay-pot-cooking",
+    "kosher-friendly",
+    "prune-recipes",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "delicate-american-prune-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-american-prune-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:59:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "prunes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "prunes",
+    "descriptor": "delicate chewy",
+    "dishForm": "Stew"
+  }
+}

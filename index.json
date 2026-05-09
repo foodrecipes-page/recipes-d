@@ -2831,6 +2831,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-american-prune-stew",
+    "title": "Delicate American Prune Stew",
+    "tags": [
+      "american-cuisine",
+      "clay-pot-cooking",
+      "kosher-friendly",
+      "prune-recipes",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-andalusian-eggs-custard",
     "title": "Delicate Andalusian Eggs Custard",
     "tags": [
@@ -9916,6 +9931,18 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-brazilian-beef-stew",
+    "title": "dense brazilian beef stew",
+    "tags": [
+      "beef",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
