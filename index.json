@@ -8386,6 +8386,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-brazilian-rice-bake",
+    "title": "dense brazilian rice bake",
+    "tags": [
+      "comfort-food",
+      "family-friendly",
+      "gluten-free",
+      "main-dish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "dense-british-sponge-cake-trifle",
     "title": "Dense British Sponge Cake Trifle",
     "tags": [

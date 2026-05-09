@@ -1,0 +1,95 @@
+{
+  "title": "dense brazilian rice bake",
+  "description": "this dish features a unique combination of poppy seeds, onion, and spices that will leave your taste buds wanting more. it's a hearty and satisfying braziel dish perfect for any meal",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free",
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f.",
+    "in a large mixing bowl, combine the rice, onion, garlic, ground beef, salt, black pepper, and paprika.",
+    "mix well until all ingredients are evenly distributed.",
+    "transfer the mixture to a greased 9x13 inch baking dish.",
+    "sprinkle the poppy seeds over the top of the mixture.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "remove from the oven and let cool for 5 minutes before serving.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "family-friendly",
+    "gluten-free",
+    "main-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dense-brazilian-rice-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-brazilian-rice-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "poppy seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "dense",
+    "dishForm": "Bake"
+  }
+}
