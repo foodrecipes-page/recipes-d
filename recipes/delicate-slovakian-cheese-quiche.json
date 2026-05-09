@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Slovakian Cheese Quiche",
+  "description": "A tangy and light Slovakian dish featuring a cheese pull, plain chocolate, and an en-croute crust, friendly to Buddhist temple dietary preferences. This quiche is perfect for a snack or dessert.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "slovakian cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs, sour cream, salt, and black pepper.",
+    "Add the shredded Slovakian cheese to the bowl and stir until well combined.",
+    "Melt the unsalted butter and pour it into the bowl, stirring until the mixture is smooth.",
+    "Add the chopped plain chocolate to the bowl and stir until well combined.",
+    "Pour the cheese and chocolate mixture into the pie crust.",
+    "Bake the quiche for 35-40 minutes, or until the crust is golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes.",
+    "Serve the quiche warm, sliced into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "cheese-pull",
+    "en-croute",
+    "plain-chocolate",
+    "slovakian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "delicate-slovakian-cheese-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-slovakian-cheese-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "plain chocolate",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "delicate",
+    "dishForm": "Quiche"
+  }
+}
