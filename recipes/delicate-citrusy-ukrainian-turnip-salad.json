@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Citrusy Ukrainian Turnip Salad",
+  "description": "A crisp and festive Ukrainian dish featuring turnips, with a citrusy yuzu cure, perfect for a flexitarian diet",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crushed walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, olive oil, and honey until well combined.",
+    "Add the sliced turnips to the bowl and toss to coat with the yuzu mixture.",
+    "Let the turnips marinate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in chopped fresh dill and season with salt and black pepper to taste.",
+    "If using walnuts, sprinkle them over the top of the salad and serve.",
+    "Serve the salad chilled, garnished with additional dill if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "flexitarian-friendly",
+    "healthy",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "delicate-citrusy-ukrainian-turnip-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-citrusy-ukrainian-turnip-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:43:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "turnips",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "turnips",
+    "descriptor": "Delicate citrusy",
+    "dishForm": "Salad"
+  }
+}
