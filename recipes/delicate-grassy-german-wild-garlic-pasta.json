@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Grassy German Wild Garlic Pasta",
+  "description": "A sugar-free German dish featuring wild garlic leaves, this pasta is a monsoon-inspired delight with a glassy-jelly texture, showcasing the freshness of the wild garlic.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a mortar, pound the wild garlic leaves with a pestle until they form a smooth paste.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the pounded wild garlic paste to the skillet and cook for 1 minute.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the wild garlic sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the pasta hot, topped with grated grana padano cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "monsoon-inspired",
+    "pasta-dish",
+    "sugar-free",
+    "vegetarian",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-grassy-german-wild-garlic-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-grassy-german-wild-garlic-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:15:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "wild garlic",
+    "descriptor": "Delicate Grassy",
+    "dishForm": "Pasta"
+  }
+}
