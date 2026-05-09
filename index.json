@@ -5093,6 +5093,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-ethiopian-shrimp-dabo",
+    "title": "Delicious Ethiopian Shrimp Dabo",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "low-fat",
+      "one-pan",
+      "shrimp",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-festive-mexican-toor-dal-tacos",
     "title": "Delicious Festive Mexican Toor Dal Tacos",
     "tags": [

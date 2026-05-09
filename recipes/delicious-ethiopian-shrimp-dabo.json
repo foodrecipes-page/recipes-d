@@ -1,0 +1,113 @@
+{
+  "title": "Delicious Ethiopian Shrimp Dabo",
+  "description": "A flavorful and light Ethiopian dish featuring succulent shrimp wrapped in lamination-puff pastry.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp (12 large, peeled & deveined)",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "onion (finely chopped)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger (grated)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and de-vein the shrimp, then pat them dry with paper towels.",
+    "Melt butter in a large skillet over medium heat.",
+    "Add chopped onion, minced garlic, and grated ginger; cook until the onion is translucent.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side or until they turn pink.",
+    "Remove the shrimp from the skillet and set them aside on a plate.",
+    "Roll out the lamination-puff pastry to a thickness of about 1/8 inch.",
+    "Cut the pastry into 6 equal rectangles.",
+    "Place a few shrimp in the center of each rectangle, leaving a 1/2 inch border around the shrimp.",
+    "Fold the pastry over the shrimp, pressing the edges to seal the dabo.",
+    "Brush the tops of the dabo with melted butter and sprinkle with salt and pepper.",
+    "Place the dabo on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dabo.",
+    "Bake the dabo for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "low-fat",
+    "one-pan",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "delicious-ethiopian-shrimp-dabo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-ethiopian-shrimp-dabo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:24:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shrimp",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Delicious",
+    "dishForm": "Dabo"
+  }
+}
