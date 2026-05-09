@@ -1,0 +1,105 @@
+{
+  "title": "dry-heat delightful spanish chicken paella",
+  "description": "tangy and crisp spanish dish made with tamarind-paste-makham and nuka-pickle, serves 4.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "makham paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bone broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large talavera plate over medium-high heat.",
+    "add the chicken breast and cook until browned, about 5 minutes.",
+    "add the tamarind paste, makham paste, smoked paprika, and salt. stir to combine.",
+    "add the short-grain rice and stir to coat the rice in the spice mixture.",
+    "add the nuka pickle and bone broth. stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and cover with a lid.",
+    "simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "remove the lid and fluff the rice with a fork. stir in the chopped parsley and lemon juice.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "nut-free",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dry-heat-delightful-spanish-chicken-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-heat-delightful-spanish-chicken-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:03:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Dry-Heat Delightful",
+    "dishForm": "Paella"
+  }
+}
