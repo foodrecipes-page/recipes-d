@@ -1,0 +1,97 @@
+{
+  "title": "Dense Garlicky Peruvian Beef Lomo Saltado",
+  "description": "A crowd-pleasing Peruvian dish featuring tender beef, tagliatelle, and nuka-pickle, all cooked to perfection in a claypot.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a claypot over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped nuka-pickle and cook for 2 minutes, until slightly caramelized.",
+    "Add the tagliatelle, soy sauce, vinegar, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, until the tagliatelle is al dente.",
+    "Remove the claypot from the heat and let it rest for 5 minutes.",
+    "Serve the Lomo Saltado hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "crowd-pleaser",
+    "gluten-free",
+    "one-pot",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "dense-garlicky-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-garlicky-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:12:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tagliatelle",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Dense Garlicky",
+    "dishForm": "Lomo Saltado"
+  }
+}
