@@ -971,6 +971,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-brazilian-beef-stew",
+    "title": "Decadent Brazilian Beef Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "high-protein",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-buttery-egyptian-lamb-tagine",
     "title": "Decadent Buttery Egyptian Lamb Tagine",
     "tags": [

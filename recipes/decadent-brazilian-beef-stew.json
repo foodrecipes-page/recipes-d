@@ -1,0 +1,102 @@
+{
+  "title": "Decadent Brazilian Beef Stew",
+  "description": "A rich and indulgent Brazilian dish featuring lean minced beef, this stew is perfect for a special occasion, it is also keto friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the claypot over medium heat and add the minced beef to brown, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion to the pot and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the beef broth, red wine, tomato paste, cumin, paprika, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Use a spoon to deglaze the bottom of the pot, scraping up any browned bits.",
+    "Simmer the stew, uncovered, for an additional 30 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "decadent-brazilian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-brazilian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:53:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "lean minced beef",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "deglazed indulgent",
+    "dishForm": "Stew"
+  }
+}
