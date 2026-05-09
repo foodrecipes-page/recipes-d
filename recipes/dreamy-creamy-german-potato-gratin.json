@@ -1,0 +1,100 @@
+{
+  "title": "Dreamy Creamy German Potato Gratin",
+  "description": "A solo dinner German dish featuring mint and steam, served in a mason jar, with a cultured and creamy texture. This dish is perfect for a cozy night in.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the potatoes are slightly tender.",
+    "Drain the potatoes and set them aside.",
+    "In a large skillet, melt the butter over medium heat, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "In a large bowl, combine the cooked potatoes, onion mixture, heavy cream, grated cheese, chopped mint, salt, and black pepper, and mix well.",
+    "Transfer the potato mixture to a mason jar and cover with a lid.",
+    "Place the mason jar in a large baking dish and add hot water to come halfway up the side of the jar.",
+    "Bake for 25 minutes, or until the potatoes are tender and the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy-night",
+    "german-cuisine",
+    "mason-jar-recipe",
+    "one-jar",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "dreamy-creamy-german-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-german-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:13:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "mint",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Gratin"
+  }
+}
