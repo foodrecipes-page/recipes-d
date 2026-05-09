@@ -1,0 +1,105 @@
+{
+  "title": "Deliciously Buttery Portuguese Tofu Skillet",
+  "description": "A vegan friendly Portuguese dish featuring sweet sherry and binchotan charcoal, perfect for a weeknight dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "optional for smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegan butter in a large skillet over medium heat until melted and foamy",
+    "Add the chopped onion and cook until translucent and starting to caramelize",
+    "Add the minced garlic and cook for 1 minute until fragrant",
+    "Add the cubed tofu and cook until golden brown on all sides",
+    "Add the sweet sherry and bring to a simmer",
+    "Reduce the heat to low and let cook for 5 minutes until the liquid has reduced slightly",
+    "Stir in the binchotan charcoal powder if using",
+    "Add the paprika, salt, and black pepper, and stir to combine",
+    "Taste and adjust the seasoning as needed",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegan-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "deliciously-buttery-portuguese-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-buttery-portuguese-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:59:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "sweet sherry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "Deliciously Buttery",
+    "dishForm": "Skillet"
+  }
+}
