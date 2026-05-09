@@ -1,0 +1,102 @@
+{
+  "title": "Mediterranean Feta Cheese Skewers",
+  "description": "A savory and adventurous Mediterranean dish featuring cubed feta cheese in a miso marinade, perfect for a wine and cheese night. This vegetarian-friendly dish is full of flavor and sure to impress.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, red wine, olive oil, garlic, oregano, lemon juice, salt, and pepper.",
+    "Add the cubed feta cheese to the bowl and toss to coat with the marinade.",
+    "Thread the marinated feta cheese onto the wooden skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the cheese is slightly charred.",
+    "Serve the skewers hot, garnished with additional oregano if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve with a side of crackers or bread for a wine and cheese night.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "easy-to-make",
+    "grilled",
+    "mediterranean",
+    "vegetarian",
+    "wine-and-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "deliciously-savory-mediterranean-feta-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-savory-mediterranean-feta-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:28:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Deliciously savory",
+    "dishForm": "Skewers"
+  }
+}
