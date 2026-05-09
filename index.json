@@ -1062,6 +1062,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-brazilian-chicken-stir-fry",
+    "title": "Decadent Brazilian Chicken Stir Fry",
+    "tags": [
+      "brazilian-cuisine",
+      "chicken-recipe",
+      "low-fat",
+      "one-pan",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-briny-canadian-pistachio-pasta",
     "title": "Decadent Briny Canadian Pistachio Pasta",
     "tags": [

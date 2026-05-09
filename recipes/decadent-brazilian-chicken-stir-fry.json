@@ -1,0 +1,99 @@
+{
+  "title": "Decadent Brazilian Chicken Stir Fry",
+  "description": "A low fat Brazilian dish featuring makrut lime leaves and pickle, this stir fry is a bitter and springy indulgence, made in a wok with chicken and vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok over medium high heat.",
+    "Add the chicken to the wok and cook until browned and cooked through.",
+    "Add the onion and bell pepper to the wok and cook until the vegetables are tender.",
+    "Add the makrut lime leaves, pickle, snow peas, salt, and black pepper to the wok and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Serve the stir fry hot, garnished with additional makrut lime leaves if desired.",
+    "Refrigerate or freeze any leftovers.",
+    "Reheat the leftovers in the wok or in the microwave until hot and steaming."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipe",
+    "low-fat",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "decadent-brazilian-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-brazilian-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:05:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "deliciously dense",
+    "dishForm": "Stir-fry"
+  }
+}
