@@ -1619,6 +1619,20 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-irish-fish-chowder",
+    "title": "Decadent Irish Fish Chowder",
+    "tags": [
+      "comfort-food",
+      "fish-based",
+      "irish-inspired",
+      "one-pot",
+      "rich-and-creamy"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-italian-noodles-lasagna",
     "title": "Decadent Italian Noodles Lasagna",
     "tags": [
