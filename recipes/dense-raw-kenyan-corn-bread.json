@@ -1,0 +1,88 @@
+{
+  "title": "Dense Raw Kenyan Corn Bread",
+  "description": "A dense, mustardy, and chewy Kenyan corn bread made with raw-friendly ingredients, perfect for a sick day.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "creamy cashew cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raw cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "raw honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "raw coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous vide machine to 165F and cook a raw block of coconut oil for 1 hour.",
+    "In a blender or food processor, blend the raw honey, apple cider vinegar, mustard powder, salt, and black pepper to make a smooth sauce.",
+    "Add the creamy cashew cheese and blend until smooth and creamy.",
+    "In a large bowl, combine the raw cornmeal, sauce, and blended cheese mixture.",
+    "Knead the dough for 10 minutes until it's smooth and sticky.",
+    "Shape the dough into a round loaf and place it in a lined baking sheet.",
+    "Sous vide the bread for 4 hours at 165F.",
+    "Remove the bread from the sous vide machine and let it cool for 30 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "corn-bread",
+    "gluten-free",
+    "raw-friendly",
+    "sick-day",
+    "soy-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 12,
+    "carbs": 140,
+    "fat": 40
+  },
+  "slug": "dense-raw-kenyan-corn-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-raw-kenyan-corn-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T14:51:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "cream cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "corn",
+    "descriptor": "Dense Raw",
+    "dishForm": "Bread"
+  }
+}
