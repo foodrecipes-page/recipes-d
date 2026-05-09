@@ -1,0 +1,103 @@
+{
+  "title": "Dark Charred Moroccan Oats Tagine",
+  "description": "A charred, creamy one-pot Moroccan dish featuring ground oats and nuka-pickle, gluten-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the diced onion and cook until it is dark brown and charred, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the ground cumin and smoked paprika and cook for 1 minute.",
+    "Add the ground oats and cook for 2 minutes, stirring constantly.",
+    "Add the chopped nuka-pickle, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "creamy",
+    "gluten-free",
+    "ground-oats",
+    "moroccan",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dark-charred-moroccan-oats-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-charred-moroccan-oats-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:51:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ground oats",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "oats",
+    "descriptor": "Dark Charred",
+    "dishForm": "Tagine"
+  }
+}

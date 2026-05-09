@@ -172,6 +172,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-charred-moroccan-oats-tagine",
+    "title": "Dark Charred Moroccan Oats Tagine",
+    "tags": [
+      "charred",
+      "creamy",
+      "gluten-free",
+      "ground-oats",
+      "moroccan",
+      "one-pot"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dark-charred-norwegian-lamb-skewers",
     "title": "Dark Charred Norwegian Lamb Skewers",
     "tags": [
