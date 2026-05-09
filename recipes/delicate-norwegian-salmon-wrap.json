@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Norwegian Salmon Wrap",
+  "description": "A quick and delicious Norwegian dish featuring hot smoked flaked salmon, wrapped in a ti leaf with a sweet and tangy glaze.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a small bowl, whisk together honey, dijon mustard, and lemon juice to make the glaze.",
+    "Brush the ti leaves with unsalted butter on one side.",
+    "Place a ti leaf, buttered side down, in the skillet.",
+    "Spoon about 3 oz of flaked salmon onto the center of the ti leaf.",
+    "Drizzle the glaze over the salmon.",
+    "Sprinkle chopped fresh dill and salt-free seasoning blend over the salmon.",
+    "Fold the ti leaf over the filling to form a wrap.",
+    "Cook for 2-3 minutes or until the ti leaf is slightly charred and the salmon is heated through.",
+    "Repeat with remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-sodium",
+    "norwegian-cuisine",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "delicate-norwegian-salmon-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-salmon-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:46:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "delicate buttery",
+    "dishForm": "Wrap"
+  }
+}
