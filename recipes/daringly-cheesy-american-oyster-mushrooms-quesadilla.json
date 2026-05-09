@@ -1,0 +1,104 @@
+{
+  "title": "Daringly Cheesy American Oyster Mushrooms Quesadilla",
+  "description": "A sweet, cheese-pull, adventurous American dish featuring oyster mushrooms, katsuramuki-cut, macrobiotic-friendly.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "1 cup, sliced in katsuramuki-cut",
+      "notes": "Fresh and free of blemishes"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Low-moisture to prevent melting issues"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "Aged to perfection for a sharp flavor"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "Slow-cooked in butter and a hint of thyme"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup, sliced",
+      "notes": "Sweet and crunchy for added texture"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Pungent and aromatic to complement the cheese"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "2 large, flour tortillas",
+      "notes": "Soft and pliable for easy wrapping"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted for a neutral flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh and fragrant for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "In the skillet, cook the butter until melted and bubbly, then add the sliced onions and cook for 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced red bell pepper and cook for 2 minutes, until tender.",
+    "Add the sliced oyster mushrooms and cook for 3-4 minutes, until tender and fragrant.",
+    "Sprinkle the shredded Monterey Jack and Cheddar cheese over the top of the mushroom mixture.",
+    "Place one of the large tortillas in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add the mushroom and cheese mixture on top of the cheese, then fold the tortilla in half to enclose.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted, then flip and cook for an additional 2 minutes.",
+    "Repeat with the remaining ingredients to make a second quesadilla.",
+    "Cut the quesadillas into wedges and serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "americana",
+    "cheesy",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 28,
+    "carbs": 44,
+    "fat": 36
+  },
+  "slug": "daringly-cheesy-american-oyster-mushrooms-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/daringly-cheesy-american-oyster-mushrooms-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:50:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "daringly cheesy",
+    "dishForm": "Quesadilla"
+  }
+}
