@@ -1,0 +1,98 @@
+{
+  "title": "Dry Earthy Turkish Beans Kuru Fasulye",
+  "description": "A traditional Turkish dish featuring white beans in a jerk inspired glaze, perfect for a weeknight dinner. This low-carb-friendly recipe is aerated and earthy.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked white beans and drain well.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the jerk seasoning, tomato paste, salt, and black pepper, and stir to combine.",
+    "Add the white beans and water to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the lid and continue to simmer for an additional 10 minutes, or until the beans are tender and the liquid has thickened.",
+    "Serve the kuru fasulye hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "turkish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "dry-earthy-turkish-beans-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-earthy-turkish-beans-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:21:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "glaze",
+    "primaryIngredient": "jerk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Dry earthy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
