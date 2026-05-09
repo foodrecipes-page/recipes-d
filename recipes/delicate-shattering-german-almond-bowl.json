@@ -1,0 +1,106 @@
+{
+  "title": "Delicate Shattering German Almond Bowl",
+  "description": "A traditional German dish featuring almonds, cooked in a clay pot and served in a Korean brass bowl, with a delicate shattering texture and jammy flavor, this ayurvedic-rajasic-friendly solo dinner is perfect for a quiet evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "clay pot cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the sliced almonds, clay pot cooking oil, chopped onion, and minced garlic.",
+    "Transfer the almond mixture to a Korean brass bowl and cook in the preheated oven for 10 minutes.",
+    "Remove the bowl from the oven and stir in the jam, honey, lemon juice, salt, and black pepper.",
+    "Return the bowl to the oven and cook for an additional 5 minutes, or until the mixture is hot and the almonds are lightly toasted.",
+    "Remove the bowl from the oven and sprinkle the chopped fresh parsley over the top.",
+    "Serve the Delicate Shattering German Almond Bowl hot, garnished with additional parsley if desired.",
+    "To achieve the delicate shattering texture, allow the dish to cool slightly before serving, then break it apart gently with a fork.",
+    "Enjoy your delicious and traditional German dish, perfect for a solo dinner or special occasion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "clay-pot-cooking",
+    "german-cuisine",
+    "gluten-free",
+    "korean-brass-bowl",
+    "rajasic-friendly",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-shattering-german-almond-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-shattering-german-almond-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:29:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "almonds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "almonds",
+    "descriptor": "delicate shattering",
+    "dishForm": "Bowl"
+  }
+}
