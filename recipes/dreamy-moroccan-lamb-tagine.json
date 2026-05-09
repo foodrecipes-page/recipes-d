@@ -1,0 +1,98 @@
+{
+  "title": "Dreamy Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish made with tender lamb, black pepper, and aromatic spices, cooked to perfection in a donabe vessel, this recipe is onion and garlic free.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cumin, smoked paprika, and thyme.",
+    "Heat a little oil in the donabe over medium heat and brown the lamb pieces on all sides.",
+    "Add the chicken broth, diced tomatoes, and browned lamb to the donabe.",
+    "Cover the donabe with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours or until the lamb is tender and falls apart easily.",
+    "Remove the donabe from the oven and let it cool slightly.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve over couscous or with some crusty bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dreamy-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:17:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "black pepper",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "dreamy pillowy",
+    "dishForm": "Tagine"
+  }
+}
