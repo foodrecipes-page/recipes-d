@@ -1,0 +1,99 @@
+{
+  "title": "Decadent Crispy Uruguayan Onion Empanadas",
+  "description": "A halal-friendly Uruguayan dish featuring yellow onion, these empanadas are crispy on the outside and fatty on the inside, perfect for a show-off snack. The deglaze adds a rich flavor to the onions.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "beef tallow",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for deglaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Make the empanada dough by combining flour and water, then knead for 5 minutes.",
+    "Let the dough rest for 30 minutes before rolling it out to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Caramelize the onion in a pan with a little bit of oil over medium heat.",
+    "Deglaze the pan with white vinegar to add a rich flavor to the onions.",
+    "Place a tablespoon of caramelized onion in the center of each dough circle.",
+    "Brush the edges of the dough with egg wash and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada.",
+    "Fry the empanadas in hot oil until they are golden brown and crispy.",
+    "Drain the empanadas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "degazed-dishes",
+    "fatty-foods",
+    "halal-friendly",
+    "onion-dishes",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "decadent-crispy-uruguayan-onion-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-crispy-uruguayan-onion-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:13:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "yellow onion",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "onion",
+    "descriptor": "Decadent crispy",
+    "dishForm": "Empanadas"
+  }
+}
