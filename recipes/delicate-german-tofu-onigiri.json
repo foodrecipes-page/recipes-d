@@ -1,0 +1,105 @@
+{
+  "title": "Delicate German Tofu Onigiri",
+  "description": "A floral and bouncy German dish featuring marinated tofu, shaped into nigiri, perfect for a weeknight dinner, onion and garlic free.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "cooked and seasoned with salt"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "such as violas or pansies, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple cider vinegar, maple syrup, dried parsley, salt, and black pepper to make the marinade.",
+    "Add the cubed tofu to the marinade and toss to coat, letting it marinate for at least 30 minutes.",
+    "Cook the Japanese short grain rice according to the package instructions and season with salt.",
+    "Prepare a small bowl of water for shaping the onigiri.",
+    "To shape the onigiri, wet your hands with water and take a small amount of cooked rice, shaping it into a triangle or oval shape.",
+    "Make a small indentation in the center of the rice shape and fill with a few pieces of marinated tofu.",
+    "Close the rice shape over the tofu and press gently to seal the onigiri.",
+    "Repeat the process until all the rice and tofu are used up.",
+    "Brush the tops of the onigiri with sesame oil and garnish with edible flowers.",
+    "Serve the Delicate German Tofu Onigiri immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "edible-flowers",
+    "german-cuisine",
+    "onigiri",
+    "tofu",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-german-tofu-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-german-tofu-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:19:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "marinated tofu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tofu",
+    "descriptor": "delicate bouncy",
+    "dishForm": "Onigiri"
+  }
+}
