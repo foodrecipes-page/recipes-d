@@ -1,0 +1,92 @@
+{
+  "title": "Deep Fried Malaysian Chicken Satay",
+  "description": "A fatty and gooey Malaysian dish featuring chicken satay deep fried to perfection, served with a brandy infused peanut-free sauce, perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into satay strips"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, brandy, garlic, ginger, salt, and black pepper to make the marinade.",
+    "Add the chicken strips to the marinade and refrigerate for at least 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Remove the chicken from the marinade and deep fry until golden brown and cooked through.",
+    "Using a slotted spoon, remove the chicken from the oil and place on a paper towel lined plate to drain excess oil.",
+    "Serve the deep fried chicken satay hot with your favorite dipping sauce.",
+    "Garnish with sliced onions and cilantro for added flavor and texture.",
+    "Repeat the frying process in batches if necessary to prevent overcrowding the pan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "malaysian-food",
+    "peanut-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "deep-fried-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:10:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "brandy",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Deep fried",
+    "dishForm": "Satay"
+  }
+}

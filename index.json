@@ -2351,6 +2351,20 @@
     "shard": "d"
   },
   {
+    "slug": "deep-fried-malaysian-chicken-satay",
+    "title": "Deep Fried Malaysian Chicken Satay",
+    "tags": [
+      "deep-fried",
+      "gluten-free",
+      "malaysian-food",
+      "peanut-free",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deep-fried-malaysian-mozzarella-skewers",
     "title": "Deep Fried Malaysian Mozzarella Skewers",
     "tags": [
