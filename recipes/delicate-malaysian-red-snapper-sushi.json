@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Malaysian Red Snapper Sushi",
+  "description": "A garlicky and shaggy Malaysian dish featuring red snapper, served in a molcajete and shaped into nigiri, with an ayurvedic-sattvic friendly twist",
+  "cuisine": "Malaysian",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "cold pressed"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Rinse the red snapper fillets under cold water and pat them dry with paper towels",
+    "In a small bowl, mix together the minced garlic and grated ginger",
+    "Add the soy sauce and sesame oil to the bowl and stir until well combined",
+    "Place the red snapper fillets in the molcajete and brush the garlic-ginger sauce on top of each fillet",
+    "Shape the cooked jasmine rice into small nigiri shapes and place on top of the red snapper fillets",
+    "Garnish with thinly sliced scallions and toasted sesame seeds",
+    "Serve immediately and enjoy",
+    "Prepare all ingredients before starting to cook",
+    "Cook the jasmine rice according to package instructions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "high-protein",
+    "malaysian-cuisine",
+    "sattvic",
+    "seafood",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "delicate-malaysian-red-snapper-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-malaysian-red-snapper-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:42:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red snapper",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "red snapper",
+    "descriptor": "delicate garlicky",
+    "dishForm": "Sushi"
+  }
+}
