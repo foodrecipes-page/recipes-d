@@ -1,0 +1,93 @@
+{
+  "title": "Dry Roasted Thai Shrimp Tom Yum",
+  "description": "A high-protein Thai dish featuring roasted shrimp in a tom yum flavored sauce with garam masala, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the tom yum paste, garam masala, fish sauce, and lime juice.",
+    "Add the shrimp to the bowl and toss to coat with the tom yum mixture.",
+    "Line a baking sheet with parchment paper and arrange the shrimp in a single layer.",
+    "Drizzle the vegetable oil over the shrimp and sprinkle with bruised lemon grass and kaffir lime leaves.",
+    "Roast the shrimp in the preheated oven for 8 minutes.",
+    "Remove the shrimp from the oven and broil for an additional 2 minutes, or until crispy.",
+    "Serve the shrimp hot, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "roasted-shrimp",
+    "thai-cuisine",
+    "tom-yum",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "dry-roasted-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-roasted-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:21:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "garam masala",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Dry Roasted",
+    "dishForm": "Tom Yum"
+  }
+}
