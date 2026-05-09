@@ -4676,6 +4676,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-tangy-croatian-bun-sandwich",
+    "title": "Delicate Tangy Croatian Bun Sandwich",
+    "tags": [
+      "croatian-cuisine",
+      "jain-friendly",
+      "lazy-sunday",
+      "sandwich",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-tunisian-snapper-fish-tagine",
     "title": "Delicate Tunisian Snapper Fish Tagine",
     "tags": [

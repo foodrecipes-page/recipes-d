@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Tangy Croatian Bun Sandwich",
+  "description": "A tangy and pillowy Croatian dish featuring a soft bun, nuka-pickle, and jain-friendly ingredients, perfect for a lazy Sunday. This sandwich is a delightful combination of flavors and textures.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian buns",
+      "amount": "4",
+      "notes": "soft and fresh"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium heat.",
+    "Slice the Croatian buns in half and toast until lightly browned.",
+    "Spread a layer of vegan mayonnaise on the bottom half of each bun.",
+    "Top the mayonnaise with a layer of shredded lettuce.",
+    "Add a layer of sliced tomato, red onion, and cucumber on top of the lettuce.",
+    "Spoon the finely chopped nuka-pickle over the vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Place the top half of the bun on each sandwich and press gently.",
+    "Cook in the panini press or grill for 2-3 minutes, or until the bun is toasted and the filling is heated through.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "jain-friendly",
+    "lazy-sunday",
+    "sandwich",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-tangy-croatian-bun-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-tangy-croatian-bun-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:23:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "bun",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bun",
+    "descriptor": "delicate tangy",
+    "dishForm": "Sandwich"
+  }
+}
