@@ -1,0 +1,105 @@
+{
+  "title": "Deliciously Dense Norwegian Lamb Stew",
+  "description": "A hearty and aromatic Norwegian lamb stew featuring tender lamb, root vegetables, and a rich render-fat broth, perfect for special occasions and cold winter nights.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "rendered lamb fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered lamb fat in a large wok over medium-high heat until it starts to smoke.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the minced garlic, dried thyme, ground black pepper, and salt, and cook for 1 minute, stirring constantly.",
+    "Add the water to the wok and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stews",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "special-occasion",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "deliciously-dense-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:17:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "warm water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously dense",
+    "dishForm": "Stew"
+  }
+}
