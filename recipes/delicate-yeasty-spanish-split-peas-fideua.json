@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Yeasty Spanish Split Peas Fideua",
+  "description": "A quick and flavorful Galician dish featuring split peas and a yeasty ferment, perfect for a weeknight dinner. This fideua is a twist on the traditional Spanish recipe, with a velvety texture and a dash of spice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried green split peas"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the split peas, yeast, and water to the skillet, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the peas are tender.",
+    "Use a fork to mash some of the peas and create a thick, velvety texture.",
+    "Serve the fideua hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "galician",
+    "high-fiber",
+    "one-pot",
+    "quick-fix",
+    "spanish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "delicate-yeasty-spanish-split-peas-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-yeasty-spanish-split-peas-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:54:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "split peas",
+    "diet": "dash",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "split peas",
+    "descriptor": "delicate yeasty",
+    "dishForm": "Fideua"
+  }
+}
