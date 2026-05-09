@@ -1,0 +1,113 @@
+{
+  "title": "Deliciously Spicy Indian Basmati Rice Biryani",
+  "description": "A spicy and light ovo-vegetarian friendly Indian dish featuring basmati rice, this biryani is perfect for meal prep, with an al-dente finish and a blend of aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "hard boiled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add grated ginger and minced garlic and cook for another minute.",
+    "Add coriander powder, turmeric powder, and red chili powder and cook for 1 minute.",
+    "Add basmati rice and cook for 2-3 minutes, stirring constantly.",
+    "Add water and salt, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked and the water is absorbed.",
+    "Fluff the rice with a fork and stir in chopped hard boiled eggs.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "meal-prep",
+    "one-pot",
+    "ovo-vegetarian",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "deliciously-spicy-indian-basmati-rice-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-indian-basmati-rice-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:31:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "starch",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Deliciously Spicy",
+    "dishForm": "Biryani"
+  }
+}
