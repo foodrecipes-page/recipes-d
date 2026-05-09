@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Herbal Northern Thai Chocolate Nam Prik",
+  "description": "A unique and flavorful Thai dish featuring plain chocolate and herbal notes, perfect for a lazy Sunday, this nam prik is onion and garlic free, making it suitable for all tastes.",
+  "cuisine": "Northern Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "200g",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh chili peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Melt the plain chocolate in a double boiler over low heat, stirring occasionally.",
+    "Remove the melted chocolate from the heat and stir in the tempering chocolate until it is fully incorporated.",
+    "Add the fresh mint leaves, basil leaves, and chopped chili peppers to the chocolate mixture and stir until well combined.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and palm sugar until the sugar is dissolved.",
+    "Add the fish sauce mixture to the chocolate mixture and stir until smooth.",
+    "Transfer the nam prik to a serving bowl and garnish with additional fresh herbs if desired.",
+    "Serve the nam prik at room temperature, allowing each guest to scoop it up with fresh vegetables or crackers.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Allow the nam prik to come to room temperature before serving.",
+    "Experiment with different types of chocolate and herbs to create unique flavor combinations."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "gluten-free",
+    "herbal",
+    "no-onion-no-garlic",
+    "northern-thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "delicate-herbal-northern-thai-chocolate-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-herbal-northern-thai-chocolate-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:29:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "plain chocolate",
+    "diet": "no-onion-no-garlic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chocolate",
+    "descriptor": "delicate herbal",
+    "dishForm": "Nam Prik"
+  }
+}
