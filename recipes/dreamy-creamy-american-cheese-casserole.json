@@ -1,0 +1,104 @@
+{
+  "title": "Dreamy Creamy American Cheese Casserole",
+  "description": "A sweet and aerated American dish featuring cheese and a mirepoix base, perfect for a sick day, made with macrobiotic-friendly ingredients and cooked on a salt block.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "american cheese",
+      "amount": "12 slices"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the whole wheat pasta according to package instructions and set aside.",
+    "In a large skillet, saute the chopped onions, carrots, and celery in melted butter until tender.",
+    "In a large bowl, combine the cooked pasta, sauteed mirepoix, and american cheese slices.",
+    "In a separate bowl, whisk together the milk, salt, black pepper, and paprika.",
+    "Pour the milk mixture over the pasta mixture and stir until well combined.",
+    "Transfer the mixture to a salt block and smooth the top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dreamy-creamy-american-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-american-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:27:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Casserole"
+  }
+}
