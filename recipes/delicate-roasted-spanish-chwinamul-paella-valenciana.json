@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Roasted Spanish Chwinamul Paella Valenciana",
+  "description": "A macrobiotic-friendly Spanish dish featuring roasted chwinamul, this paella valenciana is an herbal and snappy twist on the classic recipe, perfect for a cozy dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "Korean parsley"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/4 cup",
+      "notes": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large paella pan or skillet, heat the olive oil over medium heat",
+    "Add the onion and cook until softened, about 5 minutes",
+    "Add the garlic and cook for an additional minute",
+    "Add the chwinamul, smoked paprika, sea salt, and black pepper, and cook for 2 minutes",
+    "Add the Arborio rice and stir to combine with the chwinamul mixture",
+    "Transfer the paella pan to the preheated oven and roast for 20 minutes",
+    "Remove the paella from the oven and stir in the lemon juice",
+    "Return the paella to the oven and roast for an additional 5 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "macrobiotic",
+    "one-pan",
+    "roasted-vegetables",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicate-roasted-spanish-chwinamul-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roasted-spanish-chwinamul-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:28:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "chwinamul",
+    "diet": "macrobiotic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Delicate Roasted",
+    "dishForm": "Paella Valenciana"
+  }
+}
