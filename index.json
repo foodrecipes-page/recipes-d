@@ -784,6 +784,22 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-mediterranean-chorizo-skewers",
+    "title": "Date Night Mediterranean Chorizo Skewers",
+    "tags": [
+      "date-night",
+      "easy-meal",
+      "gluten-free",
+      "low-carb",
+      "mediterranean",
+      "quick",
+      "romantic"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 18,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-olive-toast",
     "title": "Date-Night Olive Toast",
     "tags": [
@@ -5926,6 +5942,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-japanese-corn-ramen",
+    "title": "Delicious Japanese Corn Ramen",
+    "tags": [
+      "corn-based",
+      "egg-free",
+      "japanese-cuisine",
+      "lazy-sunday",
+      "one-pot"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

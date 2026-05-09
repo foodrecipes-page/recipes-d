@@ -1,0 +1,92 @@
+{
+  "title": "Delicious Japanese Corn Ramen",
+  "description": "Rich and juicy Japanese ramen featuring corn and a mother sauce base, perfect for a lazy Sunday, and friendly to those with egg allergies",
+  "cuisine": "Japanese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": "Hokkaido style"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Mother sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Amaretti cookies",
+      "amount": "4",
+      "notes": "Crushed"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot",
+    "Add the ramen noodles and cook for 3 minutes",
+    "In a separate pan, heat the sesame oil and add the corn kernels, cooking until lightly browned",
+    "Add the mother sauce and soy sauce to the corn mixture and stir to combine",
+    "Add the cooked noodles to the corn mixture and stir to coat",
+    "Serve the ramen hot, garnished with chopped green onions and crushed amaretti cookies",
+    "Drizzle with additional sesame oil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-based",
+    "egg-free",
+    "japanese-cuisine",
+    "lazy-sunday",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "delicious-japanese-corn-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-japanese-corn-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:16:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "amaretti",
+    "diet": "egg-free",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "corn",
+    "descriptor": "delicious",
+    "dishForm": "Ramen"
+  }
+}
