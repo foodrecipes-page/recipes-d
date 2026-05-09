@@ -1,0 +1,87 @@
+{
+  "title": "Delicately Roasted Kenyan Sweet Potatoes Roast",
+  "description": "A tender and flavorful Kenyan dish featuring roasted sweet potatoes with ground nutmeg, perfect for a relaxing brunch",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, toss the sweet potatoes with olive oil, salt, black pepper, garlic powder, and ground nutmeg until they are evenly coated",
+    "Spread the sweet potatoes out in a single layer on a baking sheet",
+    "Roast the sweet potatoes in the preheated oven for 20 minutes",
+    "After 20 minutes, remove the sweet potatoes from the oven and carefully pour in the water",
+    "Return the sweet potatoes to the oven and continue roasting for an additional 20 minutes, or until they are tender",
+    "Remove the sweet potatoes from the oven and let them cool for a few minutes before serving",
+    "Serve the roasted sweet potatoes hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "gluten-free",
+    "kenyan-cuisine",
+    "roasted-vegetables",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "delicately-roasted-kenyan-sweet-potatoes-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicately-roasted-kenyan-sweet-potatoes-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:41:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "delicately roasted",
+    "dishForm": "Roast"
+  }
+}

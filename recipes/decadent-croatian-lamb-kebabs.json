@@ -1,0 +1,100 @@
+{
+  "title": "Decadent Croatian Lamb Kebabs",
+  "description": "Indulgent Croatian dish featuring lamb, scotch bonnet, and a hint of sweetness, all wrapped in an agave leaf and cooked to perfection in a tandoor, sugar-free-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a bowl, mix together olive oil, garlic, yeast, salt, black pepper, and paprika.",
+    "Brush the mixture onto the lamb cubes.",
+    "Wrap each skewer in an agave leaf, making sure to seal the edges.",
+    "Place the skewers in the tandoor and cook for 20 minutes, turning occasionally.",
+    "Add the chopped scotch bonnet peppers to the tandoor and cook for an additional 5 minutes.",
+    "Remove the skewers from the tandoor and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "decadent-croatian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-croatian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:41:28Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "decadent spicy",
+    "dishForm": "Kebabs"
+  }
+}

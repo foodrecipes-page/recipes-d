@@ -1197,6 +1197,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-croatian-lamb-kebabs",
+    "title": "Decadent Croatian Lamb Kebabs",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "indulgent",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-crunchy-mediterranean-duck-confit",
     "title": "Decadent Crunchy Mediterranean Duck Confit",
     "tags": [
@@ -5644,6 +5659,20 @@
       "yeasty"
     ],
     "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "delicately-roasted-kenyan-sweet-potatoes-roast",
+    "title": "Delicately Roasted Kenyan Sweet Potatoes Roast",
+    "tags": [
+      "brunch-recipe",
+      "gluten-free",
+      "kenyan-cuisine",
+      "roasted-vegetables",
+      "vegetarian-option"
+    ],
+    "cuisine": "Kenyan",
     "totalTimeMin": 55,
     "shard": "d"
   },
