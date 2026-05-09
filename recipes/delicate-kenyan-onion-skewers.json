@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Kenyan Onion Skewers",
+  "description": "A light and quick-fix Kenyan dish featuring chopped onion and yuzu-cure, perfect for a high-protein snack or appetizer",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together yuzu juice, olive oil, garlic, ginger, turmeric, salt, and black pepper",
+    "Add the chopped onion to the bowl and toss to coat with the yuzu mixture",
+    "Thread the onion and tofu onto skewers",
+    "Grill the skewers for 8-10 minutes, turning occasionally",
+    "Serve the skewers hot, garnished with chopped cilantro",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "delicate-kenyan-onion-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-kenyan-onion-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:07:12Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chopped onion",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "onion",
+    "descriptor": "delicate high protein",
+    "dishForm": "Skewers"
+  }
+}

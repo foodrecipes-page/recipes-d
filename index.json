@@ -4259,6 +4259,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-kenyan-onion-skewers",
+    "title": "Delicate Kenyan Onion Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-korean-baby-aubergine-dosirak",
     "title": "Delicate Korean Baby Aubergine Dosirak",
     "tags": [
@@ -4934,6 +4949,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-salty-ukrainian-mackerel-pilaf",
+    "title": "Delicate Salty Ukrainian Mackerel Pilaf",
+    "tags": [
+      "eastern-european",
+      "fish-based",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
