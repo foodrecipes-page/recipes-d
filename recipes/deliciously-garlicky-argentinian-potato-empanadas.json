@@ -1,0 +1,98 @@
+{
+  "title": "Deliciously Garlicky Argentinian Potato Empanadas",
+  "description": "Flaky pastry pockets filled with garlicky potatoes, perfect for a solo dinner, these empanadas are a traditional Argentinian dish with a twist, using a fondue pot as a cooking vessel.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "In a large bowl, combine flour, salt, and black pepper, then gradually add melted butter and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "In a separate bowl, mix together diced potatoes, minced garlic, and a pinch of salt and pepper.",
+    "Place a spoonful of the potato mixture onto the center of each dough circle.",
+    "Fold the dough over the filling, forming a half moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Carefully place the empanadas into the preheated fondue pot, cooking for 15 minutes, or until golden brown.",
+    "Remove the empanadas from the fondue pot and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "fondue-pot",
+    "garlicky",
+    "potato-empanadas",
+    "solodinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "deliciously-garlicky-argentinian-potato-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-garlicky-argentinian-potato-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:25:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "potatoe buns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Deliciously Garlicky",
+    "dishForm": "Empanadas"
+  }
+}
