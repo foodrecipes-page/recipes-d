@@ -1,0 +1,106 @@
+{
+  "title": "Double Layered Indian Morcilla Biryani",
+  "description": "A funky, glassy-jelly, solo-dinner Indian dish featuring morcilla, double-rise-bread, and dairy-free-friendly ingredients, inspired by the Chettinad cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the basmati rice according to package instructions.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 2 minutes.",
+    "Add the curry powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Slice the morcilla into 1-inch thick rounds and add to the skillet, cooking for 2-3 minutes per side.",
+    "In a large bowl, combine the cooked rice, morcilla mixture, and cubed double-rise-bread.",
+    "In a separate bowl, whisk together the coconut milk, salt, and black pepper.",
+    "Pour the coconut milk mixture over the rice mixture and stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "indian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "double-layered-indian-morcilla-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/double-layered-indian-morcilla-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:03:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "morcilla",
+    "diet": "dairy-free",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "morcilla",
+    "descriptor": "double layered",
+    "dishForm": "Biryani"
+  }
+}
