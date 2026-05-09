@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Roast German Pork Roast",
+  "description": "A comforting German dish featuring elderflower and roast pork, perfect for a cold evening. This recipe is free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, whisk together the elderflower syrup, apple cider vinegar, honey, caraway seeds, salt, and black pepper.",
+    "Place the pork roast in a large Dutch oven or oven-safe pot.",
+    "Brush the elderflower mixture evenly over the pork roast, making sure to coat all surfaces.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the pot from the oven and let the pork rest for 10 minutes before slicing.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with your choice of sides, such as braised red cabbage or roasted root vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "no-onion-no-garlic",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "delicate-roast-german-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-roast-german-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:49:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "elderflower",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "delicate roast",
+    "dishForm": "Roast"
+  }
+}

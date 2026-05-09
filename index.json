@@ -5304,6 +5304,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-roast-german-pork-roast",
+    "title": "Delicate Roast German Pork Roast",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "gluten-free",
+      "no-onion-no-garlic",
+      "pork-recipes",
+      "special-occasion"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 100,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-roast-vietnamese-provola-tagine",
     "title": "Delicate Roast Vietnamese Provola Tagine",
     "tags": [
