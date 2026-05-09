@@ -1017,6 +1017,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-briny-canadian-pistachio-pasta",
+    "title": "Decadent Briny Canadian Pistachio Pasta",
+    "tags": [
+      "canadian-cuisine",
+      "low-sodium",
+      "pistachio-based",
+      "rich-and-indulgent",
+      "special-occasion",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-buttery-egyptian-lamb-tagine",
     "title": "Decadent Buttery Egyptian Lamb Tagine",
     "tags": [

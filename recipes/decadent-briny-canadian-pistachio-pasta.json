@@ -1,0 +1,101 @@
+{
+  "title": "Decadent Briny Canadian Pistachio Pasta",
+  "description": "A rich and indulgent Canadian dish featuring ground pistachios, with a briny flavor and bouncy texture, made with low-sodium ingredients and served on a lazy-susan-spinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "ground from 1 1/2 cups pistachios"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salt-free water to a boil and cook the fettuccine pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the pistachio meal to the skillet and cook for 2 minutes, stirring constantly.",
+    "Stir in the dried parsley, dried dill weed, and salt-free seasoning blend, and cook for 1 minute.",
+    "In a large bowl, whisk together the low-sodium chicken broth and heavy cream.",
+    "Add the cooked fettuccine pasta to the bowl and toss with the broth and cream mixture until the pasta is well coated.",
+    "Add the pistachio meal mixture to the bowl and toss until the pasta is well combined with the pistachio meal.",
+    "Stir in the grated parmesan cheese until melted and well combined.",
+    "Season with salt-free seasoning blend to taste.",
+    "Serve the pasta on a lazy-susan-spinner and garnish with additional grated parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "low-sodium",
+    "pistachio-based",
+    "rich-and-indulgent",
+    "special-occasion",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "decadent-briny-canadian-pistachio-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-briny-canadian-pistachio-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:53:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "ground pistachios",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pistachios",
+    "descriptor": "decadent briny",
+    "dishForm": "Pasta"
+  }
+}
