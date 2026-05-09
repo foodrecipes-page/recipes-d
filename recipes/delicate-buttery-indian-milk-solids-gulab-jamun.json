@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Buttery Indian Milk Solids Gulab Jamun",
+  "description": "A traditional Indian dessert featuring crispy, buttery gulab jamun soaked in a sweet and fragrant syrup, made without onion or garlic for a friendly flavor profile.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk powder",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gulab syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine milk powder, flour, baking soda, and salt in a large mixing bowl.",
+    "Add melted butter to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and soft.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Heat oil in a deep frying pan to 350 degrees Fahrenheit and fry the dough balls until golden brown.",
+    "Remove the fried gulab jamun from the oil and soak them in gulab syrup for at least 30 minutes.",
+    "Combine rose water and lemon juice in a small bowl and add it to the gulab syrup.",
+    "Serve the gulab jamun warm or at room temperature, garnished with chopped nuts or pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gulab-jamun",
+    "indian-dessert",
+    "no-onion-no-garlic",
+    "sweet-treat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "delicate-buttery-indian-milk-solids-gulab-jamun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-buttery-indian-milk-solids-gulab-jamun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:08:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "restaurant",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "milk solids",
+    "descriptor": "Delicate Buttery",
+    "dishForm": "Gulab Jamun"
+  }
+}
