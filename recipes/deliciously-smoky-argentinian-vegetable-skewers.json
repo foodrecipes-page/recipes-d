@@ -1,0 +1,106 @@
+{
+  "title": "Deliciously Smoky Argentinian Vegetable Skewers",
+  "description": "A flavorful and colorful Argentinian dish featuring char-grilled vegetables, breadcrumbs, and a smoky tang, cooked to perfection in a tagine pot. This shojin-friendly recipe is perfect for a special occasion or a weeknight dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "plain or whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium-high heat.",
+    "Thread the zucchini, bell peppers, onions, and mushrooms onto skewers.",
+    "In a small bowl, mix together the breadcrumbs, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Brush the breadcrumb mixture evenly onto the vegetables.",
+    "Place the skewers in the tagine pot and cook for 10-12 minutes, turning occasionally.",
+    "Reduce heat to medium-low and cook for an additional 5 minutes, or until the vegetables are tender.",
+    "Remove the skewers from the pot and let cool for a few minutes.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro.",
+    "Repeat with remaining ingredients if necessary.",
+    "Let the tagine pot cool before cleaning and storing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "one-pot",
+    "smoky",
+    "special-occasion",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "deliciously-smoky-argentinian-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoky-argentinian-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:32:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Deliciously Smoky",
+    "dishForm": "Skewers"
+  }
+}
