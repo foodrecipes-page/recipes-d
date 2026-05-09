@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Venezuelan Vermicelli Noodles",
+  "description": "A pungent and velvety Venezuelan dish featuring vermicelli rice noodles, this recipe is high in protein and perfect for a light dinner",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli noodles according to package instructions",
+    "In a large bowl, whisk together olive oil, cumin, paprika, salt, and black pepper to make the marinade",
+    "Add the chicken breast to the marinade and mix well to coat",
+    "Heat a large skillet over medium-high heat and cook the chicken breast until browned on both sides and cooked through",
+    "Remove the chicken from the skillet and set aside to rest",
+    "In the same skillet, add the sliced onion and minced garlic and cook until the onion is translucent",
+    "Add the chicken broth to the skillet and bring to a simmer",
+    "Add the cooked vermicelli noodles to the skillet and toss to combine with the onion and garlic mixture",
+    "Slice the cooked chicken breast into thin strips and add to the noodles",
+    "Toss everything together to combine and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "latin-american",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "delicate-venezuelan-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-venezuelan-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:11:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vermicelli rice noodles",
+    "descriptor": "Delicate",
+    "dishForm": "Noodles"
+  }
+}
