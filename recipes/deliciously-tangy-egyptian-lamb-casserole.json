@@ -1,0 +1,99 @@
+{
+  "title": "Deliciously Tangy Egyptian Lamb Casserole",
+  "description": "A tangy and snappy Egyptian dish featuring lamb, cheddar cheese, and a crispy en-croute crust, perfect for a high-protein meal prep option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the lamb until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a large bowl, combine the cooked lamb mixture, cheddar cheese, salt, and black pepper.",
+    "Arrange the pita bread slices in the bottom of a 9x13 inch baking dish.",
+    "Spoon the lamb and cheese mixture over the pita bread.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "egyptian-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "meal-prep",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-tangy-egyptian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-tangy-egyptian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:14:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously tangy",
+    "dishForm": "Casserole"
+  }
+}
