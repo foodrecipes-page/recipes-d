@@ -1,0 +1,91 @@
+{
+  "title": "Dark Deep Fried Russian Beef Dumplings",
+  "description": "A yeasty, molten, date-night Russian dish featuring dark soft brown sugar, agemono-deep-fry, and is FODMAP-friendly, cooked in a Dutch oven. This recipe is perfect for a special occasion.",
+  "cuisine": "Russian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, dark brown sugar, yeast, flour, egg, salt, and black pepper, and mix until just combined.",
+    "Knead the mixture for 5 minutes until it forms a sticky dough.",
+    "Cover the dough with plastic wrap and let it rise in a warm place for 1 hour.",
+    "Once the dough has risen, divide it into 8 equal pieces and shape each piece into a ball.",
+    "Heat the vegetable oil in a Dutch oven to 350 degrees Fahrenheit.",
+    "Carefully place the dough balls into the hot oil and fry for 5 minutes on each side.",
+    "Remove the dumplings from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "deep-fried",
+    "dutch-oven",
+    "fodmap-friendly",
+    "russian-cuisine",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "dark-deep-fried-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-deep-fried-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:20:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Dark Deep Fried",
+    "dishForm": "Dumplings"
+  }
+}
