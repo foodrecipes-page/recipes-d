@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Mexican Chicken Tlayudas",
+  "description": "A malty, silky, light Mexican dish featuring chicken stock concentrate, served in a terracotta dish, paleo-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "tlayudas style"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel and dice them.",
+    "In a large pot, bring 4 cups of water to a boil, then add the chicken breast and cook for 15 minutes, or until cooked through.",
+    "Remove the chicken from the pot and immediately submerge it in an ice bath to stop the cooking process.",
+    "Once the chicken has cooled, shred it into bite-sized pieces and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat, then add the diced onion and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Add the shredded chicken, roasted poblano peppers, chicken stock concentrate, lime juice, salt, and pepper to the skillet, then stir to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tlayudas by spooning the chicken mixture onto a tortilla, then serving in a terracotta dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "paleo",
+    "terracotta",
+    "tlayudas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "delicate-mexican-chicken-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-mexican-chicken-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:48:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "paleo",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "delicate silky",
+    "dishForm": "Tlayudas"
+  }
+}

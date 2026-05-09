@@ -4514,6 +4514,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-mexican-chicken-tlayudas",
+    "title": "Delicate Mexican Chicken Tlayudas",
+    "tags": [
+      "chicken",
+      "mexican",
+      "paleo",
+      "terracotta",
+      "tlayudas",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-mexican-pork-tacos-al-pastor",
     "title": "Delicate Mexican Pork Tacos Al Pastor",
     "tags": [
