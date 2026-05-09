@@ -1,0 +1,90 @@
+{
+  "title": "Delicate German Almond Bao",
+  "description": "A malty and light German dish featuring ground almonds, steamed to perfection, this Delicate German Almond Bao is a show-off dessert that is satvik-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably German type 405 flour"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, ground almonds, malt syrup, yeast, and salt.",
+    "Gradually add water to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a steamer with water to 190 degrees Fahrenheit.",
+    "Punch down the dough and shape it into small buns.",
+    "Place the buns in the steamer, leaving about 1 inch of space between each bun.",
+    "Steam the buns for 15 minutes, or until they are cooked through and fluffy.",
+    "Remove the buns from the steamer and brush them with melted butter.",
+    "Serve the Delicate German Almond Bao warm, garnished with sliced almonds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "german-desserts",
+    "satvik-friendly",
+    "steamed-buns",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "delicate-german-almond-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-german-almond-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:57:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ground almonds",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "almonds",
+    "descriptor": "Delicate",
+    "dishForm": "Bao"
+  }
+}

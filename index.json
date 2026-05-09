@@ -4265,6 +4265,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-german-almond-bao",
+    "title": "Delicate German Almond Bao",
+    "tags": [
+      "almond-based",
+      "german-desserts",
+      "satvik-friendly",
+      "steamed-buns",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-german-dates-poke",
     "title": "Delicate German Dates Poke",
     "tags": [
