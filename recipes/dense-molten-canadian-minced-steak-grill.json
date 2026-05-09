@@ -1,0 +1,102 @@
+{
+  "title": "dense molten canadian minced steak grill",
+  "description": "tangy molten adventurous canadian dish featuring lean minced steak deglazed with a rich fond, served on a cedar plank.",
+  "cuisine": "canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "cedar plank",
+      "amount": "",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking the steak"
+    }
+  ],
+  "instructions": [
+    "preheat grill to 400f.",
+    "season the minced steak with salt pepper and thyme.",
+    "brush the cedar plank with vegetable oil and place on the grill to warm up for 2 minutes.",
+    "add the minced steak to the plank and cook for 4 minutes per side.",
+    "remove the steak from the plank and transfer to a plate, cover with foil to keep warm.",
+    "in the same pan, add the garlic and cook for 1 minute until fragrant.",
+    "add the red wine vinegar and brown sugar to the pan, scraping up any browned bits with a wooden spoon.",
+    "bring the mixture to a simmer and cook for 2 minutes until reduced and syrupy.",
+    "add the cup of water to the pan and bring to a simmer.",
+    "return the steak to the pan and cook for an additional 2-3 minutes until the internal temperature reaches 130f.",
+    "remove the steak from the heat and let rest for 5 minutes before slicing.",
+    "serve the sliced steak on top of the cedar plank with the deglazing sauce spooned over the top.",
+    "optional: garnish with fresh thyme sprigs and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "canadian",
+    "grilled",
+    "molten",
+    "one-pan",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "dense-molten-canadian-minced-steak-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-molten-canadian-minced-steak-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "lean minced steak",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "minced steak",
+    "descriptor": "Dense Molten",
+    "dishForm": "Grill"
+  }
+}
