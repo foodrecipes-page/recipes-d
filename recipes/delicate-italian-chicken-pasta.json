@@ -1,0 +1,100 @@
+{
+  "title": "Delicate Italian Chicken Pasta",
+  "description": "A buttery and springy post-workout Italian dish featuring creme-patissiere, with a satvik-friendly twist, inspired by the Venetian cuisine and using a tandoor for a unique flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "creme-patissiere",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Cook the fettuccine pasta according to package instructions until al dente.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the chicken breast to the skillet and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the skillet and set aside to rest.",
+    "In the same skillet, add the remaining 2 tablespoons of butter and stir in the tandoor spice mix.",
+    "Add the creme-patissiere to the skillet and stir until heated through.",
+    "Add the cooked fettuccine pasta to the skillet and toss with the creme-patissiere sauce.",
+    "Slice the cooked chicken breast into thin strips and add to the pasta.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with parmesan cheese and chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creme-patissiere",
+    "italian-food",
+    "pasta-dish",
+    "post-workout",
+    "satvik-friendly",
+    "tandoor-cooked"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "delicate-italian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-italian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:09:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "satvik",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "delicate buttery",
+    "dishForm": "Pasta"
+  }
+}
