@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Crisp Ukrainian Squid Stew",
+  "description": "A traditional Ukrainian dish featuring squid, cooked in a clay pot to achieve a delicate crisp texture, with a bitter flavor profile, this stew is perfect for festive occasions and is FODMAP friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot in the oven at 375 degrees Fahrenheit for 10 minutes.",
+    "Heat the garlic-infused oil in the preheated clay pot over medium heat.",
+    "Add the chopped onion, carrot, and celery to the clay pot and cook until the vegetables are tender.",
+    "Add the squid to the clay pot and cook until it is lightly browned.",
+    "Add the dried dill weed, salt, and black pepper to the clay pot and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes.",
+    "Remove the clay pot from the heat and let it cool for a few minutes.",
+    "Serve the stew hot, garnished with fresh dill weed if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-crisp-ukrainian-squid-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-ukrainian-squid-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:46:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "squid",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "squid",
+    "descriptor": "delicate crisp",
+    "dishForm": "Stew"
+  }
+}
