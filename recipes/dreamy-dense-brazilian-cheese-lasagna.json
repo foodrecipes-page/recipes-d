@@ -1,0 +1,99 @@
+{
+  "title": "Dreamy Dense Brazilian Cheese Lasagna",
+  "description": "A rich and creamy Brazilian cheese lasagna featuring yuzu and dashi extract, perfect for a date night dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "brazilian cheese blend",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cook the lasagna noodles according to package instructions",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant",
+    "Add the spinach to the skillet and cook until wilted",
+    "In a large bowl, combine the cooked lasagna noodles, brazilian cheese blend, yuzu juice, dashi extract, salt, and black pepper",
+    "Add the cooked spinach mixture to the bowl and stir until well combined",
+    "Transfer the mixture to a slate tile vessel and top with additional brazilian cheese blend",
+    "Bake the lasagna in the preheated oven for 30 minutes, or until the cheese is melted and bubbly",
+    "Remove the lasagna from the oven and let it cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "cheesy",
+    "date-night",
+    "lasagna",
+    "vegetarian",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "dreamy-dense-brazilian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-dense-brazilian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:26:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "yuzu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "dreamy dense",
+    "dishForm": "Lasagna"
+  }
+}
