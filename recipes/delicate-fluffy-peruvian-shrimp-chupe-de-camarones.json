@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Fluffy Peruvian Shrimp Chupe De Camarones",
+  "description": "A sour and fluffy Peruvian dish featuring honey and shrimp, kid-friendly and easy to make, this chupe de camarones is a twist on traditional recipes, omitting onions and garlic for a unique flavor profile.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kid-friendly",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the chicken broth to a boil over high heat.",
+    "Add the diced potatoes to the pot and cook until they are tender, about 10 minutes.",
+    "In a small bowl, whisk together the cornstarch and a splash of the chicken broth until smooth.",
+    "Add the cornstarch mixture to the pot and stir to combine.",
+    "Reduce the heat to medium and add the shrimp to the pot, cooking until they are pink and fully cooked, about 5 minutes.",
+    "In a small bowl, whisk together the honey, lemon juice, and eggs.",
+    "Temper the egg mixture by slowly pouring it into the pot, whisking constantly.",
+    "Add the milk, salt, and pepper to the pot and stir to combine.",
+    "Continue to cook the mixture over medium heat, stirring constantly, until it thickens and emulsifies, about 5 minutes.",
+    "Serve the chupe de camarones hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pot-meals",
+    "peruvian-cuisine",
+    "seafood-dishes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "delicate-fluffy-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-fluffy-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:14:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "honey",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "delicate fluffy",
+    "dishForm": "Chupe De Camarones"
+  }
+}
