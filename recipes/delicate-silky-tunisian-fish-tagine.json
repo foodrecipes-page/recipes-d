@@ -1,0 +1,113 @@
+{
+  "title": "delicate silky tunisian fish tagine",
+  "description": "a briny, silky dish featuring dasima-kombu and shio-koji-cured fish, suitable for raw-friendly diets",
+  "cuisine": "tunisian",
+  "diet": [
+    "raw-friendly",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima-kombu broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "shio-koji-cured fish",
+      "amount": "1 pound",
+      "notes": "preferably sashimi-grade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay pot over medium heat",
+    "add the garlic and cook for 1 minute until fragrant",
+    "add the ground cumin, ground coriander, cayenne pepper, salt, and black pepper, and cook for another minute",
+    "add the shio-koji-cured fish and cook for 2-3 minutes on each side until lightly browned",
+    "add the dasima-kombu broth, parsley, and cilantro to the pot",
+    "bring the mixture to a simmer and cook for 10-15 minutes or until the fish is cooked through",
+    "season with lemon juice to taste",
+    "serve the fish tagine hot, garnished with additional parsley and cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "delicate-silky-tunisian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-silky-tunisian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:39:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Delicate Silky",
+    "dishForm": "Tagine"
+  }
+}
