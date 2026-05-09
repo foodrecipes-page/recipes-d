@@ -1,0 +1,102 @@
+{
+  "title": "Deliciously Mustardy Egyptian Lamb Kebabs",
+  "description": "A silky and flavorful Egyptian dish featuring lamb loin chops marinated in a mixture of mustard and spices, perfect for a hangover cure. This ovo-vegetarian-friendly recipe is a must-try for anyone looking for a delicious and satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mustard, olive oil, lemon juice, garlic, ginger, cumin, paprika, salt, and black pepper to make the marinade.",
+    "Add the lamb pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Offer a side of pita bread or rice to complete the meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "deliciously-mustardy-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-mustardy-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:36:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously mustardy",
+    "dishForm": "Kebabs"
+  }
+}
