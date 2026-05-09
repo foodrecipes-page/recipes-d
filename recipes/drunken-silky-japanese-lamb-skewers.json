@@ -1,0 +1,97 @@
+{
+  "title": "Drunken Silky Japanese Lamb Skewers",
+  "description": "A festive Japanese dish featuring lamb shoulder, flambe, and ayurvedic-rajasic-friendly ingredients, wrapped in corn husks.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together sake, mirin, soy sauce, brown sugar, sesame oil, garlic, and ginger.",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes.",
+    "Remove the lamb from the marinade and thread onto skewers.",
+    "Wrap each skewer with a corn husk, securing with a toothpick if needed.",
+    "Grill the skewers for 5-7 minutes per side, or until the lamb is cooked to 145 degrees.",
+    "Flambe the skewers with sake for 30 seconds to 1 minute, or until the flames die out.",
+    "Serve immediately, garnished with sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "festive-dishes",
+    "grilled-meats",
+    "japanese-cuisine",
+    "lamb-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "drunken-silky-japanese-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/drunken-silky-japanese-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:32:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lamb",
+    "descriptor": "drunken silky",
+    "dishForm": "Skewers"
+  }
+}
