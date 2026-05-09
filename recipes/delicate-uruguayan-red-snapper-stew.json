@@ -1,0 +1,105 @@
+{
+  "title": "Delicate Uruguayan Red Snapper Stew",
+  "description": "A comforting and springy Uruguayan dish featuring red snapper, this stew is a perfect blend of flavors and textures, with a hint of mustard and a satvik-friendly twist, served in a scallop shell vessel.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the red snapper fillets with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Dijon mustard and cook for 1 minute, stirring constantly.",
+    "Add the white wine and fish stock, and bring to a simmer.",
+    "Reduce the heat to low and add the red snapper fillets, cooking for 8-10 minutes or until cooked through.",
+    "Stir in the chopped parsley and lemon juice.",
+    "Serve the stew in scallop shell vessels, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "seafood",
+    "spring-inspired",
+    "stew",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-uruguayan-red-snapper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-uruguayan-red-snapper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "red snapper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "red snapper",
+    "descriptor": "delicate simmered",
+    "dishForm": "Stew"
+  }
+}
