@@ -5512,6 +5512,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicious-brazilian-chicken-tagine",
+    "title": "Delicious Brazilian Chicken Tagine",
+    "tags": [
+      "brazilian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "paleo-friendly",
+      "tagine-cooking",
+      "whole30-recipes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicious-chinese-noodles-chow-fun",
     "title": "Delicious Chinese Noodles Chow Fun",
     "tags": [
