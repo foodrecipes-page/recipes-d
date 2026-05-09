@@ -1,0 +1,90 @@
+{
+  "title": "Dehydrated Sweet Venezuelan Plantain Empanadas",
+  "description": "A sour and snappy nostalgic Venezuelan dish featuring granulated sugar, these empanadas are paleo-friendly and perfect for a sweet treat. Made with dehydrated plantains and a touch of sugar, they are a delicious and healthy snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green plantains",
+      "amount": "4",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 135 degrees Fahrenheit.",
+    "Peel the plantains and slice them into 1/4 inch thick rounds.",
+    "In a large bowl, mix together the sugar, salt, and coconut oil.",
+    "Add the sliced plantains to the bowl and toss to coat with the sugar mixture.",
+    "Dehydrate the plantains for 6 hours or until they are dry and slightly flexible.",
+    "In a separate bowl, mix together the almond flour and coconut flour.",
+    "Add the dehydrated plantains to the bowl and mix until they are well coated with the flour mixture.",
+    "Use the egg to make an egg wash and brush the edges of the empanada dough.",
+    "Spoon some of the plantain mixture onto the center of the empanada dough and fold the dough in half to form a triangle.",
+    "Brush the tops of the empanadas with the egg wash and dehydrate for an additional 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 360,
+  "totalTimeMin": 390,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "homemade",
+    "paleo-friendly",
+    "south-american",
+    "sweet-snack",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "dehydrated-sweet-venezuelan-plantain-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dehydrated-sweet-venezuelan-plantain-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:55:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "granulated sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "dehydrated sweet",
+    "dishForm": "Empanadas"
+  }
+}

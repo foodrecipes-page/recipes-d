@@ -2224,6 +2224,21 @@
     "shard": "d"
   },
   {
+    "slug": "dehydrated-sweet-venezuelan-plantain-empanadas",
+    "title": "Dehydrated Sweet Venezuelan Plantain Empanadas",
+    "tags": [
+      "dehydrated",
+      "homemade",
+      "paleo-friendly",
+      "south-american",
+      "sweet-snack",
+      "vegan-option"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 390,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-aerated-italian-filo-pastry-calamarata",
     "title": "Delicate Aerated Italian Filo Pastry Calamarata",
     "tags": [
@@ -4543,6 +4558,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-slovakian-morbiere-dumplings",
+    "title": "Delicate Slovakian Morbiere Dumplings",
+    "tags": [
+      "comfort-food",
+      "european",
+      "kid-friendly",
+      "steamed",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
