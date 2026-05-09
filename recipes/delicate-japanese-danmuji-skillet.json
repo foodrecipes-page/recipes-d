@@ -1,0 +1,93 @@
+{
+  "title": "Delicate Japanese Danmuji Skillet",
+  "description": "A salty and silky Japanese dish from Kyushu, featuring danmuji and robata-grilled ingredients, perfect for a low-fat friendly brunch",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Japanese yellow pickled radish"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast-iron skillet over medium-high heat",
+    "Season the chicken breast with salt and pepper",
+    "Add sesame oil to the skillet and robata-grill the chicken until cooked through",
+    "Remove the chicken from the skillet and set aside",
+    "Add soy sauce, sake, and mirin to the skillet and bring to a simmer",
+    "Add danmuji to the skillet and cook for 2 minutes",
+    "Return the chicken to the skillet and stir to combine with the sauce and danmuji",
+    "Garnish with green onions and toasted sesame seeds",
+    "Serve hot in the cast-iron skillet"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cast-iron-skillet",
+    "japanese-cuisine",
+    "low-fat",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "delicate-japanese-danmuji-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-japanese-danmuji-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:41:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "danmuji",
+    "diet": "low-fat",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "danmuji",
+    "descriptor": "delicate dry",
+    "dishForm": "Skillet"
+  }
+}
