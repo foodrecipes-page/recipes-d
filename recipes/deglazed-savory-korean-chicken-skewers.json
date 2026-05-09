@@ -1,0 +1,94 @@
+{
+  "title": "Deglazed Savory Korean Chicken Skewers",
+  "description": "Savory and snappy Korean dish featuring chicken skewers deglazed with a sweet and spicy sauce, served with a side of unique ice cream",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ice cream",
+      "amount": "1 pint",
+      "notes": "unique flavor such as sesame or ginger"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat",
+    "Thread the chicken pieces onto skewers",
+    "In a small bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger",
+    "Brush the sauce onto the chicken skewers",
+    "Grill the skewers for 5 minutes per side, or until cooked through",
+    "Deglaze the grill with the remaining sauce, scraping up any browned bits",
+    "Serve the skewers with a side of unique ice cream",
+    "Drizzle the deglazed sauce over the top of the skewers and ice cream"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "korean-cuisine",
+    "low-sodium",
+    "robata-grill",
+    "savory-dish",
+    "unique-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "deglazed-savory-korean-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deglazed-savory-korean-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:23:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "ice cream",
+    "diet": "low-sodium",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Deglazed Savory",
+    "dishForm": "Skewers"
+  }
+}
