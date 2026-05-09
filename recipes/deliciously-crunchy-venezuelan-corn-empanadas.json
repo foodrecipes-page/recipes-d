@@ -1,0 +1,98 @@
+{
+  "title": "Venezuelan Corn Empanadas",
+  "description": "Salty, crunchy, and energizing, these empanadas are a delicious Venezuelan dish featuring oat milk and tadka, making them flexitarian-friendly. They are perfect for a quick snack or lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably fine or medium grind"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tadka spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine cornmeal, flour, salt, sugar, and yeast.",
+    "Gradually add oat milk, vegetable oil, and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet or griddle over medium heat and brush with tadka spice mix.",
+    "Place the empanadas in the skillet and cook for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "flexitarian-friendly",
+    "latin-american",
+    "oat-milk-recipes",
+    "tadka-spice",
+    "vegan-options",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "deliciously-crunchy-venezuelan-corn-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crunchy-venezuelan-corn-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:19:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "oat milk",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "corn",
+    "descriptor": "Deliciously crunchy",
+    "dishForm": "Empanadas"
+  }
+}
