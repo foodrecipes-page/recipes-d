@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Dense Indian Potatoes Dosa",
+  "description": "A rich and tender Rajasthani dish featuring crispy potatoes in a dosa form, perfect for a lazy Sunday morning, this satvik-friendly recipe is a twist on traditional Indian cuisine, with a crispy exterior and fluffy interior, made with a variety of ingredients and cooked to perfection on a slate-tile vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lentil flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced potatoes and chopped onion, and let it sit for 10 minutes to allow the potatoes to release excess moisture.",
+    "In a blender or food processor, combine the grated ginger, minced garlic, and curry leaves, and blend until you get a smooth paste.",
+    "In a large mixing bowl, combine the rice flour, lentil flour, and salt, and mix well.",
+    "Add the blended ginger-garlic paste to the flour mixture, and mix until well combined.",
+    "Add the water to the flour mixture, and mix until you get a smooth and thick batter.",
+    "Heat a non-stick skillet or slate-tile vessel over medium heat, and brush it with a little oil.",
+    "Using a ladle, pour a small amount of the batter onto the skillet or vessel, and spread it evenly to form a dosa.",
+    "Arrange a few slices of the potato-onion mixture on one half of the dosa, and fold the other half over to cover it.",
+    "Cook the dosa for 2-3 minutes on each side, until it is crispy and golden brown.",
+    "Repeat the process with the remaining batter and potato-onion mixture.",
+    "Serve the dosas hot with your favorite chutney or sambar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dinner",
+    "indian-cuisine",
+    "lunch",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "deliciously-dense-indian-potatoes-dosa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-dense-indian-potatoes-dosa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:16:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "fries",
+    "diet": "satvik",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Deliciously Dense",
+    "dishForm": "Dosa"
+  }
+}

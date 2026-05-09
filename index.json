@@ -6111,6 +6111,22 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-dense-indian-potatoes-dosa",
+    "title": "Deliciously Dense Indian Potatoes Dosa",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "dinner",
+      "indian-cuisine",
+      "lunch",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-dense-irish-lamb-stew",
     "title": "Deliciously Dense Irish Lamb Stew",
     "tags": [
