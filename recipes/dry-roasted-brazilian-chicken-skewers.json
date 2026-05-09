@@ -1,0 +1,94 @@
+{
+  "title": "Dry Roasted Brazilian Chicken Skewers",
+  "description": "A traditional Brazilian dish featuring marinated chicken skewers roasted to perfection, served with a side of rice and syrup, this recipe is tamasic friendly and suitable for an ayurvedic diet. The use of jocheong, a Korean rice syrup, adds a unique flavor to the dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ayurvedic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "jocheong",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together jocheong, olive oil, lime juice, garlic, ginger, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the skewers from the oven and let them rest for 5 minutes.",
+    "Serve the skewers hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "dry-roasting",
+    "gluten-free",
+    "healthy-dinner",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "dry-roasted-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-roasted-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:48:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "dry roasted",
+    "dishForm": "Skewers"
+  }
+}
