@@ -1,0 +1,112 @@
+{
+  "title": "Dreamy Greek Burrata Pasta",
+  "description": "A weeknight Greek dish featuring burrata, with a resinous and pillowy texture, and a shojin-friendly ferment, this recipe is perfect for a quick and delicious dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic and cook for 1 minute",
+    "Add the chopped sun dried tomatoes, artichoke hearts, and kalamata olives to the skillet and cook for 2 minutes",
+    "Stir in the lemon juice and cook for an additional minute",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the tomato and olive mixture",
+    "Cut the burrata cheese into small pieces and add it to the pasta, tossing gently to combine",
+    "Season the pasta with salt and pepper to taste",
+    "Transfer the pasta to a serving dish and top with chopped fresh parsley",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "burrata",
+    "greek",
+    "one-pan",
+    "pasta",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "dreamy-greek-burrata-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-greek-burrata-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:05:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "burrata",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "burrata",
+    "descriptor": "dreamy pillowy",
+    "dishForm": "Pasta"
+  }
+}
