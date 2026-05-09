@@ -1,0 +1,104 @@
+{
+  "title": "Delicate Flaky Chinese Pork Wonton Soup",
+  "description": "A traditional Yunnan dish featuring delicate wontons filled with pork and served in a light broth, infused with the richness of sesame oil and the comfort of strong white flour, this wonton soup is an umami, flaky, and indulgent treat that can be enjoyed raw-friendly and in the form of a wonton soup.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "pork mince",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for infusion and flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh and finely chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white flour and a pinch of salt, then gradually add in water to form a smooth dough.",
+    "Knead the dough for about 10 minutes until it becomes elastic and smooth, then cover it with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small balls and roll each out into a thin circle, placing a tablespoon of pork mince in the center of each circle.",
+    "Fold the dough over the filling to form a triangle or a square shape, pressing the edges together to seal the wonton.",
+    "In a large pot, heat the sesame oil over medium heat and add in the chopped ginger and sliced scallions, stirring until fragrant.",
+    "Add in the chicken broth, soy sauce, salt, and white pepper, bringing the mixture to a boil before reducing the heat to a simmer.",
+    "Carefully add the wontons to the pot, making sure not to overcrowd it, and cook for about 5 minutes or until they float to the surface.",
+    "Serve the wontons in the hot broth, garnished with additional scallions and a drizzle of sesame oil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "flaky-pastry",
+    "high-protein",
+    "one-pot",
+    "pork-dishes",
+    "sesame-oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "delicate-flaky-chinese-pork-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-flaky-chinese-pork-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:12:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "strong white flour",
+    "diet": "raw",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "delicate flaky",
+    "dishForm": "Wonton Soup"
+  }
+}
