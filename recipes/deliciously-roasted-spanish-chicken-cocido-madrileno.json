@@ -1,0 +1,59 @@
+{
+  "title": "Deliciously Roasted Spanish Chicken Cocido Madrileno",
+  "description": "A Spanish roasted chicken dish that is low in carbs and high in flavor. Perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole Chicken",
+      "amount": "1",
+      "notes": "4-5 lbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with a paper towel.",
+    "Season the chicken with salt, pepper, and paprika.",
+    "Place the chicken in a large terracotta dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "deliciously-roasted-spanish-chicken-cocido-madrileno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-spanish-chicken-cocido-madrileno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "soda water",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously Roasted",
+    "dishForm": "Cocido Madrileno"
+  }
+}

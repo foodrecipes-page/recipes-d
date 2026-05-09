@@ -1,0 +1,110 @@
+{
+  "title": "Dense Filipino Chorizo Bake",
+  "description": "A rich, savory, and dense Filipino-inspired dish featuring chorizo and a crispy wood-fired crust.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed crackers",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 425°F (220°C).",
+    "In a large mixing bowl, combine chorizo, onion, garlic, cilantro, parsley, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the mixture to a 9x13-inch baking dish lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with grated cheddar cheese.",
+    "Top with crushed crackers.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Slice into 6-8 pieces and serve hot.",
+    "Garnish with additional cilantro and parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "chorizo",
+    "crispy",
+    "date-night",
+    "filipino",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 38
+  },
+  "slug": "dense-filipino-chorizo-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-filipino-chorizo-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "chorizo",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Dense",
+    "dishForm": "Bake"
+  }
+}

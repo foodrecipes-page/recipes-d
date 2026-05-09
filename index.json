@@ -7622,6 +7622,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-roasted-spanish-chicken-cocido-madrileno",
+    "title": "Deliciously Roasted Spanish Chicken Cocido Madrileno",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-savory-polish-pork-skillet",
     "title": "Deliciously Savory Polish Pork Skillet",
     "tags": [
@@ -8861,6 +8875,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 28,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-filipino-chorizo-bake",
+    "title": "Dense Filipino Chorizo Bake",
+    "tags": [
+      "cheesy",
+      "chorizo",
+      "crispy",
+      "date-night",
+      "filipino",
+      "wood-fired"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
