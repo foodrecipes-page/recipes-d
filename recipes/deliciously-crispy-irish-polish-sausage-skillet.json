@@ -1,0 +1,100 @@
+{
+  "title": "Deliciously Crispy Irish Polish Sausage Skillet",
+  "description": "A romantic Irish dish featuring crispy Polish sausage, soffritto base, and a hint of mustard, made with macrobiotic friendly ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the sliced Polish sausage and cook until browned on both sides, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion, carrot, and celery to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the whole wheat flour to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the mustard and cook for 1 minute.",
+    "Add the cooked sausage back to the skillet and stir to combine with the vegetable mixture.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes, until the sausage is crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-sausage",
+    "irish-cuisine",
+    "macrobiotic",
+    "one-pan",
+    "polish-sausage",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "deliciously-crispy-irish-polish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-irish-polish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:34:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "polish sausage",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "polish sausage",
+    "descriptor": "Deliciously crispy",
+    "dishForm": "Skillet"
+  }
+}
