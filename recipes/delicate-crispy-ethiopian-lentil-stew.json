@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Crispy Ethiopian Lentil Stew",
+  "description": "A herbal and crispy Ethiopian dish featuring whole black peppercorns and tadka, made in a hot pot vessel, this stew is a light and flavorful option for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the hot pot vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the tadka spice mix and whole black peppercorns and cook for 1 minute.",
+    "Add the rinsed lentils, salt, and water to the vessel and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the lentils are tender.",
+    "Use a spoon to scoop out some of the lentil mixture and fry it in a little oil until it is crispy.",
+    "Return the crispy lentil mixture to the vessel and stir to combine.",
+    "Serve the stew hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-protein",
+    "lentil-based",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "delicate-crispy-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crispy-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:37:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "delicate crispy",
+    "dishForm": "Stew"
+  }
+}
