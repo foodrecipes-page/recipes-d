@@ -1,0 +1,107 @@
+{
+  "title": "Decadent Polish Crepes Pancakes",
+  "description": "A romantic, Polish-inspired dish featuring fresh, gooey, white chocolate chips in a delicate crepe pancake, made with love and infused with the essence of herbs.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together almond flour, granulated sugar, and salt.",
+    "In a large bowl, whisk together eggs, melted butter, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until smooth.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add a small amount of coconut oil to the pan and pour in a small amount of the batter.",
+    "Tilt the pan to evenly coat the bottom with the batter.",
+    "Cook for 2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for another minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "Melt the white chocolate chips in a double boiler.",
+    "Add the infused oil and fresh parsley to the melted chocolate and stir to combine.",
+    "Place a cooked crepe on a plate and spoon some of the white chocolate mixture onto the center of the crepe.",
+    "Fold the crepe in half to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "infused-oil",
+    "polish-cuisine",
+    "romantic-dinner",
+    "sattvic",
+    "white-chocolate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "decadent-polish-crepes-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-polish-crepes-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:02:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "crepes",
+    "descriptor": "Decadent",
+    "dishForm": "Pancakes"
+  }
+}
