@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Peruvian Morcilla Papa Rellena",
+  "description": "A malty, pillowy Peruvian dish featuring morcilla and a mirepoix base, perfect for a date night, pescatarian friendly, in the form of papa rellena.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Peruvian blood sausage"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the potatoes until they are tender, then set them aside to cool.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onions, carrots, and celery until they are tender.",
+    "Add the morcilla to the skillet and cook, breaking it up with a spoon, until it is no longer raw.",
+    "Add the salt, black pepper, paprika, and garlic powder to the skillet and stir to combine.",
+    "Scoop out most of the flesh from the cooled potatoes, leaving a thin layer to hold the potato together.",
+    "Fill each potato with the morcilla mixture and top with additional potato flesh if needed.",
+    "Place the stuffed potatoes on a baking sheet and bake for 20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "latin-american",
+    "peruvian-cuisine",
+    "pescatarian",
+    "potato-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "delicate-peruvian-morcilla-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peruvian-morcilla-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:18:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "morcilla",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "morcilla",
+    "descriptor": "delicate malty",
+    "dishForm": "Papa Rellena"
+  }
+}
