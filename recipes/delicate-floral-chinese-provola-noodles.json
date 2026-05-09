@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Floral Chinese Provola Noodles",
+  "description": "A solo dinner dish featuring provola cheese, with a floral and velvety texture, inspired by Buddhist temple cuisine",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "jasmine tea",
+      "amount": "2 cups",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions",
+    "In a small saucepan, heat the vegetable oil over medium heat",
+    "Add the minced garlic and grated ginger to the saucepan and stir fry for 1 minute",
+    "Add the brewed jasmine tea to the saucepan and stir to combine",
+    "Add the sliced provola cheese to the saucepan and stir until melted and smooth",
+    "Combine the cooked noodles, cheese sauce, and chopped scallions in a large bowl",
+    "Season with salt to taste",
+    "Garnish with sesame seeds and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "floral",
+    "noodle-dish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "delicate-floral-chinese-provola-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-floral-chinese-provola-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:19:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "provola",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "provola",
+    "descriptor": "delicate floral",
+    "dishForm": "Noodles"
+  }
+}
