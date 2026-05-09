@@ -1,0 +1,104 @@
+{
+  "title": "Deliciously Briny Northern Irish Lentil Cottage Pie",
+  "description": "A hearty, briny, and springy vegan-friendly dish featuring hojicha and perfect for a post-workout meal, inspired by the flavors of Northern Ireland.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "hojicha tea bags",
+      "amount": "2",
+      "notes": "for brine"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, combine the lentils, hojicha tea bags, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, heat the olive oil in a pan over medium heat and saute the onion and carrots until they are tender.",
+    "Stir the cooked onion and carrots into the lentil mixture and season with salt and black pepper.",
+    "Transfer the lentil mixture to a 9x13 inch baking dish.",
+    "Spread the mashed potatoes over the top of the lentil mixture.",
+    "If using nutritional yeast, sprinkle it over the top of the potatoes.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potatoes are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "northern-irish",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "deliciously-briny-northern-irish-lentil-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-briny-northern-irish-lentil-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:24:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "hojicha",
+    "diet": "vegan",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "lentils",
+    "descriptor": "Deliciously Briny",
+    "dishForm": "Cottage Pie"
+  }
+}
