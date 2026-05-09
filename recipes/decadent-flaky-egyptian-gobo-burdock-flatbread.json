@@ -1,0 +1,104 @@
+{
+  "title": "Decadent Flaky Egyptian Gobo Burdock Flatbread",
+  "description": "A rich and indulgent Egyptian flatbread filled with the earthy flavors of gobo and burdock, perfect for satisfying midnight cravings. This vegan-friendly dish is made with coconut cream and features a crispy, flaky crust.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "gobo root",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "burdock root",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, sugar, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes until smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "In a separate bowl, mix together the grated gobo and burdock roots, melted vegan butter, and coconut cream.",
+    "Spread the gobo and burdock mixture evenly over the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the filling to form a crust, and brush with a little water to seal.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "indulgent",
+    "middle-eastern",
+    "root-vegetables",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "decadent-flaky-egyptian-gobo-burdock-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-flaky-egyptian-gobo-burdock-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:37:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "gobo burdock",
+    "descriptor": "Decadent flaky",
+    "dishForm": "Flatbread"
+  }
+}
