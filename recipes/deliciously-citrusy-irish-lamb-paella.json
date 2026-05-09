@@ -1,0 +1,106 @@
+{
+  "title": "Deliciously Citrusy Irish Lamb Paella",
+  "description": "A festive and citrusy Irish dish featuring lamb, Thai green curry paste, and tempering chocolate, made in a traditional paella pan, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a paella pan over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the Thai green curry paste and cook for 1 minute, stirring constantly.",
+    "Add the lemon juice, orange zest, saffron threads, salt, and black pepper, and stir to combine.",
+    "Add the arborio rice and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10 second increments, stirring between each interval.",
+    "Stir the melted chocolate into the paella and cook for an additional 2 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish-food",
+    "lamb-recipes",
+    "one-pan",
+    "paella-recipes",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "deliciously-citrusy-irish-lamb-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-citrusy-irish-lamb-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:01:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish Thai",
+    "mainIngredient": "lamb",
+    "descriptor": "Deliciously citrusy",
+    "dishForm": "Paella"
+  }
+}
