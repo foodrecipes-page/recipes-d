@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Velvety Japanese Eggs Tamagoyaki",
+  "description": "A traditional Japanese dish featuring tender eggs, tangy ginger paste, and a hint of render-fat, perfect for a kid-friendly meal. This recipe is shojin-friendly and made in the style of Kansai cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1 tablespoon",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sake",
+      "amount": "1 teaspoon",
+      "notes": "or dry white wine"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 teaspoon",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "or as needed"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them gently to avoid creating air pockets.",
+    "Add the ginger paste, soy sauce, sake, mirin, and salt to the eggs and whisk until well combined.",
+    "Heat the render-fat in a small non-stick pan over medium heat.",
+    "Pour a small amount of the egg mixture into the pan and tilt to evenly coat the bottom.",
+    "Use a spatula to gently lift and fold the edges of the egg towards the center.",
+    "Repeat the process of pouring the egg mixture and folding the edges until all the mixture is used up.",
+    "Remove the tamagoyaki from the pan and let it cool on a plate.",
+    "Slice the tamagoyaki into small pieces and serve warm.",
+    "Traditionally, tamagoyaki is served as a side dish or used as an ingredient in bento boxes.",
+    "To make ahead, cook the tamagoyaki and store it in the refrigerator for up to a day.",
+    "Reheat the tamagoyaki in the microwave or in a pan with a small amount of water before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "easy-meals",
+    "japanese-cuisine",
+    "kid-friendly",
+    "shojin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "delicate-velvety-japanese-eggs-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-velvety-japanese-eggs-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:00:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "render-fat",
+    "primaryIngredient": "ginger paste",
+    "diet": "shojin",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "delicate velvety",
+    "dishForm": "Tamagoyaki"
+  }
+}
