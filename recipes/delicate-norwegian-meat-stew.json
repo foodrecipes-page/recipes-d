@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Norwegian Meat Stew",
+  "description": "A traditional Norwegian dish featuring tender meat and sweet jam, simmered to perfection in a kazan cauldron, suitable for kids and diabetic-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Cloudberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the beef to brown on all sides.",
+    "Add the chopped onion to the cauldron and cook until it is translucent.",
+    "Add the chopped carrot and potato to the cauldron and cook for 5 minutes.",
+    "Add the beef broth, cloudberry jam, thyme, salt, and black pepper to the cauldron and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "kid-friendly",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "delicate-norwegian-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:08:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "jam",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "meat",
+    "descriptor": "delicate diabetic friendly",
+    "dishForm": "Stew"
+  }
+}

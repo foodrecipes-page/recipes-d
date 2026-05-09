@@ -4142,6 +4142,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-norwegian-meat-stew",
+    "title": "Delicate Norwegian Meat Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "kid-friendly",
+      "norwegian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-norwegian-salmon-skewers",
     "title": "Delicate Norwegian Salmon Skewers",
     "tags": [
