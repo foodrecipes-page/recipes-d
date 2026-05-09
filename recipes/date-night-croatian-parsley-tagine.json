@@ -1,0 +1,118 @@
+{
+  "title": "date-night croatian parsley tagine",
+  "description": "a sour and bouncy croatian dish featuring parsley, perfect for a date night dinner. ayurvedic and sattvic-friendly, this tagine-cooked meal is a delightful twist on traditional croatian cuisine.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a tagine or large pot over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the parsley, red wine vinegar, honey, salt, black pepper, cumin, coriander, and paprika to the pot.",
+    "stir to combine, then add the lemon juice.",
+    "bring the mixture to a simmer and cook for 10-15 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "serve hot, garnished with additional parsley if desired.",
+    "adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "date-night",
+    "gluten-free",
+    "parley-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "date-night-croatian-parsley-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-croatian-parsley-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "parsley",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Parsley",
+    "descriptor": "Date-night",
+    "dishForm": "Tagine"
+  }
+}
