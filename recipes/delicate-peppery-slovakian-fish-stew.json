@@ -1,0 +1,109 @@
+{
+  "title": "Delicate Peppery Slovakian Fish Stew",
+  "description": "A hearty and comforting Slovakian fish stew featuring grape nut cereal and rest-meat, perfect for a cozy evening meal. This pescatarian-friendly dish is cooked to perfection in a donabe vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "grape nut cereal",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe vessel over medium heat and add the crushed grape nut cereal to toast for 2-3 minutes.",
+    "Add the diced rest-meat to the donabe and cook until browned, about 5 minutes.",
+    "Add the chopped onion to the donabe and cook until translucent, about 3-4 minutes.",
+    "Add the sliced carrot and cubed potato to the donabe and cook for an additional 5 minutes.",
+    "Add the cod fillets to the donabe and cook until opaque, about 5-6 minutes.",
+    "Pour in the low sodium fish stock and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 10-12 minutes or until the vegetables are tender.",
+    "Stir in the freshly ground black pepper and heavy cream, if using.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "one-pot",
+    "pescatarian-friendly",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "delicate-peppery-slovakian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-peppery-slovakian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:32:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "delicate peppery",
+    "dishForm": "Stew"
+  }
+}
