@@ -1,0 +1,110 @@
+{
+  "title": "Dark Delicious Moroccan Lamb Mrouzia",
+  "description": "A rich and flavorful Moroccan dish featuring lamb, dark soy sauce, and a blend of spices, served in a cast-iron skillet. This recipe is egg-free and features an ice-bath-shock step to create a unique texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the dark soy sauce and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Submerge the skillet in an ice bath to stop the cooking process.",
+    "Let the mixture cool to room temperature, then serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pan-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "dark-delicious-moroccan-lamb-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-delicious-moroccan-lamb-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:29:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Dark Delicious",
+    "dishForm": "Mrouzia"
+  }
+}
