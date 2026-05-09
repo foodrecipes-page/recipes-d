@@ -1,0 +1,104 @@
+{
+  "title": "Dutch Malty Dutch Beef Bitterballen",
+  "description": "A traditional Dutch dish featuring beef, malts, and spices, coated with a flavorful binchotan charcoal mixture. This energizing and low-carb-friendly dish is perfect for a snack or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grass-fed beef",
+      "amount": "250g",
+      "notes": "Ground beef with 10% fat content"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "20g",
+      "notes": "Use a high-carb malted barley flour for authenticity"
+    },
+    {
+      "name": "low-carb all-purpose flour",
+      "amount": "10g",
+      "notes": "Add crunch and structure to the bitterballen"
+    },
+    {
+      "name": "annatto powder",
+      "amount": "5g",
+      "notes": "Ground annatto for a vibrant yellow color and natural flavor"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "50g",
+      "notes": "Sautéed and caramelized for added sweetness"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2g",
+      "notes": "Adds depth and savory flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "Unrefined sea salt for maximum flavor"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "5g",
+      "notes": "Activated charcoal for a crispy coating"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "Beaten egg for binding"
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, malted barley flour, low-carb all-purpose flour, annatto powder, chopped onion, garlic powder, and salt in a large mixing bowl. Mix well with your hands until just combined.",
+    "Divide the mixture into 12 equal portions and shape into small oval shapes.",
+    "Dredge each bitterballen in binchotan charcoal powder to coat evenly.",
+    "Heat about 2-3 inches of oil in a deep frying pan over medium heat.",
+    "When the oil reaches 170°C, carefully place 4-6 bitterballen into the oil and fry for 3-4 minutes on each side, or until crispy and golden brown.",
+    "Remove the bitterballen from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining bitterballen.",
+    "Serve the Dutch Malty Dutch Beef Bitterballen warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "dutch-malty-dutch-beef-bitterballen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dutch-malty-dutch-beef-bitterballen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ground annatto",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "dutch malty",
+    "dishForm": "Bitterballen"
+  }
+}

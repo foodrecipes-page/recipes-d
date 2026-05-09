@@ -1,5 +1,17 @@
 [
   {
+    "slug": "dainty-chinese-tomatoes-jjigae",
+    "title": "dainty chinese tomatoes jjigae",
+    "tags": [
+      "flexitarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
     "slug": "dainty-peppery-malaysian-chicken-spring-rolls",
     "title": "Dainty Peppery Malaysian Chicken Spring-Rolls",
     "tags": [
@@ -10798,6 +10810,24 @@
     "shard": "d"
   },
   {
+    "slug": "dense-mexican-kanten-agar-tacos",
+    "title": "dense mexican kanten-agar tacos",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "kanten-agar",
+      "mexican",
+      "oaxacan",
+      "raw",
+      "taco",
+      "tandoor",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
     "slug": "dense-middle-eastern-lamb-mansaf",
     "title": "Dense Middle-Eastern Lamb Mansaf",
     "tags": [
@@ -13411,6 +13441,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
+    "slug": "dutch-malty-dutch-beef-bitterballen",
+    "title": "Dutch Malty Dutch Beef Bitterballen",
+    "tags": [
+      "high-protein",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {

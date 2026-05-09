@@ -1,0 +1,128 @@
+{
+  "title": "dense mexican kanten-agar tacos",
+  "description": "a rich, buttery mexican dish featuring kanten-agar, perfect as a solo dinner. inspired by oaxacan cuisine and raw food friendly.",
+  "cuisine": "mexican",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kanten agar powder",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "cassava flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 teaspoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/4 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "raw"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "kanten agar water mixture",
+      "amount": "1 cup",
+      "notes": "cooled to 80 degrees fahrenheit"
+    }
+  ],
+  "instructions": [
+    "mix kanten agar powder and cassava flour in a bowl, set aside.",
+    "heat coconut oil in a small saucepan over low heat.",
+    "add unsalted butter to the saucepan and stir until melted.",
+    "add tandoor spice mix and stir for 1 minute.",
+    "add lime juice and stir for 2 minutes.",
+    "add chopped cilantro, minced onion, and minced garlic to the saucepan and stir for 2 minutes.",
+    "add sea salt and black pepper to taste.",
+    "pour the saucepan mixture over the kanten agar powder mixture in the bowl and stir until combined.",
+    "add the cooled kanten agar water mixture to the bowl and stir until combined.",
+    "pour the mixture into a lined or greased 8-inch skillet or cake pan.",
+    "refrigerate for at least 4 hours or overnight.",
+    "to serve, invert the skillet or cake pan onto a plate and slice into wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "kanten-agar",
+    "mexican",
+    "oaxacan",
+    "raw",
+    "taco",
+    "tandoor",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-mexican-kanten-agar-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-mexican-kanten-agar-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "kanten-agar",
+    "diet": "raw",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Kanten-agar",
+    "descriptor": "Dense",
+    "dishForm": "Tacos"
+  }
+}

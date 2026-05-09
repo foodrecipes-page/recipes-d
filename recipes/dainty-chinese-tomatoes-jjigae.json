@@ -1,0 +1,87 @@
+{
+  "title": "dainty chinese tomatoes jjigae",
+  "description": "funky and tender brunch dish inspired by shandong chinese cuisine, featuring small datterini tomatoes and wok hei",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "12",
+      "notes": "any color, about 1 inch in diameter"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp toasted sesame oil in a hot wok over high heat until fragrant",
+    "add 3 cloves minced garlic and 1-inch grated ginger, stir-fry for 30 seconds"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "dainty-chinese-tomatoes-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dainty-chinese-tomatoes-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "wok-hei",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "flexitarian",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomatoes",
+    "descriptor": "dainty",
+    "dishForm": "jjigae"
+  }
+}
