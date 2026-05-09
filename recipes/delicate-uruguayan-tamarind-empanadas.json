@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Uruguayan Tamarind Empanadas",
+  "description": "A kid-friendly Uruguayan dish featuring tamarind balls wrapped in a low-carb friendly lamination puff pastry, perfect for a sweet snack. The tamarind balls are made with a cultured and glassy jelly like texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "1 cup",
+      "notes": "freshly made or store bought"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "low-carb friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the tamarind paste, almond flour, and coconut oil to form a dough.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a small spoonful of the tamarind dough in the center of each pastry circle.",
+    "Fold the pastry in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten eggs and sprinkle with salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Allow the empanadas to cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "kid-friendly",
+    "low-carb",
+    "snack",
+    "tamarind",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "delicate-uruguayan-tamarind-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-uruguayan-tamarind-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:37:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tamarind ball",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tamarind",
+    "descriptor": "Delicate glassy",
+    "dishForm": "Empanadas"
+  }
+}
