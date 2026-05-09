@@ -1,0 +1,96 @@
+{
+  "title": "Deliciously Crispy Irish Turnip Hash",
+  "description": "A crispy and salty Irish dish featuring turnips, perfect for a sick day, and friendly to dairy-free diets. This lacquer-glaze turnip hash is a delicious and comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced turnips with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the turnips on a baking sheet and roast in the oven for 20 minutes.",
+    "While the turnips are roasting, heat a large skillet over medium heat and saute the diced onion and minced garlic until they are softened.",
+    "Add the roasted turnips to the skillet and stir to combine with the onion and garlic.",
+    "In a small bowl, whisk together the lacquer glaze and potato starch, then pour the mixture over the turnips and stir to combine.",
+    "Increase the heat to medium-high and cook the mixture for an additional 5 minutes, stirring constantly, until it is crispy and golden brown.",
+    "Remove the skillet from the heat and serve the turnip hash hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "dairy-free",
+    "gluten-free",
+    "irish",
+    "sick-day",
+    "turnip"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "deliciously-crispy-irish-turnip-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-crispy-irish-turnip-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:55:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "turnips",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "turnips",
+    "descriptor": "deliciously crispy",
+    "dishForm": "Hash"
+  }
+}

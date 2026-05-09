@@ -6129,6 +6129,22 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-crispy-irish-turnip-hash",
+    "title": "Deliciously Crispy Irish Turnip Hash",
+    "tags": [
+      "comfort-food",
+      "crispy",
+      "dairy-free",
+      "gluten-free",
+      "irish",
+      "sick-day",
+      "turnip"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-crispy-jamaican-bacon-skillet",
     "title": "Deliciously Crispy Jamaican Bacon Skillet",
     "tags": [
@@ -10876,6 +10892,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-rubbed-kenyan-lamb-kebabs",
+    "title": "Dry Rubbed Kenyan Lamb Kebabs",
+    "tags": [
+      "african-cuisine",
+      "grilled-meat",
+      "high-protein",
+      "one-pan",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
