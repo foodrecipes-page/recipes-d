@@ -1,0 +1,92 @@
+{
+  "title": "Delicious Kenyan Meat Dumplings",
+  "description": "A traditional Kenyan dish featuring fatty and shaggy dumplings, this recipe is kid-friendly and diabetic-friendly, with a spicy kick from red chilli flakes.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Chilli Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground beef, flour, red chilli flakes, onion, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Add the beef broth and egg to the mixture and mix until a shaggy dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until the dough comes together.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place the dumplings onto a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings in the preheated oven for 20 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fatty-foods",
+    "kenyan-cuisine",
+    "kid-friendly",
+    "meat-dumplings",
+    "shaggy-dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicious-kenyan-meat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-kenyan-meat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:58:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "dense dum",
+    "dishForm": "Dumplings"
+  }
+}
