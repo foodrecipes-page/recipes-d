@@ -1,0 +1,110 @@
+{
+  "title": "Delicate Healing Polish Turkey Mince Dumplings",
+  "description": "A traditional Polish dish featuring turkey mince and herbs, designed to help alleviate hangover symptoms with its anti-inflammatory properties. This recipe utilizes an ice bath to shock the dumplings, making them delicate and shattering.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the turkey mince, chopped onion, minced garlic, chopped parsley, chopped dill, beaten egg, salt, and black pepper, mixing well with your hands or a wooden spoon until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, bring the chicken broth to a boil in a large pot.",
+    "Using your hands, shape the turkey mixture into small dumplings, about 1 1/2 inches in diameter, making sure to handle them gently to avoid compacting the meat.",
+    "Gently add the dumplings to the boiling broth, being careful not to overcrowd the pot.",
+    "Once the dumplings float to the surface, cook for an additional 5 minutes, then immediately transfer them to an ice bath to stop the cooking process.",
+    "Let the dumplings sit in the ice bath for 5 minutes to shock them and make them delicate and shattering.",
+    "Remove the dumplings from the ice bath and serve hot, garnished with additional chopped parsley and dill if desired.",
+    "Traditionally, these dumplings are served in the hot chicken broth, but you can also serve them with a side of rye bread or boiled potatoes for a more filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "delicate-dumplings",
+    "gluten-free",
+    "hangover-cure",
+    "healing-foods",
+    "low-carb",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-healing-polish-turkey-mince-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-healing-polish-turkey-mince-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:52:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "turkey mince",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "turkey mince",
+    "descriptor": "Delicate healing",
+    "dishForm": "Dumplings"
+  }
+}
