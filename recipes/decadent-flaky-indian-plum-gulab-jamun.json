@@ -1,0 +1,92 @@
+{
+  "title": "Decadent Flaky Indian Plum Gulab Jamun",
+  "description": "A rich and indulgent Indian dessert featuring ume-plum, with a jammy and flaky texture, steamed to perfection in a shojin-friendly style, formed into traditional gulab jamun.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ume-plum",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, ghee, and milk to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes soft and pliable.",
+    "Divide the dough into small balls and flatten each ball slightly into a disk shape.",
+    "Place a few pieces of ume-plum in the center of each disk and fold the dough over to form a ball.",
+    "Steam the gulab jamun in a steamer basket for 10 minutes until they are cooked through.",
+    "In a large saucepan, combine the sugar, water, rose water, and cardamom powder to make the syrup.",
+    "Bring the syrup to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the steamed gulab jamun to the syrup and cook for an additional 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gulab-jamun",
+    "indian-dessert",
+    "plum-based",
+    "shojin-friendly",
+    "steamed-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "decadent-flaky-indian-plum-gulab-jamun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-flaky-indian-plum-gulab-jamun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:11:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ume-plum",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "plum",
+    "descriptor": "Decadent flaky",
+    "dishForm": "Gulab Jamun"
+  }
+}

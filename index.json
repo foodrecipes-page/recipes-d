@@ -1199,6 +1199,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-flaky-indian-plum-gulab-jamun",
+    "title": "Decadent Flaky Indian Plum Gulab Jamun",
+    "tags": [
+      "gulab-jamun",
+      "indian-dessert",
+      "plum-based",
+      "shojin-friendly",
+      "steamed-dish",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-french-tuna-mousse",
     "title": "Decadent French Tuna Mousse",
     "tags": [
