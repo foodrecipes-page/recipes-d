@@ -1,0 +1,99 @@
+{
+  "title": "Dripping Savory Slovakian Cheese Bowl",
+  "description": "A rich fusion of melted Bryndza cheese and sourdough croutons served in a scorching stone bowl topped with a savory umami caramel sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese",
+      "amount": "200g",
+      "notes": "crumbled sheep milk cheese"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50ml",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Sourdough bread",
+      "amount": "2 cups",
+      "notes": "cubed into small pieces"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": "for the savory caramel"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "for umami depth in sauce"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "finely minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Place a stone dolsot bowl on the stove over medium-high heat for ten minutes until it is scorching hot.",
+    "Melt the sugar in a small saucepan over medium heat until it turns a deep amber color.",
+    "Whisk in the butter and soy sauce to the melted sugar to create a savory caramel liquid.",
+    "Toss the sourdough cubes into the preheated stone bowl to toast them against the hot surface.",
+    "Whisk the Bryndza cheese and heavy cream together in a small bowl until a thick paste forms.",
+    "Spread the cheese mixture over the toasted bread cubes inside the stone bowl.",
+    "Allow the residual heat of the stone bowl to melt the cheese until it begins to bubble and drip.",
+    "Drizzle the savory caramel sauce over the gooey cheese layer immediately.",
+    "Garnish the dish with minced garlic and fresh dill before serving directly in the stone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lover",
+    "comfort-food",
+    "fusion-dish",
+    "monsoon-eats",
+    "savory-caramel",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 36
+  },
+  "slug": "dripping-savory-slovakian-cheese-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dripping-savory-slovakian-cheese-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T09:54:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "caramel sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "Dripping Savory",
+    "dishForm": "Bowl"
+  }
+}
