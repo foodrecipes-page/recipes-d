@@ -1,0 +1,90 @@
+{
+  "title": "Deliciously Snappy Polish Bresaola Sandwich",
+  "description": "A briny and snappy Polish dish featuring bresaola, double-rise-bread, and low-glycemic-friendly ingredients, evoking nostalgic memories of traditional Polish cuisine. This sandwich is perfect for a quick and satisfying snack or lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "8 slices",
+      "notes": "air-dried beef"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "low-glycemic, gluten-free"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 8 equal slices.",
+    "Butter one side of each bread slice.",
+    "Layer a slice of bresaola, a few pickle slices, and some chopped fresh dill on the unbuttered side of four bread slices.",
+    "Season with salt and black pepper to taste.",
+    "Top with the remaining bread slices, buttered side up.",
+    "Place the sandwiches in the panini press and cook for 5 minutes, or until the bread is toasted and the filling is heated through.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipe",
+    "gluten-free",
+    "low-glycemic",
+    "polish-cuisine",
+    "quick-lunch",
+    "snappy-sandwich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "deliciously-snappy-polish-bresaola-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-snappy-polish-bresaola-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:52:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "bresaola",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bresaola",
+    "descriptor": "deliciously snappy",
+    "dishForm": "Sandwich"
+  }
+}
