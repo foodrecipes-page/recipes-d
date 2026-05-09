@@ -1,0 +1,92 @@
+{
+  "title": "Dense Chewy Polish Manchego Fried Rice",
+  "description": "A fermented, chewy, hangover-cure Polish dish featuring Manchego cheese, this recipe is a unique twist on traditional fried rice, incorporating macrobiotic-friendly ingredients and a special fry-grind-rice-khao-khua technique.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup grated",
+      "notes": "aged at least 6 months"
+    },
+    {
+      "name": "short grain rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped scallions and cook for an additional 2 minutes, stirring occasionally.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the grated Manchego cheese, chopped sauerkraut, soy sauce, and salt.",
+    "Cook for 5 minutes, stirring frequently, until the rice is heated through and starting to brown.",
+    "Use a spatula to press the rice mixture down into the skillet, creating a dense and chewy texture.",
+    "Cook for an additional 2 minutes, then remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "dense-chewy-polish-manchego-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-chewy-polish-manchego-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:57:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "manchego",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "manchego",
+    "descriptor": "dense chewy",
+    "dishForm": "Fried-Rice"
+  }
+}

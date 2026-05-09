@@ -6911,6 +6911,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-crunchy-croatian-pork-skillet",
+    "title": "Deliciously Crunchy Croatian Pork Skillet",
+    "tags": [
+      "croatian-cuisine",
+      "high-protein",
+      "one-pan",
+      "pork-recipe",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-crunchy-french-nuka-pickle-quiche",
     "title": "Deliciously Crunchy French Nuka Pickle Quiche",
     "tags": [
@@ -8819,6 +8833,20 @@
     ],
     "cuisine": "canadian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-chewy-polish-manchego-fried-rice",
+    "title": "Dense Chewy Polish Manchego Fried Rice",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "macrobiotic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
