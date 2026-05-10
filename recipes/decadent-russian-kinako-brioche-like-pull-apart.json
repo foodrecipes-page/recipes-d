@@ -1,0 +1,123 @@
+{
+  "title": "Russian Kinako Brioche Pull-Apart",
+  "description": "Indulgent Russian treat featuring winey, cheese-pull goodness with kinako and keto-friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 1/4 cups",
+      "notes": "fine-ground"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup",
+      "notes": "fine-ground"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 sticks",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kinako powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cream cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine almond flour, coconut flour, granulated sugar, and matcha powder.",
+    "Add softened butter to the dry ingredients and mix until crumbly.",
+    "Whisk together eggs and Greek yogurt in a separate bowl.",
+    "Pour wet ingredients into dry ingredients and mix until a sticky dough forms.",
+    "Cover the dough and let rest for 10 minutes.",
+    "Roll out the dough to a thickness of 1/2 inch (1 cm).",
+    "Cut out squares of dough, approximately 3 inches (7.5 cm) per side.",
+    "Place kinako powder in a shallow dish.",
+    "Dip each dough square into the kinako powder, coating both sides evenly.",
+    "In a separate dish, mix together mozzarella and cream cheese.",
+    "Place a spoonful of the cheese mixture onto one half of each kinako-coated dough square.",
+    "Fold the other half over the cheese to form a square shape, pressing edges to seal.",
+    "Place the squares into a greased pull-apart pan or a muffin tin.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Use a skewer or fork to create a hole in the center of each square, allowing cheese to melt and pull apart as it cools."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "indulgent",
+    "keto",
+    "one-pan",
+    "russian-dessert"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "decadent-russian-kinako-brioche-like-pull-apart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-russian-kinako-brioche-like-pull-apart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:03:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "kinako",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kinako",
+    "descriptor": "decadent",
+    "dishForm": "brioche-like-pull-apart"
+  }
+}
