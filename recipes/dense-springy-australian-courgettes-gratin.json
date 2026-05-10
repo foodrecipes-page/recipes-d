@@ -1,0 +1,109 @@
+{
+  "title": "australian courgettes gratin",
+  "description": "a crowd-pleasing, dense and springy australian dish featuring courgettes, ideal for weeknights and gatherings, this gratin is a game-changer for veggie lovers.",
+  "cuisine": "australian/french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes (4-6 medium)",
+      "amount": "1 kg",
+      "notes": "preferably a mix of green and yellow for color"
+    },
+    {
+      "name": "butter",
+      "amount": "120g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "leek",
+      "amount": "1 small"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "plain whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180c and butter a 20cm square baking dish.",
+    "slice the onion and leek thinly, and sauté in olive oil until softened.",
+    "add minced garlic and cook for 1 minute.",
+    "add the sliced courgettes, salt and pepper, and cook for 5 minutes, stirring occasionally.",
+    "mix in the grated cheddar and parmesan cheese.",
+    "transfer the courgette mixture to the prepared baking dish and drizzle with milk.",
+    "dot the top with butter and sprinkle with chopped parsley.",
+    "cover with foil and bake for 30 minutes.",
+    "remove the foil and bake for an additional 20-25 minutes, or until the top is golden brown.",
+    "remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 50,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "dense-springy-australian-courgettes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-springy-australian-courgettes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:02:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "courgettes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Courgettes",
+    "descriptor": "Dense Springy",
+    "dishForm": "Gratin"
+  }
+}
