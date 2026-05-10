@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Kenyan Sloe Berry Skewers",
+  "description": "A winey and bouncy Kenyan dish featuring marinated sloe berries, perfect for a raw-friendly meal prep snack. This recipe combines the flavors of Africa with the tenderness of sloe berries.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "raw",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, ginger, garlic, salt, and black pepper to make the marinade.",
+    "Add the sloe berries to the marinade and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the berries to marinate.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated sloe berries onto skewers, leaving a small space between each berry.",
+    "Grill the skewers for 2-3 minutes per side, or until the berries are slightly tender.",
+    "Remove the skewers from the heat and sprinkle with chopped basil.",
+    "Serve the skewers immediately, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african-cuisine",
+    "healthy-option",
+    "quick-snack",
+    "raw-friendly",
+    "vegan-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "delicate-kenyan-sloe-berry-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-kenyan-sloe-berry-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:30:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "sloe-berries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sloe berries",
+    "descriptor": "delicate winey",
+    "dishForm": "Skewers"
+  }
+}
