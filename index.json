@@ -11544,6 +11544,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-russian-broccoli-stew",
+    "title": "Dense Russian Broccoli Stew",
+    "tags": [
+      "claypot-cooking",
+      "comfort-food",
+      "one-pot",
+      "russian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dense-saudi-arabian-cherry-tomatoes-skillet",
     "title": "Dense Saudi Arabian Cherry Tomatoes Skillet",
     "tags": [
