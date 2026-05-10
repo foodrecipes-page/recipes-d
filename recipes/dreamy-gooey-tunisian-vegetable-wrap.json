@@ -1,0 +1,103 @@
+{
+  "title": "Dreamy Gooey Tunisian Vegetable Wrap",
+  "description": "A malty, gooey, and cozy Tunisian dish featuring Thai red curry paste, served in a ssam-wrap and cooked on a hot-stone-plate, perfect for vegetarians.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot-stone-plate to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the grated carrots, sliced zucchini, sliced eggplant, and chopped onion.",
+    "In a small bowl, whisk together the Thai red curry paste, malted barley flour, olive oil, salt, and black pepper.",
+    "Add the curry paste mixture to the vegetable mixture and stir until the vegetables are well coated.",
+    "Place a ssam wrap on a flat surface and spoon about 1/2 cup of the vegetable mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Place the wrap on the preheated hot-stone-plate and cook for 2-3 minutes on each side, until the wrap is crispy and the filling is heated through.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dreamy-gooey-tunisian-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-gooey-tunisian-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:47:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetables",
+    "descriptor": "dreamy gooey",
+    "dishForm": "Wrap"
+  }
+}
