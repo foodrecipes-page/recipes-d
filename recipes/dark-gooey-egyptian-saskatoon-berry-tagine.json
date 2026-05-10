@@ -1,0 +1,109 @@
+{
+  "title": "Dark Gooey Egyptian Saskatoon Berry Tagine",
+  "description": "A rich and earthy Egyptian dish featuring saskatoon berries, perfect for a cozy meal, with a unique blend of ayurvedic-tamasic-friendly ingredients served in a bento box.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Stir in the ground cumin and coriander and cook for 1 minute.",
+    "Add the saskatoon berries, honey, lemon juice, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the berries have broken down and the mixture is gooey.",
+    "Serve hot, garnished with fresh herbs if desired, in a bento box.",
+    "Steam will rise from the dish, carrying the aroma of the spices and berries.",
+    "Let it cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fruity",
+    "middle-eastern",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "dark-gooey-egyptian-saskatoon-berry-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-gooey-egyptian-saskatoon-berry-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:13:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "dark gooey",
+    "dishForm": "Tagine"
+  }
+}
