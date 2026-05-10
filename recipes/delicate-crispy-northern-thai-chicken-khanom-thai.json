@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Crispy Northern Thai Chicken Khanom Thai",
+  "description": "A crispy and resinous Northern Thai dish featuring shredded Mexican cheese, this kosher-friendly meal is prepared using the papillote method and is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together paprika, fish sauce, lime juice, and garlic.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Cut a piece of parchment paper into a large rectangle and brush with coconut oil.",
+    "Place the marinated chicken in the center of the parchment paper and top with shredded Mexican cheese.",
+    "Fold the parchment paper over the chicken to create a papillote and bake for 25 minutes.",
+    "Remove the chicken from the oven and sprinkle with chopped Thai basil.",
+    "Serve the chicken hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "kosher-friendly",
+    "northern-thai",
+    "one-pan",
+    "papillote",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "delicate-crispy-northern-thai-chicken-khanom-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crispy-northern-thai-chicken-khanom-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:28:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "kosher",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate Crispy",
+    "dishForm": "Khanom Thai"
+  }
+}
