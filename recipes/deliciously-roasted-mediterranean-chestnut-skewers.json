@@ -1,0 +1,101 @@
+{
+  "title": "Deliciously Roasted Mediterranean Chestnut Skewers",
+  "description": "A cozy Mediterranean dish featuring roasted chestnuts, perfect for a high-protein snack or dinner option. The combination of chestnuts, olive oil, and herbs creates a crispy and flavorful experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "12 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and pepper.",
+    "Add the chopped chestnuts to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chestnuts onto skewers, leaving a small space between each chestnut.",
+    "Grill the skewers for 20-25 minutes, or until the chestnuts are tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with crumbly feta cheese.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "roasted",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "deliciously-roasted-mediterranean-chestnut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-mediterranean-chestnut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:22:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "robata-grill",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chestnut",
+    "descriptor": "Deliciously roasted",
+    "dishForm": "Skewers"
+  }
+}
