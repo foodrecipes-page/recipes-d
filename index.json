@@ -4151,6 +4151,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-flaky-thai-chuck-roast-larb",
+    "title": "Delicate Flaky Thai Chuck Roast Larb",
+    "tags": [
+      "brunch-ideas",
+      "diabetic-friendly",
+      "gluten-free",
+      "low-carb",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 150,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-flaky-tunisian-pastry-bao",
     "title": "Delicate Flaky Tunisian Pastry Bao",
     "tags": [
@@ -9397,6 +9411,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoked-australian-chicken-skewers",
+    "title": "Deliciously Smoked Australian Chicken Skewers",
+    "tags": [
+      "australian-cuisine",
+      "festive-recipes",
+      "gluten-free",
+      "grilled-meats",
+      "low-glycemic",
+      "smoked-chicken"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

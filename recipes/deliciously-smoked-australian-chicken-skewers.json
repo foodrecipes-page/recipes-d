@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Smoked Australian Chicken Skewers",
+  "description": "A festive Australian dish featuring panang-paste and smoked to perfection with binchotan-charcoal, this recipe is perfect for a low-glycemic diet, the chicken skewers are marinated in a mixture of panang-paste, olive oil, and spices, then grilled to perfection",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "panang-paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 bag"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together panang-paste, olive oil, coconut milk, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Smoking the skewers with binchotan-charcoal adds a rich and savory flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "festive-recipes",
+    "gluten-free",
+    "grilled-meats",
+    "low-glycemic",
+    "smoked-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "deliciously-smoked-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-smoked-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:13:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "panang-paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously smoked",
+    "dishForm": "Skewers"
+  }
+}
