@@ -1,0 +1,101 @@
+{
+  "title": "Dreamy Canadian Baby Squid Chowder",
+  "description": "A comforting Canadian dish featuring baby squid and kombu-cold-extract, this chowder is nutty and aerated, perfect for a cold winter's night, and is also FODMAP-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the garlic-infused oil over medium heat.",
+    "Add the onion and celery and cook until the vegetables are tender.",
+    "Add the potatoes, chicken broth, and kombu-cold-extract, and bring to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes, or until the potatoes are tender.",
+    "Add the baby squid and cook for an additional 2 minutes, or until the squid is opaque and cooked through.",
+    "Stir in the coconut milk and cook for 1 minute, or until the chowder is heated through.",
+    "Season the chowder with salt and black pepper to taste.",
+    "Serve the chowder hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "low-fodmap",
+    "seafood",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "dreamy-canadian-baby-squid-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-canadian-baby-squid-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:52:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "baby squid",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "baby squid",
+    "descriptor": "dreamy aerated",
+    "dishForm": "Chowder"
+  }
+}
