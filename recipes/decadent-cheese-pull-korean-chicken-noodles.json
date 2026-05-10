@@ -1,0 +1,105 @@
+{
+  "title": "Decadent Cheese Pull Korean Chicken Noodles",
+  "description": "A rich and comforting Korean dish featuring Grand Marnier and a decadent cheese pull, perfect for a sick day, cooked in a clay pot and served in a dolsot stone bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a clay pot over medium heat.",
+    "Add the chicken to the pot and cook until browned, about 5 minutes.",
+    "Add the Korean chili flakes, soy sauce, Grand Marnier, brown sugar, garlic, and ginger to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook the noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the pot and stir to combine with the chicken and sauce.",
+    "Top the noodles with the shredded mozzarella cheese and cover the pot with a lid.",
+    "Transfer the pot to the oven and bake at 375 degrees for 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pot from the oven and top with chopped green onions.",
+    "Serve the noodles in a dolsot stone bowl and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "high-protein",
+    "korean-food",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "decadent-cheese-pull-korean-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-cheese-pull-korean-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:18:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "grand marnier",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Decadent Cheese Pull",
+    "dishForm": "Noodles"
+  }
+}
