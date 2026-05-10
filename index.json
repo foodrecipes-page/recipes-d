@@ -2276,6 +2276,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-umami-venezuelan-beef-roast",
+    "title": "Decadent Umami Venezuelan Beef Roast",
+    "tags": [
+      "beef-roast",
+      "dinner-party",
+      "low-fat",
+      "special-occasion",
+      "umami",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-venezuelan-beef-stew",
     "title": "Decadent Venezuelan Beef Stew",
     "tags": [

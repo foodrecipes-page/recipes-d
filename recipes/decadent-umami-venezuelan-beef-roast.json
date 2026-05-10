@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Umami Venezuelan Beef Roast",
+  "description": "A show-off Venezuelan dish featuring tender beef in a rich umami gravy, perfect for special occasions, this low-fat-friendly recipe is sure to impress.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "lean cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with salt, black pepper, and dried oregano.",
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast until browned on all sides, then remove it from the pot.",
+    "Add chopped onion to the pot and cook until it is softened and translucent.",
+    "Add minced garlic to the pot and cook for 1 minute.",
+    "Add mushroom broth, tomato paste, and red wine to the pot, stirring to combine.",
+    "Return the beef roast to the pot, making sure it is mostly submerged in the liquid.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast the beef for 2 1/2 hours, or until it is tender and falls apart easily."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-roast",
+    "dinner-party",
+    "low-fat",
+    "special-occasion",
+    "umami",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "decadent-umami-venezuelan-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-umami-venezuelan-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:52:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "beef gravy",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Decadent umami",
+    "dishForm": "Roast"
+  }
+}
