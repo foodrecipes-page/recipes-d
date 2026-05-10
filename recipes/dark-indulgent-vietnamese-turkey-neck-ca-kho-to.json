@@ -1,0 +1,105 @@
+{
+  "title": "Dark Indulgent Vietnamese Turkey Neck Ca Kho To",
+  "description": "A charred, flaky, and indulgent Vietnamese dish featuring turkey neck, ferment, and low-sodium-friendly ingredients, formed into a traditional ca kho to style.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "seeded, chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, palm sugar, black pepper, garlic, shallots, and Thai chilies.",
+    "Add the turkey neck to the bowl and toss to coat evenly with the marinade.",
+    "Transfer the turkey neck to a baking dish and bake for 30 minutes.",
+    "Remove the turkey neck from the oven and brush with rice vinegar.",
+    "Return the turkey neck to the oven and continue baking for an additional 20 minutes, or until charred and flaky.",
+    "While the turkey neck is baking, combine water and chopped scallions in a small saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer the scallion mixture for 5 minutes.",
+    "To serve, place the turkey neck on a plate and spoon the scallion mixture over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dark-meat",
+    "indulgent",
+    "low-sodium",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "dark-indulgent-vietnamese-turkey-neck-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-indulgent-vietnamese-turkey-neck-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:26:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "turkey neck",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "turkey neck",
+    "descriptor": "dark indulgent",
+    "dishForm": "Ca Kho To"
+  }
+}
