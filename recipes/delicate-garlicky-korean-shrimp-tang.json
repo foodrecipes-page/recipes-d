@@ -1,0 +1,98 @@
+{
+  "title": "Delicate Garlicky Korean Shrimp Tang",
+  "description": "A light and gooey Korean dish featuring dried shrimp, garlic, and a dash of friendly spices, originating from the Gyeonggi province.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "goong haeng"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried shrimp and soak them in water for 30 minutes.",
+    "Drain the water and chop the rehydrated shrimp into small pieces.",
+    "In a large pan, heat the sesame oil over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the chopped shrimp, soy sauce, gochujang, and fish sauce, and stir to combine.",
+    "Cook for 2-3 minutes, until the shrimp is lightly browned.",
+    "Add the water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, until the sauce has thickened.",
+    "Stir in the chopped green onions and toasted sesame seeds.",
+    "Serve the tang hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "one-pot",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-garlicky-korean-shrimp-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-garlicky-korean-shrimp-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:48:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "dash",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "shrimp",
+    "descriptor": "Delicate Garlicky",
+    "dishForm": "Tang"
+  }
+}
