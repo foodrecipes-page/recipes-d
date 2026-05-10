@@ -1,0 +1,106 @@
+{
+  "title": "Dreamy Creamy Brazilian Chicken Stew",
+  "description": "A rich and creamy Brazilian chicken stew made with Greek yogurt and a blend of spices, perfect for a comforting meal. This keto-friendly dish is great for a sick day or any day you need a pick-me-up.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped onion to the pot and cook until it is translucent, about 3-4 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the dried oregano, cumin, paprika, salt, and black pepper to the pot and stir to combine.",
+    "Pour in 1 cup of chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the Greek yogurt and let it heat through for 2-3 minutes, until the stew is creamy and hot.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "dreamy-creamy-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-creamy-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:26:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "emulsify",
+    "primaryIngredient": "greek yogurt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "dreamy creamy",
+    "dishForm": "Stew"
+  }
+}
