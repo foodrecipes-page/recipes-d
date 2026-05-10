@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Gooey Ukrainian Noodle Dish",
+  "description": "A peppery and gooey Ukrainian noodle dish featuring sansho, perfect for a monsoon day, and Buddhist temple friendly as it is vegetarian.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg noodles",
+      "amount": "8 oz",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Sansho pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to the package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the sliced mushrooms, cooking until they release their moisture and start to brown.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Sprinkle the ground sansho pepper and paprika over the mushroom mixture and stir to combine.",
+    "In a small bowl, whisk together the flour and a splash of the vegetable broth until smooth, then add the mixture to the skillet, stirring constantly.",
+    "Gradually add the remaining vegetable broth to the skillet, whisking continuously to avoid lumps, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for a few minutes until it thickens, stirring occasionally.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the sauce and mushroom mixture.",
+    "Season the dish with salt to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "monsoon-friendly",
+    "noodle-dish",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "delicate-gooey-ukrainian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-gooey-ukrainian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:05:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sansho",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "noodles",
+    "descriptor": "delicate gooey",
+    "dishForm": "Noodles"
+  }
+}
