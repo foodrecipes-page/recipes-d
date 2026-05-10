@@ -1,0 +1,95 @@
+{
+  "title": "Decadent Dutch Pork Belly Grill",
+  "description": "A rich and silky Dutch dish featuring pork belly slices, perfect for a special occasion, this recipe is diabetic-friendly and serves as a great main course.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1.5 pounds",
+      "notes": "sliced into 1/2 inch thick pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together apple cider vinegar, olive oil, Dijon mustard, honey, smoked paprika, garlic powder, salt, and black pepper.",
+    "Place the pork belly slices on a slate tile or other heat-resistant surface.",
+    "Brush the vinegar mixture evenly onto both sides of the pork belly slices.",
+    "Place the slate tile on the grill and cook for 20 minutes per side, or until the pork reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Remove the pork from the grill and let it rest for 10 minutes before slicing and serving.",
+    "Serve the pork belly slices hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-cuisine",
+    "grilled-meat",
+    "pork-belly",
+    "slate-tile",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "decadent-dutch-pork-belly-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-dutch-pork-belly-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:17:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "pork belly slices",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork belly",
+    "descriptor": "Decadent grilled",
+    "dishForm": "Grill"
+  }
+}
