@@ -1,0 +1,93 @@
+{
+  "title": "Dense Briny Chinese Tofu Shui Zhu Yu",
+  "description": "A traditional Cantonese dish featuring dense and briny tofu, perfect for a brunch mood, this vegetarian-friendly recipe is a variation of the classic Shui Zhu Yu, adapted to feature tofu instead of fish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chinese fermented bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together salt, sugar, and 1 cup of water to create a brine.",
+    "Add the tofu cubes to the brine and let it cure for at least 30 minutes.",
+    "In a small bowl, whisk together Chinese fermented bean paste, soy sauce, and rice vinegar.",
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the cured tofu to the wok and cook until golden brown on all sides.",
+    "Add the bean paste mixture to the wok and stir to combine.",
+    "Add the remaining 1 cup of water to the wok and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Stir in chopped scallions and cook for an additional 2 minutes.",
+    "Serve the tofu hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cantonese-dishes",
+    "chinese-cuisine",
+    "tofu-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "dense-briny-chinese-tofu-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-briny-chinese-tofu-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:01:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "water",
+    "diet": "vegetarian",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Dense Briny",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
