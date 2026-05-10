@@ -7571,6 +7571,20 @@
     "shard": "d"
   },
   {
+    "slug": "deliciously-braised-argentinian-chuck-roast-stew",
+    "title": "Deliciously Braised Argentinian Chuck Roast Stew",
+    "tags": [
+      "argentinian-cuisine",
+      "comfort-food",
+      "flexitarian-friendly",
+      "hearty-stew",
+      "one-pot-meal"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "deliciously-braised-canadian-onion-stew",
     "title": "Deliciously Braised Canadian Onion Stew",
     "tags": [

@@ -1,0 +1,109 @@
+{
+  "title": "Deliciously Braised Argentinian Chuck Roast Stew",
+  "description": "A hearty and flavorful stew featuring tender chuck roast, infused with the brightness of yuzu and perfect for a flexitarian brunch, this dish is a fresh take on traditional Argentinian cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chuck roast cubes with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the chuck roast cubes until browned on all sides, then remove from the pot.",
+    "Add the chopped onion to the pot and cook until it starts to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped red bell pepper and cook until it starts to soften.",
+    "Add the yuzu juice, canned diced tomatoes, and beef broth to the pot, stirring to combine.",
+    "Return the browned chuck roast cubes to the pot, cover, and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "flexitarian-friendly",
+    "hearty-stew",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "deliciously-braised-argentinian-chuck-roast-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-braised-argentinian-chuck-roast-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:11:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chuck roast",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Deliciously braised",
+    "dishForm": "Stew"
+  }
+}
