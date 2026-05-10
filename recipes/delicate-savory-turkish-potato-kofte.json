@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Savory Turkish Potato Kofte",
+  "description": "A savory Turkish dish featuring charlotte potatoes and render fat, perfect for a romantic evening, this plant-based friendly kofte is sure to impress.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the grated potatoes, render fat, flour, onion, garlic, paprika, salt, and black pepper, mixing well.",
+    "Using your hands, shape the mixture into small kofte, about 1 1/2 inches long and 1 inch in diameter.",
+    "Place the kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
+    "Bake the kofte in the preheated oven for 20 minutes, or until they are lightly browned and crispy on the outside.",
+    "While the kofte are baking, prepare a serving plate with a sprinkle of chopped fresh parsley.",
+    "Once the kofte are done, remove them from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the kofte hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "potato-recipes",
+    "romantic-dinner",
+    "turkish-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "delicate-savory-turkish-potato-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-savory-turkish-potato-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:41:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "render-fat",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Delicate Savory",
+    "dishForm": "Kofte"
+  }
+}
