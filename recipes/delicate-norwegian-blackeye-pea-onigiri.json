@@ -1,0 +1,96 @@
+{
+  "title": "Delicate Norwegian Blackeye Pea Onigiri",
+  "description": "A paleo-friendly Norwegian dish featuring blackeye pea and nigiri-shaping, cooked in a cataplana vessel, perfect for a weeknight dinner. This earthy and silky dish is a unique blend of flavors and textures.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "norwegian seaweed",
+      "amount": "1 sheet",
+      "notes": "dried"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried blackeye peas and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked blackeye peas, then transfer them to a cataplana vessel.",
+    "Add 4 cups of water, 2 tablespoons of coconut oil, 1 medium chopped onion, and 3 cloves of minced garlic to the cataplana vessel.",
+    "Season with 1 teaspoon of salt and add 1 sheet of dried norwegian seaweed.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "While the blackeye pea mixture is cooking, prepare the cauliflower rice according to package instructions.",
+    "Once the blackeye pea mixture is cooked, stir in the prepared cauliflower rice.",
+    "Using wet hands, shape the blackeye pea mixture into small triangular onigiri shapes.",
+    "Serve the delicate norwegian blackeye pea onigiri warm, garnished with chopped fresh herbs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-pea-recipes",
+    "cataplana-recipes",
+    "norwegian-cuisine",
+    "onigiri-recipes",
+    "paleo-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "delicate-norwegian-blackeye-pea-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-norwegian-blackeye-pea-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:16:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "blackeye pea",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "delicate earthy",
+    "dishForm": "Onigiri"
+  }
+}
