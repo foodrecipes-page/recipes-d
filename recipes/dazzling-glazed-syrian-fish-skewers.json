@@ -1,0 +1,105 @@
+{
+  "title": "Dazzling Glazed Syrian Fish Skewers",
+  "description": "A funky and shattering Syrian dish featuring beurre-noisette and glaze, perfect for a weeknight dinner, this pescatarian-friendly recipe is sure to delight, with the combination of fish and spices creating a truly dazzling flavor experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beurre noisette",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the fish fillets onto skewers, if using wooden skewers, soak them in water for 30 minutes beforehand.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, paprika, cumin, coriander, salt, and black pepper.",
+    "Add the fish skewers to the bowl and marinate for at least 15 minutes.",
+    "Remove the fish from the marinade and cook in the oven for 8 minutes.",
+    "Meanwhile, prepare the beurre noisette by melting the butter in a saucepan over medium heat until it turns golden brown.",
+    "Add the honey to the beurre noisette and whisk until well combined.",
+    "Brush the glaze over the fish during the last 2 minutes of cooking.",
+    "Serve the fish skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed-fish",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "dazzling-glazed-syrian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dazzling-glazed-syrian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:52:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "glaze",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Dazzling Glazed",
+    "dishForm": "Skewers"
+  }
+}
