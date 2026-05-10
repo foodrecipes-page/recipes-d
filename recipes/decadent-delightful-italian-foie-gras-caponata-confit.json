@@ -1,0 +1,103 @@
+{
+  "title": "Decadent Delightful Italian Foie-Gras Caponata Confit",
+  "description": "A rich and creamy Italian-inspired dessert featuring foie-gras, caponata, and a touch of tempering chocolate, perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "1/2 cup",
+      "notes": "Fresh, high-quality foie gras is essential for this recipe"
+    },
+    {
+      "name": "Caponata",
+      "amount": "2 cups",
+      "notes": "Homemade caponata is preferred, but store-bought is acceptable"
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "1 cup",
+      "notes": "High-quality dark chocolate with a high cocoa content is best"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Granulated sugar is preferred"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened, unsalted butter is best"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Fleur de sel or other flaky salt is preferred"
+    },
+    {
+      "name": "Cocoa Nibs",
+      "amount": "1 tablespoon",
+      "notes": "High-quality cocoa nibs add depth and texture"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh thyme adds a bright, herbaceous flavor"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality olive oil is essential for this recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C) and line a baking sheet with parchment paper",
+    "Arrange the caponata in a single layer on the prepared baking sheet and bake for 10 minutes",
+    "Remove the caponata from the oven and let cool to room temperature",
+    "In a medium saucepan, melt the foie gras over low heat, stirring occasionally",
+    "Once the foie gras is melted, strain it through a fine-mesh sieve into a bowl",
+    "Add the sugar, butter, salt, and cocoa nibs to the bowl with the foie gras and stir until well combined",
+    "In a separate saucepan, melt the tempering chocolate over low heat, stirring occasionally",
+    "Once the chocolate is melted, stir it into the bowl with the foie gras mixture until well combined",
+    "Add the fresh thyme to the bowl and stir to combine",
+    "Transfer the mixture to a serving dish and drizzle with olive oil",
+    "Serve immediately, garnished with additional fresh thyme if desired"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "high-end",
+    "italian-inspired",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "decadent-delightful-italian-foie-gras-caponata-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-delightful-italian-foie-gras-caponata-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:13:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "foie-gras",
+    "diet": "vegan",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "foie-gras",
+    "descriptor": "Decadent Delightful",
+    "dishForm": "Caponata Confit"
+  }
+}
