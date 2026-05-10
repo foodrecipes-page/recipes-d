@@ -659,6 +659,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-spicy-venezuelan-chicken-stew",
+    "title": "Dark Spicy Venezuelan Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "dark-velvety-algerian-lamb-tagine",
     "title": "Dark Velvety Algerian Lamb Tagine",
     "tags": [
