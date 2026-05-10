@@ -1,0 +1,109 @@
+{
+  "title": "Dense Adventurous Irish Lamb Pilaf",
+  "description": "A heartwarming and flavorful Irish dish featuring lamb, grana padano, and sautéed vegetables, perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "grana padano",
+      "amount": "100g",
+      "notes": "shaved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "25g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, 2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Sear lamb shoulder until browned on all sides, then set aside.",
+    "Reduce heat to medium and sauté onion, carrot, and celery until tender.",
+    "Add garlic and cook for 1 minute.",
+    "Add flour and cook for 1 minute.",
+    "Return lamb to pot and add salt and black pepper.",
+    "Pour in 1 cup of water and bring to a boil.",
+    "Transfer pot to oven and braise lamb for 2 hours.",
+    "Stir in grana padano and lemon juice.",
+    "Serve lamb with parsley on top and a side of sautéed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "irish",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "dense-adventurous-irish-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-adventurous-irish-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:20:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "grana-padano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Dense Adventurous",
+    "dishForm": "Pilaf"
+  }
+}
