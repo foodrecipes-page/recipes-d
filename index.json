@@ -6016,6 +6016,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-smoky-japanese-cabbage-chawanmushi",
+    "title": "Delicate Smoky Japanese Cabbage Chawanmushi",
+    "tags": [
+      "delicate-dishes",
+      "festive-recipes",
+      "japanese-cuisine",
+      "smoky-flavors",
+      "vegetarian-options"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-smoky-japanese-tortilla-wrap",
     "title": "Delicate Smoky Japanese Tortilla Wrap",
     "tags": [
@@ -9265,6 +9279,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-venezuelan-seed-bowl",
+    "title": "Deliciously Roasted Venezuelan Seed Bowl",
+    "tags": [
+      "healthy-snack",
+      "high-protein",
+      "one-pan",
+      "raw-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {

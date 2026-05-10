@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Smoky Japanese Cabbage Chawanmushi",
+  "description": "A light and festive Japanese dish featuring cabbage and smoke, made in a traditional chawanmushi style, with a resinous flavor profile that is dash-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese cabbage",
+      "amount": "1 head",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the dashi broth according to the package instructions or recipe.",
+    "In a blender or food processor, puree the chopped cabbage and dashi broth until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, discarding the solids.",
+    "In a separate bowl, whisk together the mirin, soy sauce, and eggs.",
+    "Add the smoked salmon, sesame oil, salt, and white pepper to the egg mixture and stir to combine.",
+    "Add the cabbage and dashi mixture to the egg mixture and stir gently to combine.",
+    "Pour the mixture into small cups or ramekins and place them in a large baking dish.",
+    "Add hot water to the baking dish to come halfway up the sides of the cups.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "delicate-dishes",
+    "festive-recipes",
+    "japanese-cuisine",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "delicate-smoky-japanese-cabbage-chawanmushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-japanese-cabbage-chawanmushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:53:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "smoke",
+    "primaryIngredient": "cabbage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Delicate Smoky",
+    "dishForm": "Chawanmushi"
+  }
+}

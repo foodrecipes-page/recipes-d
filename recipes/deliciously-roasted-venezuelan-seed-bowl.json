@@ -1,0 +1,100 @@
+{
+  "title": "Deliciously Roasted Venezuelan Seed Bowl",
+  "description": "A flavorful and nutritious meal prep dish featuring roasted seeds, candy, and raw friendly ingredients, inspired by Venezuelan cuisine. This dish is perfect for a healthy and satisfying snack or dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "dried fruit based"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tablespoons",
+      "notes": "raw"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the pumpkin seeds, sunflower seeds, and chia seeds.",
+    "Spread the seed mixture on a baking sheet and roast for 10 minutes.",
+    "Remove the seeds from the oven and let them cool completely.",
+    "In a small bowl, mix together the coconut flakes, candy pieces, and salt.",
+    "Add the honey and vanilla extract to the coconut flake mixture and stir until well combined.",
+    "Once the seeds have cooled, add them to the coconut flake mixture and stir until well combined.",
+    "Spoon the seed mixture into individual bowls and serve.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "deliciously-roasted-venezuelan-seed-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-roasted-venezuelan-seed-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:53:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "seeds",
+    "descriptor": "Deliciously roasted",
+    "dishForm": "Bowl"
+  }
+}
