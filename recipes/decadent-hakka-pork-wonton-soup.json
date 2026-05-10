@@ -1,0 +1,96 @@
+{
+  "title": "Decadent Hakka Pork Wonton Soup",
+  "description": "Savory and indulgent, this low-carb friendly Hakka dish features tender pork wontons and a rich broth, infused with the sweetness of cranberry and the depth of rest-meat, making for a truly decadent experience. This hearty soup is perfect for a cold winter's night.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "rested overnight"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the rested pork shoulder, cranberry sauce, and minced garlic, mixing until just combined.",
+    "Lay a wonton wrapper on a clean surface and place a small spoonful of the pork mixture in the center.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large pot, heat the sesame oil over medium heat and add the sliced ginger, cooking until fragrant.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Carefully add the wontons to the pot and cook for 5 minutes, or until they float to the surface.",
+    "Stir in the chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "cranberry-infused",
+    "hakka",
+    "low-carb",
+    "pork-wontons",
+    "rest-meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "decadent-hakka-pork-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-hakka-pork-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:02:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "cranberry",
+    "diet": "low-carb",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "pork",
+    "descriptor": "Decadent",
+    "dishForm": "Wonton Soup"
+  }
+}
