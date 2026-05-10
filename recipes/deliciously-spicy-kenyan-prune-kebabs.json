@@ -1,0 +1,110 @@
+{
+  "title": "Deliciously Spicy Kenyan Prune Kebabs",
+  "description": "A spicy and fluffy Kenyan dish featuring prunes, perfect for kids and adults alike, made with score-fat and nut-free friendly ingredients, grilled to perfection on a robata-grill.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a large bowl, whisk together the melted score-fat, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the prunes to the bowl and toss to coat with the spice mixture.",
+    "Thread the prunes onto skewers, leaving a small space between each prune.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the prunes are tender and lightly charred.",
+    "Serve the kebabs hot, garnished with chopped fresh cilantro if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with your favorite side dishes, such as rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-kebabs",
+    "kenyan-cuisine",
+    "kid-friendly",
+    "nut-free",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "deliciously-spicy-kenyan-prune-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-spicy-kenyan-prune-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:16:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "prunes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "prunes",
+    "descriptor": "deliciously spicy",
+    "dishForm": "Kebabs"
+  }
+}
