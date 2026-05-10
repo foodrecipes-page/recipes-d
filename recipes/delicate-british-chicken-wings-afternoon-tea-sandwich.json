@@ -1,0 +1,94 @@
+{
+  "title": "Delicate British Chicken Wings Afternoon Tea Sandwich",
+  "description": "A malty and springy satvik-friendly British dish featuring chicken wings, tadka, and afternoon tea elements, perfect for a date night, served on a tagliere.",
+  "cuisine": "British",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt vinegar, ghee, tadka spice mix, salt, and chopped spring onions.",
+    "Add the chicken wings to the bowl and toss to coat evenly with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the marinated chicken wings on it.",
+    "Bake the chicken wings in the preheated oven for 25 minutes or until cooked through.",
+    "Meanwhile, toast the whole wheat bread and prepare the dates by slicing them into thin pieces.",
+    "Once the chicken wings are done, let them cool for a few minutes before slicing them into smaller pieces.",
+    "Assemble the afternoon tea sandwiches by placing a few pieces of chicken on each toasted bread slice, topping with a date slice and serving on a tagliere."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british-cuisine",
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "satvik"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-british-chicken-wings-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-british-chicken-wings-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:49:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "chicken wings",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Delicate",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}
