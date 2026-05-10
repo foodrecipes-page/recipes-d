@@ -1,0 +1,97 @@
+{
+  "title": "Delicate Crisp Russian Beef Pilaf",
+  "description": "A peppery, crisp, one-pot Russian dish featuring butter and lamination-puff, suitable for diabetics",
+  "cuisine": "Russian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "lean cuts"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat",
+    "Add the beef strips and cook until browned, about 5 minutes",
+    "Remove the beef from the skillet and set aside",
+    "Add the remaining 2 tablespoons of butter to the skillet",
+    "Add the chopped onion and cook until translucent, about 3 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the rice to the skillet and cook for 2 minutes, stirring constantly",
+    "Add the chicken broth, black pepper, salt, and paprika to the skillet",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the skillet",
+    "Simmer the pilaf for 20 minutes, or until the liquid is absorbed and the rice is tender"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-crisp-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-crisp-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:19:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "delicate crisp",
+    "dishForm": "Pilaf"
+  }
+}

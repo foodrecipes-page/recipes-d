@@ -3447,6 +3447,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-crisp-russian-beef-pilaf",
+    "title": "Delicate Crisp Russian Beef Pilaf",
+    "tags": [
+      "beef-recipes",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pot",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-crisp-turkish-chicken-kebabs",
     "title": "Delicate Crisp Turkish Chicken Kebabs",
     "tags": [
