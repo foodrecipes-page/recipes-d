@@ -1,0 +1,101 @@
+{
+  "title": "Dry Brined Japanese Beef Gyudon",
+  "description": "A fresh and juicy Japanese dish featuring dry brined beef, served over rice in a gyudon style, perfect for a lazy Sunday",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef thinly sliced",
+      "amount": "200g",
+      "notes": "ribeye or sirloin"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cooked Japanese rice",
+      "amount": "400g"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together kosher salt, sugar, and black pepper to create the dry brine.",
+    "Place the beef slices in a single layer on a wire rack set over a rimmed baking sheet or a tray.",
+    "Sprinkle the dry brine evenly over the beef slices, making sure each piece is coated.",
+    "Let the beef sit at room temperature for 30 minutes to allow the dry brine to work.",
+    "After 30 minutes, rinse the beef slices under cold running water to remove the dry brine, then pat dry with paper towels.",
+    "Heat 1 tsp of sesame oil in a large tava griddle over medium-high heat.",
+    "Add the beef slices to the griddle and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, mix together soy sauce, sake, and mirin in a small bowl.",
+    "Once the beef is done, brush the soy sauce mixture evenly over the beef slices.",
+    "To assemble the gyudon, place a scoop of cooked Japanese rice onto a plate or bowl, then top with a few slices of the beef and some green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-food",
+    "low-calorie",
+    "one-pan",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "dry-brined-japanese-beef-gyudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-brined-japanese-beef-gyudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:56:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Dry Brined",
+    "dishForm": "Gyudon"
+  }
+}
