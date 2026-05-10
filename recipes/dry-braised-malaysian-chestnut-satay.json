@@ -1,0 +1,103 @@
+{
+  "title": "Dry Braised Malaysian Chestnut Satay",
+  "description": "A nutty and crispy Malaysian dish featuring chestnuts, this recipe is a quick fix for a delicious meal, and is friendly to those with nut allergies. It is cooked on a wooden board for a unique presentation.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, coriander, cumin, salt, and black pepper.",
+    "Add the sliced chestnuts to the bowl and toss to coat with the soy sauce mixture.",
+    "Heat the vegetable oil on the wooden board over medium heat.",
+    "Add the minced garlic and grated ginger to the oil and cook for 1 minute.",
+    "Add the chestnuts to the wooden board and cook for 5 minutes on each side.",
+    "Transfer the wooden board to the preheated oven and bake for 10 minutes.",
+    "Remove the chestnuts from the oven and let cool for 2 minutes.",
+    "Serve the chestnuts hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "gluten-free",
+    "malaysian-cuisine",
+    "nut-free",
+    "quick-snack",
+    "wooden-board-cooking"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dry-braised-malaysian-chestnut-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-braised-malaysian-chestnut-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:31:16Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "chestnuts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "dry braised",
+    "dishForm": "Satay"
+  }
+}

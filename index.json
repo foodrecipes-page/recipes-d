@@ -6990,6 +6990,22 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-vietnamese-chicken-spring-rolls",
+    "title": "Delicate Vietnamese Chicken Spring Rolls",
+    "tags": [
+      "chicken",
+      "date-night",
+      "gluten-free",
+      "healthy",
+      "spring-rolls",
+      "vietnamese",
+      "whole30"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-yeasty-japanese-bread-bao",
     "title": "Delicate Yeasty Japanese Bread Bao",
     "tags": [
@@ -13920,6 +13936,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 190,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-braised-malaysian-chestnut-satay",
+    "title": "Dry Braised Malaysian Chestnut Satay",
+    "tags": [
+      "easy-entertaining",
+      "gluten-free",
+      "malaysian-cuisine",
+      "nut-free",
+      "quick-snack",
+      "wooden-board-cooking"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {

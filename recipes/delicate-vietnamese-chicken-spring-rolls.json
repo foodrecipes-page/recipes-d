@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Vietnamese Chicken Spring Rolls",
+  "description": "A Whole30-friendly Vietnamese dish featuring crumbly spring rolls with an earthy flavor, perfect for a date night, made with egg wash and lacquer-glaze, these rolls are a delight to eat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the egg and a pinch of salt.",
+    "Add the shredded carrots and zucchini to the bowl and mix well.",
+    "Add the chicken breast to the bowl and mix until just combined.",
+    "Fill a large bowl with warm water.",
+    "Place a rice paper wrapper into the water for 10-15 seconds, until it becomes soft and pliable.",
+    "Remove the wrapper from the water and place it on a clean surface.",
+    "Place about 1/4 cup of the chicken mixture onto the center of the wrapper.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the spring rolls to the skillet and cook until golden brown, about 2-3 minutes per side.",
+    "Brush the lacquer glaze over the spring rolls during the last minute of cooking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "date-night",
+    "gluten-free",
+    "healthy",
+    "spring-rolls",
+    "vietnamese",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "delicate-vietnamese-chicken-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-vietnamese-chicken-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:31:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "egg wash",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Delicate",
+    "dishForm": "Spring-Rolls"
+  }
+}
