@@ -1,0 +1,103 @@
+{
+  "title": "Delicate Syrian Lamb Tagine",
+  "description": "A savory and light Syrian dish featuring shredded coconut and double-rise-bread, perfect for a lazy Sunday, and paleo-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with cumin, paprika, salt, and black pepper.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, then remove from the tagine.",
+    "Add the chopped onion to the tagine and cook until softened.",
+    "Add the minced garlic to the tagine and cook for 1 minute.",
+    "Add the cubed double-rise-bread to the tagine and cook for 2 minutes.",
+    "Add the shredded coconut to the tagine and cook for 1 minute.",
+    "Return the lamb shoulder to the tagine and cover with a lid.",
+    "Transfer the tagine to the preheated oven and cook for 2.5 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "one-pot",
+    "paleo-friendly",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "delicate-syrian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-syrian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:55:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shredded coconut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "delicate double rise",
+    "dishForm": "Tagine"
+  }
+}
