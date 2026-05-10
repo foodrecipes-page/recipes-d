@@ -1,0 +1,102 @@
+{
+  "title": "Delicate Fermented Ethiopian Shungiku Dulet",
+  "description": "A fermented, cheese-pull, brunch-mood Ethiopian dish featuring shungiku, emulsify, kosher-friendly, in the form of dulet.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped shungiku, onion, garlic, and ginger.",
+    "In a small bowl, mix together berbere spice, niter kibbeh, yogurt, salt, and black pepper.",
+    "Add the spice mixture to the shungiku mixture and stir until well combined.",
+    "Cover the bowl with a cloth and let it ferment at room temperature for 24 hours.",
+    "After fermentation, heat a non-stick pan over medium heat and add the fermented mixture.",
+    "Cook for 10 minutes, stirring occasionally, until the mixture is heated through and slightly caramelized.",
+    "Warm the injera bread by wrapping it in a damp cloth and microwaving for 20 seconds.",
+    "Assemble the dulet by placing a portion of the fermented mixture on each piece of injera bread and serving immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "ethiopian-cuisine",
+    "fermented-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delicate-fermented-ethiopian-shungiku-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-fermented-ethiopian-shungiku-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:49:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "shungiku",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "shungiku",
+    "descriptor": "Delicate Fermented",
+    "dishForm": "Dulet"
+  }
+}
