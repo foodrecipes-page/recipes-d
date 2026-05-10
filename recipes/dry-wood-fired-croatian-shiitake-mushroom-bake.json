@@ -1,0 +1,92 @@
+{
+  "title": "Dry Wood Fired Croatian Shiitake Mushroom Bake",
+  "description": "A winey and crunchy Croatian dish featuring shiitake mushrooms, wood-fired-bake, and low-carb-friendly ingredients, perfect for adventurous eaters.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the shiitake mushrooms with olive oil, garlic, and thyme until they are evenly coated.",
+    "Season the mushrooms with salt and black pepper to taste.",
+    "In a small bowl, whisk together the red wine and chicken broth.",
+    "Add the wine mixture to the mushrooms and toss to combine.",
+    "Transfer the mushrooms to a baking dish and bake for 20 minutes.",
+    "Remove the mushrooms from the oven and let them cool for a few minutes.",
+    "Serve the mushrooms hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "low-carb",
+    "mushroom-based",
+    "red-wine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "dry-wood-fired-croatian-shiitake-mushroom-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-wood-fired-croatian-shiitake-mushroom-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:08:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "dry wood fired",
+    "dishForm": "Bake"
+  }
+}
