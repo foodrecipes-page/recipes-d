@@ -1,0 +1,94 @@
+{
+  "title": "Dreamy Dense Dutch Turkish Delight Pancakes",
+  "description": "Tangy and shattering Dutch pancakes featuring Turkish Delight, perfect for a brunch mood, made with ayurvedic tamasic friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Gently fold in the chopped Turkish Delight.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Immediately after cooking, submerge the pancakes in an ice bath to stop the cooking process and create a shattering texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "brunch-ideas",
+    "dutch-pancakes",
+    "turkish-delight",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "dreamy-dense-dutch-turkish-delight-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dreamy-dense-dutch-turkish-delight-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:17:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "turkish delight",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "turkish delight",
+    "descriptor": "dreamy dense",
+    "dishForm": "Pancakes"
+  }
+}
