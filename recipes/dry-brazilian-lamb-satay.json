@@ -1,0 +1,109 @@
+{
+  "title": "Dry Brazilian Lamb Satay",
+  "description": "Savor the bold flavors of this Brazilian-inspired dish, featuring tender lamb skewers seasoned with a blend of spices and herbs.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb cutlets",
+      "amount": "500g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Brazilian-style spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Brazilian-style malagueta peppers",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Brazilian-style spice blend, garlic powder, and grated ginger.",
+    "Add the lamb strips to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the lamb strips to the skillet and cook for 2-3 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer the lamb to a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together the chopped green onions, chopped cilantro, lemon juice, and a pinch of salt and pepper.",
+    "Pour the green onion-cilantro mixture over the cooked lamb and toss to coat.",
+    "Serve the lamb skewers hot, garnished with additional cilantro and malagueta peppers if desired.",
+    "Enjoy as a snack or appetizer!",
+    "Note: If desired, serve with a side of Brazilian-style farofa (toasted manioc flour) or coconut rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "appetizer",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "dry-brazilian-lamb-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dry-brazilian-lamb-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:37:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lamb",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "lamb",
+    "descriptor": "Dry",
+    "dishForm": "Satay"
+  }
+}
