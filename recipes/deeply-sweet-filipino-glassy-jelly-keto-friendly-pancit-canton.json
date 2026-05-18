@@ -1,0 +1,105 @@
+{
+  "title": "Deeply Sweet Filipino Glassy-Jelly Keto-Friendly Pancit Canton",
+  "description": "A winey, glassy-jelly Filipino dish made with sweet sherry, ideal for a quick keto-friendly fix. This dish is a creative twist on the traditional Pancit Canton.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit Canton noodles",
+      "amount": "200g",
+      "notes": "Keto-friendly rice flour noodles"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "400g",
+      "notes": "Boneless, skinless chicken breast"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "200g"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "120g",
+      "notes": "Shrimp peeled and deveined"
+    },
+    {
+      "name": "Sweet sherry",
+      "amount": "120ml"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2tbsp",
+      "notes": "Fish sauce with no added sugar"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp",
+      "notes": "Low-sodium soy sauce"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "60g",
+      "notes": "Unsalted pork fat for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a tagine pot over medium heat.",
+    "Add pork fat and let it melt. Add chicken breast, ground pork and shrimp. Cook for 5 minutes.",
+    "Add sweet sherry, fish sauce, soy sauce, and black pepper. Stir well to combine.",
+    "Add Pancit Canton noodles and stir well to combine with the sauce.",
+    "Cook for an additional 5 minutes or until the noodles are cooked through.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer to a serving dish and garnish with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:31:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "sweet sherry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "glassy-jelly",
+    "descriptor": "Deeply Sweet",
+    "dishForm": "Keto-Friendly Pancit Canton"
+  }
+}
