@@ -1,0 +1,119 @@
+{
+  "title": "Dense, Dark, Rich Ethiopian Beef Tibs",
+  "description": "A hearty, comforting dish featuring tender beef, fragrant spices, and a rich, dark sauce made with plain chocolate.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1 lb)",
+      "amount": "1",
+      "notes": "sirloin or ribeye, sliced into thin strips"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger (2 inches)",
+      "amount": "2",
+      "notes": "grated"
+    },
+    {
+      "name": "dark chocolate (85% cocoa, 2 oz)",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "berbere spice (2 tsp)",
+      "amount": "2",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ground cumin (1 tsp)",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "turmeric (1 tsp)",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "1",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "1",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "canola oil (2 tbsp)",
+      "amount": "2",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "beef broth (1 cup)",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice, ground cumin, turmeric, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the chopped dark chocolate to the skillet and cook for 1 minute.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "Return the beef to the skillet and simmer until the sauce has thickened and the beef is cooked through, about 10 minutes.",
+    "Serve the beef and sauce hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flavorful",
+    "hearty",
+    "high-protein",
+    "one-pan",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "dense-dark-rich-ethiopian-beef-tibs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-dark-rich-ethiopian-beef-tibs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T20:24:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "plain chocolate",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Dense, Dark, Rich",
+    "dishForm": "Tibs"
+  }
+}
