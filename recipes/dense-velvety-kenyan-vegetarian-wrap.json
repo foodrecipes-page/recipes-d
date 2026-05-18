@@ -1,0 +1,116 @@
+{
+  "title": "Dense, velvety Kenyan vegetarian Wrap",
+  "description": "A malty, velvety, romantic Kenyan dish featuring oranges, broil, and vegetarian-friendly ingredients wrapped in a corn-husk.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn husk",
+      "amount": "6"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yam",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the yam, carrots, red onion, zucchini, garlic, cumin, coriander, cayenne pepper, salt, and pepper. Toss to coat.",
+    "Transfer the mixture to a baking sheet lined with parchment paper and roast for 25 minutes.",
+    "Meanwhile, in a small bowl, whisk together the orange marmalade, coconut oil, and curry powder.",
+    "To assemble the wraps, place 1-2 tablespoons of the roasted vegetable mixture on the center of each corn husk, leaving a 1-inch border around the edges.",
+    "Drizzle 1-2 tablespoons of the marmalade mixture over the vegetables and fold the bottom edge of the corn husk up over the filling.",
+    "Fold in the sides and then roll the wrap up tightly to form a compact cylinder.",
+    "Repeat with the remaining ingredients and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "dense-velvety-kenyan-vegetarian-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-velvety-kenyan-vegetarian-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T23:30:20Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "oranges",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetarian",
+    "descriptor": "Dense, velvety",
+    "dishForm": "Wrap"
+  }
+}
