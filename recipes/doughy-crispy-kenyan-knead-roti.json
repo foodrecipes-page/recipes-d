@@ -1,0 +1,100 @@
+{
+  "title": "Doughy, Crispy Kenyan Knead Roti",
+  "description": "A delicious, crispy Kenyan dish featuring the perfect balance of doughy texture and a hint of sweetness from peach juice.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the sweet touch"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, and salt.",
+    "Gradually add the warm milk, yeast, ghee, and water to the dry ingredients.",
+    "Mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for about an hour.",
+    "Heat a kadhai over medium heat.",
+    "Divide the dough into 6-8 equal portions and roll each portion into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Brush the rotis with vegetable oil and cook for about 1-2 minutes on each side, or until they are golden brown and crispy.",
+    "Brush the rotis with melted ghee and sprinkle with sesame seeds.",
+    "Serve the rotis hot with your favorite Kenyan dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "dinner",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "doughy-crispy-kenyan-knead-roti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/doughy-crispy-kenyan-knead-roti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:04:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "peach juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Knead",
+    "descriptor": "Doughy, Crispy",
+    "dishForm": "Roti"
+  }
+}
