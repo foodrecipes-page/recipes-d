@@ -1,0 +1,99 @@
+{
+  "title": "Delicate Tunisian Lettuce Salad",
+  "description": "A light and festive Tunisian salad made with little gem lettuce, herbs, and a hint of Middle Eastern spices.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Little gem lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "Namul-blanch seasoning",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh chervil leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the little gem lettuce heads and pat them dry with paper towels.",
+    "Trim the ends of the lettuce leaves and separate them into individual leaves.",
+    "In a small bowl, mix together the namul-blanch seasoning, parsley, mint, and chervil leaves.",
+    "In a separate bowl, whisk together the olive oil and lemon juice.",
+    "Add the salt and pepper to the oil and lemon juice mixture and whisk until combined.",
+    "Add the lettuce leaves to the bowl with the oil and lemon juice mixture and toss to coat.",
+    "Divide the lettuce mixture among 4-6 individual mini cocottes.",
+    "Spoon the herb mixture over the lettuce leaves in each cocotte.",
+    "Serve immediately, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "plant-based",
+    "salad",
+    "spring",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "delicate-tunisian-lettuce-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-tunisian-lettuce-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T15:07:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "lettuce",
+    "descriptor": "delicate",
+    "dishForm": "Salad"
+  }
+}
