@@ -1,0 +1,94 @@
+{
+  "title": "Turkish Potato Kisir",
+  "description": "A traditional Turkish-inspired potato dish with a mustardy, glassy-jelly texture. Kisir is a Turkish salad, but with the addition of potato starch, it takes on a unique, dense form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato starch",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together potato starch, vinegar, and 1/4 cup water to make a smooth paste.",
+    "Add the confit tomatoes, red onion, garlic, thyme, salt, and black pepper to the bowl. Stir until well combined.",
+    "Heat the oil in a large skillet over medium heat. Add the potato starch mixture and stir constantly for 2-3 minutes, or until it thickens and turns a deep amber color.",
+    "Remove the skillet from heat and let it cool slightly. Stir in the tomato mixture and let it cool to room temperature.",
+    "Once cooled, refrigerate the mixture for at least 2 hours, or until it has firmed up and developed a glassy texture.",
+    "Serve the Turkish potato kisir chilled, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 4,
+  "totalTimeMin": 29,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kisir",
+    "one-pan",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "dense-glassy-turkish-potato-kisir",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-glassy-turkish-potato-kisir",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T13:39:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "potato starch",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Potato",
+    "descriptor": "Dense Glassy",
+    "dishForm": "Kisir"
+  }
+}
