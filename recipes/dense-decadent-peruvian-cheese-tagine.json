@@ -1,0 +1,99 @@
+{
+  "title": "Dense Decadent Peruvian Cheese Tagine",
+  "description": "A spicy and energizing Peruvian dish featuring gooey cheese slices in a rich coconut cream sauce, cooked to perfection in a traditional clay tajine vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Queso Fresco cheese",
+      "amount": "12 slices",
+      "notes": "or similar crumbly cheese"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced tomatoes, red pepper flakes, smoked paprika, salt, and black pepper.",
+    "In the clay tajine vessel, arrange a layer of the tomato mixture, followed by a layer of cheese slices.",
+    "Drizzle the coconut cream over the cheese slices, making sure they are fully coated.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Drizzle the olive oil over the top layer of cheese.",
+    "Cover the tajine vessel with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 15 minutes, or until the cheese is golden brown and bubbly.",
+    "Remove the tajine from the oven and let it cool for a few minutes before serving.",
+    "Garnish with minced garlic and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "clay-pot-cooking",
+    "comfort-food",
+    "one-pot-meal",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "dense-decadent-peruvian-cheese-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-decadent-peruvian-cheese-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:08:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cheese slices",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "Dense Decadent",
+    "dishForm": "Tagine"
+  }
+}
