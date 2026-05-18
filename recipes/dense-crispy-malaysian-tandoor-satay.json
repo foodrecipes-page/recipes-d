@@ -1,0 +1,115 @@
+{
+  "title": "Dense Crispy Malaysian Tandoor Satay",
+  "description": "Tangy, crispy, crowd-pleaser Malaysian dish featuring marzipan. Served on a banana leaf for an authentic Mediterranean experience.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "packed"
+    },
+    {
+      "name": "lemongrass paste",
+      "amount": "1 tablespoon",
+      "notes": "store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "plain"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12",
+      "notes": "large, fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor oven to 450°F for at least 30 minutes.",
+    "In a blender or food processor, blend the marzipan, coconut milk, ginger, brown sugar, lemongrass paste, garlic, salt, and black pepper until well combined.",
+    "Add the chicken breast to the marinade and mix until coated.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Soak the banana leaves in water for at least 30 minutes before use.",
+    "Place a piece of banana leaf on a flat surface and arrange 2-3 skewers on it, leaving a small space between each skewer.",
+    "Fold the banana leaf over the skewers to form a packet.",
+    "Brush the tandoor oven with oil to prevent sticking.",
+    "Place the packets in the preheated tandoor oven and cook for 12-15 minutes, or until the chicken is cooked through.",
+    "Remove the packets from the oven and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "coconut-milk",
+    "grilled",
+    "high-protein",
+    "marzipan",
+    "mexican-inspired",
+    "one-pan",
+    "satay",
+    "tandoor-oven",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dense-crispy-malaysian-tandoor-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-crispy-malaysian-tandoor-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:23:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "marzipan",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "tandoor",
+    "descriptor": "Dense Crispy",
+    "dishForm": "Satay"
+  }
+}
