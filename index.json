@@ -557,6 +557,21 @@
     "shard": "d"
   },
   {
+    "slug": "dark-roasted-jamaican-date-stew",
+    "title": "Dark Roasted Jamaican Date Stew",
+    "tags": [
+      "coconut-milk",
+      "comfort-food",
+      "jamaican-cuisine",
+      "one-pot",
+      "plant-based",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "dark-roasted-japanese-pork-ramen",
     "title": "Dark Roasted Japanese Pork Ramen",
     "tags": [

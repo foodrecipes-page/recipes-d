@@ -1,0 +1,109 @@
+{
+  "title": "Dark Roasted Jamaican Date Stew",
+  "description": "A hearty, chewy, and nostalgic plant-based stew featuring roasted stoned dates, cooked to perfection in a ttukbaegi earthenware pot. This Jamaican-inspired dish is perfect for a chilly evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stoned dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a ttukbaegi earthenware pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and saute until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the ground allspice and dried thyme and stir to combine.",
+    "Add the pitted dates, vegetable broth, and coconut milk, stirring to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Roast the stew for 30 minutes, or until the dates are tender and the liquid has thickened.",
+    "If using scotch bonnet peppers, stir them in during the last 10 minutes of cooking.",
+    "Remove the pot from the oven and let the stew cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "comfort-food",
+    "jamaican-cuisine",
+    "one-pot",
+    "plant-based",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dark-roasted-jamaican-date-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-roasted-jamaican-date-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:18:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "stoned dates",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dates",
+    "descriptor": "Dark roasted",
+    "dishForm": "Stew"
+  }
+}
