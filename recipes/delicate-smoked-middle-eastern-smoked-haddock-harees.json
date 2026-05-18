@@ -1,0 +1,110 @@
+{
+  "title": "delicate smoked middle-eastern smoked haddock harees",
+  "description": "a crispy, jammy, and adventurous middle-eastern dish made with smoked haddock, served in a copper pot with a side of toasted flatbread.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large copper pot over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the cumin, coriander, paprika, salt, and black pepper, and stir to combine.",
+    "add the rice and water to the pot, and bring to a boil.",
+    "reduce the heat to low, cover the pot, and simmer for 18 minutes.",
+    "while the rice is cooking, heat about 1-2 inches of oil in a deep frying pan to 350f.",
+    "fry the smoked haddock fillets until crispy and golden brown, about 3-4 minutes per side.",
+    "drain the fried haddock on paper towels and set aside.",
+    "once the rice is cooked, fluff it with a fork and add the toasted flatbread on top.",
+    "serve the crispy fried haddock on top of the rice, garnished with chopped fresh herbs, if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "harees",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "smoked-haddock",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "delicate-smoked-middle-eastern-smoked-haddock-harees",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoked-middle-eastern-smoked-haddock-harees",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:25:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "smoked haddock",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Smoked Haddock",
+    "descriptor": "Delicate Smoked",
+    "dishForm": "Harees"
+  }
+}
