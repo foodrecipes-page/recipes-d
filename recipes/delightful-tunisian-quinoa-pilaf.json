@@ -1,0 +1,113 @@
+{
+  "title": "Delightful Tunisian Quinoa Pilaf",
+  "description": "A sweet and fluffy quinoa pilaf featuring a hint of Tunisian spice, ready to be devoured out of a hot stone bowl.",
+  "cuisine": "North African",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the quinoa in a fine-mesh strainer over high heat, stirring constantly, until lightly toasted.",
+    "In a large saucepan, heat the vegetable broth over high heat and bring to a boil.",
+    "Add the quinoa to the saucepan and reduce the heat to low. Cover and cook for 15 minutes, or until the liquid has been absorbed.",
+    "While the quinoa cooks, heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper to the skillet and cook, stirring occasionally, until tender.",
+    "Stir in the cumin, coriander, salt, and black pepper.",
+    "When the quinoa is done cooking, stir in the chopped onion and bell pepper mixture, pumpkin seeds, apricots, red food coloring, and lemon juice.",
+    "Transfer the quinoa mixture to a preheated stone bowl.",
+    "Serve immediately, garnished with additional pumpkin seeds and apricots if desired.",
+    "If desired, cook a few minutes longer in the stone bowl to create a crispy crust."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "quinoa",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "delightful-tunisian-quinoa-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-tunisian-quinoa-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:54:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "red food colouring",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Delightful",
+    "dishForm": "Pilaf"
+  }
+}
