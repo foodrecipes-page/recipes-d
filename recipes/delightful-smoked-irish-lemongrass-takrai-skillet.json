@@ -1,0 +1,87 @@
+{
+  "title": "Delightful Smoked Irish Lemongrass-Takrai Skillet",
+  "description": "A sweet and crunchy Irish dish featuring lemongrass-takrai, shio-cure, and a FODMAP-friendly twist served in an iron teppan skillet.",
+  "cuisine": "irish",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemongrass-takrai oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shio-cured salmon fillet",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Butter milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "A handful"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the lemongrass-takrai oil in an iron teppan skillet over medium-high heat.",
+    "Add the shio-cured salmon fillet and sear for 2 minutes per side.",
+    "Reduce heat to medium and add the butter milk, stirring constantly for 5 minutes.",
+    "Stir in the smoked paprika and brown sugar until dissolved.",
+    "Add the fresh mint leaves and cook for an additional minute.",
+    "Season with sea salt to taste.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 8 minutes.",
+    "Remove from the oven and serve immediately.",
+    "Garnish with additional fresh mint leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "delightful-smoked-irish-lemongrass-takrai-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-smoked-irish-lemongrass-takrai-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T17:13:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lemongrass-Takrai",
+    "descriptor": "Delightful Smoked",
+    "dishForm": "Skillet"
+  }
+}
