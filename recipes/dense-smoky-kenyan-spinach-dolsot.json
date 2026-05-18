@@ -1,0 +1,111 @@
+{
+  "title": "Dense Smoky Kenyan Spinach Dolsot",
+  "description": "A smoky and dense Kenyan spinach dish cooked in a stone bowl, ideal for adventurous eaters and those following a shojin diet.",
+  "cuisine": "kenyan",
+  "diet": [
+    "shojin",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": " peeled and diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": " chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": " chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": " sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "kenyan chilies",
+      "amount": "2-3",
+      "notes": " sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large dolsot over medium heat.",
+    "Add the chopped onions and cook until they start to caramelize, about 8 minutes.",
+    "Add the sliced ginger and cook for another 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced Kenyan chilies and cook for 2 minutes.",
+    "Add the chopped spinach and cook until it starts to wilt, about 2-3 minutes.",
+    "Add the diced sweet potatoes, salt, black pepper, and smoked paprika. Stir well to combine.",
+    "Cook for 10-12 minutes or until the sweet potatoes are cooked through and the spinach is fully wilted.",
+    "Serve hot, garnished with additional chopped spinach if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "kenyan",
+    "one-pan",
+    "shojin-friendly",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "dense-smoky-kenyan-spinach-dolsot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-kenyan-spinach-dolsot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:20:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "spinach",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Spinach",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Dolsot"
+  }
+}
