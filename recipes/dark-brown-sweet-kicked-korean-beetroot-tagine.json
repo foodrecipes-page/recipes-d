@@ -1,0 +1,102 @@
+{
+  "title": "Dark-Brown Sweet Kicked Korean Beetroot Tagine",
+  "description": "Funky, crispy, brunch-mood Korean Gangwon dish featuring dark brown soft sugar, tagine-cook, and raw-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons",
+      "notes": "preferably Gangwon-made"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a 10-inch clay or ceramic tagine over medium heat.",
+    "Add coconut oil to the tagine and swirl it to coat the bottom.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for another minute, until softened.",
+    "Add the chopped beetroot and cook for 5 minutes, until slightly tender.",
+    "Add the dark brown soft sugar, gochujang, and 1/4 cup of water to the tagine.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes, or until the beetroot is tender.",
+    "Season with salt to taste.",
+    "Garnish with sesame seeds and chopped green onions.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "korean",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "dark-brown-sweet-kicked-korean-beetroot-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-brown-sweet-kicked-korean-beetroot-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:30:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "raw",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beetroot",
+    "descriptor": "Dark-Brown Sweet Kicked",
+    "dishForm": "Tagine"
+  }
+}
