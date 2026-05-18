@@ -10531,6 +10531,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
+    "title": "Dense, Aerated Greek Chicken Lotus-Leaf Gyro Wrap",
+    "tags": [
+      "chicken",
+      "greek",
+      "high-protein",
+      "lotus-leaf",
+      "one-pan",
+      "wrap"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 42,
+    "shard": "d"
+  },
+  {
     "slug": "dense-aerated-korean-rice-mixed-rice-bowl",
     "title": "Korean Aerated Rice Mixed-Bowl",
     "tags": [
@@ -12968,6 +12983,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "diced-irish-kale-kale-salad",
+    "title": "Diced Irish Kale Kale Salad",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "kale-based",
+      "one-pan",
+      "post-workout",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {

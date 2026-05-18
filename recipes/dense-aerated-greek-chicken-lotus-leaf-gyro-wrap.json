@@ -1,0 +1,118 @@
+{
+  "title": "Dense, Aerated Greek Chicken Lotus-Leaf Gyro Wrap",
+  "description": "A flavorful and nutritious Greek-inspired dish featuring chicken stock, brine-wet chicken, wrapped in a crispy lotus leaf.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4-6",
+      "notes": "depending on size"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, oregano, thyme, garlic powder, paprika, salt, and pepper to make a marinade.",
+    "Add the chicken breasts to the marinade and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Transfer the cooked chicken to a plate and let rest for 5 minutes.",
+    "Meanwhile, heat the chicken stock in a small saucepan over medium heat.",
+    "Bring the lotus leaves to a boil in water for 30 seconds, then immediately submerge in an ice bath to stop cooking.",
+    "To assemble the wraps, lay a lotus leaf flat on a plate and place a few slices of chicken in the center.",
+    "Add a spoonful of heated chicken stock and top with mixed greens and sliced red onion.",
+    "Fold the lotus leaf over the filling to form a tight cylinder and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "greek",
+    "high-protein",
+    "lotus-leaf",
+    "one-pan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:17:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "brine-wet",
+    "primaryIngredient": "chicken stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Dense, Aerated",
+    "dishForm": "Lotus-Leaf Gyro Wrap"
+  }
+}

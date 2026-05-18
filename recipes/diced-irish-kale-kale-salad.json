@@ -1,0 +1,121 @@
+{
+  "title": "Diced Irish Kale Kale Salad",
+  "description": "A peppery and invigorating post-workout salad that showcases the best of Irish kale, enhanced with saffron and namul-blanch-season.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 bunch Irish kale",
+      "amount": "2 cups, stems removed and discarded",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "extra-virgin for best flavor"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": "red or yellow work fine"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "optional, omit for a milder flavor"
+    },
+    {
+      "name": "1 teaspoon namul-blanch-season",
+      "amount": "",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": "use flaky sea salt for added texture"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": "freshly ground for the best flavor"
+    },
+    {
+      "name": "1/2 cup crumbled goat cheese",
+      "amount": "",
+      "notes": "optional, omit for a vegan version"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1/4 cup chopped fresh mint",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1/2 teaspoon saffron threads",
+      "amount": "",
+      "notes": "soaked in 1 tablespoon hot water for 10 minutes"
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Blanch the kale in boiling water for 30 seconds to remove bitterness, then immediately submerge in an ice bath to stop cooking.",
+    "Pat dry the kale with a clean kitchen towel to remove excess moisture.",
+    "In a blender or food processor, combine the olive oil, namul-blanch-season, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, combine the blanched kale, sliced onion, minced garlic, and crumbled goat cheese (if using).",
+    "Pour the blended dressing over the kale mixture and toss to coat.",
+    "Stir in the soaked saffron threads and their liquid, and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with chopped parsley and mint.",
+    "Drizzle with apple cider vinegar just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 2,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kale-based",
+    "one-pan",
+    "post-workout",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "diced-irish-kale-kale-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/diced-irish-kale-kale-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:17:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "saffron",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "kale",
+    "descriptor": "diced",
+    "dishForm": "Kale Salad"
+  }
+}
