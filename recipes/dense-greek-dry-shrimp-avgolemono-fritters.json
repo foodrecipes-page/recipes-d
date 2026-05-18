@@ -1,0 +1,99 @@
+{
+  "title": "Dense Greek Dry Shrimp Avgolemono Fritters",
+  "description": "A traditional Greek dish featuring dried shrimp in a bouncy avgolemono sauce, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried shrimp",
+      "amount": "120g"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "120g"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "60g"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "60ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine dried shrimp, rice flour, egg yolks, lemon juice, beurre-monte, chicken broth, garlic, and parsley.",
+    "Mix well until a smooth batter forms.",
+    "Heat about 2cm of oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop the shrimp mixture into the hot oil, 6-8 fritters at a time.",
+    "Fry the fritters until they are golden brown, about 4-5 minutes.",
+    "Drain the fritters on paper towels.",
+    "Serve the fritters hot with a side of avgolemono sauce.",
+    "To make the avgolemono sauce, combine lemon juice, chicken broth, and egg yolks in a blender.",
+    "Blend until smooth and creamy.",
+    "Strain the sauce through a fine-mesh sieve to remove any lumps.",
+    "Season with salt to taste.",
+    "Serve the fritters with the avgolemono sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "dense-greek-dry-shrimp-avgolemono-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-greek-dry-shrimp-avgolemono-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:51:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dried shrimp",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "Dense",
+    "dishForm": "Fritters"
+  }
+}
