@@ -1,0 +1,97 @@
+{
+  "title": "Deliciously Light Irish Semolina Bake",
+  "description": "A cultured and light Irish dish featuring semolina flour, perfect for a hangover cure. This bake is a delightful combination of flavors and textures.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the semolina flour, granulated sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, butter, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and mix until well combined.",
+    "Add the cinnamon powder and mix until just combined.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Dollop the raspberry jam on top of the mixture and use a knife to create a swirly design.",
+    "Top with fresh raspberries.",
+    "Bake for 35 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "breakfast-inspiration",
+    "high-protein",
+    "irish-cuisine",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "deliciously-light-irish-semolina-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-light-irish-semolina-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T20:00:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "semolina flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "semolina",
+    "descriptor": "Deliciously Light",
+    "dishForm": "Bake"
+  }
+}
