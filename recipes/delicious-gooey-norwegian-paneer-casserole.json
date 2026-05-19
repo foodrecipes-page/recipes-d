@@ -1,0 +1,102 @@
+{
+  "title": "Delicious Gooey Norwegian Paneer Casserole",
+  "description": "A floral and gooey lacto-vegetarian Norwegian dish featuring paneer, perfect for curing hangovers. This casserole is a hearty and comforting meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and saute the onion and mushrooms until they are softened.",
+    "In a large bowl, whisk together the flour, milk, eggs, salt, and black pepper.",
+    "Add the crumbled paneer to the bowl and stir until it is well combined with the wet ingredients.",
+    "Add the cooked onion and mushroom mixture to the bowl and stir until it is well combined.",
+    "Pour the mixture into a 9x13 inch baking dish and top with chopped parsley.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until it is golden brown and set.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "delicious-gooey-norwegian-paneer-casserole",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-gooey-norwegian-paneer-casserole",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:10:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "paneer",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "paneer",
+    "descriptor": "delicious gooey",
+    "dishForm": "Casserole"
+  }
+}

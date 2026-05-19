@@ -1,0 +1,101 @@
+{
+  "title": "Delicate Juicy Greek Grape Leaves Dolmades",
+  "description": "A buttery and light Greek dish featuring cilantro leaves, perfect for a snack or dinner. This recipe is Buddhist-temple-friendly and mortar-pestle-pound inspired.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove the stems.",
+    "In a mortar, pound the cilantro leaves, onion, and garlic until well combined.",
+    "In a bowl, mix together the rice, lemon juice, olive oil, salt, and black pepper.",
+    "Add the pounded cilantro mixture to the rice mixture and stir well.",
+    "Lay a grape leaf flat and place about 1 tablespoon of the rice mixture in the center.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmades in a large pot, seam-side down, and add enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Serve the dolmades warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "easy-to-make",
+    "greek-cuisine",
+    "one-pot",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "delicate-juicy-greek-grape-leaves-dolmades",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-juicy-greek-grape-leaves-dolmades",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:09:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "grape leaves",
+    "descriptor": "delicate juicy",
+    "dishForm": "Dolmades"
+  }
+}

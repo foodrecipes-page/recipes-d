@@ -5059,6 +5059,21 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-juicy-greek-grape-leaves-dolmades",
+    "title": "Delicate Juicy Greek Grape Leaves Dolmades",
+    "tags": [
+      "buddhist-temple-friendly",
+      "easy-to-make",
+      "greek-cuisine",
+      "one-pot",
+      "vegan-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-juicy-moroccan-fish-pastilla",
     "title": "Delicate Juicy Moroccan Fish Pastilla",
     "tags": [
@@ -7573,6 +7588,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-gooey-norwegian-paneer-casserole",
+    "title": "Delicious Gooey Norwegian Paneer Casserole",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "norwegian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
