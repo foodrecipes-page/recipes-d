@@ -1,0 +1,115 @@
+{
+  "title": "Dense Smoky Delight Thai Lettuce Nam-Prik",
+  "description": "A smoky, pillowy, nostalgic Thai dish featuring iceberg lettuce, salt-bake, and low-glycemic-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce Leaves",
+      "amount": "4",
+      "notes": "Any other lettuce variety can be used as a substitute"
+    },
+    {
+      "name": "Smoked Salt",
+      "amount": "1 teaspoon",
+      "notes": "Kosher salt can be used as a substitute"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Low-glycemic sugar alternative"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2",
+      "notes": "Adjust spiciness according to your preference"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Low-glycemic sweetener"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Vegetarian alternative: vegan fish sauce"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Unseasoned rice vinegar"
+    },
+    {
+      "name": "Pandan Leaves",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": "For salt-baking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse and dry the pandan leaves. Cut them into 4 equal pieces.",
+    "Place the coconut oil on the pandan leaves, then sprinkle smoked salt over the oil.",
+    "Place the pandan leaves with coconut oil and smoked salt on a baking sheet and bake for 5 minutes.",
+    "Remove the pandan leaves from the oven and let them cool.",
+    "In a mortar and pestle, pound the chili peppers until they are well-crushed.",
+    "Heat the chili peppers over low heat for 5 minutes, stirring occasionally.",
+    "Add the palm sugar, lime juice, fish sauce, and rice vinegar to the mortar and pestle.",
+    "Stir the mixture well and cook for 2 minutes.",
+    "Add the salt-baked pandan leaves to the mortar and pestle and stir well.",
+    "Chop the iceberg lettuce leaves into small pieces and add them to the mortar and pestle.",
+    "Stir the mixture well and let it sit for 5 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "smoky",
+    "snack",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "dense-smoky-delight-thai-lettuce-nam-prik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-delight-thai-lettuce-nam-prik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:03:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lettuce",
+    "descriptor": "Dense Smoky Delight",
+    "dishForm": "Nam-Prik"
+  }
+}
