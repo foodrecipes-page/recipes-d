@@ -1,0 +1,113 @@
+{
+  "title": "Double-cooked Brazilian fish Nigiri",
+  "description": "A sweet and crisp take on traditional sushi, featuring a Brazilian twist and a fun nigiri-shaping process.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh cod fillets, skin removed"
+    },
+    {
+      "name": "Tapioca starch",
+      "amount": "1 cup",
+      "notes": "For coating the cod fillets"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To season the cod fillets"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To season the cod fillets"
+    },
+    {
+      "name": "Palm oil",
+      "amount": "2 tbsp",
+      "notes": "For frying the cod fillets"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "For adding a sweet touch to the cod fillets"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "For adding a tangy flavor to the rice"
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "For making the sushi rice"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnishing the nigiri"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1 tsp",
+      "notes": "For garnishing the nigiri"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small pieces and set aside.",
+    "In a shallow dish, mix together the tapioca starch, salt, and black pepper.",
+    "Coat each piece of cod in the tapioca starch mixture, shaking off any excess.",
+    "Heat the palm oil in a large skillet over medium-high heat.",
+    "Add the coated cod pieces to the skillet and fry for 2-3 minutes on each side, or until golden brown.",
+    "Remove the cod from the skillet and set aside to cool.",
+    "Prepare the sushi rice according to the package instructions.",
+    "Once the rice is cooked, mix in the sugar and rice vinegar, and set aside to cool.",
+    "Cut the cooled rice into small pieces, and shape into nigiri using a small amount of water to help hold the shape.",
+    "Place a small piece of fried cod on top of each nigiri, and garnish with sesame seeds and cilantro leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-snacks",
+    "fish-recipes",
+    "gluten-free-recipes",
+    "low-carb-recipes",
+    "seafood-recipes",
+    "sushi-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "double-cooked-brazilian-fish-nigiri",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/double-cooked-brazilian-fish-nigiri",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T06:46:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "Double-cooked",
+    "dishForm": "Nigiri"
+  }
+}

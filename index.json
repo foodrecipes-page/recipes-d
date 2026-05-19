@@ -13272,6 +13272,23 @@
     "shard": "d"
   },
   {
+    "slug": "double-cooked-brazilian-fish-nigiri",
+    "title": "Double-cooked Brazilian fish Nigiri",
+    "tags": [
+      "brazilian-cuisine",
+      "easy-snacks",
+      "fish-recipes",
+      "gluten-free-recipes",
+      "low-carb-recipes",
+      "seafood-recipes",
+      "sushi-recipes",
+      "weeknight-meals"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "double-crisp-fried-irish-kale-hash",
     "title": "Double-Crisp Fried Irish Kale Hash",
     "tags": [
