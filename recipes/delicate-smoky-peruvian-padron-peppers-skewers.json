@@ -1,0 +1,94 @@
+{
+  "title": "Delicate Smoky Peruvian Padron Peppers Skewers",
+  "description": "Buttery and bouncy, these Peruvian padron pepper skewers are a show-off dish featuring smoky and cold flavors, perfect for ovo-vegetarian diets, served on a comal",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat",
+    "Thread the padron peppers onto skewers, leaving a small space between each pepper",
+    "In a small bowl, mix together the butter, garlic, smoked paprika, salt, and black pepper",
+    "Brush the butter mixture onto the padron peppers",
+    "Grill the padron peppers for 2-3 minutes per side, or until slightly charred",
+    "Remove the peppers from the heat and squeeze with lime juice",
+    "Serve the peppers on a comal, garnished with chopped fresh cilantro if desired",
+    "Allow the peppers to cool to room temperature before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "peruvian",
+    "quick",
+    "smoky",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "delicate-smoky-peruvian-padron-peppers-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-smoky-peruvian-padron-peppers-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:12:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "padron peppers",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "delicate smoky",
+    "dishForm": "Skewers"
+  }
+}
