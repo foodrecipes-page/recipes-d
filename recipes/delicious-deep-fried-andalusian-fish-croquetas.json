@@ -1,0 +1,100 @@
+{
+  "title": "Delicious Deep-Fried Andalusian Fish Croquetas",
+  "description": "A crispy and flavorful Spanish dish featuring fish, sultanas, and a perfect blend of spices. Ideal for a post-workout snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "fish-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod Fish",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Grated Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crispy Sultanas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fish into small pieces and mash it in a bowl using a fork.",
+    "In a separate bowl, mix together the flour, breadcrumbs, eggs, grated onion, crispy sultanas, smoked paprika, salt, and black pepper.",
+    "Add the fish pieces to the bowl and mix everything together until well combined.",
+    "Using your hands, shape the mixture into small cylindrical shapes.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, carefully place the fish croquetas into the pan and fry until golden brown.",
+    "Using a slotted spoon, carefully remove the croquetas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the deep-fried Andalusian fish croquetas hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "fish-friendly",
+    "high-protein",
+    "low-carb-friendly",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "delicious-deep-fried-andalusian-fish-croquetas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-deep-fried-andalusian-fish-croquetas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:17:51Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sultanas",
+    "diet": "low-carb",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "Fish",
+    "descriptor": "Delicious Deep-Fried",
+    "dishForm": "Croquetas"
+  }
+}
