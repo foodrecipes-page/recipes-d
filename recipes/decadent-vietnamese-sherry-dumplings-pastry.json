@@ -1,0 +1,102 @@
+{
+  "title": "decadent vietnamese sherry dumplings pastry",
+  "description": "this dish combines the lightness of a vietnamese spring roll with the richness of a sherry-infused pastry, creating a truly decadent and bitter flavor experience.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "warm sherry",
+      "amount": "1/2 cup",
+      "notes": "imported from vietnam"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality brand"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "12 sheets",
+      "notes": "found in most asian grocery stores"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup",
+      "notes": "for dipping"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 cup",
+      "notes": "seasoned with salt and pepper"
+    }
+  ],
+  "instructions": [
+    "combine warm sherry, ginger, garlic, and fish sauce in a bowl and mix well",
+    "heat a pan over medium heat and add a tablespoon of oil",
+    "add one wonton wrapper to the pan and cook for 30 seconds on each side",
+    "repeat with remaining wrappers",
+    "fill each wrapper with a tablespoon of ground pork and a sprinkle of hoisin sauce",
+    "fold the wrapper into a triangle and press the edges together to seal",
+    "cook the dumplings in the pan for 2-3 minutes on each side, or until golden brown",
+    "serve with a dipping sauce made from equal parts hoisin sauce and warm sherry",
+    "sprinkle with sesame seeds and chopped green onions"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "dessert",
+    "dumplings",
+    "pastry",
+    "sherry",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "decadent-vietnamese-sherry-dumplings-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-vietnamese-sherry-dumplings-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "sweet sherry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Sherry Dumplings",
+    "descriptor": "Decadent",
+    "dishForm": "Pastry"
+  }
+}
