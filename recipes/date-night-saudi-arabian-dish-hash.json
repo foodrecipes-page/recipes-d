@@ -1,0 +1,100 @@
+{
+  "title": "Hash",
+  "description": "Resinous, crispy, and aromatic Saudi-Arabian dish made with dates, rum, and sesame seeds. This recipe is perfect for a date-night dinner.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for high heat frying"
+    },
+    {
+      "name": "Rum",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for non-alcoholic version"
+    },
+    {
+      "name": "Crushed cardamom",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nimono broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": "optional",
+      "},{": ","
+    }
+  ],
+  "instructions": [
+    "Fry the sesame seeds in a hot skillet over medium heat, stirring frequently, until golden brown.",
+    "Add the coconut oil to the skillet and swirl to combine.",
+    "Add the crushed cardamom and stir for 10 seconds.",
+    "Add the dates and stir to combine.",
+    "Add the nimono broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the rum (if using) and ghee (if using).",
+    "Transfer the hash to a hot stone plate and serve immediately.",
+    "Season with salt to taste.",
+    "Garnish with additional sesame seeds and cardamom, if desired.",
+    "Serve warm and enjoy!",
+    "Reheat as needed before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "date-night",
+    "hot-stone-plate",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "date-night-saudi-arabian-dish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-saudi-arabian-dish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:18:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "rum",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "dish",
+    "descriptor": "date-night",
+    "dishForm": "Hash"
+  }
+}
