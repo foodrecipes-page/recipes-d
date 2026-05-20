@@ -1,0 +1,109 @@
+{
+  "title": "Dense Crispy Topped Peruvian Lomo Saltado Suspiro-Limeno",
+  "description": "A hearty, savory Peruvian dish featuring tender beef, crispy onions, and whole black peppercorns, served in a tandoor clay pot.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use kosher salt"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over medium-high heat.",
+    "Add the sesame oil and swirl to coat the bottom of the pot.",
+    "Add the beef strips and cook until browned, about 3 minutes.",
+    "Add the onion, bell pepper, and garlic, and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the black peppercorns, soy sauce, rice vinegar, sugar, and salt. Cook for 1 minute.",
+    "Transfer the beef and vegetable mixture to a plate and set aside.",
+    "Add a small amount of oil to the pot and swirl to coat the bottom.",
+    "Add the sliced onion and cook until crispy, about 5 minutes.",
+    "To assemble the dish, place a portion of the beef and vegetable mixture in the bottom of the pot, followed by a spoonful of the crispy onion topping.",
+    "Repeat this process until the pot is full, finishing with a layer of crispy onion on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "clay-pot",
+    "high-protein",
+    "lomo-saltado",
+    "peruvian",
+    "suspiro-limeno",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "dense-crispy-topped-peruvian-lomo-saltado-suspiro-limeno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-crispy-topped-peruvian-lomo-saltado-suspiro-limeno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:16:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lomo Saltado",
+    "descriptor": "Dense Crispy Topped",
+    "dishForm": "Suspiro-Limeno"
+  }
+}
