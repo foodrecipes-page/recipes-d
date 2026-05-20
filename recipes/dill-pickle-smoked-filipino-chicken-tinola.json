@@ -1,0 +1,111 @@
+{
+  "title": "Dill-Pickle Smoked Filipino Chicken Tinola",
+  "description": "A delicious, Buddhist-temple-friendly twist on traditional Filipino tinola, featuring smoky flavor from the clay pot and tangy dill pickles.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for vegan"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, 14 oz, 400 ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "6 peppercorns"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your clay pot or tajine vessel to 300°F (150°C).",
+    "Heat the coconut oil in the preheated pot over medium heat.",
+    "Add the sliced ginger and minced garlic and sauté until fragrant, about 2 minutes.",
+    "Add the chopped dill pickles and sauté for another minute.",
+    "Add the chicken, fish sauce (if using), smoked paprika, bay leaves, and black peppercorns. Stir to combine.",
+    "Pour in the chicken broth and coconut milk, and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the oven, or continue cooking over low heat on the stovetop.",
+    "Braise the chicken for 20-25 minutes, or until it's cooked through and the sauce has thickened.",
+    "Season the tinola with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro and steamed vegetables on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "dill-pickle-smoked",
+    "filipino",
+    "tinola",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "dill-pickle-smoked-filipino-chicken-tinola",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dill-pickle-smoked-filipino-chicken-tinola",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T09:42:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dill pickles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Dill-Pickle Smoked",
+    "dishForm": "Tinola"
+  }
+}
