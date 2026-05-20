@@ -1,0 +1,107 @@
+{
+  "title": "Dense Italian Cucumber Pesto Genovese",
+  "description": "A rich and dense adaptation of the classic Italian Genovese pesto, featuring cucumber and shio-koji-cure, perfect for a shojin-friendly meal",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji-cure",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegan parmesan",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a food processor, combine the cucumber, garlic, and a pinch of salt; process until coarsely chopped.",
+    "Add the basil, pistachios, and shio-koji-cure; process until well combined.",
+    "With the processor running, slowly pour in the olive oil through the top; process until smooth.",
+    "Add the water and vegan parmesan; process until well combined.",
+    "Transfer the pesto to a serving bowl and season with pepper to taste.",
+    "Serve immediately, garnished with additional basil if desired.",
+    "Store any leftover pesto in an airtight container in the refrigerator for up to 1 week."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cucumber",
+    "italian",
+    "pesto",
+    "shojin",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "dense-italian-cucumber-pesto-genovese",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-italian-cucumber-pesto-genovese",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cucumber",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cucumber",
+    "descriptor": "dense",
+    "dishForm": "Pesto Genovese"
+  }
+}
