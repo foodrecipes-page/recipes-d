@@ -1,0 +1,110 @@
+{
+  "title": "Dense Romantic Portuguese Tamarind Bake",
+  "description": "A rich and dense dessert featuring the tartness of tamarind paste, evoking the romance of Portugal. Perfect for a special occasion or date night.",
+  "cuisine": "portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425°F (220°C).",
+    "In a medium bowl, whisk together the flour, cocoa powder, and salt.",
+    "In a large bowl, use an electric mixer to beat together the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "With the mixer on low speed, gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Stir in the tamarind paste, walnuts, and heavy cream.",
+    "Pour the batter into a 9-inch round baking dish and smooth the top.",
+    "Bake for 35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove the dish from the oven and let it cool on a wire rack for 10 minutes.",
+    "Transfer the dish to a serving plate and let it cool completely before slicing and serving.",
+    "Dust with powdered sugar and serve with whipped cream or vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa",
+    "date-night",
+    "portuguese",
+    "special-occasion",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "dense-romantic-portuguese-tamarind-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-romantic-portuguese-tamarind-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tamarind paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "tamarind",
+    "descriptor": "dense romantic",
+    "dishForm": "bake"
+  }
+}

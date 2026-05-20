@@ -1,0 +1,101 @@
+{
+  "title": "Dense, Winey Mediterranean Dashi Wrap",
+  "description": "A filling and flavorful whole30-friendly meal featuring corn flour, dashi-extract, and wrapped in a corn husk.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the chopped tomatoes, artichoke hearts, and kalamata olives to the pan and cook for 2 minutes.",
+    "Stir in the dashi extract and chicken broth. Bring the mixture to a simmer and cook for 10 minutes.",
+    "Add the corn flour to the pan and stir to combine. Cook for an additional 2 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "Heat the corn husks in the oven or by steaming them until pliable.",
+    "Assemble the wraps by spooning the meat mixture onto the center of a heated corn husk and topping with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "dense-winey-mediterranean-dashi-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-winey-mediterranean-dashi-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "corn flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dashi",
+    "descriptor": "dense, winey",
+    "dishForm": "Wrap"
+  }
+}

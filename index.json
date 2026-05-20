@@ -13232,6 +13232,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-romantic-portuguese-tamarind-bake",
+    "title": "Dense Romantic Portuguese Tamarind Bake",
+    "tags": [
+      "cocoa",
+      "date-night",
+      "portuguese",
+      "special-occasion",
+      "tamarind"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
     "slug": "dense-romantic-slovakian-chestnut-mushroom-gratin",
     "title": "Dense Romantic Slovakian Chestnut Mushroom Gratin",
     "tags": [
@@ -14074,6 +14088,20 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-winey-mediterranean-dashi-wrap",
+    "title": "Dense, Winey Mediterranean Dashi Wrap",
+    "tags": [
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
