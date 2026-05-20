@@ -1,0 +1,105 @@
+{
+  "title": "Syrian Cardamom Tagine",
+  "description": "A rich and aromatic one-pot dish flavored with ground cardamom, perfect for any meal. This recipe serves 4-6 people and is suitable for satvik diets.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For saut\u00176ing the onions."
+    },
+    {
+      "name": "Finely chopped onion",
+      "amount": "1 medium",
+      "notes": "Use a sharp knife to get uniform pieces."
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": "Make sure to use freshly ground spices."
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a spice grinder for a more intense flavor."
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Add a pinch for extra color."
+    },
+    {
+      "name": "Chicken or vegetable broth",
+      "amount": "2 cups",
+      "notes": "Adjust to desired consistency."
+    },
+    {
+      "name": "Uncooked white or brown rice",
+      "amount": "1 cup",
+      "notes": "Rinse the rice before cooking."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use kosher salt for better flavor."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Use the leaves and tender stems only."
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large saucepan over medium heat.",
+    "Saute the onion until translucent and slightly golden brown, about 5 minutes.",
+    "Add the ground cardamom, cumin, coriander, and turmeric. Cook for 1 minute, stirring constantly.",
+    "Add the broth and rice. Stir to combine, then bring to a boil.",
+    "Reduce heat to low, cover the saucepan with a tight-fitting lid, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the tagine with a fork and garnish with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom",
+    "gluten-free",
+    "one-pot",
+    "rice",
+    "satvik",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "dense-syrian-dishes-made-with-rice-and-spices-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-syrian-dishes-made-with-rice-and-spices-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "ground cardomom",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dishes made with rice and spices",
+    "descriptor": "dense",
+    "dishForm": "Tagine"
+  }
+}
