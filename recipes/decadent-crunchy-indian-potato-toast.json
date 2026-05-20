@@ -1,0 +1,101 @@
+{
+  "title": "Decadent Crunchy Indian Potato Toast",
+  "description": "A rich, cheesy, and satisfying Indian-inspired snack made with roasted Jersey Royal potatoes, toasted bread, and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "bread",
+      "amount": "1 baguette",
+      "notes": "preferably a day-old baguette"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the potatoes into 1-inch pieces and toss with 2 tablespoons of butter, garam masala, cumin powder, turmeric powder, red chili flakes, and salt until they are evenly coated.",
+    "Spread the potatoes on a baking sheet lined with parchment paper and roast in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "Meanwhile, toast the baguette slices until they are lightly browned.",
+    "In a saucepan over medium heat, melt the remaining 2 tablespoons of butter.",
+    "Add the shredded gruyere cheese to the saucepan and stir until it is melted and smooth.",
+    "To assemble the toast, place a toasted baguette slice on a plate, followed by a few pieces of roasted potatoes, and then spoon some of the cheesy sauce over the top.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "comfort-food",
+    "easy-eats",
+    "indian-inspired",
+    "potato-perfection",
+    "shojin-friendly",
+    "snack-attack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "decadent-crunchy-indian-potato-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-crunchy-indian-potato-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:10:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potato",
+    "descriptor": "Decadent Crunchy",
+    "dishForm": "Toast"
+  }
+}
