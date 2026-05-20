@@ -1,0 +1,106 @@
+{
+  "title": "Dark, Gooey Thai Sushi Rice Larb Gua",
+  "description": "A rich and savory Thai-inspired dish featuring sushi rice, sous-vide, and a sweet and spicy larb sauce. Perfect for a comforting solo dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "150ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "galangal",
+      "amount": "2cm piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine sushi rice and water in a medium saucepan and cook according to package instructions.",
+    "Heat coconut oil in a small saucepan over medium heat and sauté the onion, garlic, and galangal until fragrant.",
+    "Add lemon juice, fish sauce, palm sugar, and chili flakes to the saucepan and stir to combine.",
+    "Using a sous-vide machine or a thermometer, heat the larb sauce to 80°C (176°F).",
+    "Transfer the sushi rice to a serving dish and spoon the warm larb sauce over the top.",
+    "Garnish with kaffir lime leaves and black sesame seeds.",
+    "Serve immediately and enjoy the gooey, resinous texture of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dark",
+    "gooey",
+    "lacto-vegetarian",
+    "sous-vide",
+    "sushi",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 26
+  },
+  "slug": "dark-gooey-thai-sushi-rice-larb-gua",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dark-gooey-thai-sushi-rice-larb-gua",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:56:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "sushi rice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Sushi rice",
+    "descriptor": "Dark, Gooey",
+    "dishForm": "Larb Gua"
+  }
+}

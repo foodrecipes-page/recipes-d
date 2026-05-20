@@ -436,6 +436,22 @@
     "shard": "d"
   },
   {
+    "slug": "dark-gooey-thai-sushi-rice-larb-gua",
+    "title": "Dark, Gooey Thai Sushi Rice Larb Gua",
+    "tags": [
+      "comfort-food",
+      "dark",
+      "gooey",
+      "lacto-vegetarian",
+      "sous-vide",
+      "sushi",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "dark-grilled-algerian-date-skewers",
     "title": "Dark Grilled Algerian Date Skewers",
     "tags": [
