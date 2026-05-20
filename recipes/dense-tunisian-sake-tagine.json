@@ -1,0 +1,129 @@
+{
+  "title": "Dense Tunisian Sake Tagine",
+  "description": "Resinous, dense, and comforting, this Tunisian dish features sake and is air-fried, making it a great option for those with FODMAP intolerance. Perfect for a chilly evening.",
+  "cuisine": "Tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1/2 cup",
+      "notes": "Japanese rice wine, or substitute with dry white wine."
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "1 (14.5 oz) can",
+      "notes": "Diced tomatoes, preferably low-acid."
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 (14.5 oz) can",
+      "notes": "Rinsed and drained for a tender texture."
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Air-Fryer Rack",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "optional",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ghee, onion, ginger, and garlic to create a flavorful mixture.",
+    "Transfer the mixture to the air-fryer basket, and cook at 400°F (200°C) for 10 minutes, shaking the basket halfway through.",
+    "While the mixture cooks, mix sake, canned tomatoes, chickpeas, cumin, smoked paprika, salt, and black pepper in a separate bowl.",
+    "Once the mixture is lightly browned, pour the sake mixture over the cooked onion mixture, and stir to combine.",
+    "Return the air-fryer basket to the device, and cook for an additional 5 minutes at 400°F (200°C).",
+    "Remove the tagine from the air fryer, and garnish with chopped fresh parsley, if desired.",
+    "Serve warm over couscous or crusty bread for a hearty meal.",
+    "Taste and adjust seasoning as needed before serving.",
+    "Note: Traditionally, a tagine is cooked in a clay pot with a conical lid, but the air fryer provides a similar result with much less effort and a fraction of the time.",
+    "Tagine is a thick stew that's perfect for a chilly evening, and this recipe makes 6 generous servings.",
+    "Adjust cooking time as needed based on the size of your air fryer and the desired level of tenderness.",
+    "Cook time can be reduced for a thinner, more brothy consistency.",
+    "For a more intense flavor, cook the mixture for 15-20 minutes, or until the liquid has almost completely evaporated.",
+    "Experiment with different spice combinations and ingredients to make this recipe your own, and enjoy the rich, comforting flavors of Tunisia in every bite."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "comfort-food",
+    "fodmap-friendly",
+    "hearty",
+    "one-pan",
+    "sake",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "dense-tunisian-sake-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-tunisian-sake-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "sake",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Sake",
+    "descriptor": "Dense",
+    "dishForm": "Tagine"
+  }
+}
