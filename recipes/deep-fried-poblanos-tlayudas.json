@@ -1,0 +1,108 @@
+{
+  "title": "Deep-Fried Poblanos Tlayudas",
+  "description": "Nutty, velvety Mexican dish featuring blackeye peas, poblanos, and a crispy agemono-fry. Perfect for a post-workout meal.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 Poblano Peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Blackeye Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup Cornmeal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp Ground Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "2 Ti Leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Cut poblanos into 1-inch pieces and set aside.",
+    "In a bowl, mix together cornmeal, cumin, smoked paprika, salt, and black pepper.",
+    "Dip each poblano piece into the cornmeal mixture, coating evenly.",
+    "Fry the coated poblanos until golden brown, about 3-4 minutes per piece.",
+    "Drain the fried poblanos on paper towels.",
+    "In a separate pan, heat a tablespoon of vegetable oil over medium heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add blackeye peas and cook until heated through, about 2-3 minutes.",
+    "Warm the ti leaves by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tlayudas by placing a fried poblano on each ti leaf, followed by a spoonful of blackeye peas and a sprinkle of garlic.",
+    "Fold the ti leaves to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-peas",
+    "mexican",
+    "poblano",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "deep-fried-poblanos-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-fried-poblanos-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "blackeye pea",
+    "diet": "low-sodium",
+    "region": "poblano",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "delicious deep-fried",
+    "dishForm": "tlayudas"
+  }
+}
