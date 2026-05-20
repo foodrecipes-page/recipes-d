@@ -3097,6 +3097,22 @@
     "shard": "d"
   },
   {
+    "slug": "deeply-savory-mexican-cabbage-barbacoa",
+    "title": "Deeply Savory Mexican Cabbage Barbacoa",
+    "tags": [
+      "barbacoa",
+      "beef",
+      "cabbage",
+      "chipotle",
+      "mexican",
+      "slow-cooker",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [

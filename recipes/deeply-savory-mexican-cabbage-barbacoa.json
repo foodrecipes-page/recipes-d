@@ -1,0 +1,97 @@
+{
+  "title": "Deeply Savory Mexican Cabbage Barbacoa",
+  "description": "A hearty, winey, and snappy Veracruz-style Mexican dish featuring tender white cabbage, rich beef, and a depth of flavor provided by chipotle peppers and oregano.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "White Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Chipotle Peppers",
+      "amount": "6 dried and rehydrated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Oregano",
+      "amount": "2 tbsp dried"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the chuck roast into large chunks and season with salt and black pepper.",
+    "Heat 1 tbsp of oil in a large Dutch oven over medium-high heat and sear the beef until browned on all sides.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the remaining 1 tbsp of oil to the pot and sauté the chipotle peppers until fragrant.",
+    "Add the garlic and sauté for another minute.",
+    "Add the oregano, lime juice, and 2 cups of water to the pot and bring to a simmer.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven at 300°F (150°C) for 2.5 hours, or until the beef is tender.",
+    "Shred the beef with two forks and return it to the pot.",
+    "Add the shredded cabbage to the pot and cook until it is tender and slightly caramelized.",
+    "Season the barbacoa with salt and black pepper to taste.",
+    "Serve hot and garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "barbacoa",
+    "beef",
+    "cabbage",
+    "chipotle",
+    "mexican",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "deeply-savory-mexican-cabbage-barbacoa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deeply-savory-mexican-cabbage-barbacoa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:21:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "white cabbage",
+    "diet": "dash",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cabbage",
+    "descriptor": "Deeply Savory",
+    "dishForm": "Barbacoa"
+  }
+}
