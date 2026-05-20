@@ -1,0 +1,115 @@
+{
+  "title": "Delightful Quick Fix Peruvian Avocado Picarones",
+  "description": "Quick fix Peruvian dish featuring avocado, a rich and juicy treat with ovo-vegetarian-friendly options.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe avocados, diced",
+      "amount": "2",
+      "notes": "use ripe avocados for the best flavor"
+    },
+    {
+      "name": "pressure cooker",
+      "amount": "1",
+      "notes": "a medium-sized pressure cooker is ideal"
+    },
+    {
+      "name": "Korean brass bowl",
+      "amount": "1",
+      "notes": "a large, deep bowl is necessary for forming the picarones"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "use a high-quality all-purpose flour"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "helps the picarones rise"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use a flaky sea salt for the best flavor"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "use a large egg for the best texture"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": "use a high-quality unsweetened almond milk"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality coconut oil for the best flavor"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "use a high-quality maple syrup for the best flavor"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "use fresh cilantro for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the diced avocado in cold water to remove any excess starch.",
+    "Drain the diced avocado and set it aside.",
+    "Add the flour, baking powder, salt, and egg to a large mixing bowl.",
+    "Mix the dry ingredients together until well combined.",
+    "Add the unsweetened almond milk and mix until the batter is smooth.",
+    "Heat the coconut oil in a pressure cooker over medium heat.",
+    "Using a spoon, drop the batter into the hot oil and fry for 2-3 minutes on each side.",
+    "Remove the fried picarones from the pressure cooker and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the picarones hot in a Korean brass bowl, topped with diced avocado and chopped fresh cilantro.",
+    "Drizzle with maple syrup and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian-friendly",
+    "peruvian-cuisine",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "delightful-quick-fix-peruvian-avocado-picarones",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delightful-quick-fix-peruvian-avocado-picarones",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:01:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "avocado",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Delightful Quick Fix",
+    "dishForm": "Picarones"
+  }
+}
