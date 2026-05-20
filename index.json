@@ -11692,6 +11692,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-ethiopian-paneer-wot",
+    "title": "Dense Ethiopian Paneer Wot",
+    "tags": [
+      "date-night",
+      "ethiopian",
+      "high-protein",
+      "one-pan",
+      "paneer",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 80,
+    "shard": "d"
+  },
+  {
     "slug": "dense-ethiopian-speck-ye-beg-alicha",
     "title": "Dense Ethiopian Speck Ye-beg-alicha",
     "tags": [
