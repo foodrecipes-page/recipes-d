@@ -1,0 +1,78 @@
+{
+  "title": "Dense Tender British Danmuji Toast",
+  "description": "A pungent yet tender breakfast dish featuring danmuji, toast, and keto-friendly ingredients. Perfect for meal prep.",
+  "cuisine": "Scottish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Danmuji (Korean Kimchi)",
+      "amount": "4 slices",
+      "notes": "Use a store-bought or homemade version"
+    },
+    {
+      "name": "Scottish Breakfast Toast",
+      "amount": "1 loaf",
+      "notes": "Look for a low-carb or gluten-free option"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, salt-free option"
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tablespoons",
+      "notes": "Add extra for garnish"
+    }
+  ],
+  "instructions": [
+    " Toast the Scottish Breakfast Toast until crispy and golden brown.",
+    "In a small pan, melt the unsalted butter over medium heat.",
+    "Add the danmuji slices and cook for 2-3 minutes on each side, until tender and slightly caramelized.",
+    "Meanwhile, chop the fresh chives and set aside for garnish.",
+    "Once the danmuji is cooked, place a slice on each piece of toast.",
+    "Top each slice with a spoonful of melted butter, then sprinkle with chopped chives.",
+    "Serve immediately and enjoy!",
+    "For meal prep, toast and store the slices in an airtight container for up to 3 days. Cook the danmuji and assemble just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep",
+    "one-pan",
+    "scottish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "dense-tender-british-danmuji-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-tender-british-danmuji-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:54:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "danmuji",
+    "diet": "keto",
+    "region": "scottish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Danmuji",
+    "descriptor": "Dense Tender",
+    "dishForm": "Toast"
+  }
+}
