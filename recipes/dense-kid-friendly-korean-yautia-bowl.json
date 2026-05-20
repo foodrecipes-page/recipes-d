@@ -1,0 +1,122 @@
+{
+  "title": "Dense, Kid-friendly Korean Yautia Bowl",
+  "description": "A hearty and comforting Korean-inspired dish featuring yautia, perfect for kids and low-glycemic diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yautia (also known as Cassava or Manioc)",
+      "amount": "2 medium-sized tubers",
+      "notes": "Peel and cut into 1-inch pieces."
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "To balance flavors."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "To taste."
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for added spice."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "to taste",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Peel and cut the yautia into 1-inch pieces and set aside.",
+    "Heat the sesame oil in a large pan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped green onions and cook for an additional 2 minutes, until softened.",
+    "Add the yautia, gochujang, soy sauce, sugar, salt, and black pepper to the pan, and stir to combine.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the yautia is tender.",
+    "Stir in the Korean chili flakes, if using.",
+    "Add the chopped scallions and stir to combine.",
+    "Serve hot in a traditional Korean brass bowl, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassava",
+    "kid-friendly",
+    "korean",
+    "low-glycemic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "dense-kid-friendly-korean-yautia-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-kid-friendly-korean-yautia-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:31:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "yautia",
+    "diet": "low-glycemic",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yautia",
+    "descriptor": "Dense, Kid-friendly",
+    "dishForm": "Bowl"
+  }
+}
