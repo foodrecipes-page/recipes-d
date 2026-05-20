@@ -1,0 +1,122 @@
+{
+  "title": "delicious sick-day malaysian trout bowl",
+  "description": "a soothing, resinous, and silky malaysian-inspired dish featuring trout, blanched vegetables, and a fragrant turmeric-ginger sauce, all carefully crafted to be fodmap-friendly and perfect for a sick day",
+  "cuisine": "malaysian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for pan-frying trout"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled, and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free, low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "blanched"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned, drained, and sliced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat.",
+    "add sliced ginger and cook for 1 minute, until fragrant.",
+    "add minced garlic and cook for 1 minute, until lightly browned.",
+    "add trout fillets and cook for 2-3 minutes per side, until cooked through.",
+    "remove trout from skillet and set aside.",
+    "add sliced green chilies to skillet and cook for 1 minute, until slightly softened.",
+    "add blanched snow peas and sliced bamboo shoots to skillet and cook for 2 minutes, until heated through.",
+    "stir in turmeric, fish sauce, and lime juice, and cook for 1 minute.",
+    "add cooked trout back to skillet and stir to combine with sauce.",
+    "season with salt to taste.",
+    "serve trout and sauce over rice or noodles, garnished with chopped cilantro.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "fodmap-friendly",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "delicious-sick-day-malaysian-trout-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-sick-day-malaysian-trout-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:26:38Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "trout",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "trout",
+    "descriptor": "delicious sick-day",
+    "dishForm": "Bowl"
+  }
+}
