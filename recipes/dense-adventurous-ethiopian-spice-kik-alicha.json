@@ -1,0 +1,109 @@
+{
+  "title": "Dense Adventurous Ethiopian Spice Kik Alicha",
+  "description": "A dense, adventurous Ethiopian dish featuring black cardamom pods and a unique blend of spices. Serve over low-fat injera or rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low-fat vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of low-fat vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and saut\u00116\u00042e until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the crushed black cardamom pods, ground cumin, ground coriander, turmeric powder, and cayenne pepper. Cook for 1 minute, until the spices are fragrant.",
+    "Add the low-sodium vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and add the chickpeas and sour cream. Simmer, uncovered, for 10-15 minutes, or until the liquid has thickened slightly.",
+    "Season with salt to taste.",
+    "Serve the Kik Alicha over low-fat injera or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "dense-adventurous-ethiopian-spice-kik-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-adventurous-ethiopian-spice-kik-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "spice",
+    "descriptor": "Dense Adventurous",
+    "dishForm": "Kik Alicha"
+  }
+}
