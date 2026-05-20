@@ -1,0 +1,57 @@
+{
+  "title": "Dense Midnight Basque-French Eggs Paella",
+  "description": "Funky, crispy, midnight-craving French (Basque-French) dish featuring eggs, tandoor, macrobiotic-friendly, made in a paella pan.",
+  "cuisine": "Basque-French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tandoor bread",
+      "amount": "1",
+      "notes": "dry, crumbled, 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 425\u00135F",
+    "In a large paella pan, heat 2 tablespoons of olive oil over medium heat",
+    "Add 1 small onion, diced, and saut\t2 until translucent, 3-4 minutes",
+    "Add 1 cup of uncooked brown rice and cook, stirring constantly, for 2 minutes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "trendy"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 26,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "dense-midnight-basque-french-eggs-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-midnight-basque-french-eggs-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:32:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "eggs",
+    "diet": "macrobiotic",
+    "region": "basque-french",
+    "cuisineAdjective": "Basque-French",
+    "mainIngredient": "Eggs",
+    "descriptor": "Dense Midnight",
+    "dishForm": "Paella"
+  }
+}
