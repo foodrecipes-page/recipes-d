@@ -1,0 +1,99 @@
+{
+  "title": "Dense Peppery Saudi-Arabian Danmuji Hash",
+  "description": "A spicy and aromatic dish that brings together the crunch of danmuji and the warmth of Saudi-Arabian spices.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large danmuji",
+      "amount": "2"
+    },
+    {
+      "name": "2 tablespoons of saffron threads",
+      "amount": "2",
+      "notes": "soaked in 2 tablespoons of hot water"
+    },
+    {
+      "name": "1 teaspoon of black pepper",
+      "amount": "1"
+    },
+    {
+      "name": "1 teaspoon of cumin powder",
+      "amount": "1"
+    },
+    {
+      "name": "1 teaspoon of coriander powder",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1"
+    },
+    {
+      "name": "1 pound of beef or lamb, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "2 tablespoons of vegetable oil",
+      "amount": "2"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the chopped beef or lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the cumin powder, coriander powder, and black pepper. Cook for 1 minute.",
+    "Add the soaked saffron and its liquid to the wok. Cook for 1 minute.",
+    "Add the danmuji to the wok and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional saffron threads if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "breakfast-option",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "dense-peppery-saudi-arabian-danmuji-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-peppery-saudi-arabian-danmuji-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T02:19:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "danmuji",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Danmuji",
+    "descriptor": "Dense Peppery",
+    "dishForm": "Hash"
+  }
+}
