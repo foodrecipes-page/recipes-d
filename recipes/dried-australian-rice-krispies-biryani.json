@@ -1,0 +1,96 @@
+{
+  "title": "Dried Australian Rice Krispies Biryani",
+  "description": "A lacto-vegetarian twist on the traditional biryani, featuring Australian rice krispies as the base ingredient.",
+  "cuisine": "australian",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian rice krispies",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium-high heat.",
+    "Add onion and sauté until translucent, about 3-4 minutes.",
+    "Add ginger and sauté for another minute.",
+    "Add tomato and sauté for 2 minutes.",
+    "Add curry powder and stir for 1 minute.",
+    "Add Australian rice krispies and stir to coat with spices.",
+    "Add coconut milk and water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the liquid is fully absorbed.",
+    "Fluff the biryani with a fork and season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dried-australian-rice-krispies-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-australian-rice-krispies-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:39:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "tadka",
+    "primaryIngredient": "rice krispies",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "rice krispies",
+    "descriptor": "dried",
+    "dishForm": "biryani"
+  }
+}
