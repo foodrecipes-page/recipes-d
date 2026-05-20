@@ -1,0 +1,107 @@
+{
+  "title": "Dense Briny Tunisian Tagine",
+  "description": "A hearty and savory brunch dish featuring a rich chimichurri sauce and a blend of aromatic spices. Perfect for a weekend morning.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "In a large bowl, whisk together the olive oil, onion, garlic, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the spice mixture.",
+    "Transfer the chickpea mixture to a 9x13 inch baking dish and bake for 30 minutes.",
+    "While the chickpeas are baking, prepare the chimichurri sauce by combining the parsley, olive oil, garlic, and lemon juice in a bowl.",
+    "Remove the chickpeas from the oven and top with the chimichurri sauce.",
+    "Return the dish to the oven and bake for an additional 10 minutes.",
+    "Remove the tagine from the oven and let it cool for 5 minutes before serving.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "dense-briny-tunisian-dishes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-briny-tunisian-dishes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:06:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dishes",
+    "descriptor": "dense briny",
+    "dishForm": "Tagine"
+  }
+}

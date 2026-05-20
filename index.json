@@ -10923,6 +10923,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-briny-tunisian-dishes-tagine",
+    "title": "Dense Briny Tunisian Tagine",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
+    "shard": "d"
+  },
+  {
     "slug": "dense-british-sponge-cake-trifle",
     "title": "Dense British Sponge Cake Trifle",
     "tags": [
