@@ -1,0 +1,100 @@
+{
+  "title": "Doubanjiang Syrian Meat Tagine",
+  "description": "A funky, crumbly, meal-prep Syrian dish featuring doubanjiang and tempering-chocolate, no onion or garlic in sight. This recipe makes the perfect weeknight dinner or prep-for-the-week meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "non-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Doubanjiang",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, salt, black pepper, and cumin in a large mixing bowl, mix well.",
+    "Add doubanjiang and tempering chocolate, mix until just combined.",
+    "Heat a large skillet or Dutch oven over medium-high heat, add the beef mixture and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Transfer the skillet or Dutch oven to the oven and bake at 400°F (200°C) for 20 minutes, or until cooked through.",
+    "Stir in chopped parsley and cilantro before serving.",
+    "Serve hot, garnished with additional parsley and cilantro if desired.",
+    "Let cool completely and refrigerate or freeze for meal prep.",
+    "Reheat as needed, serving from the refrigerator or freezer directly without further cooking.",
+    "To make the dish easier to reheat, consider portioning it into individual containers before refrigerating or freezing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 64,
+    "carbs": 8,
+    "fat": 32
+  },
+  "slug": "doubanjiang-syrian-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/doubanjiang-syrian-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:46Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "doubanjiang",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Meat",
+    "descriptor": "Doubanjiang",
+    "dishForm": "Tagine"
+  }
+}
