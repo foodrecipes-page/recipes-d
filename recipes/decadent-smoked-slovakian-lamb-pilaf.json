@@ -1,0 +1,116 @@
+{
+  "title": "Decadent Smoked Slovakian Lamb Pilaf",
+  "description": "Rich, snappy Slovakian dish featuring chervil and a miso-marinate.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt-block-rinsed lamb shoulder, bone-in",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "120g",
+      "notes": "white miso"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Hungarian"
+    },
+    {
+      "name": "Chervil",
+      "amount": "4 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ghee or neutral oil",
+      "amount": "50g",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "2 medium",
+      "notes": "sautéed"
+    },
+    {
+      "name": "Rice",
+      "amount": "400g"
+    },
+    {
+      "name": "Stock",
+      "amount": "1 liter",
+      "notes": "beef or lamb broth"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 150°C.",
+    "Rinse the lamb shoulder under cold running water, then pat dry with paper towels.",
+    "In a small bowl, mix together miso paste, smoked paprika, garlic, and 2 tbsp of water to form a smooth paste.",
+    "Rub the miso-marinate all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the ghee or neutral oil in a large oven-safe skillet over medium-high heat. Sear the lamb shoulder for 2-3 minutes on each side, or until nicely browned.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 30 minutes.",
+    "While the lamb is roasting, heat 2 tbsp of ghee or neutral oil in a separate skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the chopped parsley and chervil to the skillet and cook for 1-2 minutes, or until fragrant.",
+    "Fluff the cooked rice with a fork and stir in the stock, Worcestershire sauce, and sautéed onion mixture.",
+    "Remove the lamb from the oven and let it rest for 5 minutes.",
+    "Slice the lamb against the grain and serve on top of the pilaf."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 53,
+    "carbs": 35,
+    "fat": 39
+  },
+  "slug": "decadent-smoked-slovakian-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoked-slovakian-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:23:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chervil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Decadent Smoked",
+    "dishForm": "Pilaf"
+  }
+}
