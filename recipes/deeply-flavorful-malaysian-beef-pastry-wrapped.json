@@ -1,0 +1,103 @@
+{
+  "title": "Beef Pastry Wrapped with Spicy Red Peppers",
+  "description": "A deeply flavorful Malaysian beef pastry wrapped dish featuring tender beef, crunchy red peppers, and aromatic spices, all in one keto-friendly pot.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef strips",
+      "amount": "500g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "mushroom",
+      "amount": "250g"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pastry dough",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the red bell pepper and mushroom and cook for 3 minutes.",
+    "Add the beef strips and cook until browned.",
+    "Add the curry powder, fish sauce, and turmeric, and stir well.",
+    "Place a sheet of pastry dough over the filling, pressing the edges to seal.",
+    "Fold the edges over twice to seal the pastry, and brush with a little water.",
+    "Repeat with the remaining filling and pastry dough.",
+    "Place the pastry wrapped beef in a preheated oven at 180°C and bake for 25 minutes.",
+    "Serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "keto-friendly",
+    "kid-friendly",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "deeply-flavorful-malaysian-beef-pastry-wrapped",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deeply-flavorful-malaysian-beef-pastry-wrapped",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:46:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "red pepper",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Deeply Flavorful",
+    "dishForm": "Pastry Wrapped"
+  }
+}
