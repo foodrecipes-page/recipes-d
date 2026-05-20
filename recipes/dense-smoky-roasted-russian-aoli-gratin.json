@@ -1,0 +1,111 @@
+{
+  "title": "Dense Smoky Roasted Russian Aoli Gratin",
+  "description": "A rich and satisfying vegetarian gratin featuring smoky aoli, roasted vegetables, and a crispy, golden-brown top.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "2 medium zucchinis",
+      "amount": "sliced",
+      "notes": ""
+    },
+    {
+      "name": "2 medium carrots",
+      "amount": "sliced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup aoli",
+      "amount": "smoky",
+      "notes": "homemade or store-bought",
+      "difficulty": "easy"
+    },
+    {
+      "name": "1/2 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "",
+      "difficulty": "easy"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": "for brushing",
+      "difficulty": "easy"
+    },
+    {
+      "name": "2 tbsp dried oregano",
+      "amount": "",
+      "notes": "for sprinkling",
+      "difficulty": "easy"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "",
+      "notes": "sweet or smoked",
+      "difficulty": "easy"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "",
+      "difficulty": "easy"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\b0F (190\b0C).",
+    "Prepare the eggplant, zucchinis, and carrots by cutting them into a mixture of 1-inch cubes and thin slices.",
+    "Brush a bamboo steamer with olive oil and sprinkle with dried oregano.",
+    "Fill the steamer with a layer of eggplant, followed by a layer of zucchinis, then a layer of carrots, and finally a layer of aoli."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "gratin",
+    "high-in-fibre",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 4200,
+    "protein": 80,
+    "carbs": 40,
+    "fat": 240
+  },
+  "slug": "dense-smoky-roasted-russian-aoli-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-roasted-russian-aoli-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:37:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "flambe",
+    "primaryIngredient": "smoky a oli",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "smoky aoli",
+    "descriptor": "Dense smoky roasted",
+    "dishForm": "Gratin"
+  }
+}
