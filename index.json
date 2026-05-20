@@ -11266,6 +11266,24 @@
     "shard": "d"
   },
   {
+    "slug": "dense-crowd-pleasing-mexican-beef-carnitas",
+    "title": "Dense, Crowd-Pleasing Mexican Beef Carnitas",
+    "tags": [
+      "beef",
+      "carnitas",
+      "crowd-pleaser",
+      "dinner",
+      "glaze",
+      "mexican",
+      "one-pan",
+      "special-occasion",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 290,
+    "shard": "d"
+  },
+  {
     "slug": "dense-dark-croatian-plum-parfait",
     "title": "Dense Dark Croatian Plum Parfait",
     "tags": [
@@ -11951,6 +11969,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-kenyan-tomatoes-tagine",
+    "title": "Dense Kenyan Tomatoes Tagine",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "kenyan",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {

@@ -1,0 +1,99 @@
+{
+  "title": "Dense Kenyan Tomatoes Tagine",
+  "description": "Rich and flavorful dish from Kenya made with cherry tomatoes and a sweet and tangy ferment-jang sauce. Perfect for a date-night dinner.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large slate-tile vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the cherry tomatoes, ferment-jang, ground cumin, ground coriander, salt, and black pepper. Stir well to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Use a spoon to mash some of the tomatoes against the side of the vessel to release their juices.",
+    "Continue to simmer for another 10 minutes, stirring occasionally.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dense-kenyan-tomatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-kenyan-tomatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:30:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Dense",
+    "dishForm": "Tagine"
+  }
+}
