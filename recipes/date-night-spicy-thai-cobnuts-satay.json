@@ -1,0 +1,115 @@
+{
+  "title": "Date-Night Spicy Thai Cobnuts Satay",
+  "description": "A peppery and juicy Thai-inspired satay dish made with cobnuts, perfect for a date night. This plant-based-friendly recipe is quick and easy to make.",
+  "cuisine": "Thai",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "12-16",
+      "notes": "Raw cobnuts"
+    },
+    {
+      "name": "Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "Melted coconut oil"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Pure honey"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium soy sauce"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Unseasoned rice vinegar"
+    },
+    {
+      "name": "Spicy Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": "Red pepper flakes"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the red curry paste, coconut oil, lime juice, honey, soy sauce, rice vinegar, and spicy pepper flakes. Blend until smooth.",
+    "Add the chopped cilantro and blend until well combined.",
+    "Cut the cobnuts in half lengthwise and place them in a large bowl.",
+    "Pour the blended curry paste mixture over the cobnuts and toss to coat.",
+    "Season the cobnuts with salt and black pepper.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Thread the cobnuts onto skewers, if using.",
+    "Grill the cobnuts for 2-3 minutes per side, or until they are slightly charred and tender.",
+    "Serve the satay hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "date-night-spicy-thai-cobnuts-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-spicy-thai-cobnuts-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:14:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cobnuts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Date-Night Spicy",
+    "dishForm": "Satay"
+  }
+}
