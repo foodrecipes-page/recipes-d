@@ -5238,6 +5238,20 @@
     "shard": "d"
   },
   {
+    "slug": "delicate-indian-dough-gulab-jjumun",
+    "title": "Gulab Jjumun",
+    "tags": [
+      "deep-fried",
+      "dessert",
+      "gujarati",
+      "gulab-jamun",
+      "orange"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
     "slug": "delicate-indian-lentil-dal",
     "title": "Delicate Indian Lentil Dal",
     "tags": [

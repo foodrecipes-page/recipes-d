@@ -1,0 +1,113 @@
+{
+  "title": "Gulab Jjumun",
+  "description": "Deep-fried dumplings soaked in a fragrant syrup made with oranges and spices. A traditional Gujarati dessert.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 liter",
+      "notes": "whole milk is preferred"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "you can also use maida flour"
+    },
+    {
+      "name": "khoya or milk powder",
+      "amount": "1 cup",
+      "notes": "khoya is preferred for better taste"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/4 cup",
+      "notes": "ghee gives a better flavor"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed is preferred"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "use organic oranges for better flavor"
+    },
+    {
+      "name": "rosewater",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality rosewater"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon",
+      "notes": "use freshly ground cardamom powder"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 cups",
+      "notes": "use organic sugar for better flavor"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for making the syrup"
+    },
+    {
+      "name": "food color",
+      "amount": "a few drops",
+      "notes": "use yellow food color"
+    }
+  ],
+  "instructions": [
+    "Combine milk, flour, and khoya or milk powder in a mixing bowl.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Heat ghee or oil in a deep frying pan over medium heat.",
+    "Make small balls from the dough and fry them in hot oil until they are golden brown.",
+    "Drain the fried dumplings on paper towels and set them aside.",
+    "Combine orange juice, orange zest, rosewater, cardamom powder, and sugar in a saucepan.",
+    "Heat the syrup over medium heat until it thickens and turns golden brown.",
+    "Add the fried dumplings to the syrup and let them soak for 10-15 minutes.",
+    "Serve the gulab jjumun warm or at room temperature.",
+    "Garnish with chopped nuts or dried fruits if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "deep-fried",
+    "dessert",
+    "gujarati",
+    "gulab-jamun",
+    "orange"
+  ],
+  "nutrition": {
+    "calories": 2800,
+    "protein": 40,
+    "carbs": 420,
+    "fat": 140
+  },
+  "slug": "delicate-indian-dough-gulab-jjumun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-indian-dough-gulab-jjumun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:05:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "oranges",
+    "diet": "ayurvedic-tamasic",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dough",
+    "descriptor": "delicate",
+    "dishForm": "Gulab Jjumun"
+  }
+}
