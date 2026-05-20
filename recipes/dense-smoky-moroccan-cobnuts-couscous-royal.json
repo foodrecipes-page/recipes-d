@@ -1,0 +1,106 @@
+{
+  "title": "Dense Smoky Moroccan Cobnuts Couscous Royal",
+  "description": "Salty, crisp and flavorful, this cobnuts couscous is a perfect monsoon dish from Morocco. It's a hearty and filling meal that's easy to make in a clay tajine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked cobnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoon"
+    },
+    {
+      "name": "couscous",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay tajine over medium heat.",
+    "Add the chopped green onions and cook until softened, about 3 minutes.",
+    "Add the smoked cobnuts, cumin, coriander, and paprika. Cook for 1 minute.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Add the couscous, salt, and black pepper. Stir to combine.",
+    "Reduce the heat to low and cover the tajine. Simmer for 10 minutes.",
+    "Fluff the couscous with a fork and stir in the coconut milk.",
+    "Serve hot and garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "healthy",
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "dense-smoky-moroccan-cobnuts-couscous-royal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-moroccan-cobnuts-couscous-royal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:28:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cobnuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Dense Smoky",
+    "dishForm": "Couscous Royal"
+  }
+}
