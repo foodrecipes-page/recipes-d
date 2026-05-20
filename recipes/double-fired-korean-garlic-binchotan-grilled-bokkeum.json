@@ -1,0 +1,108 @@
+{
+  "title": "Double-Fired Korean Garlic Binchotan-Grilled Bokkeum",
+  "description": "A rich and savory Busan-style dish featuring double-fried garlic cloves grilled to perfection over a Binchotan grill. Best served as a late-night anju.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Binchotan charcoal",
+      "amount": "8-10 pieces",
+      "notes": "preferably Korean Binchotan charcoal"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 cloves",
+      "notes": "use high-quality, hardneck garlic"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use a high-quality, aged soy sauce"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "preferably cold-pressed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crushed pork rinds (optional)",
+      "amount": "2 tbsp",
+      "notes": "adds a rich, savory flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the Binchotan charcoal in a charcoal chimney until ash has formed.",
+    "Transfer the charcoal to a Binchotan grill and preheat to 500°F (260°C).",
+    "In a small bowl, mix together gochujang, gochugaru, and sesame oil.",
+    "Double-fry the garlic cloves in a skillet over medium heat until crispy, then set aside.",
+    "In the same skillet, add the soy sauce, black pepper, and thinly sliced ginger. Cook for 1-2 minutes, until fragrant.",
+    "Add the green onions to the skillet and cook for an additional 1-2 minutes, until slightly wilted.",
+    "Transfer the garlic cloves to the preheated Binchotan grill and grill for 2-3 minutes per side, until caramelized.",
+    "Brush the gochujang-gochugaru mixture onto the garlic cloves during the last minute of grilling.",
+    "Serve the grilled garlic cloves hot, garnished with crushed pork rinds if desired.",
+    "Optional: serve with a side of steamed rice or noodles to soak up the savory sauce.",
+    "Garnish with additional green onions and thinly sliced ginger, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anju",
+    "busan",
+    "korean-cuisine",
+    "late-night-snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "double-fired-korean-garlic-binchotan-grilled-bokkeum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/double-fired-korean-garlic-binchotan-grilled-bokkeum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "garlic clove",
+    "diet": "raw",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "garlic",
+    "descriptor": "Double-Fired",
+    "dishForm": "Binchotan-Grilled Bokkeum"
+  }
+}
