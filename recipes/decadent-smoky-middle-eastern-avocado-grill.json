@@ -1,0 +1,75 @@
+{
+  "title": "Decadent Smoky Middle-Eastern Avocado Grill",
+  "description": "A rich and creamy avocado dish infused with the deep flavors of smoky binchotan charcoal, inspired by middle-eastern cuisine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocados",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C) to ensure optimal binchotan charcoal smokiness.",
+    "Rinse the avocados and slice them into 1-inch thick wedges.",
+    "In a small bowl, whisk together lemon juice, 1 tablespoon olive oil, and a pinch of salt to create a drizzle sauce.",
+    "Place the avocado wedges on the preheated raclette grill and cook for 2-3 minutes per side, or until slightly charred and tender.",
+    "Remove the avocados from the grill and brush with the drizzle sauce.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Repeat the cooking process for the remaining avocado wedges, adjusting the cooking time as needed.",
+    "For an added touch, sprinkle a pinch of sumac or paprika over the avocado wedges for a pop of color and flavor.",
+    "Serve the decadent smoky middle-eastern avocado grill warm, as the dish cools quickly and loses its smokiness.",
+    "To enhance the experience, pair the dish with a side of warm pita bread or a refreshing salad for a satisfying meal.",
+    "For a more indulgent treat, top the avocado wedges with crumbled feta cheese or a dollop of creamy tahini sauce.",
+    "Experiment with different types of charcoal or grill marks to create unique flavor profiles and textures.",
+    "Consider adding a squeeze of fresh lime juice or a sprinkle of chopped herbs to the avocado wedges for added brightness and freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "avocado",
+    "charcoal-grilled",
+    "middle-eastern",
+    "racllette-grill",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "decadent-smoky-middle-eastern-avocado-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-smoky-middle-eastern-avocado-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:48:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "avocado",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Avocado",
+    "descriptor": "Decadent Smoky",
+    "dishForm": "Grill"
+  }
+}
