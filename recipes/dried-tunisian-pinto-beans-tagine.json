@@ -1,0 +1,118 @@
+{
+  "title": "Dried Tunisian Pinto Beans Tagine",
+  "description": "A rich, low-calorie one-pot dish from Tunisia, featuring pinto beans, preserved lemons, and a tangy manteca emulsion.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried pinto beans",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the diced preserved lemon and cook for 1 minute.",
+    "Add the ground cumin, coriander, red pepper flakes, and salt. Cook for 1 minute.",
+    "Add the sorted and rinsed pinto beans, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "After 1 hour, use an immersion blender to puree the tagine until slightly smooth.",
+    "Stir in the chopped fresh parsley and cook for an additional 10 minutes.",
+    "To make the manteca emulsion, whisk together 1/2 cup of water and 2 tablespoons of olive oil in a small bowl.",
+    "Gradually pour the manteca emulsion into the tagine, whisking constantly.",
+    "Continue to simmer the tagine for an additional 10-15 minutes, or until the emulsion has thickened and the tagine has reached the desired consistency."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "low-calorie",
+    "north-african",
+    "one-pot",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "dried-tunisian-pinto-beans-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/dried-tunisian-pinto-beans-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T06:12:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "pinto beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pinto beans",
+    "descriptor": "dried",
+    "dishForm": "Tagine"
+  }
+}
