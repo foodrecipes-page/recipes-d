@@ -1,0 +1,119 @@
+{
+  "title": "delicate light syrian broccoli pilaf",
+  "description": "a fresh, flaky, light syrian dish featuring broccoli and pickle, perfect for diabetic diets",
+  "cuisine": "syrian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large pan, heat 2 tablespoons of olive oil over medium heat.",
+    "add the chopped onion and sauté until translucent, about 5 minutes.",
+    "add the minced garlic and sauté for another minute.",
+    "add the broccoli florets and sauté for 3-4 minutes, until tender.",
+    "add the pickle slices, salt, and black pepper, and stir to combine.",
+    "add the flour and stir to coat the vegetables.",
+    "add the chicken breast and stir to coat with the flour mixture.",
+    "cook the chicken for 5-6 minutes on each side, until cooked through.",
+    "remove the chicken from the pan and let it rest.",
+    "add the lemon juice and stir to combine.",
+    "return the chicken to the pan and stir to coat with the sauce.",
+    "serve the chicken and vegetables hot, garnished with chopped fresh parsley.",
+    "note: adjust the amount of lemon juice to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-meal",
+    "syrian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "delicate-light-syrian-broccoli-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-light-syrian-broccoli-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:18:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "broccoli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Delicate Light",
+    "dishForm": "Pilaf"
+  }
+}
