@@ -1,0 +1,109 @@
+{
+  "title": "dense energizing uruguayan cumin hash",
+  "description": "a high-protein, fermented dish featuring cumin seeds and a soffritto base, served as a hearty breakfast option",
+  "cuisine": "uruguayan",
+  "diet": [
+    null,
+    "high-protein",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cumin seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for soaking flaxseed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "soak the flaxseed in water for 10 minutes.",
+    "chop the onion and garlic and saut\u000449 in a cast-iron skillet over medium heat until softened.",
+    "add the carrots and sweet potatoes to the skillet and cook for 5 minutes.",
+    "add the cumin seeds, salt, and black pepper to the skillet and stir to combine.",
+    "transfer the mixture to a bowl and stir in the ground flaxseed and apple cider vinegar.",
+    "return the mixture to the skillet and cook over low heat for 10 minutes, stirring occasionally.",
+    "serve hot, garnished with additional cumin seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "dense-energizing-uruguayan-cumin-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-energizing-uruguayan-cumin-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:13:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cumin seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cumin",
+    "descriptor": "dense energizing",
+    "dishForm": "hash"
+  }
+}
