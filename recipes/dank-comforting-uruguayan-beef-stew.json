@@ -1,0 +1,91 @@
+{
+  "title": "Comforting Uruguayan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, characterized by its rich, mustardy sauce and tender beef brisket. This recipe is a comforting and satisfying meal option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": "confit-tomato"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add the sliced onion and cook, stirring occasionally, until it starts browning, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute more, until fragrant.",
+    "Add the beef brisket, salt, and black pepper. Cook, browning the beef on all sides, about 5 minutes.",
+    "Add the carrots and celery, and cook, stirring occasionally, until they start to soften, about 5 minutes.",
+    "Add the confit-tomato, water, and mustard. Stir to combine, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 2 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the beef from the pot and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Serve the beef in the sauce, garnished with chopped fresh parsley, if desired.",
+    "Taste and adjust seasoning as needed.",
+    "Strain the sauce to remove the solids, if desired.",
+    "Serve the stew hot over rice, noodles, or with crusty bread.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 120,
+  "totalTimeMin": 145,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "stew",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "dank-comforting-uruguayan-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dank-comforting-uruguayan-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:31:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "beef brisket",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "dank comforting",
+    "dishForm": "stew"
+  }
+}

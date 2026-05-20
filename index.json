@@ -83,6 +83,20 @@
     "shard": "d"
   },
   {
+    "slug": "dank-comforting-uruguayan-beef-stew",
+    "title": "Comforting Uruguayan Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "stew",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 145,
+    "shard": "d"
+  },
+  {
     "slug": "daring-crunchy-australian-almonds-wrap",
     "title": "Daring Crunchy Australian Almonds Wrap",
     "tags": [
@@ -11623,6 +11637,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-french-beef-bourguignon",
+    "title": "Dense French Beef Bourguignon",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 240,
     "shard": "d"
   },
   {
