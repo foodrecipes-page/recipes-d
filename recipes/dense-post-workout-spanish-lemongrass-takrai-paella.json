@@ -1,0 +1,113 @@
+{
+  "title": "Dense post-workout Spanish lemongrass-takrai Paella",
+  "description": "A spicy, glassy-jelly post-workout Spanish dish featuring lemongrass-takrai, cure, ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "lemongrass-takrai paste",
+      "amount": "2 tbsp",
+      "notes": "spicy, glassy-jelly"
+    },
+    {
+      "name": "cured chorizo",
+      "amount": "1/2 cup",
+      "notes": "spicy, cured sausage"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use a salt block"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large salt-block pan over medium-high heat.",
+    "Add the sliced red onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cured chorizo and cook until crispy, about 2-3 minutes.",
+    "Add the lemongrass-takrai paste and cook for 1-2 minutes, until fragrant.",
+    "Add the paella rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the water, lemon juice, saffron threads, and kombu seaweed. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "dense-post-workout-spanish-lemongrass-takrai-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-post-workout-spanish-lemongrass-takrai-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:34Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Lemongrass-takrai",
+    "descriptor": "Dense post-workout",
+    "dishForm": "Paella"
+  }
+}
