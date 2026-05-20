@@ -1,0 +1,98 @@
+{
+  "title": "Deliciously Energizing Brazilian Chicken Skewers",
+  "description": "A flavorful and energizing Brazilian dish featuring chicken skewers marinated in a winey and paleo-friendly mixture, served with a side of unsalted butter for added richness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, or about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together melted butter, red wine vinegar, coconut oil, garlic, ginger, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of grilled vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-chicken",
+    "healthy-dinner",
+    "high-protein",
+    "paleo-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "deliciously-energizing-brazilian-chicken-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-energizing-brazilian-chicken-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:11:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "unsalted butter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Deliciously Energizing",
+    "dishForm": "Skewers"
+  }
+}
