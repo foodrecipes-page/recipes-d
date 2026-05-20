@@ -12011,6 +12011,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-filipino-peas-pinakbet",
+    "title": "Dense Filipino Peas Pinakbet",
+    "tags": [
+      "filipino",
+      "one-pan",
+      "peas",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
     "slug": "dense-flaky-filipino-one-pot-dish-lumpia",
     "title": "Lumpia",
     "tags": [

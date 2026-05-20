@@ -1,0 +1,96 @@
+{
+  "title": "Dense Filipino Peas Pinakbet",
+  "description": "A rich and savory Filipino dish featuring green peas, bok choy, and tomatoes, all cooked in a spicy bagoong sauce. This one-pot recipe is perfect for a quick and easy meal. No onions or garlic in sight!",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bok choy",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "green peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "bagoong",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "patis",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon.",
+    "Add the bagoong, patis, fish sauce, and black pepper. Stir to combine.",
+    "Add the bok choy and green peas. Cook until the bok choy has wilted and the peas are tender.",
+    "Season with more patis and fish sauce to taste.",
+    "Transfer the mixture to a serving dish and serve hot.",
+    "Serve with steamed rice or as a side dish.",
+    "Adjust seasoning as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "one-pan",
+    "peas",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "dense-filipino-peas-pinakbet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-filipino-peas-pinakbet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:59:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peas",
+    "descriptor": "dense",
+    "dishForm": "Pinakbet"
+  }
+}
