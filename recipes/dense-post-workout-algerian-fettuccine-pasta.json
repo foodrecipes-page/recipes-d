@@ -1,0 +1,108 @@
+{
+  "title": "Dense Post-Workout Algerian Fettuccine Pasta",
+  "description": "This hearty Algerian-inspired fettuccine dish is designed to replenish energy stores post-workout. A blend of flavorful spices and wholesome ingredients fuels recovery.",
+  "cuisine": "algerian",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "8 oz",
+      "notes": "whole wheat, preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "cold-pressed, extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, raw"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, raw"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground, organic"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked, organic"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium, organic"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "crushed, organic, no added salt"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 oz",
+      "notes": "boneless, skinless, organic"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped, raw, unsalted"
+    }
+  ],
+  "instructions": [
+    "In a large pot, boil salted water for cooking fettuccine.",
+    "Add fettuccine to the boiling water and cook for 8 minutes, or until al dente.",
+    "In a separate pan, heat olive oil over medium-high heat. Add onion and garlic and saut\b4 until translucent, about 3-4 minutes.",
+    "Add cumin and paprika to the pan, cooking for 1 minute, then stir in chicken broth and diced tomatoes.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, stirring occasionally.",
+    "Add cooked fettuccine to the pan, tossing to coat with the sauce.",
+    "Shred or chop cooked chicken breast and add to the pasta.",
+    "Sprinkle chopped almonds on top of the pasta for added crunch.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "dense-post-workout-algerian-fettuccine-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-post-workout-algerian-fettuccine-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:54:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "fettuccine",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fettuccine",
+    "descriptor": "dense post-workout",
+    "dishForm": "Pasta"
+  }
+}
