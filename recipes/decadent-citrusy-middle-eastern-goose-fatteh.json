@@ -1,0 +1,70 @@
+{
+  "title": "Decadent Citrusy Middle Eastern Goose Fatteh",
+  "description": "A spring-inspired brunch dish featuring the rich flavors of goose fat, coconut cream, and citrusy notes.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Goose fat",
+      "amount": "1 cup",
+      "notes": "cold, rendered goose fat"
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a skillet over medium heat to melt and bubble.",
+    "Add the crumbled pita bread and cook for 2-3 minutes, until lightly toasted and crispy.",
+    "Stir in dried rose petals and cook for 1 minute, allowing their fragrance to infuse the fat.",
+    "Remove from heat and stir in coconut cream until combined and smooth.",
+    "Add freshly squeezed orange juice, grated ginger, honey, and salt, stirring to combine.",
+    "Transfer to a serving dish and garnish with fresh parsley, lemon wedges, and juicy pomegranate seeds.",
+    "Serve warm, allowing each guest to assemble their own fatteh with a dollop of yogurt, if desired.",
+    "Gather around the table and enjoy the conversation, as the warm, spicy aromas transport you to a Middle Eastern spring market.",
+    "For a fun twist, set up a DIY fatteh bar with an assortment of toppings, such as pickled turnips, chopped fresh herbs, and crumbled sumac.",
+    "Gather your family and friends, and savor the delightful flavors and textures of this traditional Middle Eastern fatteh, elevated with the richness of goose fat and the sweetness of oranges.",
+    "Make it a special occasion and serve with a side of warm, fluffy pita bread and a dollop of creamy tzatziki sauce.",
+    "To make it ahead, assemble the fatteh up to a day in advance, then refrigerate and reheat when needed.",
+    "Reheat the fatteh gently over low heat, or until warmed through and the pita bread is crispy and golden.",
+    "Gather your loved ones and dig in!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "coconut-cream",
+    "goose-fat",
+    "middle-eastern",
+    "ovo-vegetarian",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "decadent-citrusy-middle-eastern-goose-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-citrusy-middle-eastern-goose-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:37:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "goose fat",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "goose",
+    "descriptor": "Decadent citrusy",
+    "dishForm": "Fatteh"
+  }
+}
