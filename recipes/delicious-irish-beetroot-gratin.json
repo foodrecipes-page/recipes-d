@@ -1,0 +1,122 @@
+{
+  "title": "Delicious Irish Beetroot Gratin",
+  "description": "A citrusy, fluffy, comforting Irish dish featuring beetroot, lardons, and a hint of orange. Made with vegan-friendly ingredients, this beetroot gratin is perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "can be replaced with vegan bacon or omit if vegan-friendly option is not desired"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sauté the chopped onion and minced garlic in a little olive oil until softened.",
+    "Add the lardons and cook until crispy, then set aside.",
+    "Peel and slice the beetroot, then layer in a greased oven-safe dish with the cooked onion and lardons.",
+    "In a separate bowl, mix together the flour, plant-based milk, nutritional yeast, salt, black pepper, and dried thyme. Pour the mixture over the beetroot layers.",
+    "Drizzle with orange juice and sprinkle with orange zest.",
+    " Bake for 30-40 minutes, or until the top is golden brown and the beetroot is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "delicious-irish-beetroot-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicious-irish-beetroot-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:48:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "lardons-render",
+    "primaryIngredient": "beetroot",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beetroot",
+    "descriptor": "delicious",
+    "dishForm": "Gratin"
+  }
+}
