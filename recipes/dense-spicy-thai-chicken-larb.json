@@ -1,0 +1,115 @@
+{
+  "title": "Dense Spicy Thai Chicken Larb",
+  "description": "A citrusy, aerated, and energizing Thai dish from Northern Thailand, featuring seasoned rice vinegar and a tempering process that awakens the senses. This Ayurvedic-rajasic-friendly dish is best enjoyed as a snack or light meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "seasoned with 1 teaspoon grated ginger and 1 teaspoon Thai chili flakes"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "use gluten-free if necessary"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground white pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "chopped, seeded, and chopped again for added heat"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine rice vinegar, palm sugar, fish sauce, lime juice, and 1 tablespoon vegetable oil. Blend until smooth.",
+    "Heat the remaining 1 tablespoon vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same wok, add the chopped lemongrass, ginger, and Thai chilies. Cook for 1 minute, stirring constantly.",
+    "Add the cooked chicken back into the wok and stir in the blended sauce, chopped cilantro, and white pepper.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the chicken is coated.",
+    "Taste and adjust seasoning as needed.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "snack",
+    "spicy",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "dense-spicy-thai-chicken-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-spicy-thai-chicken-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:43:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Dense Spicy",
+    "dishForm": "Larb"
+  }
+}

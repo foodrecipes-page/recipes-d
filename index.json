@@ -13138,6 +13138,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-spicy-thai-chicken-larb",
+    "title": "Dense Spicy Thai Chicken Larb",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "snack",
+      "spicy",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "dense-springy-australian-courgettes-gratin",
     "title": "australian courgettes gratin",
     "tags": [
