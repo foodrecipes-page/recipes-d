@@ -1,0 +1,101 @@
+{
+  "title": "Date-Night Cultured Uruguayan Teque Os Wrap",
+  "description": "A romantic and exotic version of a classic Uruguayan dish, featuring cultured and aerated teque os, served in a crispy ssam-wrap.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Teque Os",
+      "amount": "1 package (12 pieces)",
+      "notes": "Purchased pre-fried from a local Latin American market."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted, softened."
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Cultured Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Chilled."
+    },
+    {
+      "name": "Mashed Plantains",
+      "amount": "1/2 cup",
+      "notes": "At room temperature."
+    },
+    {
+      "name": "Shredded Beef",
+      "amount": "1 cup",
+      "notes": "Cured and cooked at home or store-bought."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Ssam-Style Wrap",
+      "amount": "4-6 pieces",
+      "notes": "Thawed and cut into single servings."
+    }
+  ],
+  "instructions": [
+    "Butter a large skillet over medium-high heat.",
+    "Add the teque os and cook until golden brown, about 3 minutes per side.",
+    "Transfer the teque os to a plate and top each piece with a spoonful of chimichurri, a dollop of cultured yogurt, and a sprinkle of mashed plantains.",
+    "Add the shredded beef to the skillet and cook until warmed through.",
+    "Warm the ssam-style wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a few pieces of teque os in the center of each wrap, followed by a spoonful of the beef mixture and a sprinkle of red onion and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner-party",
+    "exotic",
+    "latin-american",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "date-night-cultured-uruguayan-teque-os-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-cultured-uruguayan-teque-os-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:09:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "teque os",
+    "descriptor": "date-night cultured",
+    "dishForm": "wrap"
+  }
+}
