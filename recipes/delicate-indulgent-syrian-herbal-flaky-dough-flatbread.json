@@ -1,0 +1,110 @@
+{
+  "title": "Syrian Herbal Flatbread",
+  "description": "A delicate and indulgent Syrian flatbread flavored with a variety of herbs and spices, perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "approximately 100°F/38°C"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground is preferred"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant yeast may also be used"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably cold-pressed and extra-virgin"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, fresh is preferred"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped, fresh is preferred"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, but recommended for a traditional Syrian flavor"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Add the warm water and yeast to the dry ingredients and mix until a shaggy dough forms.",
+    "Cover the bowl with plastic wrap or a damp cloth and let the dough sit in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C) with a baking stone or a cast-iron skillet inside.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on how large you want your flatbreads to be.",
+    "Roll out each piece of dough into a thin circle, about 1/8 inch thick.",
+    "Transfer the dough to the preheated baking stone or skillet and bake for 2-3 minutes, or until the dough is lightly browned and puffed.",
+    "Remove the flatbreads from the oven and brush them with olive oil.",
+    "Sprinkle the parsley, thyme, and sumac over the flatbreads, then top with sesame seeds if using.",
+    "Return the flatbreads to the oven and bake for an additional 2-3 minutes, or until the herbs are fragrant and the flatbreads are golden brown.",
+    "Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "flatbread",
+    "herbal",
+    "lunch",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "delicate-indulgent-syrian-herbal-flaky-dough-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-indulgent-syrian-herbal-flaky-dough-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:37:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "pepper",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "herbal flaky dough",
+    "descriptor": "delicate indulgent",
+    "dishForm": "Flatbread"
+  }
+}
