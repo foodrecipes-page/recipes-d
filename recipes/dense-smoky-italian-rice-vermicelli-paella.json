@@ -1,0 +1,96 @@
+{
+  "title": "Dense Smoky Italian Rice Vermicelli Paella",
+  "description": "A hearty, smoky Italian dish featuring rice vermicelli, nuka-pickle and a blend of savory spices. Perfect for a festive dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "paleo-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the bone broth in a large paella pan or skillet over medium-high heat.",
+    "Add the Italian sausage and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the rice vermicelli and cook for 2-3 minutes, stirring constantly.",
+    "Add the nuka-pickle, smoked paprika, garlic powder, onion powder, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove the lid and continue to cook for an additional 5-10 minutes, or until the bottom of the paella pan is crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh parsley or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "main-course",
+    "one-pan",
+    "paleo-friendly",
+    "sausage",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 80
+  },
+  "slug": "dense-smoky-italian-rice-vermicelli-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-smoky-italian-rice-vermicelli-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "paleo",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "dense smoky",
+    "dishForm": "Paella"
+  }
+}
