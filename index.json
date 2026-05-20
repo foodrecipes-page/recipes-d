@@ -933,6 +933,21 @@
     "shard": "d"
   },
   {
+    "slug": "date-night-canadian-tahini-paste-ssam-wrap",
+    "title": "Date-Night Canadian Tahini Paste Ss\u000709-wrap",
+    "tags": [
+      "canadian",
+      "date-night",
+      "high-protein",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
     "slug": "date-night-chewy-saudiarabian-tofu-tagine",
     "title": "Date-Night Chewy Saudi Arabian Tofu Tagine",
     "tags": [
@@ -13512,6 +13527,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "double-cooked-delightful-japanese-cauliflower-katsudon",
+    "title": "Double-cooked Delightful Japanese Cauliflower Katsudon",
+    "tags": [
+      "crisp",
+      "japanese",
+      "one-pot",
+      "shojin",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
