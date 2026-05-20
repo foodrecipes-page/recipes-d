@@ -1,0 +1,121 @@
+{
+  "title": "Japanese Brie Okonomiyaki",
+  "description": "A dairy-free twist on the classic Japanese dish featuring brie cheese, crunchy tempura, and savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brie cheese substitute (dairy-free brie or tofu brie)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Okonomiyaki mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tempura bits",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage, sliced shiitake mushrooms, grated carrots, and okonomiyaki mix.",
+    "Add the dairy-free brie or tofu brie, soy sauce, rice vinegar, and sugar to the bowl and mix well.",
+    "Heat a large non-stick skillet or okonomiyaki pan over medium-high heat.",
+    "Add the tempura bits to the skillet and cook for 2-3 minutes, or until they start to brown.",
+    "Add the cabbage mixture to the skillet and press down with a spatula to form a round shape.",
+    "Cook for 2-3 minutes, or until the bottom is golden brown.",
+    "Use a spatula to carefully flip the okonomiyaki and cook for another 2-3 minutes, or until the other side is golden brown.",
+    "Transfer the okonomiyaki to a plate and garnish with sesame seeds and thinly sliced scallions.",
+    "Drizzle with additional soy sauce and rice vinegar if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "japanese",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "dairy-free-friendly-japanese-brie-okonomiyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dairy-free-friendly-japanese-brie-okonomiyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:13:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "brie",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "brie",
+    "descriptor": "dairy-free-friendly",
+    "dishForm": "okonomiyaki"
+  }
+}

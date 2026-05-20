@@ -1,0 +1,130 @@
+{
+  "title": "Dense Hearty Japanese Buckwheat Jjigae",
+  "description": "A funky, crumbly, and hearty Japanese meal-prep dish originating from the Tohoku region, using mixed grain, rest-meat, and halal-friendly ingredients. Best served in a cazuela or Dutch oven, with a tendon-like texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan",
+    "pescatarian",
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba-Buckwheat Mix",
+      "amount": "1 cup",
+      "notes": "Available at Asian grocery stores or online."
+    },
+    {
+      "name": "Diced Pork Belly",
+      "amount": "1/2 cup",
+      "notes": "Use a rest-meat or slow-cooked pork belly for best flavor."
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought, any type of kimchi works well."
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tbsp",
+      "notes": "White or red miso paste, whichever you prefer."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use low-sodium or tamari for a gluten-free option."
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste adds depth and heat."
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "Balances the savory and spicy flavors."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate or slice before adding to the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince or crush before sautéing."
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Adjust to taste, for added heat."
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Finishing oil for added nutty flavor."
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of toasted sesame oil in a large cazuela or Dutch oven over medium heat.",
+    "Add 1-inch piece of grated ginger and 2 cloves of minced garlic, sauté until fragrant.",
+    "Add 1 cup of soba-buckwheat mix and cook for 2-3 minutes, stirring frequently.",
+    "Add 1/2 cup of diced pork belly and cook until browned, breaking it up with a spoon as needed.",
+    "Add 1/2 cup of kimchi, 2 tablespoons of miso paste, 2 tablespoons of soy sauce, 1 teaspoon of gochujang, and 1 teaspoon of brown sugar, stirring to combine.",
+    "Add 1/4 teaspoon of Korean chili flakes and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 20-25 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with toasted sesame seeds and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crock-pot",
+    "dairy-free",
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "japanese",
+    "low-carb",
+    "low-fat",
+    "one-pan",
+    "pescatarian",
+    "tohoku",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "dense-hearty-japanese-buckwheat-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-hearty-japanese-buckwheat-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:12:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "rest-meat",
+    "primaryIngredient": "mixed grain",
+    "diet": "halal",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Dense Hearty",
+    "dishForm": "Jjigae"
+  }
+}
