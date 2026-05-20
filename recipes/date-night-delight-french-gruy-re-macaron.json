@@ -1,0 +1,82 @@
+{
+  "title": "Date-Night Delight French Gruy\u00134re Macaron",
+  "description": "A romantic and rich French dessert featuring a crispy cookie shell and a creamy Gruy\u00134re center.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "gruy\u00134re cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00104F (190\u00104C).",
+    "Line a baking sheet with parchment paper.",
+    "Transfer the dough to a piping bag fitted with a round tip.",
+    "Pipe small, round circles onto the prepared baking sheet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "french",
+    "gruy-4re",
+    "macaron",
+    "rich",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "date-night-delight-french-gruy-re-macaron",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-delight-french-gruy-re-macaron",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:17:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "gruy re",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Gruy\u0017re",
+    "descriptor": "Date-Night Delight",
+    "dishForm": "Macaron"
+  }
+}
