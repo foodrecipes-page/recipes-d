@@ -1,0 +1,107 @@
+{
+  "title": "Dense Indulgent Spanish Fish Croquetas",
+  "description": "Herbal, dense Spanish fish croquetas featuring fish seasoning and mother sauce base. Suitable for Jain food options.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "1 pound",
+      "notes": "Deboned and flaked fish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Fine-chopped onion for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic for added depth"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "Fish seasoning and anti-inflammatory properties"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet and smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 teaspoon",
+      "notes": "To taste, high-quality salt preferred"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "To taste, freshly ground preferred"
+    },
+    {
+      "name": "Cod Fish Roe",
+      "amount": "2 tablespoons",
+      "notes": "Add extra richness and flavor to the croquetas"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "To bind the mixture together"
+    }
+  ],
+  "instructions": [
+    "Mix cod fish, onion, garlic, turmeric, paprika, salt, and black pepper in a bowl until well combined.",
+    "Add cod fish roe and mix until a uniform texture is achieved.",
+    "In a separate bowl, whisk together warm oil and flour until a smooth paste.",
+    "Add the flour paste to the fish mixture and mix until a thick, cohesive dough forms.",
+    "Cover the dough and refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "When ready to fry, heat 1-2 inches of oil in a large saucepan over medium heat until it reaches 350°F (175°C).",
+    "Using a spoon, drop small balls of the dough mixture into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the croquetas for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Remove the croquetas from the oil with a slotted spoon and drain on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "croquetas",
+    "fish",
+    "gluten-free",
+    "one-pan",
+    "spanish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "dense-indulgent-spanish-fish-croquetas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-indulgent-spanish-fish-croquetas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "fish seasoning",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "dense indulgent",
+    "dishForm": "Croquetas"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Pollo a la Gallina Tava",
+  "description": "Tender and flavorful Peruvian chicken dish made with dark roasted chicken, brown sugar, and aji amarillo peppers. This recipe is perfect for a hangover cure.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken legs (4-6)",
+      "amount": "2 pounds",
+      "notes": "Bone-in and skin-on for maximum flavor."
+    },
+    {
+      "name": "Aji amarillo peppers (4-6)",
+      "amount": "2 cups",
+      "notes": "Substitute with jalape\u000447\u00162 or other hot peppers if needed."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": "Use a high-quality pure cane sugar for the best flavor."
+    },
+    {
+      "name": "Garlic (3-4 cloves)",
+      "amount": "3 cloves",
+      "notes": "Minced for maximum flavor."
+    },
+    {
+      "name": "Ginger (1-2 inches)",
+      "amount": "1 piece",
+      "notes": "Sliced for added warmth."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground for the best flavor."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for maximum flavor."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional for garnish."
+    },
+    {
+      "name": "Tava or griddle",
+      "amount": "",
+      "notes": "For cooking the chicken."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the chicken."
+    },
+    {
+      "name": "Aromatics (onion, garlic, ginger)",
+      "amount": "1/4 cup",
+      "notes": "Optional for added flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the tava or griddle to medium-high heat.",
+    "Season the chicken with salt and black pepper, then drizzle with olive oil.",
+    "Add the aji amarillo peppers to the tava or griddle and cook until slightly charred, about 5 minutes.",
+    "Add the garlic and ginger to the tava or griddle and cook until fragrant, about 1 minute.",
+    "Place the chicken on the tava or griddle and cook until browned on both sides, about 5-7 minutes per side.",
+    "Transfer the chicken to a plate and let rest for 5 minutes before slicing.",
+    "Meanwhile, mix the brown sugar and lime juice in a small bowl until well combined.",
+    "Brush the sugar and lime mixture onto the chicken during the last 2 minutes of cooking.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "hangover-cure",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "dense-dark-roasted-peruvian-chicken-pollo-a-la-gallina-tava",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-dark-roasted-peruvian-chicken-pollo-a-la-gallina-tava",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:24:28Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "salt-bake",
+    "primaryIngredient": "brown sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Dense dark roasted",
+    "dishForm": "Pollo a la Gallina Tava"
+  }
+}

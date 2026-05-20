@@ -11480,6 +11480,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-dark-roasted-peruvian-chicken-pollo-a-la-gallina-tava",
+    "title": "Pollo a la Gallina Tava",
+    "tags": [
+      "chicken",
+      "grilled",
+      "hangover-cure",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-decadent-peruvian-cheese-tagine",
     "title": "Dense Decadent Peruvian Cheese Tagine",
     "tags": [
@@ -12101,6 +12116,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 62,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-indulgent-spanish-fish-croquetas",
+    "title": "Dense Indulgent Spanish Fish Croquetas",
+    "tags": [
+      "croquetas",
+      "fish",
+      "gluten-free",
+      "one-pan",
+      "spanish",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 42,
     "shard": "d"
   },
   {
