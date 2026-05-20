@@ -1,0 +1,119 @@
+{
+  "title": "Date-Night Jelly Algerian Sugars Tagine",
+  "description": "A pungent, glassy-jelly dish featuring sugars, miso-marinate, and a nut-free-friendly twist on traditional Algerian cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dried dates",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Molasses",
+      "amount": "120g",
+      "notes": "unsulphured"
+    },
+    {
+      "name": "White granulated sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Star anise",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine dried dates, molasses, white granulated sugar, brown sugar, and miso paste in a blender or food processor. Blend until the mixture forms a smooth paste.",
+    "Heat the sugar paste in a saucepan over medium heat, stirring constantly.",
+    "Add the ginger, cinnamon, and star anise to the saucepan and continue to cook for 5 minutes, stirring constantly.",
+    "Add the vinegar, water, and vegetable oil to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the jelly has thickened.",
+    "Stir in the fresh thyme and remove from heat.",
+    "Let cool slightly before transferring to a glass jar or container for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dates",
+    "dessert",
+    "gluten-free",
+    "jelly",
+    "sugar",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 120,
+    "fat": 4
+  },
+  "slug": "date-night-jelly-algerian-sugars-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-jelly-algerian-sugars-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:27:39Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sugars",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "sugars",
+    "descriptor": "date-night jelly",
+    "dishForm": "Tagine"
+  }
+}
