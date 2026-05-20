@@ -1,0 +1,110 @@
+{
+  "title": "Dense Korean Greens Muchim",
+  "description": "A light and tangy Korean dish made with a variety of greens, pomegranate molasses, and a hint of spice. It's a macrobiotic-friendly option for a quick snack or lunch.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean greens (such as perilla or komatsuna)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Korean greens, cucumber, and carrot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "lunch",
+    "macrobiotic",
+    "one-pan",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "dense-korean-greens-muchim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-korean-greens-muchim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:34:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": " greens",
+    "descriptor": "Dense",
+    "dishForm": "Muchim"
+  }
+}
