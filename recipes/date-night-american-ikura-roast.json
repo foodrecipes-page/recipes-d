@@ -1,0 +1,102 @@
+{
+  "title": "Date-Night American Ikura Roast",
+  "description": "A romantic and flavorful dish featuring ikura, roast, and herbal notes, perfect for a date night in. This ayurvedic-sattvic-friendly recipe combines the best of American cuisine with a touch of Japanese elegance.",
+  "cuisine": "American-Japanese fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ikura (Salmon Roe)",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Rack of Lamb",
+      "amount": "1 rack",
+      "notes": "Bone-in, 1-1.5 pounds"
+    },
+    {
+      "name": "Roasting Vegetables",
+      "amount": "2 cups",
+      "notes": "Carrots, Brussels sprouts, red bell pepper"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh, not dried"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "Unrefined, cold-pressed"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined, fine grind"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb rack with garlic powder, salt, and pepper.",
+    "In a large bowl, toss the roasting vegetables with coconut oil, thyme, and a pinch of salt.",
+    "Place the lamb rack on a roasting pan and surround with the vegetables.",
+    "Drizzle the ikura with lime juice and sprinkle with sea salt.",
+    "Roast in the preheated oven for 25-30 minutes or until the lamb reaches 135°F (57°C) for medium-rare.",
+    "Remove the lamb from the oven and let it rest for 5 minutes.",
+    "Serve the lamb with ikura, roasted vegetables, and a side of quinoa or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "elegant",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "date-night-american-ikura-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/date-night-american-ikura-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:15:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "ikura",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "ikura",
+    "descriptor": "date-night",
+    "dishForm": "roast"
+  }
+}
