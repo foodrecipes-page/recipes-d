@@ -1,0 +1,63 @@
+{
+  "title": "Dense Croatian Asparagus Paella",
+  "description": "This festive dish features asparagus in a rich, ovo-vegetarian-friendly paella. Perfect for a special occasion or holiday meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "1 cup",
+      "notes": "preferably calasparra or bomba rice"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large paella pan or skillet over medium heat.",
+    "Add 1 large onion, diced, and cook until translucent.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute more.",
+    "Add 1 pound of asparagus, trimmed, and cook until tender, about 5 minutes.",
+    "Add 1 cup of long grain rice and stir to coat with oil and mix with vegetables.",
+    "Add 2 cups of vegetable broth, 1 cup of water, and 1 teaspoon of smoked paprika, and bring to a simmer.",
+    "Cook, uncovered, until the liquid has been absorbed and the rice is tender, about 20-25 minutes.",
+    "Stir in 1/4 cup of grated Parmesan cheese and 1 tablespoon of chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "croatian",
+    "festive",
+    "holidays",
+    "one-pan",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "dense-croatian-asparagus-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-croatian-asparagus-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:01:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "asparagus",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "asparagus",
+    "descriptor": "dense",
+    "dishForm": "paella"
+  }
+}

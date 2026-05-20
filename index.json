@@ -11134,6 +11134,21 @@
     "shard": "d"
   },
   {
+    "slug": "dense-croatian-asparagus-paella",
+    "title": "Dense Croatian Asparagus Paella",
+    "tags": [
+      "asparagus",
+      "croatian",
+      "festive",
+      "holidays",
+      "one-pan",
+      "paella"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
     "slug": "dense-croatian-cheese-gratin",
     "title": "Dense Croatian Cheese Gratin",
     "tags": [
