@@ -1,0 +1,63 @@
+{
+  "title": "Doughy Chews Adventurous Morbier Bake",
+  "description": "A briny, chewy, adventurous Ukrainian dish featuring morbier, bake, fodmap-friendly, vessel=lotus-leaf-wrap",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "morbier cheese",
+      "amount": "200g",
+      "notes": "fodmap-friendly, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u0012F (190\u0012C).",
+    "Wrap each lotus leaf in a square shape, leaving a 1-inch border around the edges.",
+    "In a large bowl, combine 200g grated morbier cheese, 1/4 cup chopped fresh dill, and 1 tablespoon lemon juice.",
+    "Place one-quarter of the cheese mixture onto the center of each lotus leaf, leaving a 1-inch border around the edges."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "fodmap-friendly",
+    "lotus-leaf-wrap",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "doughy-chews-adventurous-morbier-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/doughy-chews-adventurous-morbier-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:55:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "morbier",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "adventurous",
+    "mainIngredient": "morbier",
+    "descriptor": "doughy chews",
+    "dishForm": "bake"
+  }
+}
