@@ -1,0 +1,132 @@
+{
+  "title": "Dense Malaysian Stracciatella-Cheese Bao",
+  "description": "Herbal and dense, these bao are perfect for a relaxing brunch with friends. Featuring stracciatella cheese and dairy-free-friendly score-fat.",
+  "cuisine": "malaysian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Aquafaba",
+      "amount": "1/4 cup",
+      "notes": "From canned chickpeas."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "Dairy-free."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": "Dairy-free."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Herbal tea",
+      "amount": "1 cup",
+      "notes": "Strong brewed."
+    },
+    {
+      "name": "Stracciatella cheese",
+      "amount": "1 cup",
+      "notes": "Dairy-free alternative."
+    },
+    {
+      "name": "Score-fat",
+      "amount": "1/4 cup",
+      "notes": "Dairy-free alternative."
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, aquafaba, water, yeast, and sugar. Mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm, draft-free area and let it rise for 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on the size of bao you prefer.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of sesame oil in the pan and cook the bao for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "While the bao are cooking, prepare the filling by mixing together stracciatella cheese, score-fat, grated ginger, chopped scallions, salt, and black pepper.",
+    "Once the bao are cooked, split them in half and fill them with the cheese mixture.",
+    "Serve the dense Malaysian stracciatella-cheese bao hot and enjoy!",
+    "Garnish with sesame seeds and additional scallions if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "indian-fusion",
+    "malaysian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "dense-malaysian-stracciatella-cheese-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-malaysian-stracciatella-cheese-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:42:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "stracciatella-cheese",
+    "descriptor": "dense",
+    "dishForm": "Bao"
+  }
+}
