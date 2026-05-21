@@ -1,0 +1,107 @@
+{
+  "title": "Dense Malt Spanish Grapefruit Paella",
+  "description": "Post-workout Spanish dish featuring grapefruit juice, mortar-pestle-pounded rice and malty flavors. This recipe can be adapted to a raw-friendly diet by excluding the cooking step.",
+  "cuisine": "valencian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish Malt Beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grapefruit Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Short-Grain Rice",
+      "amount": "1 1/2 cups",
+      "notes": "Mortar-pestle-pound rice for 1-2 minutes before cooking."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Crushed."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add garlic and cook for 1-2 minutes until fragrant.",
+    "Add rice and stir to coat with oil and mix with garlic.",
+    "Add beer and grapefruit juice, stirring to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "While rice is cooking, pound paprika, salt, and black pepper in a mortar and pestle until well combined.",
+    "Stir pounded spices into rice mixture.",
+    "Remove from heat and let sit for 5 minutes before serving.",
+    "Garnish with chopped scallions and lemon zest.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 115,
+    "fat": 20
+  },
+  "slug": "dense-malty-spanish-grapefruit-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-malty-spanish-grapefruit-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:29:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "raw",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Grapefruit",
+    "descriptor": "Dense Malty",
+    "dishForm": "Paella"
+  }
+}
