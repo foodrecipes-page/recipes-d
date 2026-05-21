@@ -1,0 +1,85 @@
+{
+  "title": "Dwholesome Zanzibari Chicken Pilaf",
+  "description": "A smoky and crisp British dish featuring apricot jam, brine-dried chicken and a raw-friendly twist.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brined chicken",
+      "amount": "1"
+    },
+    {
+      "name": "apricot preserves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Season chicken with salt and pepper. Drizzle olive oil over both sides.",
+    "In a small bowl, mix together brown sugar, garlic, butter and a pinch of black pepper.",
+    "Place chicken on a baking sheet and pour the mixture evenly onto each piece.",
+    "Roast in the preheated oven for 25 minutes or until golden brown and cooked through.",
+    "Meanwhile, heat apricot preserves with a little bit of water in a small saucepan. Reduce to thicken slightly.",
+    "Remove chicken from oven and drizzle with thickened apricot glaze. Serve immediately.",
+    "Enjoy your raw-friendly British dish!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "raw-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 398,
+    "protein": 27,
+    "carbs": 15,
+    "fat": 24
+  },
+  "slug": "dwholesome-zanzibari-chicken-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dwholesome-zanzibari-chicken-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:15:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "apricot jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Chicken",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
