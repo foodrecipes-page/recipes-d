@@ -1,0 +1,84 @@
+{
+  "title": "Delicate Springy Tofu Pilaf",
+  "description": "A crowd-pleasing Malaysian dish featuring cultured tofu and lamination-puff for a delicate springy texture with rice wine and low-sodium seasoning.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "cultured tofu"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "lamination-puff"
+    },
+    {
+      "name": "2 tbsp",
+      "amount": "low-sodium soy sauce"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "rice wine"
+    },
+    {
+      "name": "1 clove",
+      "amount": "garlic, minced"
+    },
+    {
+      "name": "1/4 tsp",
+      "amount": "five-flavor seasoning"
+    },
+    {
+      "name": "1/2 cup",
+      "amount": "warm water"
+    },
+    {
+      "name": "1 tbsp",
+      "amount": "peanut oil"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a wok over medium heat.",
+    "Add minced garlic and five-flavor seasoning. Sauté until fragrant, about 30 seconds.",
+    "Stir in cultured tofu and warm water. Bring to a simmer, stirring occasionally for 10 minutes.",
+    "Garnish with lamination-puff before serving.",
+    "Drizzle with low-sodium soy sauce and rice wine during the last minute of cooking.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium-friendly",
+    "malaysian-recipe",
+    "springy-texture",
+    "tofu-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "delicate-springy-tofu-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-springy-tofu-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T04:47:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "rice wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Springy",
+    "dishForm": "Pilaf"
+  }
+}
