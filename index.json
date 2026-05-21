@@ -3081,6 +3081,23 @@
     "shard": "d"
   },
   {
+    "slug": "deep-tasting-egyptian-mulukhiyah-fritters",
+    "title": "deep-tasting egyptian mulukhiyah fritters",
+    "tags": [
+      "ayurvedic",
+      "egyptian-cuisine",
+      "fried-foods",
+      "fritters",
+      "high-protein",
+      "rajasic",
+      "snack",
+      "vegan-option"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
     "slug": "deeply-fermented-chinese-pork-belly-char-siu-bao",
     "title": "Deeply Fermented Chinese Pork Belly Char Siu Bao",
     "tags": [
@@ -13498,6 +13515,22 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoked-ukrainian-bacon-borscht",
+    "title": "Dense Smoked Ukrainian Bacon Borscht",
+    "tags": [
+      "ayurvedic",
+      "borscht",
+      "one-pan",
+      "smoked-bacon",
+      "ukrainian",
+      "vegan-sour-cream",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {

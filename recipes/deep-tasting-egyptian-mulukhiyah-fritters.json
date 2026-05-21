@@ -1,0 +1,104 @@
+{
+  "title": "deep-tasting egyptian mulukhiyah fritters",
+  "description": "umami, flaky, energizing egyptian dish featuring mulukhiyah, perfect for ayurvedic rajasic diets and satisfying your cravings. serve warm, crispy fritters as an appetizer or snack.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mulukhiyah greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gram flour",
+      "amount": "1/2 cup",
+      "notes": "for extra crunch"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the mulukhiyah greens, all-purpose flour, gram flour, salt, and black pepper."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "egyptian-cuisine",
+    "fried-foods",
+    "fritters",
+    "high-protein",
+    "rajasic",
+    "snack",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "deep-tasting-egyptian-mulukhiyah-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/deep-tasting-egyptian-mulukhiyah-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:23:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "deep-tasting",
+    "dishForm": "fritters"
+  }
+}
