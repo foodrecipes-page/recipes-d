@@ -1966,6 +1966,21 @@
     "shard": "d"
   },
   {
+    "slug": "decadent-french-burrata-tartiflette",
+    "title": "decadent french burrata tartiflette",
+    "tags": [
+      "brittany",
+      "comfort-food",
+      "french",
+      "holiday",
+      "main-course",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 75,
+    "shard": "d"
+  },
+  {
     "slug": "decadent-french-tuna-mousse",
     "title": "Decadent French Tuna Mousse",
     "tags": [

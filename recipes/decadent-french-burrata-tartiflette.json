@@ -1,0 +1,109 @@
+{
+  "title": "decadent french burrata tartiflette",
+  "description": "a rich and savory tartiflette dish from brittany, featuring creamy burrata cheese and a variety of mushrooms.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "sauteed mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "use a mix of cremini, shiitake, and oyster mushrooms."
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "truffle oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400\u00177f (200\u00176c).",
+    "grease a 9x13 inch baking dish with unsalted butter.",
+    "spread the mashed potatoes evenly over the bottom of the dish.",
+    "top the potatoes with the sauteed mushrooms, followed by the caramelized onions.",
+    "sprinkle the grated gruyere cheese over the onions, then place the ball of burrata cheese on top.",
+    "drizzle with truffle oil, if using, and sprinkle with fresh thyme.",
+    "season with salt and black pepper to taste.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brittany",
+    "comfort-food",
+    "french",
+    "holiday",
+    "main-course",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 822,
+    "protein": 26,
+    "carbs": 106,
+    "fat": 44
+  },
+  "slug": "decadent-french-burrata-tartiflette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/decadent-french-burrata-tartiflette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:26:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "burrata",
+    "diet": "plant-based",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Burrata",
+    "descriptor": "Decadent",
+    "dishForm": "Tartiflette"
+  }
+}
