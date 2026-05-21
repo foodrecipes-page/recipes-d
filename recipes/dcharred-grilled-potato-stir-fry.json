@@ -1,0 +1,87 @@
+{
+  "title": "DCharred Grilled Potato Stir-fry",
+  "description": "Aromatic and charred grilled potato stir-fry featuring sweet Charlotte potatoes in a sugar-free-friendly Filipino style.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Charlotte Potatoes",
+      "amount": "1",
+      "notes": "Waxy, skin-on"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "optional, to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Slice Charlotte Potatoes into wedges and toss with olive oil, lemon juice, salt, cayenne pepper (if using), and sesame seeds.",
+    "Grill for about 8 minutes on each side until charred and slightly crispy.",
+    "In a wok or skillet, sauté garlic until fragrant and lightly golden.",
+    "Add grilled potatoes to the wok and stir-fry for an additional 2-3 minutes until heated through.",
+    "Season with pepper if desired.",
+    "Serve hot as a side dish or over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-taste",
+    "gluten-free-friendly",
+    "grilled-potatoes",
+    "stir-fry",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 39,
+    "fat": 12
+  },
+  "slug": "dcharred-grilled-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/dcharred-grilled-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T15:42:53Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Grilled",
+    "mainIngredient": "Potato",
+    "descriptor": "Charred",
+    "dishForm": "Stir-fry"
+  }
+}

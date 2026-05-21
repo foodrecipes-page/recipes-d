@@ -1351,6 +1351,20 @@
     "shard": "d"
   },
   {
+    "slug": "dcharred-grilled-potato-stir-fry",
+    "title": "DCharred Grilled Potato Stir-fry",
+    "tags": [
+      "charred-taste",
+      "gluten-free-friendly",
+      "grilled-potatoes",
+      "stir-fry",
+      "sweet-potato"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
     "slug": "ddecadent-deep-fried-prune-pilaf",
     "title": "DDecadent Deep-Fried Prune Pilaf",
     "tags": [
