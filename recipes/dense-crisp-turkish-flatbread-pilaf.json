@@ -1,0 +1,103 @@
+{
+  "title": "Dense Crisp Turkish Flatbread Pilaf",
+  "description": "Salty, crisp, energizing Turkish dish featuring strong white bread flour. ",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose white bread flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fine salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat claypot to 450 degrees Fahrenheit.",
+    "Mix flour and salt in a bowl.",
+    "Gradually add water to create a dough.",
+    "Knead dough for 5 minutes.",
+    "Let dough rest for 30 minutes.",
+    "Heat 1 tablespoon of olive oil in claypot. ",
+    "Divide dough into 6 equal pieces.",
+    "Shape each piece into a ball and then flatten into a disc.",
+    "Place the discs in the claypot, leaving 1 inch gap between each disc.",
+    "Bake for 15 minutes or until golden brown.",
+    "Remove from heat and let cool for 5 minutes.",
+    "Crush the baked discs into a pilaf-like texture.",
+    "Mix in paprika and garlic powder.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-based",
+    "breakfast-option",
+    "comfort-food",
+    "one-pan",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "dense-crisp-turkish-flatbread-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-crisp-turkish-flatbread-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:37:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Flatbread",
+    "descriptor": "Dense Crisp",
+    "dishForm": "Pilaf"
+  }
+}

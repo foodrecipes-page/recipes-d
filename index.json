@@ -11584,6 +11584,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-crisp-turkish-flatbread-pilaf",
+    "title": "Dense Crisp Turkish Flatbread Pilaf",
+    "tags": [
+      "bread-based",
+      "breakfast-option",
+      "comfort-food",
+      "one-pan",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
     "slug": "dense-crispy-japanese-white-yam-gyoza",
     "title": "Dense Crispy Japanese White Yam Gyoza",
     "tags": [
