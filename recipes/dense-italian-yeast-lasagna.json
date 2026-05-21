@@ -1,0 +1,118 @@
+{
+  "title": "Dense Italian Yeast Lasagna",
+  "description": "A pungent, flavorful Italian dish made with yeast, simmered to perfection for a weeknight meal. The combination of cheese and pasta creates a satisfying, glassy-jelly texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rapid rise yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "16 ounces",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, yeast, and a pinch of sugar to activate the yeast.",
+    "Let the mixture sit for 5 minutes to allow the yeast to ferment.",
+    "Add flour, salt, parmesan cheese, ricotta cheese, eggs, sauce, basil, and oregano to the bowl, and mix until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Assemble the lasagna by spreading a layer of sauce on the bottom of a 9x13 inch baking dish, followed by a layer of dough, then a layer of sauce, and finally a layer of cheese.",
+    "Repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Drizzle the top of the lasagna with olive oil and sprinkle with parmesan cheese.",
+    "Bake the lasagna in the preheated oven for 35 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10 minutes before slicing and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "vegetarian",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "dense-italian-yeast-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-italian-yeast-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:19:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-glycemic",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "yeast",
+    "descriptor": "Dense",
+    "dishForm": "Lasagna"
+  }
+}

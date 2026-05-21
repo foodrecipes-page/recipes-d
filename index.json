@@ -12427,6 +12427,20 @@
     "shard": "d"
   },
   {
+    "slug": "dense-italian-yeast-lasagna",
+    "title": "Dense Italian Yeast Lasagna",
+    "tags": [
+      "italian",
+      "lasagna",
+      "vegetarian",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
     "slug": "dense-jammy-tunisian-dish-mushimono",
     "title": "Dense Jammy Tunisian Dish Mushimono",
     "tags": [
