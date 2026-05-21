@@ -1,0 +1,92 @@
+{
+  "title": "Delicate Garlicky Argentinian Minari Skewers",
+  "description": "A festive Argentinian dish featuring minari, with a garlicky and glassy-jelly texture, grilled to perfection over binchotan-charcoal, suitable for shojin-friendly diets",
+  "cuisine": "Argentinian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "also known as Japanese parsley"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to medium-high heat",
+    "Trim the minari and cut it into 1-inch pieces",
+    "Mince the garlic and mix it with olive oil, lemon juice, salt, and black pepper",
+    "Thread the minari pieces onto the wooden skewers, leaving a small space between each piece",
+    "Brush the garlic mixture onto the minari pieces",
+    "Grill the skewers for 3-4 minutes per side, or until the minari is tender and slightly charred",
+    "Serve the skewers hot, garnished with additional garlic and lemon juice if desired",
+    "Let the skewers rest for 2 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "easy-entertaining",
+    "garlic-lovers",
+    "grilled-vegetables",
+    "shojin-friendly",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "delicate-garlicky-argentinian-minari-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-garlicky-argentinian-minari-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:55:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "minari",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "minari",
+    "descriptor": "Delicate garlicky",
+    "dishForm": "Skewers"
+  }
+}
