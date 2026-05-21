@@ -1,0 +1,103 @@
+{
+  "title": "Deliciously Cheesy Thai Rice Noodles",
+  "description": "A post-workout savory Thai dish featuring ginger, cheese-pull, and halal-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the Thai rice noodles according to the package instructions, then set aside.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the red curry paste and cook for another minute, stirring constantly.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the honey, soy sauce, and cooked noodles to the skillet, and stir to combine.",
+    "Reduce the heat to low and let the mixture simmer for 2-3 minutes, until the sauce has thickened.",
+    "Stir in the cheddar cheese until melted and well combined.",
+    "Transfer the noodle mixture to a serving dish and top with green onions and sesame seeds.",
+    "Serve immediately, garnished with additional green onions and sesame seeds if desired.",
+    "Drizzle with additional sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "deliciously-cheesy-thai-rice-noodles-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/deliciously-cheesy-thai-rice-noodles-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:34:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ginger",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Deliciously Cheesy",
+    "dishForm": "Noodles"
+  }
+}
