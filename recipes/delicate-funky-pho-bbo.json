@@ -1,0 +1,95 @@
+{
+  "title": "Delicate Funky Pho-Bbo",
+  "description": "A festive Vietnamese dish featuring pitted dates and a gluten-free-friendly mother-sauce-base for a tender and funky texture.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": 200,
+      "notes": "large vermicelli"
+    },
+    {
+      "name": "veal stock",
+      "amount": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": null
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "ginger slices",
+      "amount": null
+    },
+    {
+      "name": "pitted dates",
+      "amount": 20,
+      "notes": "for natural sweetness"
+    },
+    {
+      "name": "sesame oil",
+      "amount": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": 15,
+      "notes": "gluten-free version recommended"
+    },
+    {
+      "name": "sodium benzoate crystals (optional)",
+      "amount": 0.25
+    }
+  ],
+  "instructions": [
+    "Soak rice noodles in hot water for at least 30 minutes.",
+    "In a large saucepan, heat veal stock with garlic and ginger until warm but not boiling.",
+    "Blend tomato paste into the warm veal stock to create the mother-sauce-base. Adjust salt as needed.",
+    "Add pitted dates and simmer gently for about 10 minutes.",
+    "Thicken the mother-sauce-base with a bit of tapioca starch mixed in hot water, or use sodium benzoate crystals if you prefer a clear broth.",
+    "Combine the thickened sauce with heated rice noodles and serve topped with sesame oil for garnish.",
+    "Optional: For extra flavor, add a splash of fish sauce to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "funky",
+    "gluten-free-friendly",
+    "one-pan",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "delicate-funky-pho-bbo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/delicate-funky-pho-bbo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T15:17:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pitted dates",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Dates",
+    "descriptor": "Funky",
+    "dishForm": "Pho-Bo"
+  }
+}
