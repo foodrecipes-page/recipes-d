@@ -1,0 +1,101 @@
+{
+  "title": "Dense Savory Vietnamese Pork Com Tam",
+  "description": "A winey and chewy Vietnamese dish featuring granulated sugar and mushimono-steam, served on a salt block. This flexitarian-friendly com tam is perfect for meal prep.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sugar, fish sauce, soy sauce, rice vinegar, garlic, ginger, salt, and black pepper.",
+    "Add the pork pieces to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and place it on a salt block.",
+    "Steam the pork using a mushimono-steam method for 20 minutes.",
+    "While the pork is cooking, prepare the com tam by mixing cooked rice with a small amount of water to achieve the right consistency.",
+    "Once the pork is cooked, slice it into thin pieces and serve on top of the com tam.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "meal-prep",
+    "one-pan",
+    "salt-block",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "dense-savory-vietnamese-pork-com-tam",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/dense-savory-vietnamese-pork-com-tam",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "granulated sugar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "dense savory",
+    "dishForm": "Com Tam"
+  }
+}
