@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-kenyan-onion-skewers--italian",
+  "title": "Italian-Style Shrimp Skewers",
+  "description": "A delicious and easy-to-make Italian-inspired dish featuring shrimp, delicate onions, and a Kenyan touch. Perfect for a quick dinner or lunch.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "delicate onions",
+      "amount": "1 large onion, thinly sliced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound large shrimp, peeled and deveined"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons Kenyan chili flakes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves garlic, minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons, juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon black pepper"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread 3-4 shrimp, an onion slice, and a sprinkle of Kenyan chili flakes onto each skewer.",
+    "3. Brush the skewers with olive oil and season with salt and pepper.",
+    "4. Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "5. During the last 2 minutes of cooking, brush the skewers with lemon juice.",
+    "6. Remove the skewers from the grill and serve immediately.",
+    "7. Garnish with additional lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-kenyan-onion-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:31.755Z"
+}
