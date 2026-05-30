@@ -2892,14 +2892,11 @@
   },
   {
     "slug": "deep-delicious-moroccan-lamb-tangia",
-    "title": "Deep Delicious Moroccan Lamb Tangia",
+    "title": "Traditional Moroccan Lamb Tangia",
     "tags": [
-      "aromatic-spices",
-      "lamb-recipes",
-      "moroccan-food",
-      "satvik-diet",
-      "slow-cooked",
-      "tangia-pot"
+      "lamb",
+      "moroccan",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
@@ -10972,16 +10969,15 @@
   },
   {
     "slug": "deliciously-tender-kenyan-beef-wrap",
-    "title": "Deliciously Tender Kenyan Beef Wrap",
+    "title": "Kenyan Beef Wrap",
     "tags": [
-      "beef-recipes",
-      "flexitarian-friendly",
-      "kenyan-cuisine",
-      "lazy-sunday",
-      "ti-leaf-wrap"
+      "beef",
+      "kenyan",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 150,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -12401,18 +12397,14 @@
   },
   {
     "slug": "dense-greek-fish-grill",
-    "title": "Dense Greek Fish Grill",
+    "title": "Grilled Greek Fish",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "greek",
-      "low-carb",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "grill",
+      "fish",
+      "greek"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
