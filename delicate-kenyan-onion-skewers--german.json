@@ -1,0 +1,88 @@
+{
+  "slug": "delicate-kenyan-onion-skewers--german",
+  "title": "Grilled Kenyan Skewers with Delicate German Onions",
+  "description": "Traditional German-inspired dish featuring marinated Kenyan beef skewers grilled to perfection and served with caramelized onions.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "delicate onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, salt, pepper, paprika, and garlic.",
+    "Add the Kenyan beef strips to the bowl and toss to coat with the marinade.",
+    "Thread the beef strips onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 145°F.",
+    "Meanwhile, heat a tablespoon of olive oil in a large skillet over medium-low heat.",
+    "Add the delicate onions to the skillet and cook, stirring occasionally, for 20-25 minutes or until caramelized.",
+    "Serve the grilled skewers with the caramelized onions on top.",
+    "Squeeze a tablespoon of lemon juice over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "skewers",
+    "onions",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-kenyan-onion-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:59:55.454Z"
+}
