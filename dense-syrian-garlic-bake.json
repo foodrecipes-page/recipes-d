@@ -1,0 +1,73 @@
+{
+  "slug": "dense-syrian-garlic-bake",
+  "title": "Delicious Syrian Garlic Meatballs",
+  "description": "A traditional Syrian dish with a twist of flavor, these meatballs are perfect for a quick and easy dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Meat",
+      "amount": "1 pound",
+      "notes": "80/20 ground beef or lamb"
+    },
+    {
+      "name": "Dense Syrian Bread",
+      "amount": "1 cup, cubed",
+      "notes": "stale bread works best"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground preferred"
+    },
+    {
+      "name": "Bake",
+      "amount": "1/4 cup, breadcrumbs",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground meat, cubed bread, minced garlic, salt, and black pepper. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches in diameter. Place on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until cooked through. If using breadcrumbs, sprinkle on top of meatballs before baking.",
+    "While meatballs are baking, heat a large skillet over medium-high heat. Add 2 tablespoons of oil and swirl to coat.",
+    "Once meatballs are done, carefully place in the skillet and cook for an additional 2-3 minutes on each side, until browned.",
+    "Serve hot with your favorite sides, such as rice, salad, or pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meatballs",
+    "syrian",
+    "garlic",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-syrian-garlic-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:40:12.695Z"
+}
