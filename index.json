@@ -13224,17 +13224,15 @@
   },
   {
     "slug": "dense-quick-fix-syrian-toor-dal-dal",
-    "title": "Dense Quick-Fix Syrian Toor Dal Dal",
+    "title": "Toor Dal with Syrian Flavor",
     "tags": [
-      "mirepoix-base",
-      "one-pan",
-      "pescatarian",
-      "quick-fix",
-      "syrian",
-      "toor-dal"
+      "toor-dal",
+      "syrian-flavor",
+      "indian-food",
+      "lentil-soup"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14021,16 +14019,16 @@
   },
   {
     "slug": "dense-syrian-garlic-bake",
-    "title": "Dense Syrian Garlic Bake",
+    "title": "Delicious Syrian Garlic Meatballs",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "hangover-cure",
-      "low-fat",
-      "syrian-cuisine"
+      "meatballs",
+      "syrian",
+      "garlic",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
