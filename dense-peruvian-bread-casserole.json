@@ -1,0 +1,83 @@
+{
+  "slug": "dense-peruvian-bread-casserole",
+  "title": "Peruvian Casserole Bread",
+  "description": "A hearty, dense Peruvian-inspired casserole made with bread and a variety of savory ingredients.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf, cubed"
+    },
+    {
+      "name": "Peruvian-Style Rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 can"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, heat oil over medium-high heat.",
+    "Add onions and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Stir in chili flakes and cumin.",
+    "Add cooked rice, black beans, and diced tomatoes.",
+    "Cook for 2-3 minutes, stirring constantly.",
+    "In a large bowl, combine bread and rice mixture.",
+    "Stir in feta cheese until well combined.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "casserole",
+    "bread",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:33:25.349Z"
+}
