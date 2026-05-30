@@ -1,0 +1,53 @@
+{
+  "slug": "date-jam-ferment",
+  "title": "Fermented Date Jam",
+  "description": "A sweet and tangy jam made with fermented dates and perfect for topping toast or using as a filling for cakes.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "250g"
+    },
+    {
+      "name": "jam",
+      "amount": "50g"
+    },
+    {
+      "name": "ferment",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Rinse the dates and place them in a blender or food processor.",
+    "Add the jam and ferment to the blender and blend until smooth.",
+    "Return the mixture to a saucepan and bring to a simmer over medium heat.",
+    "Reduce the heat to low and let the jam simmer for 10-15 minutes or until it has thickened.",
+    "Remove the jam from the heat and let it cool before transferring it to a clean jar.",
+    "Store the jam in the refrigerator for up to 2 weeks."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "date",
+    "jam"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-jam-ferment",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:13.815Z"
+}
