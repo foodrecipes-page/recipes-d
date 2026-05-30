@@ -1,0 +1,76 @@
+{
+  "slug": "delicate-dutch-corn-chowder",
+  "title": "Creamy Corn Chowder",
+  "description": "A rich and comforting corn chowder made with a hint of delicate spices, perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Delicate paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tbsp butter in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add potatoes, chicken broth, and paprika. Bring to a boil.",
+    "Reduce heat, simmer for 15 minutes.",
+    "Add corn, milk, salt, and pepper. Stir until heated through.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-chowder",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-corn-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:32:51.990Z"
+}
