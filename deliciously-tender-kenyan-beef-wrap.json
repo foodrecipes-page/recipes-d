@@ -1,0 +1,115 @@
+{
+  "slug": "deliciously-tender-kenyan-beef-wrap",
+  "title": "Kenyan Beef Wrap",
+  "description": "A flavorful and tender beef wrap inspired by Kenyan cuisine, perfect for a quick and satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "Handful",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kale",
+      "amount": "Handful",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Tortilla wrap",
+      "amount": "1 large",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chutney",
+      "amount": "",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion, tomato, cucumber, lettuce, and kale to skillet and cook until vegetables are tender, about 5 minutes.",
+    "Add garlic and ginger to skillet and cook for 1 minute.",
+    "Add curry powder and paprika to skillet and cook for 1 minute.",
+    "Return beef to skillet and stir to combine with vegetables and spices.",
+    "Season with salt and black pepper to taste.",
+    "Warm tortilla wrap in the skillet or in the microwave.",
+    "Assemble the wrap by placing beef and vegetable mixture onto the tortilla and serving with chutney if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-tender-kenyan-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:26:03.545Z"
+}
