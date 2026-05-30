@@ -1,0 +1,94 @@
+{
+  "slug": "dense-quick-fix-syrian-toor-dal-dal",
+  "title": "Toor Dal with Syrian Flavor",
+  "description": "A flavorful and comforting Indian-inspired dish made with red lentils, aromatic spices, and a hint of Middle Eastern flair.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Syrian fix",
+      "amount": "1 tablespoon",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "Vegetable or chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, minced garlic, and grated ginger. Saute until the onion is translucent.",
+    "Add Toor Dal, Syrian fix, coriander powder, turmeric powder, and salt. Stir well.",
+    "Add water and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 20-25 minutes or until the lentils are tender.",
+    "Check the seasoning and adjust as needed.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "toor-dal",
+    "syrian-flavor",
+    "indian-food",
+    "lentil-soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-quick-fix-syrian-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:30.648Z"
+}
