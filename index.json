@@ -942,14 +942,14 @@
   },
   {
     "slug": "date-jam-ferment",
-    "title": "Date Jam Ferment",
+    "title": "Fermented Date Jam",
     "tags": [
-      "date-night",
-      "fermented-jam",
-      "egg-free"
+      "fermented",
+      "date",
+      "jam"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 8,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -2025,16 +2025,14 @@
   },
   {
     "slug": "decadent-german-apple-pudding",
-    "title": "Decadent German Apple Pudding",
+    "title": "German Apple Pudding Dessert",
     "tags": [
-      "air-fryer-recipes",
-      "fall-recipes",
       "german-desserts",
-      "kosher-friendly",
-      "romantic-dinners"
+      "apple-desserts",
+      "pudding-desserts"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 32,
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -4333,18 +4331,14 @@
   },
   {
     "slug": "delicate-dutch-corn-chowder",
-    "title": "Delicate Dutch Corn Chowder",
+    "title": "Creamy Corn Chowder",
     "tags": [
-      "citrusy",
-      "dutch",
-      "glassy-chowder",
-      "mason-jar",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "corn-chowder",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 22,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -11717,19 +11711,15 @@
   },
   {
     "slug": "dense-crispy-topped-peruvian-lomo-saltado-suspiro-limeno",
-    "title": "Dense Crispy Topped Peruvian Lomo Saltado Suspiro-Limeno",
+    "title": "Peruvian Lomo Saltado",
     "tags": [
-      "beef",
-      "clay-pot",
-      "high-protein",
-      "lomo-saltado",
       "peruvian",
-      "suspiro-limeno",
-      "tandoor",
-      "weeknight"
+      "stir-fry",
+      "beef",
+      "vegetables"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -13073,17 +13063,15 @@
   },
   {
     "slug": "dense-peruvian-bread-casserole",
-    "title": "Dense Peruvian Bread Casserole",
+    "title": "Peruvian Casserole Bread",
     "tags": [
-      "brunch",
-      "casserole",
-      "dairy-friendly",
-      "dense",
       "peruvian",
-      "sweet"
+      "casserole",
+      "bread",
+      "vegetarian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
