@@ -1,0 +1,92 @@
+{
+  "slug": "deep-delicious-moroccan-lamb-tangia",
+  "title": "Traditional Moroccan Lamb Tangia",
+  "description": "A popular North African dish that is slow-cooked in a clay oven, perfect for special occasions. This recipe is a simplified version of the traditional tangia.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 150°C (300°F).",
+    "2. Season the lamb shoulder with salt, black pepper, cumin, coriander, and paprika.",
+    "3. Heat the olive oil in a large Dutch oven over medium heat. Sear the lamb shoulder until browned on all sides.",
+    "4. Add the chopped onions to the pot and cook until they are softened and lightly browned.",
+    "5. Add the minced garlic and cook for 1 minute.",
+    "6. Add the preserved lemon and cook for 1 minute.",
+    "7. Transfer the pot to the preheated oven and cook for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "8. Let the tangia rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-delicious-moroccan-lamb-tangia",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:27:53.538Z"
+}
