@@ -16251,5 +16251,45 @@
     "cuisine": "Indian (Kerala)",
     "totalTimeMin": 45,
     "shard": "d"
+  },
+  {
+    "slug": "deep-delicious-moroccan-lamb-tangia--keto",
+    "title": "Tangia Lamb Tagine",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "tagine",
+      "keto",
+      "braised"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-kenyan-onion-skewers--german",
+    "title": "Grilled Kenyan Skewers with Delicate German Onions",
+    "tags": [
+      "german",
+      "beef",
+      "skewers",
+      "onions",
+      "caramelized"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-kenyan-onion-skewers--italian",
+    "title": "Italian-Style Shrimp Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "d"
   }
 ]
