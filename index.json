@@ -2425,16 +2425,15 @@
   },
   {
     "slug": "decadent-roasted-mediterranean-trout-bake",
-    "title": "Decadent Roasted Mediterranean Trout Bake",
+    "title": "Trout Medley Bake",
     "tags": [
-      "fish",
       "mediterranean",
-      "oven-baked",
-      "paleo-friendly",
-      "seafood"
+      "fish",
+      "bake",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 22,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -13801,17 +13800,15 @@
   },
   {
     "slug": "dense-smoky-norwegian-beetroot-stew",
-    "title": "Dense Smoky Norwegian Beetroot Stew",
+    "title": "Smoked Beetroot Stew",
     "tags": [
-      "beetroot-recipes",
-      "gluten-free-options",
-      "norwegian-cuisine",
-      "smoky-stews",
-      "vegetarian-dishes",
-      "winter-meals"
+      "beetroot",
+      "stew",
+      "smoked-sausage",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
