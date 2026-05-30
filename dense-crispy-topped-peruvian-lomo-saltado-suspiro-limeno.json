@@ -1,0 +1,94 @@
+{
+  "slug": "dense-crispy-topped-peruvian-lomo-saltado-suspiro-limeno",
+  "title": "Peruvian Lomo Saltado",
+  "description": "A traditional Peruvian stir-fry dish made with tender beef strips, onions, tomatoes, and French fries, served with rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "thinly sliced beef (lomo)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "French fries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of oil to the wok and cook the onion until softened, about 2-3 minutes.",
+    "Add the tomato and cook for an additional 2 minutes.",
+    "Add the French fries, soy sauce, Aji amarillo pepper, and garlic to the wok. Stir-fry for 2-3 minutes.",
+    "Return the beef to the wok and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the beef and vegetable mixture over cooked rice.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "beef",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-crispy-topped-peruvian-lomo-saltado-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:37:09.375Z"
+}
