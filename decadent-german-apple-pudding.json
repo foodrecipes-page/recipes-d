@@ -1,0 +1,81 @@
+{
+  "slug": "decadent-german-apple-pudding",
+  "title": "German Apple Pudding Dessert",
+  "description": "A rich and creamy German-inspired apple pudding dessert, perfect for special occasions.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3",
+      "notes": "Granny Smith or other sweet-tart apples"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted, melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 package",
+      "notes": "decent, not decadent"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the apples. Set aside.",
+    "In a medium bowl, whisk together flour, sugar, and melted butter until well combined.",
+    "Beat in eggs, one at a time, until smooth.",
+    "Stir in milk, vanilla extract, and pudding mix until well combined.",
+    "Add the chopped apples to the batter and stir until they are evenly distributed.",
+    "Pour the batter into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-desserts",
+    "apple-desserts",
+    "pudding-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-german-apple-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:25.429Z"
+}
