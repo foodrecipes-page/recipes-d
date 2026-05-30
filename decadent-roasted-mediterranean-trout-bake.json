@@ -1,0 +1,82 @@
+{
+  "slug": "decadent-roasted-mediterranean-trout-bake",
+  "title": "Trout Medley Bake",
+  "description": "A flavorful and easy-to-make trout medley bake that combines the freshness of trout with the richness of roasted vegetables.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Vegetable mix (carrots, zucchini, bell peppers)",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season trout fillets with salt and black pepper.",
+    "In a large bowl, toss vegetable mix with olive oil, lemon juice, and garlic.",
+    "Transfer vegetable mix to a baking dish and top with trout fillets.",
+    "Bake for 12-15 minutes or until trout is cooked through and flakes easily with a fork.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "fish",
+    "bake",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-roasted-mediterranean-trout-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:44:55.767Z"
+}
