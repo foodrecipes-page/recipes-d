@@ -16288,5 +16288,18 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-norwegian-beetroot-stew--german",
+    "title": "Smoked Norwegian Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "d"
   }
 ]
