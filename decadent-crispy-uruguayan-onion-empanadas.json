@@ -1,0 +1,75 @@
+{
+  "slug": "decadent-crispy-uruguayan-onion-empanadas",
+  "title": "Uruguayan Empanadas with Caramelized Onion",
+  "description": "A delicious twist on traditional empanadas, filled with caramelized onions and Uruguayan cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Uruguayan Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as Queso Fresco or Queso Blanco"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "4-6 packages",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Caramelize the onion by cooking it in a pan over low heat for 20-25 minutes, stirring occasionally.",
+    "Mix the caramelized onion with the Uruguayan cheese.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the onion-cheese mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with olive oil and fold the dough in half to form a half-circle.",
+    "Press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and season with salt and black pepper.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "caramelized-onion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-crispy-uruguayan-onion-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:47:29.513Z"
+}
