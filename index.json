@@ -6307,17 +6307,16 @@
   },
   {
     "slug": "delicate-roast-vietnamese-provola-tagine",
-    "title": "Delicate Roast Vietnamese Provola Tagine",
+    "title": "Vietnamese Chicken with Roasted Delicate Vegetables and Provolone",
     "tags": [
-      "cheese-dishes",
-      "gluten-free",
-      "roasted-vegetables",
-      "tagine-recipes",
-      "vegetarian-meals",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "italian",
+      "chicken",
+      "vegetables",
+      "cheese"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "Vietnamese-Italian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -9977,17 +9976,16 @@
   },
   {
     "slug": "deliciously-light-british-cheese-welsh-rarebit",
-    "title": "Deliciously Light British Cheese Welsh Rarebit",
+    "title": "Welsh Rarebit",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "low-calorie",
-      "lunch-idea",
-      "quick-meal",
-      "vegetarian"
+      "breakfast",
+      "lunch",
+      "british",
+      "cheese",
+      "wales"
     ],
     "cuisine": "British",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -10068,17 +10066,15 @@
   },
   {
     "slug": "deliciously-nutty-thai-yoghurt-satay",
-    "title": "Deliciously Nutty Thai Yoghurt Satay",
+    "title": "Thai Yoghurt Satay",
     "tags": [
-      "crunchy",
-      "dairy-free",
-      "nutty",
-      "quick-snack",
-      "thai-inspired",
-      "vegetarian"
+      "thai",
+      "grilling",
+      "chicken",
+      "satay"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
