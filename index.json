@@ -7763,17 +7763,15 @@
   },
   {
     "slug": "delicious-brazilian-chicken-tagine",
-    "title": "Delicious Brazilian Chicken Tagine",
+    "title": "Brazilian Chicken Tagine",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "paleo-friendly",
-      "tagine-cooking",
-      "whole30-recipes"
+      "brazilian",
+      "chicken",
+      "tagine",
+      "main-course"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14457,17 +14455,14 @@
   },
   {
     "slug": "dill-pickle-smoked-filipino-chicken-tinola",
-    "title": "Dill-Pickle Smoked Filipino Chicken Tinola",
+    "title": "Smoked Chicken Tinola",
     "tags": [
-      "buddhist-friendly",
-      "dill-pickle-smoked",
       "filipino",
-      "tinola",
-      "vegetarian",
-      "weeknight"
+      "smoked-chicken",
+      "soup"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -15018,17 +15013,15 @@
   },
   {
     "slug": "dreamy-dense-brazilian-cheese-lasagna",
-    "title": "Dreamy Dense Brazilian Cheese Lasagna",
+    "title": "Brazilian Dreamy Lasagna",
     "tags": [
-      "brazilian-cuisine",
-      "cheesy",
-      "date-night",
+      "brazilian",
       "lasagna",
-      "vegetarian",
-      "yuzu"
+      "cheese",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
