@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-crispy-egyptian-beef-kebabs",
+  "title": "Egyptian Beef Kebabs",
+  "description": "Delicate and flavorful kebabs inspired by Egyptian cuisine. Serve with your favorite sides or as a snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Egyptian spice mix",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4-6 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Delicate lettuce",
+      "amount": "1 head",
+      "notes": "For serving"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C).",
+    "In a large bowl, whisk together spice mix and lemon juice.",
+    "Add beef strips and toss to coat.",
+    "Thread beef strips onto skewers.",
+    "Brush grill with olive oil.",
+    "Grill kebabs for 8-10 minutes, or until cooked to your liking.",
+    "Serve with crusty bread, lettuce, tomato, and red onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "egyptian",
+    "beef",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crispy-egyptian-beef-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:22:49.478Z"
+}
