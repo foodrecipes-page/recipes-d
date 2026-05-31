@@ -1,0 +1,54 @@
+{
+  "slug": "dark-crunchy-malaysian-rye-noodles",
+  "title": "Dark Chocolate Crunchy Noodle Bites",
+  "description": "A sweet and crunchy snack made with dark chocolate and crunchy malaysian noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Malaysian Crunchy Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rye Flour",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, combine the crunchy noodles and rye flour.",
+    "Melt the dark chocolate in a microwave-safe bowl in 30-second increments, stirring between each interval until smooth.",
+    "Pour the melted chocolate over the noodle mixture and stir until well combined.",
+    "Scoop tablespoon-sized balls of the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the edges are set.",
+    "Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "chocolate",
+    "malaysian",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-crunchy-malaysian-rye-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:14:05.251Z"
+}
