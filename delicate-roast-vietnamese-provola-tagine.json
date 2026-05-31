@@ -1,0 +1,76 @@
+{
+  "slug": "delicate-roast-vietnamese-provola-tagine",
+  "title": "Vietnamese Chicken with Roasted Delicate Vegetables and Provolone",
+  "description": "A fusion dish that brings together the flavors of Vietnam and Italy. Perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese-Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "delicate vegetable medley (such as bell peppers, zucchini, carrots)",
+      "amount": "2 cups",
+      "notes": "any other delicate vegetables you like"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "roasted provolone cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C)",
+    "Toss delicate vegetable medley with olive oil, salt, and tagine spice blend. Roast in the oven for 20 minutes, or until tender.",
+    "In a separate pan, cook chicken breast over medium heat until browned and cooked through.",
+    "Stir in vietnamese fish sauce and cook for an additional 1-2 minutes.",
+    "Serve chicken on top of roasted vegetables and top with shredded provolone cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "italian",
+    "chicken",
+    "vegetables",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roast-vietnamese-provola-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:27.879Z"
+}
