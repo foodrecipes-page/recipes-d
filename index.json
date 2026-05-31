@@ -4786,17 +4786,17 @@
   },
   {
     "slug": "delicate-floral-korean-gelatin-bowl",
-    "title": "Delicate Floral Korean Gelatin Bowl",
+    "title": "Korean Delicate Jelly Bowl",
     "tags": [
-      "floral",
+      "korean",
+      "dessert",
       "gelatin",
-      "halal-friendly",
-      "korean-dessert",
-      "pillowy",
-      "stone-bowl"
+      "delicate",
+      "floral",
+      "bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 75,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -9602,17 +9602,14 @@
   },
   {
     "slug": "deliciously-dense-turkish-cheese-bake",
-    "title": "Deliciously Dense Turkish Cheese Bake",
+    "title": "Turkish-Style Cheese Bake",
     "tags": [
-      "cheese-lovers",
-      "comfort-food",
-      "mediterranean-inspired",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight-dinner"
+      "cheese",
+      "turkish",
+      "bake"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -11884,17 +11881,16 @@
   },
   {
     "slug": "dense-delightful-indian-paneer-palak-paneer",
-    "title": "Dense Delightful Indian Paneer Palak Paneer",
+    "title": "Palak Paneer",
     "tags": [
-      "easy-to-make",
       "indian",
-      "one-pan",
-      "palak",
+      "curry",
       "paneer",
+      "spinach",
       "vegetarian",
-      "weeknight"
+      "lacto-vegetarian"
     ],
-    "cuisine": "indian",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "d"
   },
