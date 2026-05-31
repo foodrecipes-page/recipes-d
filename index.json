@@ -1737,17 +1737,14 @@
   },
   {
     "slug": "decadent-crispy-uruguayan-onion-empanadas",
-    "title": "Decadent Crispy Uruguayan Onion Empanadas",
+    "title": "Uruguayan Empanadas with Caramelized Onion",
     "tags": [
-      "crispy-snacks",
-      "degazed-dishes",
-      "fatty-foods",
-      "halal-friendly",
-      "onion-dishes",
-      "uruguayan-cuisine"
+      "empanadas",
+      "uruguayan",
+      "caramelized-onion"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
