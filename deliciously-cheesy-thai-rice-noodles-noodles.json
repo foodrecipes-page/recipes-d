@@ -1,0 +1,76 @@
+{
+  "slug": "deliciously-cheesy-thai-rice-noodles-noodles",
+  "title": "Cheesy Thai Noodle Delight",
+  "description": "A simple yet flavorful Thai-inspired dish loaded with cheese, noodles, and a hint of spice. Perfect for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1/2 cup shredded"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "Fresh Lime Wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the fish sauce and stir to combine.",
+    "Add the shredded cheese and stir until melted and well combined.",
+    "Add the cooked noodles to the skillet and toss to coat with the cheese and curry mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with chopped cilantro.",
+    "Serve immediately with fresh lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "thaifood",
+    "noodles",
+    "quickdinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-cheesy-thai-rice-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:40:01.202Z"
+}
