@@ -1,0 +1,97 @@
+{
+  "slug": "dense-smoky-norwegian-beetroot-stew--german",
+  "title": "Smoked Norwegian Beef Stew",
+  "description": "A hearty German-inspired stew made with smoked Norwegian beef, beets, and dense vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked norwegian beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, about 5 minutes per batch. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion and carrot until tender, about 5 minutes.",
+    "Add the diced beetroot, browned beef, and stew to the pot. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Add the bay leaves and bring the stew to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Remove the bay leaves and serve hot.",
+    "Serve with crusty bread or over egg noodles for a filling meal.",
+    "Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-norwegian-beetroot-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:50.351Z"
+}
