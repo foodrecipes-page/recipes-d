@@ -1,0 +1,98 @@
+{
+  "slug": "dense-delightful-indian-paneer-palak-paneer",
+  "title": "Palak Paneer",
+  "description": "A creamy Indian spinach curry made with paneer cheese, served with a side of naan or rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "Palak (Spinach)",
+      "amount": "1 bunch",
+      "notes": "Fresh spinach leaves"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "Whole cumin seeds"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For the curry sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add minced garlic and grated ginger. Sauté for 1-2 minutes.",
+    "Add coriander powder, red chili powder, and salt. Mix well.",
+    "Add the spinach leaves and cook until they wilt.",
+    "Add the paneer cubes and cook for 2-3 minutes.",
+    "Add water and bring the mixture to a simmer.",
+    "Let it cook for 10-15 minutes or until the sauce thickens.",
+    "Stir occasionally to prevent the sauce from burning.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "paneer",
+    "spinach",
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-delightful-indian-paneer-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:30:07.651Z"
+}
