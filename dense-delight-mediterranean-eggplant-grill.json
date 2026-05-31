@@ -1,0 +1,77 @@
+{
+  "slug": "dense-delight-mediterranean-eggplant-grill",
+  "title": "Grilled Eggplant Mediterranean Delight",
+  "description": "A flavorful and healthy eggplant dish, perfect for a summer evening. The combination of eggplant, feta cheese, and fresh herbs will transport your taste buds to the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a good quality oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush eggplant slices with olive oil and season with salt.",
+    "Grill eggplant slices for 3-4 minutes per side, or until tender and lightly charred.",
+    "In a small bowl, mix together feta cheese, minced garlic, and chopped parsley.",
+    "Once eggplant is done grilling, top each slice with the feta mixture.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "grilled",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-delight-mediterranean-eggplant-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:56:53.442Z"
+}
