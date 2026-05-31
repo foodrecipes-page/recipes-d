@@ -1,0 +1,92 @@
+{
+  "slug": "deliciously-spiced-moroccan-lamb-briouat",
+  "title": "Moroccan Lamb Briouat",
+  "description": "A classic Moroccan dish, these flaky briouats are filled with spiced lamb and served as a delicious snack or appetizer.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Deliciously Spiced Moroccan Brik Pastry Dough",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the lamb and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the onion, garlic, cumin, cayenne pepper, salt, and black pepper to the skillet and cook, stirring occasionally, until the onion is softened, about 5 minutes.",
+    "Unroll the brik pastry dough and cut it into 12 squares.",
+    "Place a tablespoon of the lamb mixture in the center of each square.",
+    "Brush the edges of the dough with the beaten egg and fold the dough over the filling, pressing the edges to seal.",
+    "Heat 1 tablespoon of oil in a large skillet over medium heat.",
+    "Add the briouats to the skillet and cook, turning occasionally, until they are golden brown, about 3-4 minutes on each side.",
+    "Transfer the briouats to a baking sheet and bake for 12-15 minutes, or until crispy.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "snack",
+    "briouat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spiced-moroccan-lamb-briouat",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:31:17.634Z"
+}
