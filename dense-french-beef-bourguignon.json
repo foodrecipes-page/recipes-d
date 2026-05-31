@@ -1,0 +1,98 @@
+{
+  "slug": "dense-french-beef-bourguignon",
+  "title": "Bourguignon French Beef Stew",
+  "description": "A classic French dish made with tender beef and rich flavors. This hearty stew is perfect for a cold winter's day.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bourguignon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the short ribs with salt and pepper.",
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the short ribs from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrot and celery and cook for an additional 2 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Add the Bourguignon, red wine, beef broth, and tomato paste.",
+    "Return the short ribs to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-french-beef-bourguignon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:31:24.979Z"
+}
