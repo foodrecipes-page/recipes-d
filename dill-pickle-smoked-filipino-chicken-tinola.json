@@ -1,0 +1,82 @@
+{
+  "slug": "dill-pickle-smoked-filipino-chicken-tinola",
+  "title": "Smoked Chicken Tinola",
+  "description": "A Filipino-inspired chicken soup with a smoky twist, made with smoked chicken and dill.",
+  "cuisine": "Filipino",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Chicken",
+      "amount": "1 pound",
+      "notes": "Shredded or diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pickle Juice",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tinola",
+      "amount": "2 cups",
+      "notes": "Chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Saute the onion and garlic until softened.",
+    "Add the smoked chicken and cook until heated through.",
+    "Add the cooked rice, fish sauce, pickle juice, and dill. Stir well.",
+    "Pour in the tinola and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "smoked-chicken",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dill-pickle-smoked-filipino-chicken-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:07:20.388Z"
+}
