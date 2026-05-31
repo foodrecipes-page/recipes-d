@@ -1,0 +1,99 @@
+{
+  "slug": "delicious-kenyan-meat-dumplings",
+  "title": "Kenyan Meat Dumplings",
+  "description": "A traditional Kenyan dish made with juicy meat and flavorful spices, served in a steamed dumpling. Perfect for a hearty meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Curry Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tablespoons of vegetable oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tomato paste, curry powder, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "While the filling is cooking, mix the flour and a pinch of salt in a large bowl.",
+    "Add the warm water to the flour mixture and stir until a dough forms.",
+    "Knead the dough for 5 minutes, until smooth and elastic.",
+    "Divide the dough into small pieces and roll each one into a ball.",
+    "Flatten each ball of dough into a disk and place a tablespoon of the meat filling in the center.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Place the dumplings in a steamer basket, leaving a little space between each one.",
+    "Steam the dumplings over boiling water for 15-20 minutes, until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "meat",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-kenyan-meat-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:29:30.878Z"
+}
