@@ -1,0 +1,84 @@
+{
+  "slug": "delicious-crunchy-russian-seeds-pilaf",
+  "title": "Russian Pilaf",
+  "description": "A flavorful and crunchy pilaf dish with a hint of Russian spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seeds",
+      "amount": "1 cup",
+      "notes": "a mix of sunflower and pumpkin seeds"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "white pilaf mix"
+    },
+    {
+      "name": "delicious",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion powder and sauté for 1 minute.",
+    "Add the pilaf mix and cook for 2 minutes, stirring constantly.",
+    "Add the mixed seeds, salt, pepper, onion powder, and garlic powder.",
+    "Stir well and cook for an additional 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and stir in chopped fresh dill.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "pilaf",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-crunchy-russian-seeds-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:41:16.111Z"
+}
