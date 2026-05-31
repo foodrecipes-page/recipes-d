@@ -7881,17 +7881,15 @@
   },
   {
     "slug": "delicious-crunchy-russian-seeds-pilaf",
-    "title": "Delicious Crunchy Russian Seeds Pilaf",
+    "title": "Russian Pilaf",
     "tags": [
-      "gluten-free",
-      "grain-free",
-      "high-fiber",
-      "one-pan",
       "russian",
-      "vegan"
+      "pilaf",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 45,
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -12164,16 +12162,14 @@
   },
   {
     "slug": "dense-french-beef-bourguignon",
-    "title": "Dense French Beef Bourguignon",
+    "title": "Bourguignon French Beef Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "one-pan",
       "stew",
-      "weeknight"
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 240,
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
@@ -16280,6 +16276,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 170,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-dutch-corn-chowder--thai",
+    "title": "Thai Corn Chowder",
+    "tags": [
+      "thai",
+      "corn",
+      "chowder",
+      "soup"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
