@@ -1,0 +1,64 @@
+{
+  "slug": "delicate-dutch-corn-chowder--thai",
+  "title": "Thai Corn Chowder",
+  "description": "A hearty and flavorful Thai-inspired corn chowder perfect for a chilly evening.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Delicate corn",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Dutch potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Thai chowder broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add the onions and garlic and cook until softened, about 5 minutes.",
+    "Add the corn, potatoes, and broth to the pot. Bring to a boil, then reduce the heat to low and simmer for 15-20 minutes.",
+    "Use an immersion blender to puree the soup until slightly smooth. Alternatively, transfer the soup to a blender and blend until smooth, then return it to the pot.",
+    "Taste and adjust the seasoning as needed. Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "corn",
+    "chowder",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-corn-chowder--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:47:09.844Z"
+}
