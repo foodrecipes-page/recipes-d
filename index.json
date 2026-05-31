@@ -3986,17 +3986,16 @@
   },
   {
     "slug": "delicate-crispy-egyptian-beef-kebabs",
-    "title": "Delicate Crispy Egyptian Beef Kebabs",
+    "title": "Egyptian Beef Kebabs",
     "tags": [
-      "copper-pot",
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "egyptian",
+      "beef",
+      "grill",
+      "summer"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -10630,16 +10629,15 @@
   },
   {
     "slug": "deliciously-spiced-moroccan-lamb-briouat",
-    "title": "Deliciously Spiced Moroccan Lamb Briouat",
+    "title": "Moroccan Lamb Briouat",
     "tags": [
-      "flexitarian-friendly",
-      "fried-foods",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "special-occasion"
+      "moroccan",
+      "lamb",
+      "snack",
+      "briouat"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -15690,16 +15688,16 @@
   },
   {
     "slug": "dry-brined-japanese-beef-gyudon",
-    "title": "Dry Brined Japanese Beef Gyudon",
+    "title": "Japanese Beef Bowl",
     "tags": [
-      "japanese-food",
-      "low-calorie",
-      "one-pan",
-      "quick-meal",
-      "weeknight"
+      "beef",
+      "japanese",
+      "easy-to-make",
+      "beef-bowl",
+      "marinated-beef"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
