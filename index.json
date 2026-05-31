@@ -8210,17 +8210,14 @@
   },
   {
     "slug": "delicious-kenyan-meat-dumplings",
-    "title": "Delicious Kenyan Meat Dumplings",
+    "title": "Kenyan Meat Dumplings",
     "tags": [
-      "diabetic-friendly",
-      "fatty-foods",
-      "kenyan-cuisine",
-      "kid-friendly",
-      "meat-dumplings",
-      "shaggy-dumplings"
+      "kenyan",
+      "meat",
+      "dumplings"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -10537,18 +10534,16 @@
   },
   {
     "slug": "deliciously-snappy-ethiopian-lentils-skillet",
-    "title": "Deliciously Snappy Ethiopian Lentils Skillet",
+    "title": "Ethiopian Lentil Skillet",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "vegan",
-      "weeknight"
+      "ethiopian",
+      "lentils",
+      "skillet",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
