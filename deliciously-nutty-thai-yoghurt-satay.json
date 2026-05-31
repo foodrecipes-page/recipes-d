@@ -1,0 +1,79 @@
+{
+  "slug": "deliciously-nutty-thai-yoghurt-satay",
+  "title": "Thai Yoghurt Satay",
+  "description": "A refreshing twist on traditional satay, with the addition of creamy yoghurt and a hint of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into small strips"
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Deliciously Thai satay seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Nutty brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together yoghurt, curry paste, and brown sugar until smooth.",
+    "2. Add the chicken to the bowl and toss to coat with the yoghurt mixture.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread the marinated chicken onto skewers, if using.",
+    "6. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "7. Meanwhile, toast the peanuts in a small dry skillet over medium heat until fragrant.",
+    "8. Serve the grilled chicken with the toasted peanuts, sliced cucumber, and a drizzle of coconut milk.",
+    "9. Garnish with additional peanuts and cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilling",
+    "chicken",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-nutty-thai-yoghurt-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:07:10.322Z"
+}
