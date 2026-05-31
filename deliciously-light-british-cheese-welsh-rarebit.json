@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-light-british-cheese-welsh-rarebit",
+  "title": "Welsh Rarebit",
+  "description": "A classic British dish originating from Wales, this Welsh Rarebit recipe combines melted cheese with a rich and tangy sauce, served over toasted bread.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "2 cups",
+      "notes": "Cheddar or similar"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Beer",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    }
+  ],
+  "instructions": [
+    "1. Butter the bread slices.",
+    "2. In a medium saucepan, melt the butter over medium heat.",
+    "3. Add the flour and whisk to form a paste.",
+    "4. Cook for 1 minute.",
+    "5. Add the mustard and Worcestershire sauce, whisking to combine.",
+    "6. Gradually add the beer, whisking to prevent lumps.",
+    "7. Bring the mixture to a simmer.",
+    "8. Reduce the heat to low and add the cheese, stirring until melted and smooth.",
+    "9. Season with salt and pepper to taste.",
+    "10. Place the toasted bread slices on a baking sheet.",
+    "11. Spoon the cheese sauce over the bread.",
+    "12. Place under the broiler for 2-3 minutes, until the top is golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "british",
+    "cheese",
+    "wales"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-light-british-cheese-welsh-rarebit",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:08:33.979Z"
+}
