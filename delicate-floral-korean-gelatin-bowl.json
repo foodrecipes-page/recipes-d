@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-floral-korean-gelatin-bowl",
+  "title": "Korean Delicate Jelly Bowl",
+  "description": "A light and refreshing dessert inspired by Korean flavors, featuring a delicate floral jelly in a beautiful bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green Tea Leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Delicate Floral Extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Korean Chili Flakes (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Mint Leaves (for garnish)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the gelatin sheets in water for 5 minutes.",
+    "In a medium saucepan, combine the granulated sugar, water, lemon juice, green tea leaves, and delicate floral extract.",
+    "Heat the mixture over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then remove from heat.",
+    "Add the soaked gelatin to the mixture and stir until fully dissolved.",
+    "Strain the mixture into a bowl and let it cool to room temperature.",
+    "Refrigerate the mixture for at least 2 hours or until set.",
+    "Just before serving, sprinkle the Korean chili flakes (if using) on top of the jelly.",
+    "Garnish with fresh mint leaves and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dessert",
+    "gelatin",
+    "delicate",
+    "floral",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0.5,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-floral-korean-gelatin-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:32:04.451Z"
+}
