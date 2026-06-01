@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-crumbly-uruguayan-cheese-empanadas",
+  "title": "Uruguayan Cheese Empanadas",
+  "description": "A classic Uruguayan pastry filled with a deliciously crumbly cheese mixture, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 package (17.3 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup (8 oz)",
+      "notes": "such as quesillo or queso crema"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together cheese, onion, garlic, egg, salt, and pepper.",
+    "Place a spoonful of the cheese mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with olive oil.",
+    "Fold the other half of the dough circle over the cheese mixture and press edges to seal.",
+    "Use a fork to crimp the edges of the empanadas.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "empanadas",
+    "snack",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crumbly-uruguayan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:28:52.376Z"
+}
