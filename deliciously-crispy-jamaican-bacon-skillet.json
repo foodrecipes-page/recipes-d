@@ -1,0 +1,70 @@
+{
+  "slug": "deliciously-crispy-jamaican-bacon-skillet",
+  "title": "Jamaican Bacon Skillet Delight",
+  "description": "A spicy twist on a classic skillet recipe, featuring crispy bacon and a hint of Jamaican flavor.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Jamaican bacon seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "non-stick"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat skillet over medium-high heat.",
+    "Cook bacon until crispy, then remove from skillet.",
+    "Add diced onion and bell pepper to skillet, cook until tender.",
+    "Add Jamaican bacon seasoning and stir to combine.",
+    "Return cooked bacon to skillet and stir to coat with seasoning.",
+    "Continue cooking for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "bacon",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-jamaican-bacon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:25:41.193Z"
+}
