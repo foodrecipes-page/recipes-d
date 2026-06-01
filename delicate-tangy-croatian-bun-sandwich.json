@@ -1,0 +1,67 @@
+{
+  "slug": "delicate-tangy-croatian-bun-sandwich",
+  "title": "Croatian Bun Sandwich",
+  "description": "A simple, tangy sandwich made with Croatian bun and filled with a delicate spread.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bun",
+      "amount": "4",
+      "notes": "soft and slightly sweet"
+    },
+    {
+      "name": "Delicate spread (cream cheese or labneh)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tangy pickled vegetables (such as pickled cucumbers or sauerkraut)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the Croatian bun in half and toast until lightly browned.",
+    "2. Spread a layer of the delicate spread on the bottom half of the bun.",
+    "3. Top the spread with a layer of tangy pickled vegetables.",
+    "4. Sprinkle fresh parsley over the pickled vegetables.",
+    "5. Season with salt and pepper to taste.",
+    "6. Top with the top half of the bun.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sandwich",
+    "lunch",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-tangy-croatian-bun-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:27:25.435Z"
+}
