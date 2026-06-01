@@ -1976,17 +1976,15 @@
   },
   {
     "slug": "decadent-french-burrata-tartiflette",
-    "title": "decadent french burrata tartiflette",
+    "title": "French Tartiflette",
     "tags": [
-      "brittany",
-      "comfort-food",
       "french",
-      "holiday",
-      "main-course",
-      "weeknight"
+      "comfort-food",
+      "casserole",
+      "rich"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 75,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -9175,18 +9173,16 @@
   },
   {
     "slug": "deliciously-crunchy-venezuelan-corn-empanadas",
-    "title": "Venezuelan Corn Empanadas",
+    "title": "Delicious Venezuelan Empanadas",
     "tags": [
-      "crunchy-snacks",
-      "flexitarian-friendly",
-      "latin-american",
-      "oat-milk-recipes",
-      "tadka-spice",
-      "vegan-options",
-      "weeknight-meals"
+      "venezuelan",
+      "empanadas",
+      "snack",
+      "corn",
+      "cheese"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -11429,17 +11425,15 @@
   },
   {
     "slug": "dense-briny-tunisian-dishes-tagine",
-    "title": "Dense Briny Tunisian Tagine",
+    "title": "Tunisian Tagine",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "north african",
+      "stew",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -16277,6 +16271,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-german-apple-pudding--gluten-free",
+    "title": "German Apple Pudding Dessert",
+    "tags": [
+      "apple-pudding",
+      "german-dessert",
+      "gluten-free-dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "d"
   }
 ]
