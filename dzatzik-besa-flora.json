@@ -1,0 +1,78 @@
+{
+  "slug": "dzatzik-besa-flora",
+  "title": "Greek Yogurt Sauce Chicken",
+  "description": "A simple and flavorful dish made with chicken, Greek yogurt sauce, and a hint of herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Dzatzik ( Greek yogurt sauce)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Besa",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Flora (olive oil)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup (chopped)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt and black pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken is cooking, mix the dzatzik, besa, and olive oil in a small bowl.",
+    "Once the chicken is done, let it rest for a few minutes before slicing.",
+    "Serve the chicken with the Greek yogurt sauce spooned over the top.",
+    "Garnish with chopped fresh dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "chicken",
+    "yogurt-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dzatzik-besa-flora",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:31:56.443Z"
+}
