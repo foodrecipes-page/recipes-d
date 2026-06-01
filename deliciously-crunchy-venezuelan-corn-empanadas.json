@@ -1,0 +1,70 @@
+{
+  "slug": "deliciously-crunchy-venezuelan-corn-empanadas",
+  "title": "Delicious Venezuelan Empanadas",
+  "description": "A traditional Venezuelan dish made with crispy empanada dough and a variety of delicious fillings.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup, frozen",
+      "notes": "thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Cotija cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough into thin circles.",
+    "Place 1-2 tbsp of corn in the center of each dough circle.",
+    "Add onion and garlic if using.",
+    "Sprinkle Cotija cheese if using.",
+    "Fold the dough in half to form a half-circle shape and press the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with salsa if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "snack",
+    "corn",
+    "cheese"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-venezuelan-corn-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:43:07.172Z"
+}
