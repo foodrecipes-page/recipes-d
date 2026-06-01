@@ -1,0 +1,93 @@
+{
+  "slug": "delicate-mexican-pork-tacos-al-pastor",
+  "title": "Delicate Al Pastor Tacos",
+  "description": "A twist on traditional Mexican tacos, with tender and flavorful Al Pastor pork, served in delicate tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "In a blender or food processor, blend onion, garlic, chili powder, oregano, and cumin until smooth.",
+    "Place the pork shoulder in a large bowl and coat with the blended mixture, then marinate for at least 30 minutes.",
+    "Grill the pork shoulder for 20-25 minutes or until cooked through, then let rest for 5 minutes before slicing.",
+    "Warm the tortillas on the grill or in a dry pan.",
+    "Assemble the tacos by placing sliced pork onto a tortilla, followed by pineapple, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "al-pastor",
+    "pork",
+    "delicate"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:36:02.078Z"
+}
