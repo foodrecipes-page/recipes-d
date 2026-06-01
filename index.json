@@ -1390,18 +1390,15 @@
   },
   {
     "slug": "ddecadent-flax-seedy-jamaican-skewers",
-    "title": "DDecadent Flax-seedy Jamaican Skewers",
+    "title": "Grilled Jamaican Shrimp Skewers with Flaxseed Crust",
     "tags": [
-      "binchotan-grill",
-      "energizing",
-      "flaxseed",
-      "jain-friendly",
-      "jamaican",
-      "snappy",
-      "sweet"
+      "caribbean",
+      "grilled",
+      "shrimp",
+      "flaxseed"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -14705,16 +14702,13 @@
   },
   {
     "slug": "dramatic-colorful-jamaican-rice-vermicelli-stir-fry",
-    "title": "Vibrant Jamaican Rice Vermicelli Stir-Fry",
+    "title": "Jamaican Stir Fry",
     "tags": [
-      "colorful",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "jamaican",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 25,
     "shard": "d"
   },
