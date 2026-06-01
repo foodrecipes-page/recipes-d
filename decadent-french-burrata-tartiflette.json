@@ -1,0 +1,78 @@
+{
+  "slug": "decadent-french-burrata-tartiflette",
+  "title": "French Tartiflette",
+  "description": "A rich, French-inspired casserole dish showcasing the decadence of burrata cheese and the heartiness of tartiflette.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burrata Cheese",
+      "amount": "1 large wheel"
+    },
+    {
+      "name": "Tartiflette Potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and slice the potatoes into 1/2-inch thick rounds.",
+    "Caramelize the onions in a skillet over medium heat for 20 minutes.",
+    "Cook the bacon in the skillet until crispy, then set aside.",
+    "In a separate saucepan, heat the burrata cheese over low heat until melted and smooth.",
+    "In a large baking dish, arrange the potatoes in a single layer.",
+    "Sprinkle the caramelized onions, crispy bacon, and melted burrata cheese over the potatoes.",
+    "Season with thyme, salt, and black pepper to taste.",
+    "Bake for 25-30 minutes or until the potatoes are tender and the top is golden brown.",
+    "Serve hot and enjoy!",
+    "Let the dish rest for 5-10 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "comfort-food",
+    "casserole",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-french-burrata-tartiflette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:24:28.648Z"
+}
