@@ -1,0 +1,63 @@
+{
+  "slug": "decadent-german-apple-pudding--gluten-free",
+  "title": "German Apple Pudding Dessert",
+  "description": "A decadent gluten-free dessert combining traditional German flavors with a creamy apple pudding.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla pudding",
+      "amount": "1 package (4 servings)"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop the apples, then mix with cinnamon, nutmeg, and sugar.",
+    "In a separate bowl, mix the pudding and heavy cream.",
+    "In a greased 9x13-inch baking dish, mix the apple mixture and pudding mixture.",
+    "Dot the top with butter and cover with aluminum foil.",
+    "Bake for 35 minutes, then remove the foil and continue baking for an additional 10-15 minutes.",
+    "Let the pudding cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pudding",
+    "german-dessert",
+    "gluten-free-dessert"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-german-apple-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:44:26.152Z"
+}
