@@ -1,0 +1,75 @@
+{
+  "slug": "dehydrated-smoky-german-pork-skewers",
+  "title": "Smoky Pork Skewers",
+  "description": "A flavorful and juicy pork skewer recipe with a smoky twist, perfect for a summer barbecue.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "dehydrated onion, rehydrated in 2 tablespoons of water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "german-style mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "skewers, soaked in water for 30 minutes",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak skewers in water for 30 minutes. Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together dehydrated onion, smoky paprika, german-style mustard, salt, and pepper.",
+    "Add pork cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the pork cubes.",
+    "Grill skewers for 8-10 minutes per side, or until the pork is cooked through.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "german-food",
+    "summer-recipe",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dehydrated-smoky-german-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:05:54.267Z"
+}
