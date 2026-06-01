@@ -1,0 +1,83 @@
+{
+  "slug": "dense-briny-tunisian-dishes-tagine",
+  "title": "Tunisian Tagine",
+  "description": "A traditional North African stew made with tender chickpeas, sweet potatoes, and aromatic spices. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dense, briny olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, and paprika. Cook for 1 minute.",
+    "Add sweet potatoes, chickpeas, and olives. Stir to combine.",
+    "Add tagine spice blend and stir to combine.",
+    "Bring stew to a simmer, then reduce heat to low and cook, covered, for 30 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-briny-tunisian-dishes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:46:26.060Z"
+}
