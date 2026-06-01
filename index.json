@@ -3259,18 +3259,15 @@
   },
   {
     "slug": "dehydrated-smoky-german-pork-skewers",
-    "title": "Dehydrated Smoky German Pork Skewers",
+    "title": "Smoky Pork Skewers",
     "tags": [
-      "dehydrated",
-      "german",
-      "gluten-free",
-      "pork",
-      "skewers",
-      "smoky",
-      "snack"
+      "barbecue",
+      "german-food",
+      "summer-recipe",
+      "pork-recipe"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 420,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5825,16 +5822,15 @@
   },
   {
     "slug": "delicate-mediterranean-chicken-tagine",
-    "title": "Delicate Mediterranean Chicken Tagine",
+    "title": "Chicken Tagine",
     "tags": [
       "chicken",
-      "comfort-food",
-      "halal",
-      "mediterranean",
-      "one-pot"
+      "north african",
+      "slow cooker",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -16269,6 +16265,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-crunchy-russian-seeds-pilaf--french",
+    "title": "French Pilaf with Seeds",
+    "tags": [
+      "pilaf",
+      "french",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
