@@ -5884,16 +5884,16 @@
   },
   {
     "slug": "delicate-mexican-pork-tacos-al-pastor",
-    "title": "Delicate Mexican Pork Tacos Al Pastor",
+    "title": "Delicate Al Pastor Tacos",
     "tags": [
-      "copper-mug",
-      "grilled-pork",
-      "low-glycemic",
-      "mexican-food",
-      "tacos-al-pastor"
+      "mexican",
+      "tacos",
+      "al-pastor",
+      "pork",
+      "delicate"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -7205,17 +7205,14 @@
   },
   {
     "slug": "delicate-tangy-croatian-bun-sandwich",
-    "title": "Delicate Tangy Croatian Bun Sandwich",
+    "title": "Croatian Bun Sandwich",
     "tags": [
-      "croatian-cuisine",
-      "jain-friendly",
-      "lazy-sunday",
       "sandwich",
-      "tangy",
-      "vegetarian"
+      "lunch",
+      "breakfast"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
@@ -8946,17 +8943,15 @@
   },
   {
     "slug": "deliciously-crispy-jamaican-bacon-skillet",
-    "title": "Deliciously Crispy Jamaican Bacon Skillet",
+    "title": "Jamaican Bacon Skillet Delight",
     "tags": [
-      "caribbean-inspired",
-      "cozy",
-      "dairy-free",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "breakfast",
+      "skillet",
+      "bacon",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9036,15 +9031,13 @@
   },
   {
     "slug": "deliciously-crumbly-uruguayan-cheese-empanadas",
-    "title": "Deliciously Crumbly Uruguayan Cheese Empanadas",
+    "title": "Uruguayan Cheese Empanadas",
     "tags": [
-      "baked",
-      "cheese-lover",
-      "kid-friendly",
-      "mediterranean-inspired",
-      "snack",
       "uruguayan",
-      "vegetarian"
+      "cheese",
+      "empanadas",
+      "snack",
+      "pastries"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
@@ -9229,17 +9222,16 @@
   },
   {
     "slug": "deliciously-decadent-spanish-shrimp-gambas-al-ajillo",
-    "title": "Deliciously Decadent Spanish Shrimp Gambas Al Ajillo",
+    "title": "Shrimp al Ajillo",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "one-pan",
+      "shrimp",
+      "spanish",
       "seafood",
-      "spanish-food",
-      "yeasty-dishes"
+      "garlic",
+      "lemon"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
