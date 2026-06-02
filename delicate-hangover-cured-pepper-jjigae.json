@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-hangover-cured-pepper-jjigae",
+  "title": "Cured Korean Hangover Soup (Haejangguk)",
+  "description": "A spicy, savory soup to cure a hangover. This recipe combines cured pork, vegetables, and jjigae for a hearty meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cured pork (Samgyeopsal)",
+      "amount": "100g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Delicate Korean chili flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Black pepper"
+    },
+    {
+      "name": "Jjigae (Korean chili paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried kelp (Korean dashima)",
+      "amount": "2 sheets",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil in a large pot.",
+    "Add the cured pork and cook for 5 minutes.",
+    "Add the chili flakes, pepper, jjigae, ginger, and garlic. Stir well.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Add the green onions and kelp (if using). Cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional green onions (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "hangover",
+    "soup",
+    "cured-pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-hangover-cured-pepper-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:09:29.009Z"
+}
