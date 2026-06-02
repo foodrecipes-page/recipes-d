@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-dutch-smoked-salmon-hash",
+  "title": "Smoked Salmon Hash with Crispy Shallots",
+  "description": "A decadent and flavorful breakfast dish featuring smoked salmon, crispy shallots, and a crispy hash.",
+  "cuisine": "Dutch",
+  "diet": [
+    "breakfast",
+    "brunch",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon Fillets",
+      "amount": "6 ounces",
+      "notes": "Wild-caught and smoked to perfection"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": "Grated and drained"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large pan over medium heat, melt 1 tablespoon of butter.",
+    "3. Add the sliced shallots and cook until crispy, about 5 minutes.",
+    "4. Remove the shallots from the pan and set aside.",
+    "5. In the same pan, add the remaining 1 tablespoon of butter.",
+    "6. Add the hash browns and cook until crispy and golden brown, about 5-7 minutes.",
+    "7. Remove the hash browns from the pan and set aside with the shallots.",
+    "8. Add the smoked salmon fillets to the pan and cook for 2-3 minutes per side, until cooked through.",
+    "9. Serve the smoked salmon on top of the hash browns, topped with crispy shallots and a squeeze of lemon juice.",
+    "10. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "smoked-salmon",
+    "hash-browns",
+    "crispy-shallots"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-dutch-smoked-salmon-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:26:46.260Z"
+}
