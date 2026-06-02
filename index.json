@@ -7576,16 +7576,16 @@
   },
   {
     "slug": "delicate-yeasty-japanese-bread-bao",
-    "title": "Delicate Yeasty Japanese Bread Bao",
+    "title": "Delicate Japanese Bao",
     "tags": [
-      "homemade-bao",
-      "japanese-cuisine",
-      "kosher-friendly",
-      "snack-time",
-      "yeasty-bread"
+      "bao",
+      "japanese",
+      "delicate",
+      "yeasty",
+      "bread"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -16313,6 +16313,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-quick-fix-syrian-toor-dal-dal--german",
+    "title": "German Lentil Stew",
+    "tags": [
+      "german",
+      "lentils",
+      "stew",
+      "veggie-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-snappy-ethiopian-lentils-skillet--thai",
+    "title": "Thai-Style Skillet Lentils",
+    "tags": [
+      "thaifood",
+      "lentilrecipe",
+      "veganoption"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "d"
   }
 ]
