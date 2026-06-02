@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-yeasty-japanese-bread-bao",
+  "title": "Delicate Japanese Bao",
+  "description": "Soft, fluffy bao dough infused with delicate yeast flavor, perfect for serving with your favorite Japanese dishes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao flour",
+      "amount": "2 cups",
+      "notes": "preferably Japanese bread flour"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": "delicate yeast"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Japanese milk",
+      "amount": "1/4 cup",
+      "notes": "or regular milk"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine 1 cup of warm water and 1 teaspoon of delicate yeast.",
+    "2. Let the mixture sit for 5-10 minutes, until it becomes frothy.",
+    "3. Add the bao flour, salt, sugar, and Japanese milk to the bowl.",
+    "4. Mix the dough until it forms a smooth ball.",
+    "5. Knead the dough for 10 minutes, until it becomes elastic.",
+    "6. Place the dough in a greased bowl and let it rise for 1 hour, until it doubles in size.",
+    "7. Once the dough has risen, punch it down and divide it into 4-6 equal pieces.",
+    "8. Shape each piece into a ball and flatten it slightly into a disk.",
+    "9. Heat a non-stick pan or griddle over medium heat.",
+    "10. Cook the bao for 2-3 minutes on each side, until they are golden brown.",
+    "11. Brush the bao with vegetable oil and sprinkle with sesame seeds, if desired.",
+    "12. Serve the bao warm with your favorite Japanese dishes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "japanese",
+    "delicate",
+    "yeasty",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-yeasty-japanese-bread-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:04:14.398Z"
+}
