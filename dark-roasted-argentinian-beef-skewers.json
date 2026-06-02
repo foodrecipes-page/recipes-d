@@ -1,0 +1,77 @@
+{
+  "slug": "dark-roasted-argentinian-beef-skewers",
+  "title": "Grilled Argentinian Beef Skewers",
+  "description": "A flavorful and tender dish featuring marinated Argentinian beef skewers grilled to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian beef (skewers)",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dark roasted olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat.",
+    "In a large bowl, whisk together olive oil, garlic, chimichurri sauce, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy!",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:44:12.226Z"
+}
