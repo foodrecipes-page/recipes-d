@@ -613,18 +613,14 @@
   },
   {
     "slug": "dark-roasted-argentinian-beef-skewers",
-    "title": "Dark Roasted Argentinian Beef Skewers",
+    "title": "Grilled Argentinian Beef Skewers",
     "tags": [
-      "argentinian",
       "beef",
-      "low-sodium",
-      "molasses",
-      "post-workout",
-      "roasted",
-      "skewers"
+      "argentinian",
+      "grilled"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -644,17 +640,14 @@
   },
   {
     "slug": "dark-roasted-jamaican-date-stew",
-    "title": "Dark Roasted Jamaican Date Stew",
+    "title": "Jamaican Dark Chocolate Stew",
     "tags": [
-      "coconut-milk",
-      "comfort-food",
-      "jamaican-cuisine",
-      "one-pot",
-      "plant-based",
-      "roasted-vegetables"
+      "chocolate",
+      "beef",
+      "stew"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 105,
     "shard": "d"
   },
   {
@@ -3871,17 +3864,16 @@
   },
   {
     "slug": "delicate-crisp-peruvian-beef-anticuchos",
-    "title": "Delicate Crisp Peruvian Beef Anticuchos",
+    "title": "Beef Anticuchos with Grilled Vegetables",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "grilled-meats",
-      "kid-friendly",
-      "peruvian-cuisine",
-      "sugar-free"
+      "beef",
+      "grilled",
+      "peruvian",
+      "skewers",
+      "antipasto"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -16278,6 +16270,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-french-beef-bourguignon--mexican",
+    "title": "Mexican Beef Bourguignon Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "bourguignon"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
     "shard": "d"
   }
 ]
