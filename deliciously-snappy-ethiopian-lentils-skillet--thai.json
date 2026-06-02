@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-snappy-ethiopian-lentils-skillet--thai",
+  "title": "Thai-Style Skillet Lentils",
+  "description": "A flavorful and spicy Thai-inspired dish made with lentils, vegetables, and a hint of cumin. This recipe is perfect for a quick and easy weeknight meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried green or brown lentils, rinsed and drained"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar-free ketchup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in cumin and chili flakes; cook for 1 minute.",
+    "Add lentils, ketchup, and soy sauce; stir to combine.",
+    "Bring to a simmer and cook, covered, until the lentils are tender, about 20-25 minutes.",
+    "Stir in green onions and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "lentilrecipe",
+    "veganoption"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-snappy-ethiopian-lentils-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:54:56.398Z"
+}
