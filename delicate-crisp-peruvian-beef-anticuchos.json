@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-crisp-peruvian-beef-anticuchos",
+  "title": "Beef Anticuchos with Grilled Vegetables",
+  "description": "A simple and flavorful Peruvian-inspired dish, featuring marinated beef skewers grilled to perfection and served with a variety of roasted vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 pound",
+      "notes": "Skirt steak or flank steak work well for anticuchos"
+    },
+    {
+      "name": "Delicate Onion",
+      "amount": "1 small",
+      "notes": "Thinly slice the onion for grilling"
+    },
+    {
+      "name": "Crisp Bell Pepper",
+      "amount": "1 small",
+      "notes": "Any color bell pepper works well for this recipe"
+    },
+    {
+      "name": "Peruvian Aji Amarillo Pepper",
+      "amount": "2 tablespoons",
+      "notes": "This pepper is a key flavor component in Peruvian cuisine"
+    },
+    {
+      "name": "Anticuchos Sauce",
+      "amount": "1/2 cup",
+      "notes": "You can use store-bought or homemade Aji Amarillo sauce"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh lime juice adds brightness to the dish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic for the marinade"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "notes": "Use to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the Aji Amarillo pepper, lime juice, garlic, salt, and black pepper. Blend until smooth.",
+    "In a large bowl, whisk together the marinade, beef, and anticuchos sauce. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Grill the beef for 3-4 minutes per side, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "While the beef is cooking, brush the onion and bell pepper with oil and season with salt and black pepper. Grill the vegetables until they are tender and lightly charred.",
+    "Once the beef is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the beef with the grilled vegetables and a side of your favorite Peruvian-inspired dishes, such as Inca corn or fried yuca.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "peruvian",
+    "skewers",
+    "antipasto"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-peruvian-beef-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:59:44.824Z"
+}
