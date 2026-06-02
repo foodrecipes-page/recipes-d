@@ -1,0 +1,85 @@
+{
+  "slug": "deliciously-cheesy-thai-rice-noodles-noodles--mexican",
+  "title": "Cheesy Mexican Noodle Casserole",
+  "description": "A creamy, cheesy, and spicy Mexican-inspired noodle casserole perfect for a weeknight dinner. This comforting dish combines the flavors of Mexico with the simplicity of a homemade casserole.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cumin, chili powder, and salsa. Cook for 1-2 minutes.",
+    "Add the diced tomatoes to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked noodles, ground beef mixture, and 1 cup of the shredded cheddar cheese. Mix well.",
+    "Transfer the noodle mixture to a 9x13-inch baking dish.",
+    "Top the noodle mixture with the remaining 1/2 cup of shredded cheddar cheese and the shredded Monterey Jack cheese.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "noodle-casserole",
+    "cheesy",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-cheesy-thai-rice-noodles-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:48:44.266Z"
+}
