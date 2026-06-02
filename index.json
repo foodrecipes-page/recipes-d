@@ -16300,5 +16300,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-floral-korean-gelatin-bowl--french",
+    "title": "French Floral Delight",
+    "tags": [
+      "french",
+      "rose-petal",
+      "gelatin",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
