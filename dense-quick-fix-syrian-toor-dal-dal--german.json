@@ -1,0 +1,96 @@
+{
+  "slug": "dense-quick-fix-syrian-toor-dal-dal--german",
+  "title": "German Lentil Stew",
+  "description": "A hearty and comforting German lentil stew made with tender dal and a blend of spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "Rinse and drain before using"
+    },
+    {
+      "name": "Syrian Fix",
+      "amount": "2 tablespoons",
+      "notes": "Ground cumin and coriander blend"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, potato, and celery; cook until the vegetables are tender.",
+    "Add Syrian Fix and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add Toor Dal and cook for 10-15 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lentils",
+    "stew",
+    "veggie-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-quick-fix-syrian-toor-dal-dal--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:43:08.076Z"
+}
