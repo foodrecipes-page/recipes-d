@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-australian-cherry-mousse",
+  "title": "Cherry Mousse with Delicate Cherry Sauce",
+  "description": "A light and airy mousse paired with a delicate cherry sauce, perfect for a sweet treat.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cherries",
+      "amount": "1 cup, fresh"
+    },
+    {
+      "name": "Delicate Cherry Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Australian Whipped Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unflavored Gelatin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "2. In a separate bowl, whip the Australian Whipped Cream until stiff peaks form.",
+    "3. In a separate saucepan, combine the Cherries, Granulated Sugar, and Delicate Cherry Jam. Heat over low heat, stirring occasionally, until the sugar has dissolved and the cherries are soft.",
+    "4. Strain the cherry mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much juice as possible. Discard the solids.",
+    "5. In a separate bowl, whip the softened gelatin into the cherry juice until well combined.",
+    "6. Fold the whipped cream into the gelatin mixture until no white streaks remain.",
+    "7. Spoon the mixture into individual serving cups or a large serving dish.",
+    "8. Chill in the refrigerator for at least 4 hours or until set.",
+    "9. Serve chilled, garnished with additional cherries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cherry",
+    "australian",
+    "dessert",
+    "mousse"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-australian-cherry-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:56:45.034Z"
+}
