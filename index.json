@@ -15943,16 +15943,19 @@
   },
   {
     "slug": "dry-salt-cured-american-ackee-hash",
-    "title": "Dry-Salt-Cured American Ackee Hash",
+    "title": "Ackee and Salt Hash",
     "tags": [
       "breakfast",
-      "high-fiber",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "brunch",
+      "lunch",
+      "caribbean",
+      "ackee",
+      "hash",
+      "bacon",
+      "eggs"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
