@@ -1045,18 +1045,15 @@
   },
   {
     "slug": "date-night-cultured-uruguayan-teque-os-wrap",
-    "title": "Date-Night Cultured Uruguayan Teque Os Wrap",
+    "title": "Uruguayan Wrap",
     "tags": [
-      "date-night",
-      "dinner-party",
-      "exotic",
-      "latin-american",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "uruguayan",
+      "grilled-os",
+      "cultured-sauce",
+      "wrap"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
@@ -3593,17 +3590,15 @@
   },
   {
     "slug": "delicate-british-chicken-wings-afternoon-tea-sandwich",
-    "title": "Delicate British Chicken Wings Afternoon Tea Sandwich",
+    "title": "Classic Chicken Wings for Afternoon Tea",
     "tags": [
-      "afternoon-tea",
-      "british-cuisine",
-      "date-night",
-      "gluten-free",
-      "high-protein",
-      "satvik"
+      "chicken",
+      "wings",
+      "tea",
+      "afternoon"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
