@@ -1,0 +1,90 @@
+{
+  "slug": "delicate-british-chicken-wings-afternoon-tea-sandwich",
+  "title": "Classic Chicken Wings for Afternoon Tea",
+  "description": "A delightful British-inspired dish perfect for an afternoon tea. Crispy fried chicken wings served with a side of tangy sauce.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 1/2 pounds",
+      "notes": "about 12-15 wings"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "breading mix",
+      "amount": "1/2 cup",
+      "notes": "or panko breadcrumbs"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for the glaze"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "for the glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the flour and a pinch of salt.",
+    "Dredge the chicken wings in the flour mixture, shaking off excess.",
+    "Dip the floured wings in the beaten eggs and then in the breading mix.",
+    "Place the breaded wings on a baking sheet lined with parchment paper.",
+    "Drizzle the melted butter over the wings and toss to coat.",
+    "Bake for 25-30 minutes or until golden brown and crispy.",
+    "While the wings are baking, mix together the hot sauce and honey for the glaze.",
+    "Once the wings are done, toss them in the glaze and return to the oven for an additional 5 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wings",
+    "tea",
+    "afternoon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-british-chicken-wings-afternoon-tea-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:44:25.790Z"
+}
