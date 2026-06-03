@@ -16363,5 +16363,18 @@
     "cuisine": "german",
     "totalTimeMin": 18,
     "shard": "d"
+  },
+  {
+    "slug": "dark-roasted-argentinian-beef-skewers--french",
+    "title": "French Inspired Beef Skewers",
+    "tags": [
+      "beef",
+      "skewers",
+      "french",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
