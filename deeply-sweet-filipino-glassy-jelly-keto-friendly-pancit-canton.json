@@ -1,0 +1,83 @@
+{
+  "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton",
+  "title": "Keto Filipino Pancit Stir Fry",
+  "description": "A low-carb and keto-friendly twist on the classic Filipino noodle dish, made with sweet and savory flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet pancit",
+      "amount": "8 oz",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "canton glass noodles",
+      "amount": "8 oz",
+      "notes": "substitute with zucchini noodles for keto version"
+    },
+    {
+      "name": "deep-fried chicken",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "jelly-like oyster sauce",
+      "amount": "2 tbsp",
+      "notes": "substitute with sugar-free oyster sauce for keto version"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large wok or skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the chicken and cook until browned and cooked through.",
+    "Add the pancit and glass noodles and stir-fry for 2-3 minutes.",
+    "Add the oyster sauce and fish sauce (if using) and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "keto",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:13:29.203Z"
+}
