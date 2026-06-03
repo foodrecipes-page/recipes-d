@@ -1,0 +1,90 @@
+{
+  "slug": "deliciously-crispy-greek-lamb-kebabs",
+  "title": "Greek Lamb Kebabs",
+  "description": "A traditional Greek dish featuring marinated lamb skewers, perfect for a summer BBQ. The combination of flavors and textures creates a delicious and exotic meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Use plain, full-fat yogurt for best results"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin olive oil adds a rich flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice is essential"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 2-3 cloves for a stronger flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for a flaky texture"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper is best"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Sweet or smoked paprika adds a rich flavor"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": "Use a vegetable peeler to get the zest"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C) for medium-rare.",
+    "Transfer the kebabs to a plate and let them rest for 5 minutes.",
+    "Serve immediately, garnished with lemon wedges and a sprinkle of paprika."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "summer",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:12:24.078Z"
+}
