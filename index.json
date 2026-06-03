@@ -16340,5 +16340,28 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-yeasty-japanese-bread-bao--japanese",
+    "title": "Pan-Fried Bao with Yuzu Dipping Sauce",
+    "tags": [
+      "japanese",
+      "bao",
+      "snack",
+      "dipping-sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-decadent-spanish-shrimp-gambas-al-ajillo--german",
+    "title": "Pan-Seared Shrimp with Garlic Aioli",
+    "tags": [
+      "spanish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "d"
   }
 ]
