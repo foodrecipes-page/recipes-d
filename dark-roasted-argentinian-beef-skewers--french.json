@@ -1,0 +1,68 @@
+{
+  "slug": "dark-roasted-argentinian-beef-skewers--french",
+  "title": "French Inspired Beef Skewers",
+  "description": "A classic French dish with a twist, featuring Argentinian beef skewers with a rich, dark, roasted sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dark roasted sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beef cubes onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, whisk together dark roasted sauce, olive oil, and minced garlic.",
+    "4. Brush the sauce mixture onto the beef skewers.",
+    "5. Season with thyme and salt to taste.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally, or until cooked to desired doneness.",
+    "7. Let skewers rest for 2-3 minutes before serving.",
+    "8. Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skewers",
+    "french",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-argentinian-beef-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:01:35.150Z"
+}
