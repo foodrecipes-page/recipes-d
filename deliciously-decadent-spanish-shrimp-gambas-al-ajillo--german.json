@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-decadent-spanish-shrimp-gambas-al-ajillo--german",
+  "title": "Pan-Seared Shrimp with Garlic Aioli",
+  "description": "A rich and indulgent Spanish-inspired dish, pan-seared to perfection and served with a side of creamy garlic aioli. This decadent recipe is sure to become a new favorite.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "al ajillo",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the shrimp to a plate and cover with foil to keep warm.",
+    "Reduce the heat to medium and add the al ajillo to the skillet.",
+    "Cook for 1-2 minutes, until the garlic aioli is heated through.",
+    "Serve the shrimp with the garlic aioli spooned over the top.",
+    "Garnish with parsley and serve with lemon wedges on the side.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-decadent-spanish-shrimp-gambas-al-ajillo--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:38:53.250Z"
+}
