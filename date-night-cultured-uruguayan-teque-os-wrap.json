@@ -1,0 +1,69 @@
+{
+  "slug": "date-night-cultured-uruguayan-teque-os-wrap",
+  "title": "Uruguayan Wrap",
+  "description": "A fusion of Uruguayan flavors wrapped in a crispy tortilla. This dish combines the rich taste of grilled os with the tanginess of cultured sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled Os",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cultured Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Night-Shade Free Wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Cheese",
+      "amount": "1/4 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Teque Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season os with salt, pepper, and 1 tablespoon of olive oil.",
+    "Grill os for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread cultured sauce evenly over the wrap.",
+    "Slice grilled os into thin strips.",
+    "Place os strips onto the wrap, followed by shredded cheese and a spoonful of Teque salsa.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "grilled-os",
+    "cultured-sauce",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-cultured-uruguayan-teque-os-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:06:50.190Z"
+}
