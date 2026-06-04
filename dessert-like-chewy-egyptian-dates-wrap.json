@@ -1,0 +1,81 @@
+{
+  "slug": "dessert-like-chewy-egyptian-dates-wrap",
+  "title": "Egyptian Date and Date Wrap",
+  "description": "A traditional Egyptian dessert made with a date-filled dough wrapped around a sweet date filling.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Date paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose flour (gluten-free)",
+      "amount": "1 cup",
+      "notes": "almond flour or coconut flour"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, baking powder, and salt.",
+    "Add the melted coconut oil and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your dates to be.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon of date paste in the center of each dough circle.",
+    "Top with a few pitted dates.",
+    "Fold the dough over the filling, forming a triangle or a square shape.",
+    "Press the edges together to seal the dates.",
+    "Place the dates on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "egyptian",
+    "dates",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dessert-like-chewy-egyptian-dates-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:50:06.352Z"
+}
