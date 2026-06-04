@@ -8210,17 +8210,15 @@
   },
   {
     "slug": "delicious-malaysian-thai-eggplant-curry",
-    "title": "Delicious Malaysian Thai Eggplant Curry",
+    "title": "Thai Eggplant Curry",
     "tags": [
-      "cozy",
-      "malaysian-thai",
-      "one-pan",
-      "peppery",
-      "shojin-friendly",
+      "thaicuisine",
+      "curry",
+      "eggplant",
       "vegetarian"
     ],
-    "cuisine": "Malaysian Thai",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
