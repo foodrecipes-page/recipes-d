@@ -1,0 +1,89 @@
+{
+  "slug": "deliciously-smoky-algerian-lamb-kebabs",
+  "title": "Deliciously Smoky Algerian Lamb Kebabs",
+  "description": "A flavorful and aromatic North African-inspired lamb dish, perfect for grilling or broiling. Serve with couscous or pita bread for a satisfying meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds lamb shoulder or neck, cut into 1 1/2-inch cubes",
+      "amount": "",
+      "notes": "You can also use ground lamb if preferred"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For brushing the kebabs during grilling"
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "",
+      "notes": "You can also use red onion for a sweeter flavor"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "",
+      "notes": "Also known as pimentón"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt and black pepper, to taste",
+      "amount": "",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "10-12 bamboo skewers, soaked in water for at least 30 minutes",
+      "amount": "",
+      "notes": "For grilling or broiling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill or broiler to medium-high heat.",
+    "2. In a large bowl, combine the lamb, olive oil, onion, garlic, smoked paprika, cumin, coriander, salt, and black pepper. Mix well to coat the lamb evenly.",
+    "3. Thread the lamb cubes onto the bamboo skewers, leaving a little space between each piece.",
+    "4. Brush the skewers with a little olive oil to prevent sticking.",
+    "5. Grill or broil the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "6. Let the kebabs rest for 5 minutes before serving.",
+    "7. Serve hot with couscous, pita bread, or your favorite sides.",
+    "8. Garnish with fresh cilantro, parsley, or lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "kebab",
+    "lamb",
+    "grilled",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoky-algerian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:53:33.553Z"
+}
