@@ -1,0 +1,89 @@
+{
+  "slug": "diced-fresh-polish-cucumber-pickle",
+  "title": "Polish Dill Pickle Soup",
+  "description": "A hearty Polish-inspired soup made with pickled cucumbers and a hint of fresh dill. Serve with a side of crusty bread for a comforting meal.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pickled cucumbers",
+      "amount": "1 cup diced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, cook the sliced Polish sausage over medium heat until browned, about 5 minutes.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat and simmer for 10-15 minutes.",
+    "Stir in the pickled cucumbers and chopped fresh dill.",
+    "Use an immersion blender to puree the soup until smooth.",
+    " Stir in the heavy cream and season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional fresh dill if desired.",
+    "Enjoy with a side of crusty bread!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "polish",
+    "comfort-food",
+    "dill",
+    "pickles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/diced-fresh-polish-cucumber-pickle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:59:52.530Z"
+}
