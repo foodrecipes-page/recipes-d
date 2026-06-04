@@ -1,0 +1,80 @@
+{
+  "slug": "deliciously-crispy-greek-lamb-kebabs--chinese",
+  "title": "Chinese-Style Crispy Lamb Kebabs",
+  "description": "Crispy on the outside, tender on the inside, these lamb kebabs are marinated in a mix of Chinese-inspired spices and flavors.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Look for lamb shoulder with good marbling for extra flavor"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "250g",
+      "notes": "Choose a plain, unflavored yogurt for the marinade"
+    },
+    {
+      "name": "Crispy rice flour",
+      "amount": "2 tablespoons",
+      "notes": "This adds a crunchy texture to the kebabs"
+    },
+    {
+      "name": "Deliciously spicy five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": "Mix of cinnamon, cloves, fennel seeds, star anise, and Szechuan peppers"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the kebabs during cooking"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "20g",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "20g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine lamb cubes, yogurt, crispy rice flour, five-spice powder, soy sauce, and sesame oil. Mix well to coat the lamb evenly.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill or grill pan with sesame oil to prevent sticking.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until they are cooked through and slightly charred.",
+    "7. Garnish with cilantro leaves and green onions. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-greek-lamb-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:28:29.331Z"
+}
