@@ -7227,17 +7227,16 @@
   },
   {
     "slug": "delicate-tunisian-snapper-fish-tagine",
-    "title": "Delicate Tunisian Snapper Fish Tagine",
+    "title": "Pan-Seared Snapper with Tunisian Spices",
     "tags": [
-      "bain-marie",
-      "date-night",
-      "fish-tagine",
-      "north-african",
+      "fish",
       "seafood",
-      "steamed"
+      "tunisian",
+      "snapper",
+      "pan-seared"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 32,
+    "cuisine": "tunisian",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -14166,16 +14165,15 @@
   },
   {
     "slug": "dense-uruguayan-brussels-sprouts-wrap",
-    "title": "Dense Uruguayan Brussels Sprouts Wrap",
+    "title": "Uruguayan-Style Brussels Sprouts Wrap",
     "tags": [
       "gluten-free",
-      "hangover-cure",
-      "pandan-leaf",
-      "raw-friendly",
-      "uruguayan-cuisine",
-      "vegan-option"
+      "paleo",
+      "lunch",
+      "wrap",
+      "uruguayan"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "uruguayan",
     "totalTimeMin": 25,
     "shard": "d"
   },
@@ -16388,6 +16386,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-dense-brazilian-cheese-lasagna--keto",
+    "title": "Brazilian Lasagna Keto Style",
+    "tags": [
+      "keto",
+      "lasagna",
+      "brazilian",
+      "cheese",
+      "meat"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
     "shard": "d"
   }
 ]
