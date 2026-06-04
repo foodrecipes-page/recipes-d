@@ -1,0 +1,72 @@
+{
+  "slug": "dark-roasted-argentinian-beef-skewers--japanese",
+  "title": "Argentinian Beef Yakitori",
+  "description": "A Japanese twist on traditional grilled beef skewers, using Argentinian beef and a sweet soy sauce glaze.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Roasted sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Grilled scallions",
+      "amount": "4"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut Argentinian beef into 1-inch pieces and thread onto skewers.",
+    "3. In a small bowl, whisk together soy sauce, sesame oil, and brown sugar.",
+    "4. Brush the mixture onto both sides of the beef skewers.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until cooked to desired level of doneness.",
+    "6. While the beef is cooking, toast the sesame seeds in a dry skillet over medium heat.",
+    "7. Once the beef is cooked, brush with additional soy sauce mixture and sprinkle with toasted sesame seeds.",
+    "8. Garnish with grilled scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-argentinian-beef-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:34:19.789Z"
+}
