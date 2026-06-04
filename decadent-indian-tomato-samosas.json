@@ -1,0 +1,92 @@
+{
+  "slug": "decadent-indian-tomato-samosas",
+  "title": "Samosas with Spiced Tomato Chutney",
+  "description": "Crispy samosas filled with spiced potatoes and peas, served with a tangy tomato chutney. A popular Indian street food.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Samosas",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add cumin seeds and let them sizzle.",
+    "Add onion, ginger, and garlic. Saute until the onions are translucent.",
+    "Add the diced tomatoes, tomato puree, coriander powder, cumin powder, and red chili powder. Cook for 5 minutes.",
+    "Add the chopped cilantro and cook for another minute.",
+    "Heat oil in a separate pan over medium heat. Fry the samosas until crispy and golden brown.",
+    "Serve the samosas hot with the spiced tomato chutney.",
+    "Adjust the seasoning with salt as needed.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "street-food",
+    "samosas",
+    "tomato-chutney"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-indian-tomato-samosas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:51:18.787Z"
+}
