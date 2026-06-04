@@ -1,0 +1,79 @@
+{
+  "slug": "dense-uruguayan-brussels-sprouts-wrap",
+  "title": "Uruguayan-Style Brussels Sprouts Wrap",
+  "description": "A delicious and easy-to-make wrap filled with sautéed Brussels sprouts, crispy bacon, and a tangy Uruguayan-inspired sauce.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Dense bread",
+      "amount": "1 large wrap",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "or similar feta-style cheese"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Cook the bacon until crispy, then set aside on a paper towel-lined plate.",
+    "3. Add the Brussels sprouts to the skillet and cook until tender and caramelized, about 5-7 minutes.",
+    "4. Add the olive oil, salt, and pepper to the skillet and stir to combine.",
+    "5. Warm the wrap in the microwave for 20-30 seconds.",
+    "6. Assemble the wrap by spreading the Uruguayan cheese on the wrap, followed by the Brussels sprouts mixture, and finishing with crispy bacon.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "paleo",
+    "lunch",
+    "wrap",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-uruguayan-brussels-sprouts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:20:43.675Z"
+}
