@@ -1,0 +1,82 @@
+{
+  "slug": "deliciously-savory-polish-pork-skillet",
+  "title": "Polish Style Pork Skillet",
+  "description": "A hearty and savory dish inspired by traditional Polish cuisine, featuring tender pork and a flavorful skillet.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced Polish sausage to the skillet and cook until browned, about 3 minutes.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the diced potato to the skillet and cook for 5 minutes.",
+    "Add the toasted caraway seeds, salt, and pepper to the skillet, and stir to combine.",
+    "Return the pork to the skillet and stir to combine with the other ingredients.",
+    "Reduce heat to medium-low and simmer for 10 minutes, or until the pork is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pork",
+    "skillet",
+    "sausage",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-savory-polish-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:07:26.729Z"
+}
