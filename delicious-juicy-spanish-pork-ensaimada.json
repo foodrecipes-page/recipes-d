@@ -1,0 +1,79 @@
+{
+  "slug": "delicious-juicy-spanish-pork-ensaimada",
+  "title": "Spanish-Style Pork Empanadas",
+  "description": "A traditional Spanish-inspired empanada recipe filled with slow-cooked pork and served as a snack or dessert.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ensalada",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Pork lard or olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Delicious ensaimada",
+      "amount": "2 cups",
+      "notes": "For crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the pork over medium heat until browned, then set aside.",
+    "In the same skillet, cook the onion and garlic until softened.",
+    "Add the cooked pork back into the skillet and stir in the ensalada, salt, and pepper.",
+    "Roll out the ensaimada dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the pork mixture onto one half of each dough circle.",
+    "Fold the other half of the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with pork lard or olive oil and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pork",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-juicy-spanish-pork-ensaimada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:02:24.130Z"
+}
