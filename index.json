@@ -10379,15 +10379,14 @@
     "slug": "deliciously-smoky-algerian-lamb-kebabs",
     "title": "Deliciously Smoky Algerian Lamb Kebabs",
     "tags": [
-      "brunch-ideas",
-      "grilled-meats",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "kebab",
+      "lamb",
+      "grilled",
+      "smoky"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 36,
     "shard": "d"
   },
   {
@@ -16411,6 +16410,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-tunisian-snapper-fish-tagine--japanese",
+    "title": "Pan-Seared Snapper in Japanese-Style Tagine",
+    "tags": [
+      "japanese-cuisine",
+      "fish-dinner",
+      "pan-seared-snapper",
+      "tagine-spice-blend"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
