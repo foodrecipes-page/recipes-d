@@ -1,0 +1,82 @@
+{
+  "slug": "delicious-juicy-spanish-pork-ensaimada--keto",
+  "title": "Spanish Keto Pork Skewers",
+  "description": "A flavorful and satisfying keto dish featuring pork skewers with a twist of Spanish cuisine. Perfect for a light meal or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Ensalada",
+      "amount": "1/4 cup",
+      "notes": "chopped, for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a bowl, whisk together olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through to 145°F.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with chopped ensalada and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "keto",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-juicy-spanish-pork-ensaimada--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:19:33.057Z"
+}
