@@ -1,0 +1,90 @@
+{
+  "slug": "delicious-malaysian-thai-eggplant-curry--keto",
+  "title": "Thai Keto Eggplant Curry",
+  "description": "A flavorful and spicy Thai-inspired curry made with eggplant, a perfect low-carb option for a keto diet.",
+  "cuisine": "thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "delicious Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the curry paste to the skillet and cook for 1 minute, until fragrant.",
+    "Add the eggplant to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the fish sauce, palm sugar, chili peppers, and garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir to combine with the curry sauce.",
+    "Add the green beans to the skillet and cook for 2-3 minutes, until tender.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the Thai keto eggplant curry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "thai",
+    "curry",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-malaysian-thai-eggplant-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:57:42.476Z"
+}
