@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-crisp-italian-fish-panettone",
+  "title": "Panettone French Toast with Fish",
+  "description": "A sweet and savory breakfast dish combining the delicate flavors of panettone with the richness of fish.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "2 slices",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "2",
+      "notes": "preferably salmon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk the eggs until light and fluffy.",
+    "2. Add the cinnamon and nutmeg to the eggs and whisk until combined.",
+    "3. Dip each panettone slice into the egg mixture, coating both sides.",
+    "4. Heat a non-stick skillet over medium heat.",
+    "5. Add the butter to the skillet and let it melt.",
+    "6. Place the egg-coated panettone slices in the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "7. Meanwhile, cook the fish fillets in the skillet for 3-4 minutes on each side, or until cooked through.",
+    "8. Serve the panettone slices with the cooked fish on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "italian",
+    "brunch",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-italian-fish-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:54:53.614Z"
+}
