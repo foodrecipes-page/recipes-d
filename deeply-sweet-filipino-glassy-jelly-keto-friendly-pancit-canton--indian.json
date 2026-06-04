@@ -1,0 +1,89 @@
+{
+  "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--indian",
+  "title": "Filipino Chicken Stir Fry",
+  "description": "A classic Filipino-inspired dish with a twist of Indian spices. This chicken stir fry is a flavorful and aromatic meal, perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Canton noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free substitute"
+    },
+    {
+      "name": "Pancit (Filipino-style noodles)",
+      "amount": "8 oz",
+      "notes": "use in addition to or in place of Canton noodles"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and snap peas"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Add the Canton noodles (or Pancit) to the skillet and stir to combine with the vegetables.",
+    "Return the chicken to the skillet and stir to combine with the noodles and vegetables.",
+    "Add the garam masala and turmeric to the skillet and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!",
+    "If using Pancit, cook according to package instructions before adding to the skillet.",
+    "If using gluten-free substitute for Canton noodles, adjust cooking time accordingly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "filipino",
+    "indian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:49:18.367Z"
+}
