@@ -2123,17 +2123,16 @@
   },
   {
     "slug": "decadent-indian-tomato-samosas",
-    "title": "Decadent Indian Tomato Samosas",
+    "title": "Samosas with Spiced Tomato Chutney",
     "tags": [
-      "air-fry",
-      "fast",
       "indian",
-      "low-sodium",
       "snack",
-      "vegetarian"
+      "street-food",
+      "samosas",
+      "tomato-chutney"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -3783,17 +3782,14 @@
   },
   {
     "slug": "delicate-creamy-tunisian-eggs-frittata",
-    "title": "Delicate Creamy Tunisian Eggs Frittata",
+    "title": "Tunisian Frittata",
     "tags": [
-      "floral",
-      "gluten-free",
-      "high-protein",
-      "special-occasion",
-      "tunisian-cuisine",
-      "vegetarian"
+      "tunisian",
+      "frittata",
+      "breakfast"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -16421,6 +16417,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dark-roasted-argentinian-beef-skewers--japanese",
+    "title": "Argentinian Beef Yakitori",
+    "tags": [
+      "beef",
+      "japanese",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-malaysian-thai-eggplant-curry--keto",
+    "title": "Thai Keto Eggplant Curry",
+    "tags": [
+      "keto",
+      "thai",
+      "curry",
+      "eggplant"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
