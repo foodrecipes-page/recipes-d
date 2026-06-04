@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-tunisian-snapper-fish-tagine--japanese",
+  "title": "Pan-Seared Snapper in Japanese-Style Tagine",
+  "description": "A delicate and flavorful dish that combines the freshness of snapper with the rich spices of a traditional Tunisian tagine, served Japanese-style with a hint of soy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets (4)",
+      "amount": "12 oz",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Tunisian tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most international markets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium for best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking and finishing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated for added flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the snapper fillets for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, until the snapper is cooked through.",
+    "Meanwhile, combine the Tunisian tagine spice blend, soy sauce, lemon juice, and grated ginger in a small bowl.",
+    "Remove the skillet from the oven and brush the snapper with the tagine sauce.",
+    "Sprinkle with green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "fish-dinner",
+    "pan-seared-snapper",
+    "tagine-spice-blend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-tunisian-snapper-fish-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:39:47.955Z"
+}
