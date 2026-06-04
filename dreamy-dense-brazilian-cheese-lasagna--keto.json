@@ -1,0 +1,85 @@
+{
+  "slug": "dreamy-dense-brazilian-cheese-lasagna--keto",
+  "title": "Brazilian Lasagna Keto Style",
+  "description": "A keto twist on the classic Italian dish, with a rich and creamy Brazilian-inspired filling.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "8 oz, shredded"
+    },
+    {
+      "name": "dreamy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dense ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add coconut flour and stir to combine.",
+    "Stir in Brazilian cheese until melted.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add cooked lasagna noodles to the bowl and toss to combine with eggs.",
+    "Spoon a layer of beef mixture into the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the beef mixture.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the beef mixture, and finally the remaining cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lasagna",
+    "brazilian",
+    "cheese",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-dense-brazilian-cheese-lasagna--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:23:18.531Z"
+}
