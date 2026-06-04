@@ -8160,17 +8160,14 @@
   },
   {
     "slug": "delicious-juicy-spanish-pork-ensaimada",
-    "title": "Delicious Juicy Spanish Pork Ensaimada",
+    "title": "Spanish-Style Pork Empanadas",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "pork-recipes",
-      "spanish-cuisine"
+      "spanish",
+      "pork",
+      "empanadas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -10295,17 +10292,16 @@
   },
   {
     "slug": "deliciously-savory-polish-pork-skillet",
-    "title": "Deliciously Savory Polish Pork Skillet",
+    "title": "Polish Style Pork Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "savory",
-      "weeknight"
+      "polish",
+      "pork",
+      "skillet",
+      "sausage",
+      "potato"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14287,17 +14283,16 @@
   },
   {
     "slug": "diced-fresh-polish-cucumber-pickle",
-    "title": "Diced Fresh Polish Cucumber Pickle",
+    "title": "Polish Dill Pickle Soup",
     "tags": [
-      "high-acid",
-      "low-fat",
-      "low-protein",
-      "one-pan",
-      "snack-friendly",
-      "weeknight"
+      "soup",
+      "polish",
+      "comfort-food",
+      "dill",
+      "pickles"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -16366,6 +16361,33 @@
       "grilled"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crispy-greek-lamb-kebabs--chinese",
+    "title": "Chinese-Style Crispy Lamb Kebabs",
+    "tags": [
+      "chinese",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 36,
+    "shard": "d"
+  },
+  {
+    "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--indian",
+    "title": "Filipino Chicken Stir Fry",
+    "tags": [
+      "chicken",
+      "stir-fry",
+      "filipino",
+      "indian",
+      "dinner"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "d"
   }
