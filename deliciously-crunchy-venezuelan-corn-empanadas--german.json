@@ -1,0 +1,91 @@
+{
+  "slug": "deliciously-crunchy-venezuelan-corn-empanadas--german",
+  "title": "German-Style Empanada Filling",
+  "description": "A twist on traditional empanadas, this German-inspired filling is made with crunchy corn and a hint of Venezuelan flair.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "deliciously crunchy empanada dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out empanada dough to desired thickness.",
+    "In a large skillet, sauté onion and bell pepper until tender.",
+    "Add cumin, paprika, salt, and pepper to skillet and stir to combine.",
+    "Stir in corn and cook for an additional 2 minutes.",
+    " Spoon filling mixture onto one half of empanada dough, leaving a 1/2-inch border.",
+    "Top with cheddar cheese and fold dough in half to enclose.",
+    "Use a fork to crimp edges and create a decorative border.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "veggie",
+    "snack",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-venezuelan-corn-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:19:21.849Z"
+}
