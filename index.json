@@ -2344,17 +2344,15 @@
   },
   {
     "slug": "decadent-pillowy-thai-sirloin-steak-tips-khao-pad",
-    "title": "Decadent Pillowy Thai Sirloin Steak Tips Khao Pad",
+    "title": "Thai Sirloin Steak with Khao Pad",
     "tags": [
-      "decadent",
-      "indulgent",
-      "one-pan",
-      "shojin-friendly",
-      "steak-recipes",
-      "thai-cuisine"
+      "thai",
+      "beef",
+      "steak",
+      "fried rice"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
