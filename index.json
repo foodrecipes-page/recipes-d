@@ -16484,5 +16484,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-crunchy-venezuelan-corn-empanadas--gluten-free",
+    "title": "Venezuelan Corn Empanadas",
+    "tags": [
+      "gluten-free",
+      " venezuelan",
+      "corn",
+      "empanadas"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-brined-japanese-beef-gyudon--gluten-free",
+    "title": "Gyudon Rice Bowl",
+    "tags": [
+      "gluten-free",
+      "japanese",
+      "rice-bowl",
+      "beef",
+      "gyudon"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
