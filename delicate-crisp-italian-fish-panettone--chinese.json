@@ -1,0 +1,75 @@
+{
+  "slug": "delicate-crisp-italian-fish-panettone--chinese",
+  "title": "Panettone Crusted Delicate Fish",
+  "description": "A unique Chinese-inspired dish featuring panettone-crusted delicate fish, crispy and golden brown. A simple yet elegant meal for any occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "delicate fish fillets",
+      "amount": "4",
+      "notes": "such as sole or flounder"
+    },
+    {
+      "name": "panettone",
+      "amount": "1",
+      "notes": "Italian sweet bread"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp",
+      "notes": "such as basil and oregano"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and pepper.",
+    "Dip each fish fillet in the beaten eggs, then coat with crushed panettone.",
+    "Place the coated fish fillets on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the panettone crust is golden brown.",
+    "Garnish with crisp lettuce leaves and serve immediately.",
+    "Serve hot with your favorite Chinese-inspired sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fish",
+    "panettone",
+    "crust",
+    "delicate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-italian-fish-panettone--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:20:51.769Z"
+}
