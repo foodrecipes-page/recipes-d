@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-scrambled-irish-eggs-frittata",
+  "title": "Delicate Irish Frittata",
+  "description": "A delicate and flavorful Irish frittata made with eggs, vegetables, and cheese.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "delicate cheese",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the chopped onion, sliced mushrooms, and minced garlic until the vegetables are tender.",
+    "In a large bowl, whisk together the eggs, shredded cheese, and chopped spinach.",
+    "Pour the egg mixture over the cooked vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast",
+    "eggs",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-scrambled-irish-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:42:45.953Z"
+}
