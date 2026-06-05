@@ -1,0 +1,68 @@
+{
+  "slug": "dense-peruvian-black-beans-stew",
+  "title": "Peruvian Black Bean Stew",
+  "description": "A hearty Peruvian-inspired stew made with black beans, onions, garlic, and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "peruvian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, diced tomatoes"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup, diced potatoes"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; sauté until softened.",
+    "Add peruvian seasoning; stir for 1 minute.",
+    "Add black beans, stew, and dense; stir to combine.",
+    "Bring to a boil; reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional).",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-black-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:59:22.481Z"
+}
