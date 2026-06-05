@@ -1,0 +1,76 @@
+{
+  "slug": "dark-indulgent-ukrainian-chocolate-dumplings",
+  "title": "Dark Chocolate Dumplings",
+  "description": "A rich, indulgent dessert featuring Ukrainian-style dumplings filled with dark chocolate. Perfect for a cold winter night.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 60% cocoa"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, sugar, and melted butter. Mix until a dough forms.",
+    "2. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "3. Divide the dough into 8-10 equal pieces.",
+    "4. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "5. Place a tablespoon of dark chocolate chips in the center of each disk.",
+    "6. Fold the dough over the filling to form a half-circle shape and press the edges together to seal.",
+    "7. Bring a large pot of water to a boil and cook the dumplings for 5-7 minutes or until they float to the surface.",
+    "8. Remove the dumplings with a slotted spoon and place them on a baking sheet.",
+    "9. Bake the dumplings in a preheated oven at 375°F (190°C) for 10-12 minutes or until golden brown.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dark-chocolate",
+    "dumplings",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-indulgent-ukrainian-chocolate-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:41:26.784Z"
+}
