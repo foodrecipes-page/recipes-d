@@ -13489,17 +13489,14 @@
   },
   {
     "slug": "dense-smoked-croatian-haddock-pilaf",
-    "title": "Dense Smoked Croatian Haddock Pilaf",
+    "title": "Smoked Haddock Pilaf",
     "tags": [
-      "croatian-cuisine",
-      "high-protein",
-      "low-carb-friendly",
-      "one-pan",
-      "smoked-fish",
-      "weeknight"
+      "seafood",
+      "pilaf",
+      "smoked-haddock"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
