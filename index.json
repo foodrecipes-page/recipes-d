@@ -16457,5 +16457,32 @@
     "cuisine": "french",
     "totalTimeMin": 65,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-crunchy-venezuelan-corn-empanadas--german",
+    "title": "German-Style Empanada Filling",
+    "tags": [
+      "german",
+      "veggie",
+      "snack",
+      "empanada"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crisp-italian-fish-panettone--chinese",
+    "title": "Panettone Crusted Delicate Fish",
+    "tags": [
+      "chinese",
+      "fish",
+      "panettone",
+      "crust",
+      "delicate"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
