@@ -16431,5 +16431,31 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dramatic-colorful-jamaican-rice-vermicelli-stir-fry--keto",
+    "title": "Jamaican Stir Fry",
+    "tags": [
+      "jamaican",
+      "keto",
+      "stir-fry",
+      "low-carb"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crumbly-uruguayan-cheese-empanadas--french",
+    "title": "French-Style Empanada Galette",
+    "tags": [
+      "french",
+      "breakfast",
+      "cheese",
+      "galette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "d"
   }
 ]
