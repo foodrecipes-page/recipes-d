@@ -1,0 +1,91 @@
+{
+  "slug": "dry-brined-japanese-beef-gyudon--gluten-free",
+  "title": "Gyudon Rice Bowl",
+  "description": "A classic Japanese beef bowl dish made with thinly sliced beef and savory sauce, served over a bed of steaming hot rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Sirloin or ribeye work well"
+    },
+    {
+      "name": "Gyudon sauce (gluten-free)",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "Short-grain rice works best"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Sushi vinegar",
+      "amount": "1 tablespoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Japanese rice according to package instructions. Set aside.",
+    "In a small bowl, whisk together soy sauce, sushi vinegar, and sesame oil. Set aside.",
+    "Heat a large skillet or wok over medium-high heat. Add a small amount of oil to prevent sticking.",
+    "Add thinly sliced beef to the skillet and cook for 2-3 minutes per side, or until browned and cooked to desired level of doneness.",
+    "Remove beef from skillet and set aside. Leave any accumulated juices in the skillet.",
+    "Add gyudon sauce to the skillet and stir to combine with any remaining juices.",
+    "Return beef to the skillet and stir to coat with gyudon sauce. Cook for an additional 1-2 minutes.",
+    "To serve, place a scoop of cooked Japanese rice in a bowl, then top with beef and sauce.",
+    "Garnish with green onions and toasted sesame seeds. Serve immediately.",
+    "Adjust seasoning with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "rice-bowl",
+    "beef",
+    "gyudon"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-brined-japanese-beef-gyudon--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:04:57.860Z"
+}
