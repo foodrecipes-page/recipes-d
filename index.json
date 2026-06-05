@@ -508,17 +508,14 @@
   },
   {
     "slug": "dark-indulgent-ukrainian-chocolate-dumplings",
-    "title": "Dark Indulgent Ukrainian Chocolate Dumplings",
+    "title": "Dark Chocolate Dumplings",
     "tags": [
-      "comfort-food",
+      "ukrainian",
       "dark-chocolate",
-      "herbal",
-      "indulgent",
-      "low-glycemic",
-      "ukrainian-desserts",
-      "vegetarian"
+      "dumplings",
+      "dessert"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "ukrainian",
     "totalTimeMin": 35,
     "shard": "d"
   },
@@ -6467,15 +6464,15 @@
   },
   {
     "slug": "delicate-scrambled-irish-eggs-frittata",
-    "title": "Delicate Scrambled Irish Eggs Frittata",
+    "title": "Delicate Irish Frittata",
     "tags": [
-      "brunch",
+      "irish",
+      "breakfast",
       "eggs",
-      "frittata",
-      "high-protein"
+      "frittata"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -12961,19 +12958,15 @@
   },
   {
     "slug": "dense-peruvian-black-beans-stew",
-    "title": "Dense Peruvian Black Beans Stew",
+    "title": "Peruvian Black Bean Stew",
     "tags": [
-      "comfort-food",
-      "dense",
-      "gluten-free",
-      "hangover-cure",
-      "macrobiotic-friendly",
       "peruvian",
-      "salt-bake",
-      "vegan"
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
