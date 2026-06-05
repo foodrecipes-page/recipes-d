@@ -1,0 +1,69 @@
+{
+  "slug": "deliciously-crumbly-uruguayan-cheese-empanadas--french",
+  "title": "French-Style Empanada Galette",
+  "description": "A unique twist on traditional empanadas, this French-inspired galette combines the crumbly Uruguayan cheese with a buttery, flaky crust.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine flour and salt in a bowl.",
+    "Add cubed butter and mix until crumbly.",
+    "Gradually add water and mix until dough forms.",
+    "Roll out dough to 1/4 inch thickness.",
+    "Transfer dough to a baking sheet.",
+    "Top with Uruguayan cheese.",
+    "Fold edges of dough to form a crust.",
+    "Brush with egg wash and bake for 35-40 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "breakfast",
+    "cheese",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crumbly-uruguayan-cheese-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:02:37.521Z"
+}
