@@ -1,0 +1,81 @@
+{
+  "slug": "dramatic-colorful-jamaican-rice-vermicelli-stir-fry--keto",
+  "title": "Jamaican Stir Fry",
+  "description": "A colorful and flavorful keto stir fry made with Jamaican spices and served over vermicelli noodles.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups (rinsed and drained)"
+    },
+    {
+      "name": "Vermicelli",
+      "amount": "1 cup (dried)"
+    },
+    {
+      "name": "Dramatic",
+      "amount": "None"
+    },
+    {
+      "name": "Colorful",
+      "amount": "None"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "1 tsp (jerk seasoning)"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp (coconut oil)"
+    },
+    {
+      "name": "Protein",
+      "amount": "1 lb (chicken breast or thighs)"
+    },
+    {
+      "name": "Stir",
+      "amount": "None"
+    },
+    {
+      "name": "Fry",
+      "amount": "None"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of coconut oil in a large skillet over medium-high heat.",
+    "Add the protein (chicken breast or thighs) and cook until browned and cooked through (5-6 minutes).",
+    "Remove the protein from the skillet and set aside.",
+    "Add the remaining 1 tbsp of coconut oil to the skillet.",
+    "Add 1 cup of diced vegetables (such as bell peppers, onions, and mushrooms) and cook until tender (3-4 minutes).",
+    "Add the jerk seasoning to the skillet and stir to combine.",
+    "Return the protein to the skillet and stir to combine with the vegetables and jerk seasoning.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve the protein and vegetables over vermicelli noodles.",
+    "Garnish with chopped fresh herbs (such as cilantro or scallions) if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "keto",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dramatic-colorful-jamaican-rice-vermicelli-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:59:49.371Z"
+}
