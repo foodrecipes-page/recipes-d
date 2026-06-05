@@ -1,0 +1,87 @@
+{
+  "slug": "dense-smoked-croatian-haddock-pilaf",
+  "title": "Smoked Haddock Pilaf",
+  "description": "A hearty and flavorful pilaf dish featuring smoked haddock and a variety of aromatic spices.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock",
+      "amount": "1 pound",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Croatian Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Dense White Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add cooked pilaf to the skillet and stir to combine with onion.",
+    "Add smoked haddock to the skillet, breaking it into pieces with a spoon.",
+    "Cook for 2-3 minutes, until the haddock is heated through.",
+    "Stir in parsley, salt, and pepper.",
+    "Squeeze lemon juice over the top and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "pilaf",
+    "smoked-haddock"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoked-croatian-haddock-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:24:22.223Z"
+}
