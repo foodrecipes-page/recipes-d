@@ -16595,5 +16595,56 @@
     "cuisine": null,
     "totalTimeMin": 10,
     "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--mexican",
+    "title": "Mexican Melon Salad",
+    "tags": [
+      "mexican",
+      "salad",
+      "fruit",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--vegetarian",
+    "title": "Polish Melon Salad",
+    "tags": [
+      "salad",
+      "polish",
+      "veggie"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--keto",
+    "title": "Polish Melon Salad",
+    "tags": [
+      "keto",
+      "salad",
+      "polish"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--italian",
+    "title": "Melon and Salad Caprese",
+    "tags": [
+      "italian",
+      "salad",
+      "summer",
+      "italian-cuisine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "d"
   }
 ]
