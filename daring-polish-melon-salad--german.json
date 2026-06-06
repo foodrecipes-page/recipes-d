@@ -1,0 +1,70 @@
+{
+  "slug": "daring-polish-melon-salad--german",
+  "title": "Traditional German Salad",
+  "description": "A classic salad dish from Germany made with daring greens, polish sausage, and fresh melon.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Daring Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Melon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the polish sausage into 1-inch pieces.",
+    "2. Cut the melon into small cubes.",
+    "3. In a large bowl, combine the daring greens, sliced sausage, and cubed melon.",
+    "4. Sprinkle salt and pepper to taste.",
+    "5. Add the salad to the bowl and toss to combine.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:12.242Z"
+}
