@@ -1,0 +1,91 @@
+{
+  "slug": "decadent-pillowy-thai-sirloin-steak-tips-khao-pad--japanese",
+  "title": "Japanese-Style Sirloin Steak with Khao Pad",
+  "description": "A decadent and flavorful Japanese-inspired dish featuring a tender sirloin steak served with a sweet and savory khao pad.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1 (6 oz) steak",
+      "notes": null
+    },
+    {
+      "name": "Khao Pad Rice",
+      "amount": "1 cup cooked",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup sliced",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches grated",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the sirloin steak with salt, black pepper, and sesame oil.",
+    "3. Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F for medium-rare.",
+    "4. Let the steak rest for 5 minutes before slicing.",
+    "5. In a large skillet, heat 1 tablespoon of soy sauce over medium heat.",
+    "6. Add the sliced green onions and cook for 2-3 minutes, or until they are softened.",
+    "7. Add the grated ginger and cook for an additional minute.",
+    "8. Stir in the cooked khao pad rice and cook for 2-3 minutes, or until the rice is heated through.",
+    "9. In a small bowl, whisk together the remaining 1 tablespoon of soy sauce and 1 teaspoon of brown sugar.",
+    "10. Pour the sauce over the khao pad and stir to combine.",
+    "11. Serve the sliced sirloin steak with the khao pad and green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "steak",
+    "rice",
+    "padthai"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-pillowy-thai-sirloin-steak-tips-khao-pad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:29:21.017Z"
+}
