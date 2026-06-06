@@ -16519,5 +16519,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "ddecadent-flax-seedy-jamaican-skewers--french",
+    "title": "Grilled Jamaican Jerk Chicken Skewers with Flaxseed Crust",
+    "tags": [
+      "french",
+      "grilled",
+      "healthy",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "d"
   }
 ]
