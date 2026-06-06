@@ -14117,17 +14117,14 @@
   },
   {
     "slug": "dense-ukrainian-tofu-bowl",
-    "title": "Dense Ukrainian Tofu Bowl",
+    "title": "Ukrainian Tofu Borscht",
     "tags": [
-      "briny",
-      "high-protein",
-      "molcajete",
-      "post-workout",
-      "tofu",
-      "vegan"
+      "vegan",
+      "ukrainian",
+      "soup"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 30,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -16509,6 +16506,20 @@
       "gyudon"
     ],
     "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "date-night-cultured-uruguayan-teque-os-wrap--chinese",
+    "title": "Teque and Uruguayan Os Wrap",
+    "tags": [
+      "chinese",
+      "snack",
+      "wrap",
+      "teque",
+      "uruguayan"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "d"
   }
