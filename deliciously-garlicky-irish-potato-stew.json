@@ -1,0 +1,58 @@
+{
+  "slug": "deliciously-garlicky-irish-potato-stew",
+  "title": "Garlicky Irish Stew",
+  "description": "A hearty and flavorful stew originating from Ireland, made with tender potatoes and infused with the richness of garlic.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the diced potatoes and carrots, and cook for 5 minutes.",
+    "Pour in 2 cups of vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "irish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-garlicky-irish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:12:40.952Z"
+}
