@@ -1,0 +1,68 @@
+{
+  "slug": "date-night-cultured-uruguayan-teque-os-wrap--chinese",
+  "title": "Teque and Uruguayan Os Wrap",
+  "description": "A unique Chinese-inspired dish featuring teque and Uruguayan os wrapped in a night-flavored os wrap.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "teque",
+      "amount": "1 cup",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Uruguayan os",
+      "amount": "1 cup",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "night-flavored os wrap",
+      "amount": "4-6 wraps",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "date",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cultured",
+      "amount": "1 tsp",
+      "notes": "for flavor enhancement"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tsp of oil over medium heat.",
+    "2. Add the sliced teque and Uruguayan os to the pan and cook until lightly browned.",
+    "3. Add the chopped date and cooked teque-os mixture to the pan and stir well.",
+    "4. Warm the night-flavored os wraps according to package instructions.",
+    "5. Spoon the teque-date mixture onto the center of each os wrap.",
+    "6. Fold the bottom half of the os wrap up over the filling, then fold in the sides and roll up the wrap to form a neat package.",
+    "7. Serve the teque-date os wraps hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "wrap",
+    "teque",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-cultured-uruguayan-teque-os-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:58:41.393Z"
+}
