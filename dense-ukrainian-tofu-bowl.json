@@ -1,0 +1,81 @@
+{
+  "slug": "dense-ukrainian-tofu-bowl",
+  "title": "Ukrainian Tofu Borscht",
+  "description": "A vegan twist on the classic Ukranian beet soup, featuring tofu and a variety of vegetables.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional, non-dairy alternative recommended"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beets, carrots, onion, and garlic. Cook over medium heat, stirring occasionally, for 5 minutes.",
+    "Add tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add vegetable broth and bring to a boil. Reduce heat to low and simmer for 20 minutes.",
+    "Add tofu and cook for an additional 5 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, topped with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-ukrainian-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:09:32.851Z"
+}
