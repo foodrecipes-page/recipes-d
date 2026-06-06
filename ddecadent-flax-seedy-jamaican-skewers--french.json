@@ -1,0 +1,70 @@
+{
+  "slug": "ddecadent-flax-seedy-jamaican-skewers--french",
+  "title": "Grilled Jamaican Jerk Chicken Skewers with Flaxseed Crust",
+  "description": "A flavorful and healthy twist on traditional French cuisine, these skewers feature tender chicken smothered in a spicy Jamaican jerk seasoning and topped with a crunchy flaxseed crust.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flaxseed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "Diced decadent fruit",
+      "amount": "1/2 cup",
+      "notes": "such as pineapple or mango"
+    },
+    {
+      "name": "Seedy bread crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together flaxseed and a pinch of salt.",
+    "In a separate bowl, whisk together Jamaican jerk seasoning and a pinch of salt.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush chicken with jerk seasoning mixture, then roll in flaxseed mixture to coat.",
+    "Place skewers on grill and cook for 8-10 minutes, or until chicken is cooked through.",
+    "Meanwhile, toast seedy bread crumbs in a dry skillet over medium heat.",
+    "Serve skewers hot, topped with toasted bread crumbs and diced decadent fruit.",
+    "Pair with a side of your favorite French-inspired dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "grilled",
+    "healthy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-flax-seedy-jamaican-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:47:56.398Z"
+}
