@@ -1,0 +1,53 @@
+{
+  "slug": "daring-polish-melon-salad--keto",
+  "title": "Polish Melon Salad",
+  "description": "A refreshing and light salad perfect for hot summer days, following a keto diet.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Daring",
+      "amount": "1/4 cup",
+      "notes": "daring melon"
+    },
+    {
+      "name": "Melon",
+      "amount": "1 whole",
+      "notes": "seed removed"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. Peel and dice the melon into 1-inch pieces.",
+    "2. In a large bowl, combine the diced melon and mixed greens.",
+    "3. In a small bowl, whisk together the daring (as a dressing) and serve on top of the salad.",
+    "4. Toss gently to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "salad",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:33.126Z"
+}
