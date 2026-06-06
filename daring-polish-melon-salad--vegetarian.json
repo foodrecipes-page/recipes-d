@@ -1,0 +1,54 @@
+{
+  "slug": "daring-polish-melon-salad--vegetarian",
+  "title": "Polish Melon Salad",
+  "description": "A refreshing and light salad made with melon and daring greens, perfect for a hot summer day.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "daring",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "melon",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "polish",
+      "amount": "1/4 cup",
+      "notes": "diced pickled beets"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the daring greens and diced melon.",
+    "2. In a small bowl, whisk together a vinaigrette of your choice and pour over the salad.",
+    "3. Sprinkle the diced polish pickled beets over the top of the salad.",
+    "4. Toss the salad gently to combine.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "polish",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:41:23.799Z"
+}
