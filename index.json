@@ -9773,17 +9773,14 @@
   },
   {
     "slug": "deliciously-garlicky-irish-potato-stew",
-    "title": "Deliciously Garlicky Irish Potato Stew",
+    "title": "Garlicky Irish Stew",
     "tags": [
       "comfort-food",
-      "egg-free",
-      "garlicky",
-      "irish-stew",
-      "lazy-sunday",
-      "one-pot"
+      "stew",
+      "irish-cuisine"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "irish",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
