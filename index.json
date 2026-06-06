@@ -170,16 +170,16 @@
   },
   {
     "slug": "daring-polish-melon-salad",
-    "title": "Daring Polish Melon Salad",
+    "title": "Polish Melon Salad",
     "tags": [
-      "bitter",
-      "dairy-free",
-      "flaky-salad",
+      "polish",
+      "summer",
       "salad",
-      "show-off"
+      "healthy",
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
@@ -16531,6 +16531,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-pillowy-thai-sirloin-steak-tips-khao-pad--japanese",
+    "title": "Japanese-Style Sirloin Steak with Khao Pad",
+    "tags": [
+      "japanese",
+      "steak",
+      "rice",
+      "padthai"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
