@@ -1,0 +1,56 @@
+{
+  "slug": "daring-polish-melon-salad--thai",
+  "title": "Thai Melon Salad",
+  "description": "A refreshing Thai-inspired salad featuring melon and daring flavors.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Daring",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Polish",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "1. Chop the daring and polish herbs.",
+    "2. Cut the melon into bite-sized pieces.",
+    "3. In a large bowl, combine the chopped herbs, melon, and salad.",
+    "4. In a small bowl, whisk together the dressing ingredients (not provided in this recipe).",
+    "5. Pour the dressing over the salad and toss to coat.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "melon"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:27:58.421Z"
+}
