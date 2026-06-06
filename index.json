@@ -16545,5 +16545,55 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--thai",
+    "title": "Thai Melon Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "melon"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--german",
+    "title": "Traditional German Salad",
+    "tags": [
+      "german",
+      "salad",
+      "lunch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--french",
+    "title": "French Melon Salad",
+    "tags": [
+      "salad",
+      "sausage",
+      "melon",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--vegan",
+    "title": "Polish Melon Salad",
+    "tags": [
+      "polish",
+      "melon",
+      "salad",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "d"
   }
 ]
