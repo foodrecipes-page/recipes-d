@@ -1,0 +1,69 @@
+{
+  "slug": "daring-polish-melon-salad--french",
+  "title": "French Melon Salad",
+  "description": "A refreshing and light French-inspired salad made with melon, Polish sausage, and a hint of daring flavors.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "4 oz",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "Melon",
+      "amount": "1 medium",
+      "notes": "such as cantaloupe or honeydew"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "such as mixed greens or arugula"
+    },
+    {
+      "name": "Daring",
+      "amount": "1 tsp",
+      "notes": "such as paprika or harissa"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill the Polish sausage for 5-7 minutes per side, or until cooked through.",
+    "3. Let the sausage rest for 2-3 minutes before slicing.",
+    "4. In a large bowl, combine the sliced sausage, diced melon, and mixed greens.",
+    "5. In a small bowl, whisk together the lemon juice and daring spices.",
+    "6. Pour the dressing over the salad and toss to combine.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "sausage",
+    "melon",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:28:56.739Z"
+}
