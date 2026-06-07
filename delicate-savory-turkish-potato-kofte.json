@@ -1,0 +1,73 @@
+{
+  "slug": "delicate-savory-turkish-potato-kofte",
+  "title": "Delicate Turkish Kofte with Potatoes",
+  "description": "A flavorful and light Turkish-inspired dish featuring delicate kofte served with roasted potatoes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Delicate Kofte Mix",
+      "amount": "1 package",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Turkish Seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss potatoes with 1 tbsp olive oil, salt, and black pepper on a baking sheet.",
+    "Roast potatoes in the oven for 20 minutes.",
+    "While potatoes are roasting, prepare the kofte according to package instructions.",
+    "Once potatoes are done, add the kofte to the baking sheet and toss with remaining 1 tbsp olive oil and Turkish seasoning.",
+    "Return to the oven for an additional 5-7 minutes, until the kofte is lightly browned.",
+    "Serve the kofte and potatoes hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "gluten-free",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-savory-turkish-potato-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:35:33.220Z"
+}
