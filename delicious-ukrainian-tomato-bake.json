@@ -1,0 +1,83 @@
+{
+  "slug": "delicious-ukrainian-tomato-bake",
+  "title": "Ukrainian Tomato Bake",
+  "description": "A hearty, flavorful dish from Ukraine featuring fresh tomatoes baked with herbs and spices.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "delicious cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the tomatoes into 1/4-inch thick rounds.",
+    "In a large bowl, combine the chopped onion, minced garlic, chopped parsley, salt, and black pepper.",
+    "Arrange a layer of tomato slices in the bottom of a 9x13-inch baking dish.",
+    "Spread half of the onion mixture over the tomatoes.",
+    "Sprinkle half of the shredded delicious cheese over the onion mixture.",
+    "Repeat the layers: tomatoes, onion mixture, and delicious cheese.",
+    "Drizzle the olive oil over the top layer of cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "tomato",
+    "bake",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-ukrainian-tomato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:25:41.128Z"
+}
