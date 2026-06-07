@@ -1,0 +1,71 @@
+{
+  "slug": "dense-roasted-polish-potato-roast",
+  "title": "Roasted Polish Sausage and Potatoes",
+  "description": "A hearty and flavorful dish featuring roasted Polish sausage and potatoes, perfect for a weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dense chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the potatoes into 1-inch wedges.",
+    "3. In a large bowl, toss the potatoes with olive oil, salt, and pepper until they are evenly coated.",
+    "4. Spread the potatoes on a baking sheet and roast in the oven for 20-25 minutes, or until they are golden brown.",
+    "5. While the potatoes are roasting, slice the Polish sausage into 1-inch thick rounds.",
+    "6. In a large skillet, cook the sausage over medium-high heat until browned, about 5-7 minutes per side.",
+    "7. Remove the sausage from the skillet and set aside.",
+    "8. Add the roasted garlic to the skillet and cook for 1 minute, until fragrant.",
+    "9. Add the chicken broth to the skillet and bring to a simmer.",
+    "10. Return the sausage to the skillet and simmer for 2-3 minutes, until heated through.",
+    "11. Serve the sausage and potatoes hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish sausage",
+    "roasted potatoes",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-roasted-polish-potato-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:29:43.555Z"
+}
