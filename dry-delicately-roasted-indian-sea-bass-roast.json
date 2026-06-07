@@ -1,0 +1,74 @@
+{
+  "slug": "dry-delicately-roasted-indian-sea-bass-roast",
+  "title": "Roasted Sea Bass with Indian Spices",
+  "description": "Flaky sea bass roasted to perfection with a blend of Indian spices, served with a side of roasted vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "dry cumin powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "roasted coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "roast garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "delicately chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and grease with oil.",
+    "Place sea bass fillets on the baking sheet.",
+    "In a small bowl, mix together cumin powder, coriander powder, and garlic powder.",
+    "Sprinkle the spice mixture evenly over the sea bass fillets.",
+    "Roast in the preheated oven for 12-15 minutes or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges.",
+    "Serve with roasted vegetables of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "indian",
+    "fish",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-delicately-roasted-indian-sea-bass-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:11:13.013Z"
+}
