@@ -1,0 +1,84 @@
+{
+  "slug": "double-rise-delightful-korean-custard-pancake",
+  "title": "Delightful Korean Pancake with Custard Filling",
+  "description": "A sweet and savory Korean-style pancake filled with a rich custard, perfect for a dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Double-acting baking powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Rise flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Delightful sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Korean honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with 1 tablespoon of butter over medium heat.",
+    "In a large bowl, mix the rise flour, double-acting baking powder, and delightful sugar.",
+    "Add the korean honey, egg, milk, and the remaining 1 tablespoon of butter to the bowl and mix until smooth.",
+    "Pour the batter into the pan and cook until bubbles form on the surface.",
+    "Flip the pancake and cook for another 2-3 minutes.",
+    "Meanwhile, prepare the custard by mixing it with a fork until smooth.",
+    "Once the pancake is cooked, place the custard in the center and fold the pancake in half.",
+    "Cook for another minute and serve warm.",
+    "Enjoy your delightful korean pancake with custard filling!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pancake",
+    "custard",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-rise-delightful-korean-custard-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:33:46.882Z"
+}
