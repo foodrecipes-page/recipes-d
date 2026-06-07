@@ -5118,16 +5118,15 @@
   },
   {
     "slug": "delicate-grassy-peruvian-quinoa-bowl",
-    "title": "Delicate Grassy Peruvian Quinoa Bowl",
+    "title": "Grassy Quinoa Bowl",
     "tags": [
-      "brunch-ideas",
+      "quinoa",
+      "peruvian",
       "gluten-free",
-      "peruvian-cuisine",
-      "quinoa-bowl",
-      "vegetarian-friendly"
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -6450,13 +6449,12 @@
   },
   {
     "slug": "delicate-savory-turkish-potato-kofte",
-    "title": "Delicate Savory Turkish Potato Kofte",
+    "title": "Delicate Turkish Kofte with Potatoes",
     "tags": [
-      "middle-eastern",
-      "potato-recipes",
-      "romantic-dinner",
-      "turkish-cuisine",
-      "vegan-friendly"
+      "turkish",
+      "vegetarian",
+      "gluten-free",
+      "easy-dinner"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
@@ -12708,18 +12706,14 @@
   },
   {
     "slug": "dense-mexican-duck-tostada",
-    "title": "Dense Mexican Duck Tostada",
+    "title": "Crispy Duck Tostada",
     "tags": [
-      "dairy-free",
-      "dense",
-      "malty",
       "mexican",
-      "one-pan",
-      "sick-day",
+      "duck",
       "tostada"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
