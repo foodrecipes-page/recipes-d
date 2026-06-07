@@ -1,0 +1,90 @@
+{
+  "slug": "deliciously-caramelized-vietnamese-noodles-bowl",
+  "title": "Vietnamese Caramelized Noodle Bowl",
+  "description": "A sweet and savory Vietnamese-inspired noodle dish made with caramelized onions, tender beef, and a sprinkle of fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat. Add the beef strips and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add another tablespoon of oil over medium heat. Add the caramelized onions and cook for 1-2 minutes.",
+    "Pour in the coconut milk, fish sauce, and lime juice. Stir to combine and bring to a simmer.",
+    "Add the cooked beef back into the skillet and stir to coat with the sauce.",
+    "To assemble the bowls, place a portion of noodles into each bowl. Add a portion of the beef and onion mixture on top.",
+    "Garnish with chopped cilantro, if desired. Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodles",
+    "beef",
+    "onions",
+    "coconut milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-caramelized-vietnamese-noodles-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:58:30.955Z"
+}
