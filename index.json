@@ -8588,14 +8588,13 @@
   },
   {
     "slug": "deliciously-caramelized-vietnamese-noodles-bowl",
-    "title": "Deliciously Caramelized Vietnamese Noodles Bowl",
+    "title": "Vietnamese Caramelized Noodle Bowl",
     "tags": [
-      "kid-friendly",
-      "macrobiotic",
-      "noodle-bowl",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "noodles",
+      "beef",
+      "onions",
+      "coconut milk"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -10003,17 +10002,15 @@
   },
   {
     "slug": "deliciously-nutty-ukrainian-chicken-dumplings",
-    "title": "Deliciously Nutty Ukrainian Chicken Dumplings",
+    "title": "Chicken and Ukrainian Dumplings",
     "tags": [
-      "air-fryer",
-      "creamy",
-      "gluten-free",
-      "monsoon-friendly",
-      "nutty",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "dumplings",
+      "chicken",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
