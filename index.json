@@ -12492,17 +12492,14 @@
   },
   {
     "slug": "dense-kenyan-lentil-dumplings",
-    "title": "Dense Kenyan Lentil Dumplings",
+    "title": "Kenyan Lentil Stew",
     "tags": [
-      "african",
-      "anti-inflammatory",
-      "dense-dumplings",
-      "dinner",
-      "nutritious",
-      "vegetarian"
+      "lentil",
+      "stew",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -15485,17 +15482,15 @@
   },
   {
     "slug": "dripping-savory-slovakian-cheese-bowl",
-    "title": "Dripping Savory Slovakian Cheese Bowl",
+    "title": "Slovakian Cheese Fritters",
     "tags": [
-      "cheese-lover",
-      "comfort-food",
-      "fusion-dish",
-      "monsoon-eats",
-      "savory-caramel",
-      "stone-bowl"
+      "slovakian",
+      "cheese",
+      "fritters",
+      "snack"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -15708,19 +15703,15 @@
   },
   {
     "slug": "dry-delicately-roasted-indian-sea-bass-roast",
-    "title": "delicately-roasted-indian-sea-bass-roast",
+    "title": "Roasted Sea Bass with Indian Spices",
     "tags": [
-      "goan",
+      "seafood",
       "indian",
-      "jain-friendly",
-      "mason-jar",
-      "one-pan",
-      "roast",
-      "sea-bass",
-      "weeknight"
+      "fish",
+      "roasted"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
