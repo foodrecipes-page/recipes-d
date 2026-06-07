@@ -2919,17 +2919,16 @@
   },
   {
     "slug": "deep-fried-japanese-chicken-gyoza",
-    "title": "Deep Fried Japanese Chicken Gyoza",
+    "title": "Japanese Gyoza Chicken Bites",
     "tags": [
+      "japanese",
       "deep-fried",
-      "gluten-free",
-      "hangover-food",
-      "japanese-cuisine",
-      "sesame-sauce",
-      "whole30-friendly"
+      "gyoza",
+      "chicken",
+      "appetizer"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
