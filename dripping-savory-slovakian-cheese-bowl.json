@@ -1,0 +1,73 @@
+{
+  "slug": "dripping-savory-slovakian-cheese-bowl",
+  "title": "Slovakian Cheese Fritters",
+  "description": "Crispy Slovakian cheese fritters, perfect as a snack or side dish. Serve with a side of dipping sauce for an added delight.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian cheese",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "To mix the ingredients"
+    },
+    {
+      "name": "Dripping",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Savory",
+      "amount": "1 tsp",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix the grated Slovakian cheese, melted dripping, savory seasoning, salt, and pepper.",
+    "2. Using your hands, shape the mixture into small balls, about 1 inch in diameter.",
+    "3. Flatten each ball slightly into a disk shape.",
+    "4. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "5. Fry the fritters for 2-3 minutes on each side, until golden brown and crispy.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the fritters hot and enjoy!",
+    "8. For an added delight, serve with a side of dipping sauce, such as a tangy slaw or a creamy aioli."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cheese",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dripping-savory-slovakian-cheese-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:05:44.601Z"
+}
