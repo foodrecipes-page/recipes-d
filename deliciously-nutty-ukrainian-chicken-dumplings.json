@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-nutty-ukrainian-chicken-dumplings",
+  "title": "Chicken and Ukrainian Dumplings",
+  "description": "A hearty and comforting Ukrainian dish featuring tender chicken and pillowy dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for dumpling filling"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt.",
+    "Add warm water and mix until dough forms.",
+    "Knead dough for 5-7 minutes until smooth and elastic.",
+    "Divide dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of sour cream mixture in the center of each circle.",
+    "Add a sprinkle of grated cheese and chopped dill on top.",
+    "Fold dough over filling to form a half-circle and press edges to seal.",
+    "Bring a large pot of salted water to a boil.",
+    "Gently add dumplings to boiling water and cook for 10-12 minutes.",
+    "Remove dumplings from water with a slotted spoon and drain off excess water.",
+    "Serve hot with chicken breasts, sliced and sautéed in butter until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "chicken",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-nutty-ukrainian-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:45:24.767Z"
+}
