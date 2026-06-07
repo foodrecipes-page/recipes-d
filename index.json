@@ -4453,17 +4453,14 @@
   },
   {
     "slug": "delicate-egyptian-lentil-curry",
-    "title": "Delicate Egyptian Lentil Curry",
+    "title": "Egyptian Lentil Curry",
     "tags": [
-      "anti-inflammatory",
-      "easy-curry",
-      "egyptian",
-      "herbal",
-      "monsoon",
-      "vegan"
+      "lentil",
+      "curry",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -8388,16 +8385,16 @@
   },
   {
     "slug": "delicious-ukrainian-tomato-bake",
-    "title": "Delicious Ukrainian Tomato Bake",
+    "title": "Ukrainian Tomato Bake",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "ukrainian",
+      "tomato",
+      "bake",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
@@ -15589,16 +15586,14 @@
   },
   {
     "slug": "dry-broiled-kenyan-lamb-kebabs",
-    "title": "Dry Broiled Kenyan Lamb Kebabs",
+    "title": "Lamb Kebabs with a Dry Kenyan Rub",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
