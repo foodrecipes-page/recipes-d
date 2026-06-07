@@ -1,0 +1,87 @@
+{
+  "slug": "dense-mexican-duck-tostada",
+  "title": "Crispy Duck Tostada",
+  "description": "A twist on the classic Mexican dish, topped with crispy duck and fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tostada seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Queso fresco or feta cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck breast with salt and black pepper.",
+    "Heat a skillet over medium-high heat and sear the duck breast for 2-3 minutes per side.",
+    "Transfer the skillet to the oven and cook for 12-15 minutes, or until the duck reaches an internal temperature of 165°F (74°C).",
+    "Let the duck rest for 5 minutes before slicing it thinly.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Fry the corn tortillas for 30-45 seconds per side, or until crispy and golden brown.",
+    "Drain the tortillas on paper towels and season with tostada seasoning.",
+    "Assemble the tostadas by placing a piece of duck on each tortilla, followed by a sprinkle of cilantro, a squeeze of lime juice, and a sprinkle of queso fresco or feta cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "duck",
+    "tostada"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-mexican-duck-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:44:40.591Z"
+}
