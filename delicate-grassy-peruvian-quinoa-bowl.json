@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-grassy-peruvian-quinoa-bowl",
+  "title": "Grassy Quinoa Bowl",
+  "description": "A simple and flavorful quinoa bowl with a delicate Peruvian twist. This recipe is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grassy Peruvian Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Delicate Red Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 cup mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the quinoa in a fine mesh strainer and drain well.",
+    "2. In a medium saucepan, heat the Peruvian olive oil over medium heat.",
+    "3. Add the red onion and cook until translucent, about 3-4 minutes.",
+    "4. Add the quinoa to the saucepan and cook for 2-3 minutes, stirring constantly.",
+    "5. Add 2 cups of water to the saucepan and bring to a boil.",
+    "6. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender and the water has been absorbed.",
+    "7. Fluff the quinoa with a fork and season with salt to taste.",
+    "8. In a large bowl, combine the cooked quinoa, mixed greens, and cherry tomatoes.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "peruvian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-grassy-peruvian-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:38:33.004Z"
+}
