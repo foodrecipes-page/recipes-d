@@ -1,0 +1,94 @@
+{
+  "slug": "deliciously-tangy-saudi-arabian-deodeok-root-skewers",
+  "title": "Saudi Arabian Deodeok Skewers",
+  "description": "A flavorful and colorful dish inspired by Saudi Arabian cuisine, featuring deodeok root, marinated in a mixture of tangy and aromatic spices.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "2",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and pepper.",
+    "Add deodeok root to the marinade and mix well.",
+    "Thread deodeok root onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the skewers.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until deodeok root is tender and slightly charred.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "vegan",
+    "gluten-free",
+    "summer",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-tangy-saudi-arabian-deodeok-root-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:49:49.893Z"
+}
