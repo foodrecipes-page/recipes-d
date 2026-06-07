@@ -14548,18 +14548,15 @@
   },
   {
     "slug": "double-rise-delightful-korean-custard-pancake",
-    "title": "double-rise delightful korean custard pancake",
+    "title": "Delightful Korean Pancake with Custard Filling",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "korean",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "pancake",
+      "custard",
+      "dessert"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -15831,16 +15828,13 @@
   },
   {
     "slug": "dry-rubbed-american-steak-skillet",
-    "title": "Dry Rubbed American Steak Skillet",
+    "title": "Pan-Seared Rubbed Steak",
     "tags": [
-      "american-classics",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly"
+      "steak",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 140,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
