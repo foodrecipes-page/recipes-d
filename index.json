@@ -10860,17 +10860,16 @@
   },
   {
     "slug": "deliciously-tangy-saudi-arabian-deodeok-root-skewers",
-    "title": "Deliciously Tangy Saudi Arabian Deodeok Root Skewers",
+    "title": "Saudi Arabian Deodeok Skewers",
     "tags": [
-      "diabetic-friendly",
+      "saudi arabian",
+      "vegan",
       "gluten-free",
-      "middle-eastern",
-      "oven-roasted",
-      "skewers",
-      "vegetarian"
+      "summer",
+      "skewers"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -11227,14 +11226,14 @@
   },
   {
     "slug": "dense-american-nutella-casserole",
-    "title": "Dense American Nutella Casserole",
+    "title": "American Nutella Casserole",
     "tags": [
-      "comfort-food",
-      "dessert",
-      "weeknight"
+      "american-cuisine",
+      "nutella-lovers",
+      "sweet-casserole"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
