@@ -1,0 +1,84 @@
+{
+  "slug": "deep-fried-japanese-chicken-gyoza",
+  "title": "Japanese Gyoza Chicken Bites",
+  "description": "A crispy and delicious Japanese-inspired appetizer made with chicken, gyoza, and a hint of deep-fried magic.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Breaded chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Japanese gyoza wrappers",
+      "amount": "20-25 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For deep-frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Prepare the breading station by mixing the soy sauce, sesame oil, ginger, and garlic in a shallow dish.",
+    "Cut the breaded chicken breast into small bite-sized pieces.",
+    "Dip each chicken piece into the breading mixture, coating both sides evenly.",
+    "Wrap each chicken piece with a gyoza wrapper, sealing the edges with a little water.",
+    "Deep-fry the gyoza chicken bites in batches until golden brown and crispy.",
+    "Drain the excess oil on paper towels.",
+    "Serve hot with chopped green onions and your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "deep-fried",
+    "gyoza",
+    "chicken",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-japanese-chicken-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:11:50.842Z"
+}
