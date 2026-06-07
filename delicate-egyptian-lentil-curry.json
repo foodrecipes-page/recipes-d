@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-egyptian-lentil-curry",
+  "title": "Egyptian Lentil Curry",
+  "description": "A flavorful and comforting curry featuring lentils and spices, inspired by Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "delicate curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the curry powder and egyptian spices, cook for 1 minute.",
+    "Add the lentils, coconut milk, water, and salt (if using).",
+    "Bring to a boil, then reduce heat to low and simmer, covered.",
+    "Cook for 20-25 minutes or until the lentils are tender.",
+    "Season with additional salt and spices to taste.",
+    "Serve hot, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "curry",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-egyptian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:14:03.112Z"
+}
