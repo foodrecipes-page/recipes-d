@@ -1,0 +1,73 @@
+{
+  "slug": "dense-kenyan-lentil-dumplings",
+  "title": "Kenyan Lentil Stew",
+  "description": "A hearty stew originating from Kenya, made with lentils and inspired by traditional Kenyan flavors.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "brown or green lentils work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dense vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in a little water"
+    },
+    {
+      "name": "dumplings",
+      "amount": "8",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lentils, broth, and tomato paste.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Preheat oven to 375°F (190°C).",
+    "Place dumplings on top of the stew and cover with foil.",
+    "Bake for 20-25 minutes, or until dumplings are cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-kenyan-lentil-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:11:03.889Z"
+}
