@@ -1,0 +1,68 @@
+{
+  "slug": "delicate-salty-ukrainian-mackerel-pilaf",
+  "title": "Baked Mackerel with Ukrainian Pilaf",
+  "description": "A simple and flavorful dish that combines the richness of mackerel with the savory goodness of Ukrainian pilaf.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "delicate salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season mackerel fillets with salt and olive oil.",
+    "Place mackerel fillets on a baking sheet and bake for 12-15 minutes, or until cooked through.",
+    "Cook Ukrainian pilaf according to package instructions.",
+    "Serve pilaf alongside baked mackerel."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "mackerel",
+    "pilaf",
+    "ukrainian",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-salty-ukrainian-mackerel-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:55:55.665Z"
+}
