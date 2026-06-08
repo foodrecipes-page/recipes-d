@@ -4181,13 +4181,13 @@
   },
   {
     "slug": "delicate-dehydrated-indian-cauliflower-aloo-gobi",
-    "title": "Delicate Dehydrated Indian Cauliflower Aloo Gobi",
+    "title": "Cauliflower and Potato Curry",
     "tags": [
-      "dehydrated",
-      "gluten-free",
-      "indian-inspired",
-      "snack",
-      "vegetarian"
+      "curry",
+      "indian",
+      "vegetarian",
+      "cauliflower",
+      "potatoes"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 30,
@@ -6410,16 +6410,17 @@
   },
   {
     "slug": "delicate-salty-ukrainian-mackerel-pilaf",
-    "title": "Delicate Salty Ukrainian Mackerel Pilaf",
+    "title": "Baked Mackerel with Ukrainian Pilaf",
     "tags": [
-      "eastern-european",
-      "fish-based",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "baked",
+      "mackerel",
+      "pilaf",
+      "ukrainian",
+      "fish",
+      "seafood"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12805,16 +12806,15 @@
   },
   {
     "slug": "dense-moroccan-turkey-tagine",
-    "title": "Dense Moroccan Turkey Tagine",
+    "title": "Moroccan Turkey Tagine",
     "tags": [
-      "comfort-food",
-      "high-protein",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "stew",
+      "turkey"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
