@@ -372,17 +372,13 @@
   },
   {
     "slug": "dark-delicate-spanish-squid-arroz-negro",
-    "title": "Dark Delicate Spanish Squid Arroz Negro",
+    "title": "Spanish Squid and Rice",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "paleo",
       "seafood",
-      "spanish-cuisine",
-      "whole30"
+      "spanish"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -11414,17 +11410,16 @@
   },
   {
     "slug": "dense-chewy-syrian-meat-tagine",
-    "title": "Dense Chewy Syrian Meat Tagine",
+    "title": "Syrian-Style Braised Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "crockpot-friendly",
-      "heart-healthy",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "stew",
+      "slow-cooked",
+      "syrian",
+      "braised"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
