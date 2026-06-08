@@ -1,0 +1,97 @@
+{
+  "slug": "dense-chewy-syrian-meat-tagine",
+  "title": "Syrian-Style Braised Lamb Tagine",
+  "description": "A hearty, slow-cooked stew originating from Syria, made with tender lamb and sweet, dried fruits.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Prunes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the lamb on all sides, then set aside.",
+    "Add more oil if needed, then sauté the onion until softened.",
+    "Add garlic and ginger, cook for 1 minute.",
+    "Add dried fruits, cinnamon, cumin, and paprika; cook for 1 minute.",
+    "Return the lamb to the pot, add enough water to cover, and bring to a boil.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off excess fat, then serve the lamb and sauce over couscous or rice.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "stew",
+    "slow-cooked",
+    "syrian",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-chewy-syrian-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:40:25.876Z"
+}
