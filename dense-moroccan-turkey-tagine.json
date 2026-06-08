@@ -1,0 +1,106 @@
+{
+  "slug": "dense-moroccan-turkey-tagine",
+  "title": "Moroccan Turkey Tagine",
+  "description": "A flavorful and aromatic North African stew made with turkey, spices, and dried fruits. Perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless, skinless turkey thighs",
+      "amount": "2 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "2 cups chopped dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cups chopped dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the turkey in batches until browned, about 5 minutes. Set aside.",
+    "Add more oil if necessary and cook the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the spices, apricots, and dates. Cook for 1 minute.",
+    "Return the turkey to the pot and stir to combine.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Transfer the pot to the preheated oven and cook for 25-30 minutes, or until the turkey is cooked through.",
+    "Stir in the parsley and season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tagine",
+    "stew",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-moroccan-turkey-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:59:44.154Z"
+}
