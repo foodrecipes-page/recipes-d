@@ -1,0 +1,98 @@
+{
+  "slug": "doubanjiang-syrian-meat-tagine",
+  "title": "Spicy Meat Tagine",
+  "description": "A flavorful North African-inspired tagine made with spicy doubanjiang, tender meat, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb lamb shoulder or beef",
+      "amount": "",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "2 tbsp doubanjiang",
+      "amount": "",
+      "notes": "Chinese chili paste"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "For browning"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp ground cayenne",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chicken broth",
+      "amount": "",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in the bottom of a 5-quart clay or ceramic tagine or Dutch oven over medium-high heat.",
+    "2. Brown the lamb or beef in batches until browned on all sides, about 5 minutes per batch.",
+    "3. Add the onion and cook until softened, about 8 minutes.",
+    "4. Add the garlic and cook for 1 minute.",
+    "5. Stir in the cumin, coriander, cinnamon, and cayenne. Cook for 1 minute.",
+    "6. Add the doubanjiang and cook, stirring constantly, for 1-2 minutes.",
+    "7. Add the browned meat, broth, and any accumulated juices to the tagine.",
+    "8. Bring the mixture to a simmer.",
+    "9. Cover the tagine and transfer it to the preheated oven.",
+    "10. Braise the tagine for 2 1/2 to 3 hours, or until the meat is tender and falls apart easily.",
+    "11. Season the tagine with salt and pepper to taste.",
+    "12. Serve the tagine hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chili-pepper",
+    "spicy",
+    "beef",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/doubanjiang-syrian-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:21:55.094Z"
+}
