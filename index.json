@@ -7698,18 +7698,15 @@
   },
   {
     "slug": "delicious-bitter-greek-lamb-kleftiko",
-    "title": "Delicious Bitter Greek Lamb Kleftiko",
+    "title": "Traditional Greek Kleftiko",
     "tags": [
-      "celery",
-      "festival",
       "greek",
-      "high-protein",
-      "kleftiko",
       "lamb",
-      "one-pan"
+      "mediterranean",
+      "kleftiko"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 150,
+    "totalTimeMin": 255,
     "shard": "d"
   },
   {
@@ -13151,17 +13148,16 @@
   },
   {
     "slug": "dense-rich-spanish-rice-paella",
-    "title": "Dense Rich Spanish Rice Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "dense",
-      "gluten-free",
-      "rich",
+      "spanish",
+      "paella",
       "seafood",
-      "show-off",
-      "spicy"
+      "chorizo",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -13181,16 +13177,15 @@
   },
   {
     "slug": "dense-roasted-brazilian-egg-noodles",
-    "title": "Dense Roasted Brazilian Egg Noodles",
+    "title": "Brazilian Noodle Stir Fry",
     "tags": [
-      "brazilian-food",
-      "dairy-free",
-      "one-pan",
-      "romantic-dinner",
-      "vegetarian"
+      "quick",
+      "easy",
+      "lunch",
+      "noodles"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "d"
   },
   {
