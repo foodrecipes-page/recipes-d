@@ -1,0 +1,93 @@
+{
+  "slug": "delicate-flaky-american-bison-sliders",
+  "title": "Delicate Bison Sliders",
+  "description": "A unique twist on the classic slider, featuring tender bison meat and a delicate flavor profile.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bison ground meat",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "delicate brioche buns",
+      "amount": "4-6",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "american cheddar cheese",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "mayo or bison aioli"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine bison ground meat, salt, pepper, and garlic powder. Mix well with your hands until just combined.",
+    "3. Divide meat into 4-6 portions, depending on desired slider size.",
+    "4. Grill meat for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "5. Meanwhile, toast brioche buns on the grill or in a toaster.",
+    "6. Assemble sliders with a cooked patty, 1-2 slices of cheese, 1-2 slices of bacon, 1/4 cup of lettuce, 1/4 cup of tomato, and a dollop of mayonnaise.",
+    "7. Serve immediately and enjoy!",
+    "8. Optional: Top with caramelized onions or additional toppings of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "bison",
+    "slider",
+    "grilled",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-american-bison-sliders",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:15:26.892Z"
+}
