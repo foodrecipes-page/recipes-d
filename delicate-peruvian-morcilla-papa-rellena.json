@@ -1,0 +1,61 @@
+{
+  "slug": "delicate-peruvian-morcilla-papa-rellena",
+  "title": "Grilled Morcilla Rellena with Papas",
+  "description": "A traditional Peruvian dish featuring grilled blood sausage stuffed with a delicate filling, served with crispy potatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "4 links",
+      "notes": null
+    },
+    {
+      "name": "Papa",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Delicate Filling",
+      "amount": "1 cup",
+      "notes": " mixture of chopped onions, garlic, and cheese"
+    },
+    {
+      "name": "Rellena",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Remove the casings from the morcilla and shape into patties.",
+    "3. Grill the morcilla for 2-3 minutes per side, or until browned and cooked through.",
+    "4. Meanwhile, heat oil in a pan over medium heat.",
+    "5. Add the chopped papa and cook until crispy, stirring occasionally.",
+    "6. Divide the delicate filling among the grilled morcilla patties.",
+    "7. Serve the stuffed morcilla with crispy papas and a side of rellena sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-peruvian-morcilla-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:31:38.075Z"
+}
