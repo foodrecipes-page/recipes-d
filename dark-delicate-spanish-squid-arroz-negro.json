@@ -1,0 +1,83 @@
+{
+  "slug": "dark-delicate-spanish-squid-arroz-negro",
+  "title": "Spanish Squid and Rice",
+  "description": "A classic Spanish dish featuring squid, dark arroz, and a touch of negro, served with a delicate twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "500g"
+    },
+    {
+      "name": "Dark Arroz",
+      "amount": "250g"
+    },
+    {
+      "name": "Negro",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Delicate Olive Oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White Wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "Water",
+      "amount": "250ml"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the squid and cook for 2-3 minutes on each side, until slightly browned.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the white wine and water, and bring to a boil.",
+    "Add the black arroz and negro, stir well to combine.",
+    "Reduce heat to low, cover and cook for 18-20 minutes, until the rice is tender.",
+    "Stir in the lemon juice, season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-delicate-spanish-squid-arroz-negro",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:40:13.743Z"
+}
