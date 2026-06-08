@@ -1,0 +1,107 @@
+{
+  "slug": "deliciously-crunchy-spanish-seafood-tarta-de-santiago",
+  "title": "Spanish Seafood Tarta",
+  "description": "A delicious seafood tarta from Santiago with a crunchy crust and a flavorful filling.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (cod, hake or salmon)",
+      "amount": "400g",
+      "notes": "Fresh, skin removed, and cut into small pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "120g",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "150g",
+      "notes": "Scrubbed, debearded and rinsed"
+    },
+    {
+      "name": "Clams",
+      "amount": "120g",
+      "notes": "Scrubbed, rinsed and patted dry"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "0.5 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.5 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 cup",
+      "notes": "Melted, for the crust"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For the filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat some oil over medium heat and cook the onion and garlic until softened.",
+    "Add the chili flakes and paprika and cook for 1 minute.",
+    "Add the fish pieces and cook until opaque, about 2-3 minutes.",
+    "Add the mussels, clams and shrimp to the skillet and cook until they start to open.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a separate bowl, mix the flour and melted butter to make the crust.",
+    "Roll out the crust and place it in a 9-inch tart pan.",
+    "Fill the crust with the seafood mixture and top with an egg.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve warm, garnished with parsley or chives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "tarta",
+    "delicious",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-spanish-seafood-tarta-de-santiago",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:08:33.551Z"
+}
