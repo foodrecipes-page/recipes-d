@@ -1,0 +1,78 @@
+{
+  "slug": "delicious-bitter-greek-lamb-kleftiko",
+  "title": "Traditional Greek Kleftiko",
+  "description": "A classic Greek dish of slow-cooked lamb, often served on special occasions. The tender meat falls off the bone and is infused with the flavors of the Mediterranean.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Greek olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Bitter root vegetables (such as beets)",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Delicious rosemary",
+      "amount": "4 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 120°C (250°F).",
+    "Rub the lamb shoulder with Greek olive oil, Greek seasoning, salt, and black pepper.",
+    "Add the lamb shoulder to a large Dutch oven or a heavy roasting pan.",
+    "Add the bitter root vegetables and sprigs of rosemary around the lamb.",
+    "Cover the pan with a lid or foil and transfer to the preheated oven.",
+    "Braise the lamb for 3-4 hours, or until tender and falling apart.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve the sliced lamb with the roasted root vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "lamb",
+    "mediterranean",
+    "kleftiko"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-bitter-greek-lamb-kleftiko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:24:47.446Z"
+}
