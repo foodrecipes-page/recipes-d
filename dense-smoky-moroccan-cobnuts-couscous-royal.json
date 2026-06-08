@@ -1,0 +1,72 @@
+{
+  "slug": "dense-smoky-moroccan-cobnuts-couscous-royal",
+  "title": "Moroccan Smoked Cobnut Delight",
+  "description": "A flavorful couscous dish featuring smoky cobnuts and rich moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Smoked Cobnuts",
+      "amount": "1 cup, chopped",
+      "notes": "substitute with almonds if unavailable"
+    },
+    {
+      "name": "Dense Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "smoky flavor preferred"
+    },
+    {
+      "name": "Royal Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 tsp",
+      "notes": "blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the dense olive oil in a large skillet over medium heat.",
+    "2. Add the chopped smoked cobnuts and cook for 3-4 minutes, or until lightly toasted.",
+    "3. Add the couscous to the skillet and stir to combine with the cobnuts.",
+    "4. Add the royal cinnamon, moroccan spices, and salt. Stir to combine.",
+    "5. Reduce heat to low and cover the skillet with a lid.",
+    "6. Simmer for 5-7 minutes, or until the couscous is tender and the liquid has been absorbed.",
+    "7. Fluff the couscous mixture with a fork and serve hot.",
+    "8. Garnish with additional smoked cobnuts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "smoked",
+    "cobnuts",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-moroccan-cobnuts-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:15:14.060Z"
+}
