@@ -1,0 +1,62 @@
+{
+  "slug": "dense-roasted-brazilian-egg-noodles",
+  "title": "Brazilian Noodle Stir Fry",
+  "description": "Quick and flavorful stir fry made with roasted Brazilian nuts, egg, and noodles.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dense noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Brazilian nuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add egg to the pan and scramble it until cooked through.",
+    "Add roasted Brazilian nuts and cook for 1 minute.",
+    "Add noodles to the pan and stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "lunch",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-roasted-brazilian-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:35:06.206Z"
+}
