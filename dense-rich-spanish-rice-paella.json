@@ -1,0 +1,76 @@
+{
+  "slug": "dense-rich-spanish-rice-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, savory seafood, and smoky chorizo. This recipe serves 4-6 people and can be adjusted to suit your dietary needs.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Soak in 2 tablespoons of hot water before adding to the paella"
+    },
+    {
+      "name": "Dense tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rich olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "Slice into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes. Remove from the pan and set aside.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth, soaked saffron, and rice to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender.",
+    "Add the cooked chorizo back into the pan and stir to combine.",
+    "Serve hot, garnished with fresh parsley or lemon wedges.",
+    "Optional: Add 1 cup of frozen vegetables (such as peas and carrots) to the pan during the last 5 minutes of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "chorizo",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-rich-spanish-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:26:30.581Z"
+}
