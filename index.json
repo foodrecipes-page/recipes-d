@@ -6118,16 +6118,14 @@
   },
   {
     "slug": "delicate-peruvian-morcilla-papa-rellena",
-    "title": "Delicate Peruvian Morcilla Papa Rellena",
+    "title": "Grilled Morcilla Rellena with Papas",
     "tags": [
-      "date-night",
-      "latin-american",
-      "peruvian-cuisine",
-      "pescatarian",
-      "potato-dish"
+      "peruvian",
+      "grilled",
+      "breakfast"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -9090,17 +9088,16 @@
   },
   {
     "slug": "deliciously-crunchy-spanish-seafood-tarta-de-santiago",
-    "title": "Spanish Seafood Tarta De Santiago",
+    "title": "Spanish Seafood Tarta",
     "tags": [
-      "crunchy",
-      "one-pot",
-      "pescatarian",
       "seafood",
       "spanish",
-      "tandoor"
+      "tarta",
+      "delicious",
+      "crunchy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -13667,18 +13664,15 @@
   },
   {
     "slug": "dense-smoky-moroccan-cobnuts-couscous-royal",
-    "title": "Dense Smoky Moroccan Cobnuts Couscous Royal",
+    "title": "Moroccan Smoked Cobnut Delight",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "healthy",
       "moroccan",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "smoked",
+      "cobnuts",
+      "couscous"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14389,17 +14383,16 @@
   },
   {
     "slug": "doubanjiang-syrian-meat-tagine",
-    "title": "Doubanjiang Syrian Meat Tagine",
+    "title": "Spicy Meat Tagine",
     "tags": [
+      "north-african",
+      "chili-pepper",
+      "spicy",
       "beef",
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "lamb"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "d"
   },
   {
