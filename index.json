@@ -8332,17 +8332,14 @@
   },
   {
     "slug": "delicious-syrian-napa-cabbage-soup",
-    "title": "Delicious Syrian Napa Cabbage Soup",
+    "title": "Delicious Syrian Cabbage Soup",
     "tags": [
-      "copper-mug",
-      "easy",
-      "gluten-free",
-      "paleo-friendly",
-      "quick",
-      "veggie-soup"
+      "soup",
+      "vegetarian",
+      "cabbage"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -11369,18 +11366,17 @@
   },
   {
     "slug": "dense-canadian-potatoes-paella",
-    "title": "dense canadian potatoes paella",
+    "title": "Pan-Seared Canadian Paella",
     "tags": [
       "canadian",
-      "crumbly",
-      "gluten-free",
-      "one-pan",
-      "romantic",
-      "sour",
-      "weeknight"
+      "breakfast",
+      "paella",
+      "rice",
+      "bacon",
+      "potatoes"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 50,
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
