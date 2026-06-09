@@ -2144,16 +2144,16 @@
   },
   {
     "slug": "decadent-irish-fish-chowder",
-    "title": "Decadent Irish Fish Chowder",
+    "title": "Irish Fish Chowder",
     "tags": [
-      "comfort-food",
-      "fish-based",
-      "irish-inspired",
-      "one-pot",
-      "rich-and-creamy"
+      "fish",
+      "chowder",
+      "irish",
+      "comforting",
+      "lunch"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11696,17 +11696,14 @@
   },
   {
     "slug": "dense-dark-rich-ethiopian-beef-tibs",
-    "title": "Dense, Dark, Rich Ethiopian Beef Tibs",
+    "title": "Tibs with Ethiopian Spices",
     "tags": [
-      "flavorful",
-      "hearty",
-      "high-protein",
-      "one-pan",
-      "rich",
-      "weeknight"
+      "beef",
+      "ethiopian",
+      "stir-fry"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
