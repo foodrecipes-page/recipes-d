@@ -1,0 +1,78 @@
+{
+  "slug": "dense-dark-rich-ethiopian-beef-tibs",
+  "title": "Tibs with Ethiopian Spices",
+  "description": "A spicy beef stir-fry dish originating from Ethiopia. Tibs can be made with a variety of meats, but beef is a classic choice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tibs spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion and red bell pepper to skillet and cook until tender, about 5 minutes.",
+    "Add tibs spice mix and stir to combine.",
+    "Return beef to skillet and stir to combine with spice mix.",
+    "Add dark soy sauce and stir to combine.",
+    "Season with black pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ethiopian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-dark-rich-ethiopian-beef-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:19:10.960Z"
+}
