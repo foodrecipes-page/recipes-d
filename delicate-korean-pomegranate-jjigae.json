@@ -1,0 +1,98 @@
+{
+  "slug": "delicate-korean-pomegranate-jjigae",
+  "title": "Delicate Korean Jjigae with Pomegranate",
+  "description": "A flavorful and vibrant Korean-inspired stew made with delicate tofu, sweet pomegranate seeds, and spicy jjigae paste.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Delicate, firm tofu"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1 cup",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Jjigae paste",
+      "amount": "2 tbsp",
+      "notes": "Spicy Korean chili paste"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "Sweet and savory Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "White or brown rice vinegar"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into 1-inch cubes and set aside.",
+    "2. In a small bowl, whisk together gochujang, soy sauce, rice vinegar, and sugar. Set aside.",
+    "3. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "4. Add the sliced ginger and cook for 1-2 minutes, or until fragrant.",
+    "5. Add the minced garlic and cook for another minute.",
+    "6. Add the jjigae paste and cook for 1-2 minutes, or until fragrant.",
+    "7. Add the tofu and cook for 3-4 minutes, or until golden brown.",
+    "8. Add the pomegranate seeds, green onions, and the sauce mixture.",
+    "9. Cook for an additional 2-3 minutes, or until the sauce has thickened.",
+    "10. Serve hot over rice.",
+    "11. Garnish with additional green onions and pomegranate seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "jjigae",
+    "pomegranate",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-korean-pomegranate-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:07:29.637Z"
+}
