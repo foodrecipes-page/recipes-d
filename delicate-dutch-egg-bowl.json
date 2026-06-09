@@ -1,0 +1,65 @@
+{
+  "slug": "delicate-dutch-egg-bowl",
+  "title": "Delicate Dutch Egg Bowl",
+  "description": "A simple yet elegant breakfast dish featuring delicate asparagus, tender eggs, and toasted Dutch bread.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Dutch bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the asparagus into 1-inch pieces and season with salt and pepper.",
+    "Place the asparagus on a baking sheet and roast in the oven for 12-15 minutes.",
+    "Toast the Dutch bread slices until lightly browned.",
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat a non-stick skillet over medium heat and add the eggs.",
+    "Cook the eggs until the whites are set and the yolks are cooked to your desired doneness.",
+    "To assemble the dish, place a toasted bread slice on a plate, top with a portion of asparagus, and finish with a cooked egg.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-egg-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:47:45.826Z"
+}
