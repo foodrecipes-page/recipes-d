@@ -1,0 +1,88 @@
+{
+  "slug": "dreamy-smoky-venezuelan-cashew-lasagna",
+  "title": "Smoky Cashew Lasagna",
+  "description": "A twist on the classic Italian dish, this recipe features the rich flavors of smoky cheese and cashews.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoky cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10",
+      "notes": "dried"
+    },
+    {
+      "name": "dreamy sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "venezuelan seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a pan, heat the olive oil and sauté the chopped cashews until lightly toasted.",
+    "In a separate pan, combine the dreamy sauce, smoky cheese, and venezuelan seasoning (if using). Stir until well combined.",
+    "In a large baking dish, spread a layer of the dreamy sauce mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cashew mixture on top of the noodles.",
+    "Sprinkle with half of the parmesan cheese.",
+    "Repeat the layers, starting with the noodles, then the dreamy sauce mixture, the remaining cashew mixture, and finally the remaining parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-smoky-venezuelan-cashew-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:33:55.945Z"
+}
