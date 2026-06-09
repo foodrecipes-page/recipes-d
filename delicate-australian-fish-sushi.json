@@ -1,0 +1,77 @@
+{
+  "slug": "delicate-australian-fish-sushi",
+  "title": "Pan-Seared Australian Fish",
+  "description": "This recipe is a simple yet flavorful dish showcasing the freshness of Australian fish. Serve with a side of steamed vegetables for a well-rounded meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Fish (400g)",
+      "amount": "4 fillets",
+      "notes": "Fresh fish, preferably cod or snapper"
+    },
+    {
+      "name": "Delicate Fish Seasoning",
+      "amount": "1 tsp",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup",
+      "notes": "For serving (optional)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Season the fish with Delicate Fish Seasoning and a pinch of salt and pepper.",
+    "3. Heat olive oil in an oven-safe pan over medium heat.",
+    "4. Add the fish to the pan and sear for 2-3 minutes on each side.",
+    "5. Transfer the pan to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "6. Serve the fish hot with a squeeze of lemon and a side of steamed vegetables.",
+    "7. For an added touch, serve with a side of sushi rice.",
+    "8. Garnish with fresh parsley and additional lemon wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-australian-fish-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:53:54.000Z"
+}
