@@ -1519,17 +1519,15 @@
   },
   {
     "slug": "decadent-brazilian-chicken-stir-fry",
-    "title": "Decadent Brazilian Chicken Stir Fry",
+    "title": "Brazilian Chicken Stir Fry",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipe",
-      "low-fat",
-      "one-pan",
+      "brazilian",
+      "chicken",
       "stir-fry",
-      "weeknight"
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -4309,16 +4307,13 @@
     "slug": "delicate-dutch-egg-bowl",
     "title": "Delicate Dutch Egg Bowl",
     "tags": [
+      "breakfast",
       "brunch",
-      "dashi",
-      "egg-bowl",
-      "low-sodium",
-      "quick",
-      "sous-vide",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -15197,18 +15192,14 @@
   },
   {
     "slug": "dreamy-smoky-venezuelan-cashew-lasagna",
-    "title": "Dreamy Smoky Venezuelan Cashew Lasagna",
+    "title": "Smoky Cashew Lasagna",
     "tags": [
-      "cashew-nut",
-      "cheesy",
-      "lazy-sunday",
-      "ovo-vegetarian",
-      "smoky",
-      "tadka",
-      "venezuelan-cuisine"
+      "italian",
+      "vegetarian",
+      "lasagna"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
