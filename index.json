@@ -3438,19 +3438,14 @@
   },
   {
     "slug": "delicate-australian-fish-sushi",
-    "title": "Delicate Australian Fish Sushi",
+    "title": "Pan-Seared Australian Fish",
     "tags": [
-      "australian-cuisine",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "low-fodmap",
-      "one-pan",
-      "sushi",
-      "weeknight"
+      "australian",
+      "fish",
+      "dinner"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 15,
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -14559,17 +14554,15 @@
   },
   {
     "slug": "doughy-crispy-kenyan-knead-roti",
-    "title": "Doughy, Crispy Kenyan Knead Roti",
+    "title": "Kenyan Roti",
     "tags": [
-      "comfort-food",
-      "crispy",
-      "dinner",
       "kenyan",
-      "one-pan",
-      "weeknight"
+      "roti",
+      "flatbread",
+      "african"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "African",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
