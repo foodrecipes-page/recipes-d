@@ -14386,19 +14386,16 @@
   },
   {
     "slug": "double-cooked-brazilian-fish-nigiri",
-    "title": "Double-cooked Brazilian fish Nigiri",
+    "title": "Grilled Fish with Nigiri Rice",
     "tags": [
-      "brazilian-cuisine",
-      "easy-snacks",
-      "fish-recipes",
-      "gluten-free-recipes",
-      "low-carb-recipes",
-      "seafood-recipes",
-      "sushi-recipes",
-      "weeknight-meals"
+      "brazilian",
+      "fish",
+      "grilled",
+      "rice",
+      "quick"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
