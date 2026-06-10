@@ -1,0 +1,75 @@
+{
+  "slug": "decadent-smoked-slovakian-lamb-pilaf",
+  "title": "Smoked Lamb Pilaf",
+  "description": "A hearty Slovakian dish featuring smoked lamb in a flavorful pilaf.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked lamb shoulder, boneless",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked bacon, diced",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Season the lamb with salt and black pepper. Place on a baking sheet and roast for 20 minutes.",
+    "3. While the lamb is roasting, heat the bacon in a large skillet over medium heat. Cook until crispy.",
+    "4. Remove the lamb from the oven and set aside. Add the onion and garlic to the skillet with the bacon. Cook until the onion is translucent.",
+    "5. Add the pilaf rice to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "6. Add 2 cups of water to the skillet and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "7. Fluff the pilaf with a fork and stir in the caraway seeds.",
+    "8. Slice the lamb into thin strips. Add to the pilaf and toss to combine.",
+    "9. Serve hot, garnished with fresh parsley if desired.",
+    "10. Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "smoked",
+    "slovakian",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoked-slovakian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:35:55.935Z"
+}
