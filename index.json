@@ -2462,17 +2462,16 @@
   },
   {
     "slug": "decadent-smoked-slovakian-lamb-pilaf",
-    "title": "Decadent Smoked Slovakian Lamb Pilaf",
+    "title": "Smoked Lamb Pilaf",
     "tags": [
-      "gluten-free",
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "lamb",
+      "pilaf",
+      "smoked",
+      "slovakian",
+      "meat"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -5712,17 +5711,15 @@
   },
   {
     "slug": "delicate-malty-ethiopian-flax-dulet",
-    "title": "Delicate Malty Ethiopian Flax Dulet",
+    "title": "Ethiopian Flatbread with Flaxseed Crunch",
     "tags": [
-      "breakfast-recipe",
-      "ethiopian-cuisine",
-      "flaxseed-recipe",
-      "low-carb",
-      "malty-flavors",
-      "vegetarian"
+      "ethiopian",
+      "gluten-free",
+      "flatbread",
+      "snack"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
