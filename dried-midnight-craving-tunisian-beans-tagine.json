@@ -1,0 +1,90 @@
+{
+  "slug": "dried-midnight-craving-tunisian-beans-tagine",
+  "title": "Tunisian Bean Tagine",
+  "description": "A flavorful North African stew made with beans and spices, slow-cooked to perfection. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried chickpeas",
+      "amount": "1 cup",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tunisian chili powder",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "Chopped",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chickpeas, chili powder, cumin, tomatoes, and tagine spice blend.",
+    "Stir to combine, then add salt and pepper to taste.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Check seasonings and adjust as needed.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "stew",
+    "chickpeas",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dried-midnight-craving-tunisian-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:10:59.905Z"
+}
