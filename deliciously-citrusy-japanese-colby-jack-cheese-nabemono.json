@@ -1,0 +1,78 @@
+{
+  "slug": "deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
+  "title": "Citrus-Glazed Colby Jack Nabemono",
+  "description": "A Japanese-inspired hot pot dish featuring a citrusy glaze, melted colby jack cheese, and a variety of ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 block, cut into small pieces",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pork Sausages",
+      "amount": "4-6 pieces",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Nabemono Broth",
+      "amount": "2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green Beans",
+      "amount": "1 cup, trimmed",
+      "notes": "For serving"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "2 tablespoons",
+      "notes": "From oranges or lemons"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For glaze"
+    }
+  ],
+  "instructions": [
+    "Bring the nabemono broth to a simmer in a large pot over medium heat.",
+    "Add the cooked pork sausages, carrots, and green beans to the pot.",
+    "Reduce heat to low and keep warm.",
+    "In a small saucepan, combine the citrus zest and honey over low heat.",
+    "Stir until the honey dissolves and the mixture is smooth.",
+    "Increase heat to medium and cook the glaze for 2-3 minutes, or until it thickens slightly.",
+    "Serve the hot pot with the citrus glaze spooned over the top.",
+    "Sprinkle the pieces of colby jack cheese over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hot-pot",
+    "citrus",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:56:12.262Z"
+}
