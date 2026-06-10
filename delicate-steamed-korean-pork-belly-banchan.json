@@ -1,0 +1,72 @@
+{
+  "slug": "delicate-steamed-korean-pork-belly-banchan",
+  "title": "Delicate Korean-Style Steamed Pork Belly Banchan",
+  "description": "A simple and flavorful side dish originating from Korea, featuring tender steamed pork belly served with a delicate sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (optional)",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the pork belly into 1-inch pieces.",
+    "2. In a small saucepan, combine soy sauce, ginger, garlic, brown sugar, and chili flakes (if using).",
+    "3. Bring the mixture to a simmer over medium heat and cook for 5-7 minutes, or until slightly thickened.",
+    "4. Meanwhile, steam the pork belly pieces for 10-12 minutes, or until tender.",
+    "5. Remove the pork from the steamer and brush with the soy sauce mixture.",
+    "6. Serve warm or at room temperature as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pork",
+    "banchan",
+    "steamed",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-steamed-korean-pork-belly-banchan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:17:52.604Z"
+}
