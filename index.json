@@ -8631,17 +8631,15 @@
   },
   {
     "slug": "deliciously-citrusy-japanese-colby-jack-cheese-nabemono",
-    "title": "Deliciously Citrusy Japanese Colby Jack Cheese Nabemono",
+    "title": "Citrus-Glazed Colby Jack Nabemono",
     "tags": [
-      "cheese",
-      "hot-pot",
       "japanese",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "hot-pot",
+      "citrus",
+      "cheese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
