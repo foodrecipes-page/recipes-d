@@ -1504,17 +1504,15 @@
   },
   {
     "slug": "decadent-brazilian-beef-stew",
-    "title": "Decadent Brazilian Beef Stew",
+    "title": "Brazilian Beef Stew",
     "tags": [
-      "brazilian-cuisine",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "weeknight"
+      "brazilian",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 140,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -15313,17 +15311,16 @@
   },
   {
     "slug": "dried-midnight-craving-tunisian-beans-tagine",
-    "title": "Dried Midnight-Craving Tunisian Beans Tagine",
+    "title": "Tunisian Bean Tagine",
     "tags": [
-      "bean-based",
-      "egg-free",
-      "gluten-free",
-      "midnight-craving",
-      "tunisian",
-      "vegan"
+      "north-african",
+      "vegetarian",
+      "stew",
+      "chickpeas",
+      "beans"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
