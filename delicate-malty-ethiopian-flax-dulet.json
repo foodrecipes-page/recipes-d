@@ -1,0 +1,66 @@
+{
+  "slug": "delicate-malty-ethiopian-flax-dulet",
+  "title": "Ethiopian Flatbread with Flaxseed Crunch",
+  "description": "A traditional Ethiopian flatbread recipe with the added crunch of flaxseed.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ethiopian Injera Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Flaxseed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dulet (Ethiopian spice blend)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the injera flour and salt.",
+    "2. Gradually add in the water, stirring with a wooden spoon until the batter is smooth.",
+    "3. Add the flaxseed and Dulet spice blend to the batter and mix well.",
+    "4. The batter should still be slightly lumpy.",
+    "5. Preheat a non-stick skillet or injera pan over medium-high heat.",
+    "6. Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "7. Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "8. Loosen the bread with a spatula and flip it over.",
+    "9. Cook for another 30 seconds to 1 minute, until the other side is lightly browned.",
+    "10. Repeat with the remaining batter, until all the flatbreads are cooked."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-malty-ethiopian-flax-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:06:38.380Z"
+}
