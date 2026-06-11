@@ -4772,17 +4772,15 @@
   },
   {
     "slug": "delicate-fluffy-egyptian-lentil-pilaf",
-    "title": "Delicate Fluffy Egyptian Lentil Pilaf",
+    "title": "Egyptian Lentil Pilaf",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight"
+      "lentil",
+      "pilaf",
+      "egyptian",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -6623,17 +6621,16 @@
   },
   {
     "slug": "delicate-smoky-algerian-veal-ceviche",
-    "title": "Delicate Smoky Algerian Veal Ceviche",
+    "title": "Grilled Veal Ceviche Skewers",
     "tags": [
-      "algerian",
-      "festive",
-      "high-protein",
-      "low-carb",
-      "raw-dish",
-      "smoked"
+      "grilled",
+      "ceviche",
+      "kebabs",
+      "summer",
+      "easy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -8302,17 +8299,16 @@
   },
   {
     "slug": "delicious-sweet-venezuelan-coconut-empanadas",
-    "title": "Delicious Sweet Venezuelan Coconut Empanadas",
+    "title": "Venezuelan Coconut Empanadas",
     "tags": [
-      "coconut-lovers",
-      "dessert-recipes",
-      "empanada-recipes",
-      "halal-friendly",
-      "sweet-treats",
-      "venezuelan-cuisine"
+      "venezuelan",
+      "coconut",
+      "empanadas",
+      "dessert",
+      "sweet"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13534,19 +13530,15 @@
   },
   {
     "slug": "dense-smoky-ethiopian-lemongrass-doro-jjigae",
-    "title": "Dense Smoky Ethiopian Lemongrass Doro Jjigae",
+    "title": "Ethiopian Doro Jjigae",
     "tags": [
-      "doro-jjigae",
+      "chicken",
+      "stew",
       "ethiopian",
-      "hangover-cure",
-      "jain-friendly",
-      "lemongrass",
-      "one-pan",
-      "spicy",
-      "wood-fired"
+      "korean"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
