@@ -1,0 +1,90 @@
+{
+  "slug": "dense-velvety-kenyan-vegetarian-wrap",
+  "title": "Kenyan Vegetarian Wrap",
+  "description": "A flavorful and nutritious wrap filled with the vibrant tastes of Kenya, perfect for a quick and easy meal. This vegetarian wrap combines textures and flavors to create a delightful meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan vegetable mix (carrots, zucchini, bell peppers)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Creamy avocado spread",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dense Kenyan chutney",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetarian Kenyan sauce (or vegan mayo)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the Kenyan vegetable mix and cook for 3-4 minutes.",
+    "Add the crispy fried onions and cook for another minute.",
+    "Spread the creamy avocado spread on the whole wheat wrap.",
+    "Add the cooked vegetable mix and onions on top of the avocado spread.",
+    "Drizzle the dense Kenyan chutney and vegetarian Kenyan sauce over the vegetables.",
+    "Sprinkle fresh cilantro and Kenyan spice blend over the wrap.",
+    "Season with salt and pepper to taste.",
+    "Fold the wrap to enclose the filling and serve immediately.",
+    "Serve with a side of Kenyan chips or salad for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-velvety-kenyan-vegetarian-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:06:13.200Z"
+}
