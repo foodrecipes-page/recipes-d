@@ -1,0 +1,74 @@
+{
+  "slug": "delicate-smoky-algerian-veal-ceviche",
+  "title": "Grilled Veal Ceviche Skewers",
+  "description": "A refreshing and zesty skewer dish, perfect for a summer evening. Delicate veal and smoky flavors blend together beautifully.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "see notes for mix"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Smoky olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a smoky olive oil for best flavor"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread veal cubes and red onion slices onto skewers.",
+    "In a small bowl, mix together Algerian spice blend, lime juice, and smoky olive oil.",
+    "Brush the spice blend mixture onto both sides of the veal and onion.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until veal is cooked to 145°F (63°C).",
+    "Remove skewers from heat and sprinkle with chopped cilantro.",
+    "Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "ceviche",
+    "kebabs",
+    "summer",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-algerian-veal-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:26:17.539Z"
+}
