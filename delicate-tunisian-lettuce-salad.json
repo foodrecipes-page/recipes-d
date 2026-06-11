@@ -1,0 +1,75 @@
+{
+  "slug": "delicate-tunisian-lettuce-salad",
+  "title": "Tunisian Salad with Delicate Greens",
+  "description": "A refreshing salad inspired by the flavors of Tunisia, featuring delicate greens, crunchy lettuce, and a zesty vinaigrette.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate greens (such as arugula or spinach)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce (such as romaine or iceberg)",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian salad (such as preserved lemon and olives)",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the delicate greens, lettuce, Tunisian salad, red onion, and pomegranate seeds.",
+    "2. In a small bowl, whisk together the olive oil and lemon juice.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "salad",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-tunisian-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:45:53.123Z"
+}
