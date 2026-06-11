@@ -1,0 +1,83 @@
+{
+  "slug": "deliciously-smoky-australian-shrimp-skewers",
+  "title": "Smoky Australian Shrimp Skewers",
+  "description": "Grilled shrimp skewers with a smoky flavor, perfect for a summer evening.",
+  "cuisine": "australian",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a small bowl, whisk together soy sauce, brown sugar, garlic powder, and smoked paprika.",
+    "Brush the shrimp with coconut oil and then brush with the soy sauce mixture.",
+    "Season with salt and pepper to taste.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Brush with lemon juice and honey during the last minute of grilling.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "skewers",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoky-australian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:43:03.876Z"
+}
