@@ -1,0 +1,77 @@
+{
+  "slug": "delicate-comforting-turkish-daikon-kazandibi",
+  "title": "Turkish Kazandibi with Daikon Slaw",
+  "description": "A creamy, comforting Turkish dessert topped with a refreshing daikon slaw, perfect for warm evenings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kazandibi cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Daikon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine milk, sugar, and cornstarch. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Add the unsalted butter and stir until melted.",
+    "Remove from heat and let cool slightly.",
+    "In a blender or food processor, combine the kazandibi cream cheese and cooled milk mixture. Blend until smooth.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Refrigerate for at least 2 hours or until chilled.",
+    "To make the daikon slaw, grate the daikon and squeeze out excess water.",
+    "In a small bowl, whisk together lemon juice and salt. Pour over the daikon and toss to coat.",
+    "To serve, top each chilled kazandibi with a spoonful of daikon slaw."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "turkish",
+    "comforting",
+    "daikon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-comforting-turkish-daikon-kazandibi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:19:13.626Z"
+}
