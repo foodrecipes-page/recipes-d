@@ -1,0 +1,100 @@
+{
+  "slug": "dense-smoky-ethiopian-lemongrass-doro-jjigae",
+  "title": "Ethiopian Doro Jjigae",
+  "description": "A spicy and flavorful Ethiopian chicken stew made with tender pieces of chicken in a rich, smoky sauce. This dish is a fusion of traditional Ethiopian and Korean flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "doro spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ethiopian red pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the lemongrass, doro spice blend, ethiopian red pepper, onion, and garlic. Cook for 1 minute.",
+    "Add the tomato paste (if using) and cook for 1 minute.",
+    "Add the chicken broth and smoked paprika (if using). Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional).",
+    "Serve with injera or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "ethiopian",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-ethiopian-lemongrass-doro-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:29:08.950Z"
+}
