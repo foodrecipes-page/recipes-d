@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-resinous-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting Irish lamb stew made with tender lamb, potatoes, and carrots.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Resinous rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Delicate thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Brown the lamb shoulder on all sides, then remove it from the pot.",
+    "3. Add the onion to the pot and cook until softened, about 5 minutes.",
+    "4. Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "5. Add the flour to the pot and cook for 1 minute.",
+    "6. Add the browned lamb, rosemary, and thyme to the pot.",
+    "7. Season with salt and pepper to taste.",
+    "8. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "9. Serve hot, garnished with fresh rosemary and thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-resinous-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:02:45.655Z"
+}
