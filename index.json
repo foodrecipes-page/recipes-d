@@ -7166,18 +7166,15 @@
   },
   {
     "slug": "delicate-tunisian-lettuce-salad",
-    "title": "Delicate Tunisian Lettuce Salad",
+    "title": "Tunisian Salad with Delicate Greens",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "plant-based",
+      "middle-eastern",
       "salad",
-      "spring",
-      "tunisian",
-      "vegan"
+      "vegetarian",
+      "healthy"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
@@ -10301,18 +10298,15 @@
   },
   {
     "slug": "deliciously-smoked-kenyan-chicken-kebabs",
-    "title": "Deliciously Smoked Kenyan Chicken Kebabs",
+    "title": "Kenyan Smoked Chicken Skewers",
     "tags": [
-      "cider-based",
-      "dairy-free",
-      "gluten-free",
-      "kenyan-cuisine",
-      "lazy-sunday",
-      "smoked-chicken",
-      "tandoor-recipes"
+      "chicken",
+      "kebabs",
+      "kenyan",
+      "spicy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 33,
     "shard": "d"
   },
   {
