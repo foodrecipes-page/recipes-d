@@ -3203,14 +3203,16 @@
   },
   {
     "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
-    "title": "Deglazed Smoky Roasted Pepper American Pilaf",
+    "title": "Smoky Chicken and Rice Bowl",
     "tags": [
-      "quinoa",
-      "roasted_peppers",
-      "smoky"
+      "chicken",
+      "rice",
+      "pilaf",
+      "smoky",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
