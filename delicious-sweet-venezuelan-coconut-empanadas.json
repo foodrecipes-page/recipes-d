@@ -1,0 +1,67 @@
+{
+  "slug": "delicious-sweet-venezuelan-coconut-empanadas",
+  "title": "Venezuelan Coconut Empanadas",
+  "description": "A sweet and delicious dessert empanada filled with coconut and perfect for any occasion.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "delicious",
+      "amount": "1/4 cup sugar"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/4 cup honey"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 package empanada dough"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll empanada dough and cut into 4 equal pieces.",
+    "Mix coconut, sugar, and honey in a bowl.",
+    "Place a tablespoon of the coconut mixture onto the center of each empanada piece.",
+    "Brush the edges with coconut oil.",
+    "Fold the empanadas in half and press the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with coconut oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "coconut",
+    "empanadas",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-sweet-venezuelan-coconut-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:06:55.088Z"
+}
