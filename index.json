@@ -3875,17 +3875,15 @@
   },
   {
     "slug": "delicate-crisp-ukrainian-butternut-squash-pilaf",
-    "title": "Delicate Crisp Ukrainian Butternut Squash Pilaf",
+    "title": "Roasted Squash Pilaf",
     "tags": [
-      "comfort-food",
-      "fall-recipes",
-      "low-fat",
-      "one-pot",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "sides",
+      "pilaf",
+      "roasted-squash",
+      "healthy"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -10382,16 +10380,14 @@
   },
   {
     "slug": "deliciously-smoky-australian-shrimp-skewers",
-    "title": "Deliciously Smoky Australian Shrimp Skewers",
+    "title": "Smoky Australian Shrimp Skewers",
     "tags": [
-      "australian",
       "grilled",
-      "romantic",
       "seafood",
-      "shrimp",
-      "smoky"
+      "skewers",
+      "australian"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 23,
     "shard": "d"
   },
