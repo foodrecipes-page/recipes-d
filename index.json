@@ -3687,17 +3687,15 @@
   },
   {
     "slug": "delicate-comforting-turkish-daikon-kazandibi",
-    "title": "Delicate Comforting Turkish Daikon Kazandibi",
+    "title": "Turkish Kazandibi with Daikon Slaw",
     "tags": [
-      "comfort-food",
-      "delicious",
-      "easy-to-make",
-      "no-onion-no-garlic",
-      "turkish-dessert",
-      "vegetarian"
+      "dessert",
+      "turkish",
+      "comforting",
+      "daikon"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -14100,17 +14098,15 @@
   },
   {
     "slug": "dense-velvety-kenyan-vegetarian-wrap",
-    "title": "Dense, velvety Kenyan vegetarian Wrap",
+    "title": "Kenyan Vegetarian Wrap",
     "tags": [
       "kenyan",
-      "one-pan",
-      "romantic",
       "vegetarian",
-      "weeknight",
-      "wrap"
+      "wrap",
+      "easy"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
