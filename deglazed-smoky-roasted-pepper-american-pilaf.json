@@ -1,0 +1,81 @@
+{
+  "slug": "deglazed-smoky-roasted-pepper-american-pilaf",
+  "title": "Smoky Chicken and Rice Bowl",
+  "description": "A hearty, flavorful bowl filled with smoky chicken, roasted vegetables, and a side of savory pilaf.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1, diced",
+      "notes": null
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "deglazed wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the chicken with smoky paprika and roast in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, heat olive oil in a large skillet over medium-high heat.",
+    "Add diced roasted red pepper to the skillet and sauté for 2-3 minutes.",
+    "Add chicken broth to the skillet and bring to a boil.",
+    "Stir in pilaf rice and cook according to package instructions.",
+    "Once the chicken is done, slice it into strips and add to the skillet with the pilaf.",
+    "Toss everything together and serve hot.",
+    "If using deglazed wine, drizzle over the top of the dish before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "pilaf",
+    "smoky",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deglazed-smoky-roasted-pepper-american-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:47:12.355Z"
+}
