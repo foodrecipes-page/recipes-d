@@ -1,0 +1,79 @@
+{
+  "slug": "dry-sherry-dumplings",
+  "title": "Pan-Seared Dumplings with Sherry Sauce",
+  "description": "A classic Chinese-inspired dish featuring pan-seared dumplings served in a rich sherry sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumplings (homemade or store-bought)",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dry white wine (optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the sherry and dry white wine (if using) and stir-fry until the liquid has almost completely reduced.",
+    "Add the soy sauce and stir-fry for 1 minute.",
+    "Add the dumplings and cook until they are golden brown on the bottom.",
+    "Add the sesame oil and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the dumplings hot with the sherry sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "sherry-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-sherry-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:25:19.721Z"
+}
