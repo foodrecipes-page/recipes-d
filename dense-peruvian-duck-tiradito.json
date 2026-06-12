@@ -1,0 +1,94 @@
+{
+  "slug": "dense-peruvian-duck-tiradito",
+  "title": "Peruvian-Style Grilled Duck Tenders with Spicy Tzatziki Sauce",
+  "description": "A fusion dish that combines the flavors of Peru and the comfort of a summer day. The tender duck is marinated in a zesty mixture and grilled to perfection, served with a refreshing and spicy tzatziki sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lime juice, garlic, aji amarillo pepper, salt, and pepper. Blend until smooth.",
+    "Place the duck breast in a large zip-top plastic bag. Pour the marinade over the duck and seal the bag. Refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Remove the duck from the marinade and shake off any excess.",
+    "Grill the duck for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Meanwhile, combine Greek yogurt, cucumber, red onion, and cilantro in a bowl. Stir to combine.",
+    "To serve, slice the grilled duck into strips and serve with the tzatziki sauce.",
+    "Garnish with additional cilantro and lime wedges, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "duck",
+    "tzatziki",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-duck-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:54:25.812Z"
+}
