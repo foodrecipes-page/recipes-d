@@ -1,0 +1,77 @@
+{
+  "slug": "dreamy-malty-australian-lamb-sushi",
+  "title": "Grilled Australian Lamb Chops with Malty Glaze",
+  "description": "A sweet and savory dish featuring grilled lamb chops smothered in a malty glaze, perfect for a dinner party.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "1.5 pounds",
+      "notes": "about 1 inch thick"
+    },
+    {
+      "name": "dreamy honey",
+      "amount": "1/4 cup",
+      "notes": "raw, unfiltered"
+    },
+    {
+      "name": "malty brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "preferably muscovado"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing lamb chops"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season lamb chops with salt and pepper.",
+    "Brush lamb chops with coconut oil and grill for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, combine honey, brown sugar, soy sauce, green onions, and garlic in a small saucepan.",
+    "Bring the glaze to a simmer over medium heat and cook, stirring occasionally, until slightly thickened, about 5 minutes.",
+    "Brush the glaze over the grilled lamb chops during the last minute of cooking.",
+    "Let the lamb chops rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "australian",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-malty-australian-lamb-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:41:31.607Z"
+}
