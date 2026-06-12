@@ -1,0 +1,72 @@
+{
+  "slug": "dense-molten-canadian-minced-steak-grill",
+  "title": "Canadian Steak with Molten Cheese",
+  "description": "A rich and savory dish featuring steak topped with a molten cheese sauce served with a side of grilled vegetables.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Molten Cheese Sauce (1 cup shredded cheddar, 1/2 cup heavy cream, 1 tsp paprika)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Dense Vegetables (such as bell peppers, onion, mushrooms)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season steak with grill seasoning and grill for 5-7 minutes per side, or until cooked to desired level of doneness.",
+    "While steak is cooking, melt butter in a saucepan over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Stir in Canadian molten cheese sauce and cook until melted and bubbly.",
+    "Slice steak into thin strips and serve with molten cheese sauce spooned over the top.",
+    "Garnish with chopped parsley and serve with grilled vegetables on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "steak",
+    "molten cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-molten-canadian-minced-steak-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:01:55.143Z"
+}
