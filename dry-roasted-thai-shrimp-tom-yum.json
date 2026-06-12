@@ -1,0 +1,94 @@
+{
+  "slug": "dry-roasted-thai-shrimp-tom-yum",
+  "title": "Shrimp and Tom Yum Soup",
+  "description": "A spicy and sour soup originating from Thailand, made with succulent shrimp and fresh tom yum paste.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 ounces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons",
+      "notes": "dry"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 ounces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add garlic and chili peppers; cook for 1 minute.",
+    "Add tom yum paste and cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Add coconut milk and reduce heat to low.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Stir in fish sauce (if using) and lemon juice.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with cilantro and lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "soup",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-roasted-thai-shrimp-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:23:58.314Z"
+}
