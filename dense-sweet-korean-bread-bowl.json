@@ -1,0 +1,78 @@
+{
+  "slug": "dense-sweet-korean-bread-bowl",
+  "title": "Sweet Korean Bowl",
+  "description": "A sweet and savory Korean-inspired bowl made with dense sweet bread and a variety of toppings.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dense sweet bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing bread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the dense sweet bread into 1-inch thick slices.",
+    "Brush the bread slices with sesame oil and toast in the oven for 5 minutes.",
+    "In a separate pan, heat 1 tablespoon of soy sauce over medium heat.",
+    "Add the cubed sweet potatoes and cook until caramelized, about 10-12 minutes.",
+    "Stir in honey and cook for an additional 1-2 minutes.",
+    "Assemble the bowls by placing toasted bread on the bottom, followed by sweet potato mixture, green onions, and toasted sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "korean",
+    "bread",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-sweet-korean-bread-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:52:43.032Z"
+}
