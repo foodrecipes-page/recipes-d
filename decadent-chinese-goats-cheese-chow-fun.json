@@ -1,0 +1,75 @@
+{
+  "slug": "decadent-chinese-goats-cheese-chow-fun",
+  "title": "Goat Cheese Chow Fun",
+  "description": "A decadent Chinese-inspired dish featuring stir-fried noodles, goat cheese, and vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chow fun noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add scallions and stir-fry for 2 minutes.",
+    "Add noodles and stir-fry for 2 minutes.",
+    "Add soy sauce and stir-fry for 1 minute.",
+    "Add goat cheese and stir-fry until melted.",
+    "Season with salt and pepper to taste.",
+    "Garnish with cilantro and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "goat cheese",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-chinese-goats-cheese-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:31:51.309Z"
+}
