@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-dry-ethiopian-herring-ceviche",
+  "title": "Ceviche with Herring and Ethiopian Spices",
+  "description": "A refreshing and flavorful dish that combines the tanginess of ceviche with the bold flavors of Ethiopian spices and the delicate taste of herring.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "2",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": "berbere powder or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the herring fillets under cold water and pat dry with paper towels.",
+    "In a large bowl, combine the sliced onion and diced tomato.",
+    "Add the lemon juice, olive oil, and Ethiopian spices to the bowl and mix well.",
+    "Add the herring fillets to the bowl and mix gently to coat with the marinade.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in some chopped fresh cilantro or parsley if desired.",
+    "Serve the ceviche chilled, garnished with additional cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "herring",
+    "ethiopian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dry-ethiopian-herring-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:39:31.481Z"
+}
