@@ -1,0 +1,80 @@
+{
+  "slug": "deep-fried-poblanos-tlayudas",
+  "title": "Roasted Poblano Tlayudas",
+  "description": "A twist on traditional Mexican street food, featuring roasted poblanos and crispy tlayudas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4"
+    },
+    {
+      "name": "poblanos",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast poblanos for 30-40 minutes, or until skin is blistered.",
+    "Remove skin, seed, and chop.",
+    "Sauté onion and garlic until softened.",
+    "Add cumin, chili powder, salt, and pepper. Cook 1 minute.",
+    "Brush tlayudas with oil and toast until crispy.",
+    "Top tlayudas with roasted poblanos, onion mixture, and cheese.",
+    "Return to oven until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "vegetarian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-poblanos-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:17:11.542Z"
+}
