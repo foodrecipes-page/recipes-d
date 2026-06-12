@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-smoky-spanish-pork-jamon-iberico",
+  "title": "Crispy Iberico Pork Belly Bites",
+  "description": "A Spanish-inspired appetizer featuring crispy Iberico pork belly bites, served with a smoky aioli for dipping.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pork"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Iberico pork belly",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Delicate olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Jamon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the Iberico pork belly into 1-inch cubes.",
+    "Season the pork cubes with smoked paprika, salt, and black pepper.",
+    "Dip each pork cube into the beaten eggs and then coat in bread crumbs.",
+    "Heat a skillet with delicate olive oil over medium heat.",
+    "Add the coated pork cubes and cook until golden brown, about 3-4 minutes per side.",
+    "Transfer the pork cubes to a baking sheet and bake in the oven for 10-12 minutes, or until crispy.",
+    "Meanwhile, toast the bread crumbs in a dry skillet until lightly browned.",
+    "Serve the crispy Iberico pork belly bites with a side of toasted bread crumbs and a drizzle of smoky aioli for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pork",
+    "appetizer",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-spanish-pork-jamon-iberico",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:42:34.487Z"
+}
