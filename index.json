@@ -3537,17 +3537,16 @@
   },
   {
     "slug": "delicate-braised-egyptian-chicken-kebabs",
-    "title": "Delicate Braised Egyptian Chicken Kebabs",
+    "title": "Delicate Chicken Kebabs",
     "tags": [
-      "gluten-free",
-      "healthy-dinner",
-      "high-protein",
-      "middle-eastern",
-      "post-workout",
-      "whole30-friendly"
+      "chicken",
+      "kebabs",
+      "grilled",
+      "middle eastern",
+      "easy dinner"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "d"
   },
   {
@@ -12706,18 +12705,14 @@
   },
   {
     "slug": "dense-molten-canadian-minced-steak-grill",
-    "title": "dense molten canadian minced steak grill",
+    "title": "Canadian Steak with Molten Cheese",
     "tags": [
-      "adventurous",
       "canadian",
-      "grilled",
-      "molten",
-      "one-pan",
       "steak",
-      "weeknight"
+      "molten cheese"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 27,
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -15548,17 +15543,15 @@
   },
   {
     "slug": "dry-crunchy-indian-chicken-kebabs",
-    "title": "Dry Crunchy Indian Chicken Kebabs",
+    "title": "Chicken Kebab Curry",
     "tags": [
-      "chicken-recipes",
-      "high-protein",
-      "indian-food",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "chicken",
+      "kebabs",
+      "indian",
+      "curry"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -15806,17 +15799,14 @@
   },
   {
     "slug": "dry-wood-fired-croatian-shiitake-mushroom-bake",
-    "title": "Dry Wood Fired Croatian Shiitake Mushroom Bake",
+    "title": "Croatian Shiitake Mushroom Bake",
     "tags": [
-      "croatian-cuisine",
-      "gluten-free",
-      "low-carb",
-      "mushroom-based",
-      "red-wine",
-      "wood-fired"
+      "croatian",
+      "mushroom",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
