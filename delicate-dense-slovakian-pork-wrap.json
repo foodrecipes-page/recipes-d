@@ -1,0 +1,93 @@
+{
+  "slug": "delicate-dense-slovakian-pork-wrap",
+  "title": "Slovakian Pork Wrap",
+  "description": "A hearty Slovakian-inspired dish featuring tender pork, crunchy vegetables, and a side of tangy slaw, all wrapped up in a crispy wrap.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Delicate onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Dense sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill to medium-high heat.",
+    "2. Slice the pork shoulder into thin strips and season with salt and pepper.",
+    "3. Grill the pork for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, slice the onions and peppers into thin strips.",
+    "5. Grill the onions and peppers for 3-4 minutes per side, or until tender.",
+    "6. Slice the sausage into thin rounds and grill for 2-3 minutes per side, or until cooked through.",
+    "7. Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wraps by spreading mayonnaise on the bottom half, then adding the pork, onions, peppers, sausage, and cabbage.",
+    "9. Sprinkle caraway seeds on top and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dense-slovakian-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:08:40.148Z"
+}
