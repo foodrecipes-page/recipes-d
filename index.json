@@ -1650,16 +1650,15 @@
   },
   {
     "slug": "decadent-chinese-goats-cheese-chow-fun",
-    "title": "Decadent Chinese Goats Cheese Chow-Fun",
+    "title": "Goat Cheese Chow Fun",
     "tags": [
-      "chocolate",
-      "high-protein",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "chinese",
+      "vegetarian",
+      "goat cheese",
+      "noodles"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -11620,20 +11619,16 @@
   },
   {
     "slug": "dense-crowd-pleasing-mexican-beef-carnitas",
-    "title": "Dense, Crowd-Pleasing Mexican Beef Carnitas",
+    "title": "Mexican Carnitas Tacos",
     "tags": [
-      "beef",
-      "carnitas",
-      "crowd-pleaser",
-      "dinner",
-      "glaze",
       "mexican",
-      "one-pan",
-      "special-occasion",
-      "weeknight"
+      "carnitas",
+      "tacos",
+      "beef",
+      "slow-cooked"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 290,
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
