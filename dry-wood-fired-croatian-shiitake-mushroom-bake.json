@@ -1,0 +1,88 @@
+{
+  "slug": "dry-wood-fired-croatian-shiitake-mushroom-bake",
+  "title": "Croatian Shiitake Mushroom Bake",
+  "description": "A hearty, earthy bake featuring shiitake mushrooms and inspired by Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fired bread",
+      "amount": "1 cup",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced mushrooms and cook until browned, about 3-4 minutes.",
+    "Add the minced garlic and chopped onion, cooking for an additional 2 minutes.",
+    "Stir in cumin, paprika, salt, and pepper.",
+    "In a separate bowl, toss the cubed fired bread with a pinch of salt and pepper.",
+    "Transfer the bread to a baking dish and top with the mushroom mixture.",
+    "Bake for 15-20 minutes, or until the bread is golden brown and the mushrooms are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-wood-fired-croatian-shiitake-mushroom-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:01:47.651Z"
+}
