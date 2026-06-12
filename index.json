@@ -4181,16 +4181,14 @@
   },
   {
     "slug": "delicate-dense-slovakian-pork-wrap",
-    "title": "Delicate Dense Slovakian Pork Wrap",
+    "title": "Slovakian Pork Wrap",
     "tags": [
-      "comfort-food",
-      "flavorful",
-      "one-pot",
-      "paleo-friendly",
-      "slow-cooked"
+      "slovakian",
+      "pork",
+      "wrap"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -5290,17 +5288,15 @@
   },
   {
     "slug": "delicate-irish-wensleydale-fritters",
-    "title": "Delicate Irish Wensleydale Fritters",
+    "title": "Irish Wensleydale Fritters",
     "tags": [
+      "irish",
+      "cheese",
       "fritters",
-      "irish-food",
-      "shojin-friendly",
-      "vegetarian",
-      "weeknight",
-      "wensleydale-cheese"
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
@@ -6779,16 +6775,15 @@
   },
   {
     "slug": "delicate-smoky-spanish-pork-jamon-iberico",
-    "title": "Delicate Smoky Spanish Pork Jamon Iberico",
+    "title": "Crispy Iberico Pork Belly Bites",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "spanish-cuisine",
-      "special-occasion"
+      "spanish",
+      "pork",
+      "appetizer",
+      "finger-food"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -15448,18 +15443,15 @@
   },
   {
     "slug": "dry-brazilian-lamb-satay",
-    "title": "Dry Brazilian Lamb Satay",
+    "title": "Grilled Lamb Satay with Brazilian Spice Rub",
     "tags": [
-      "adventurous",
-      "appetizer",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "grilled",
+      "satay",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
