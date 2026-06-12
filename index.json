@@ -13770,21 +13770,15 @@
   },
   {
     "slug": "dense-sweet-korean-bread-bowl",
-    "title": "Dense Sweet Korean Bread Bowl",
+    "title": "Sweet Korean Bowl",
     "tags": [
-      "bread",
-      "breakfast",
-      "comfort-food",
-      "dessert",
-      "easy",
-      "korean",
-      "one-pan",
-      "snack",
       "sweet",
-      "weeknight"
+      "korean",
+      "bread",
+      "bowl"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14983,16 +14977,15 @@
   },
   {
     "slug": "dreamy-malty-australian-lamb-sushi",
-    "title": "Dreamy Malty Australian Lamb Sushi",
+    "title": "Grilled Australian Lamb Chops with Malty Glaze",
     "tags": [
-      "australian-cuisine",
-      "halal-friendly",
-      "lamb-recipes",
-      "romantic-dinners",
-      "sushi-creations"
+      "grilled",
+      "lamb",
+      "australian",
+      "glaze"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -15714,14 +15707,12 @@
   },
   {
     "slug": "dry-roasted-thai-shrimp-tom-yum",
-    "title": "Dry Roasted Thai Shrimp Tom Yum",
+    "title": "Shrimp and Tom Yum Soup",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "roasted-shrimp",
-      "thai-cuisine",
-      "tom-yum",
-      "weeknight"
+      "thai",
+      "soup",
+      "seafood",
+      "spicy"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
