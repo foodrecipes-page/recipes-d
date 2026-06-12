@@ -1,0 +1,114 @@
+{
+  "slug": "dense-crowd-pleasing-mexican-beef-carnitas",
+  "title": "Mexican Carnitas Tacos",
+  "description": "A delicious Mexican-inspired dish featuring slow-cooked carnitas, served with fresh toppings and warm tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Newspaper",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced radishes",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F.",
+    "Cut the beef shoulder into large chunks and place it in a Dutch oven.",
+    "In a small bowl, mix together the lime juice, orange juice, garlic, cumin, chili powder, and salt.",
+    "Pour the marinade over the beef and toss to coat.",
+    "Cover the Dutch oven with a sheet of newspaper and transfer it to the preheated oven.",
+    "Braise the beef for 2 1/2 hours, or until it is tender and easily shreds with a fork.",
+    "Remove the beef from the oven and let it cool slightly.",
+    "Using two forks, shred the beef into bite-sized pieces.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the shredded beef to the skillet and cook for 5-7 minutes, or until it is crispy and golden brown.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the carnitas onto a tortilla and topping with your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "carnitas",
+    "tacos",
+    "beef",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-crowd-pleasing-mexican-beef-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:28:16.758Z"
+}
