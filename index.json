@@ -4847,17 +4847,15 @@
   },
   {
     "slug": "delicate-fresh-croatian-fish-sashimi",
-    "title": "Delicate Fresh Croatian Fish Sashimi",
+    "title": "Grilled Octopus with Croatian Aioli",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "seafood",
-      "weeknight"
+      "grilled",
+      "octopus",
+      "appetizer",
+      "mediterranean"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 20,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
@@ -15508,17 +15506,15 @@
   },
   {
     "slug": "dry-crunchy-algerian-vegetable-tagine",
-    "title": "Dry Crunchy Algerian Vegetable Tagine",
+    "title": "Algerian Vegetable Tagine",
     "tags": [
-      "algerian-cuisine",
-      "bitter",
-      "crunchy",
-      "jain-friendly",
-      "one-pot",
-      "vegetarian"
+      "algerian",
+      "vegetarian",
+      "stew",
+      "dinner"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 70,
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
