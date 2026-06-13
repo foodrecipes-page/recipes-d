@@ -1,0 +1,77 @@
+{
+  "slug": "decadent-molten-polish-potato-dumplings",
+  "title": "Decadent Polish Dumpling Delight",
+  "description": "Indulge in a rich and creamy Polish-inspired dumpling dish, perfect for a cozy evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish potato dumplings (Pierogi Ruskie)",
+      "amount": "1 package (12-15 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Decadent cheese",
+      "amount": "1/2 cup (melted)",
+      "notes": ""
+    },
+    {
+      "name": "Fried onion",
+      "amount": "1/4 cup (crumbled)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Frying oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the Polish potato dumplings according to package instructions.",
+    "Melt the decadent cheese in a saucepan over low heat.",
+    "Add the fried onion and stir to combine.",
+    "Add the cooked dumplings to the cheese mixture and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh dill and melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "dumplings",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-molten-polish-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:19:15.171Z"
+}
