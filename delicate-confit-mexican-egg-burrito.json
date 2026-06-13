@@ -1,0 +1,73 @@
+{
+  "slug": "delicate-confit-mexican-egg-burrito",
+  "title": "Delicate Burrito Breakfast",
+  "description": "A delicate breakfast twist on a classic burrito, featuring a runny egg and confit.",
+  "cuisine": "Mexican",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large, fresh egg"
+    },
+    {
+      "name": "Confit",
+      "amount": "2 tablespoons",
+      "notes": "Mildly spiced confit"
+    },
+    {
+      "name": "Mexican",
+      "amount": "1 tablespoon",
+      "notes": "Mildly spicy salsa"
+    },
+    {
+      "name": "Delicate",
+      "amount": "1 tortilla",
+      "notes": "Delicate, lightly toasted tortilla"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1 tablespoon",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the confit in a small pan over medium heat.",
+    "Meanwhile, toast the tortilla in a dry pan for about 30 seconds on each side.",
+    "Crack the egg into the pan with the confit and scramble it lightly.",
+    "Warm the tortilla slightly on both sides.",
+    "Add a spoonful of the confit mixture to the center of the tortilla.",
+    "Fold the bottom half of the tortilla over the filling, then the sides, and finally the top half.",
+    "Serve the burrito hot with a dollop of sour cream and a sprinkle of chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "burrito",
+    "egg",
+    "confit",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-confit-mexican-egg-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:05:31.883Z"
+}
