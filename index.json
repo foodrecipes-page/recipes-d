@@ -838,17 +838,14 @@
   },
   {
     "slug": "darkly-savory-argentinian-sausages-skewers",
-    "title": "Darkly Savory Argentinian Sausages Skewers",
+    "title": "Argentinian Sausage Skewers",
     "tags": [
       "grilled",
-      "high-protein",
-      "meat-based",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "skewers",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -14248,19 +14245,15 @@
   },
   {
     "slug": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
-    "title": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+    "title": "Greek Pumpkin Stifado Stew",
     "tags": [
-      "donabe",
-      "easy-to-make",
-      "fall",
-      "gluten-free",
       "greek",
-      "one-pan",
-      "vegetarian",
-      "winter"
+      "pumpkin",
+      "stew",
+      "donabe"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 30,
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
