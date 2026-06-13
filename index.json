@@ -2811,15 +2811,14 @@
   },
   {
     "slug": "decadent-yeasty-mexican-pozole-bisque",
-    "title": "Decadent Yeasty Mexican Pozole Bisque",
+    "title": "Decadent Pozole",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "one-pot",
-      "weeknight"
+      "mexican",
+      "pozole",
+      "stew"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 65,
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -3375,17 +3374,14 @@
   },
   {
     "slug": "delicate-american-prune-stew",
-    "title": "Delicate American Prune Stew",
+    "title": "Delicate American Stew",
     "tags": [
-      "american-cuisine",
-      "clay-pot-cooking",
-      "kosher-friendly",
-      "prune-recipes",
-      "romantic-dinner",
-      "special-occasion"
+      "beef stew",
+      "comfort food",
+      "american cuisine"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": "american",
+    "totalTimeMin": 140,
     "shard": "d"
   },
   {
