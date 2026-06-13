@@ -1,0 +1,87 @@
+{
+  "slug": "decadent-yeasty-mexican-pozole-bisque",
+  "title": "Decadent Pozole",
+  "description": "A rich and hearty Mexican stew originating from the state of Jalisco, featuring a variety of ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pozole",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add tomatoes, broth, and lime juice. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add pozole and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with crusty bread, shredded cheese, and a sprinkle of cilantro.",
+    "Garnish with additional lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pozole",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-yeasty-mexican-pozole-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:29:00.650Z"
+}
