@@ -6781,17 +6781,15 @@
   },
   {
     "slug": "delicate-snappy-german-fish-skewers",
-    "title": "Delicate Snappy German Fish Skewers",
+    "title": "German-Style Grilled Fish Skewers",
     "tags": [
-      "bento-box",
-      "german-cuisine",
-      "high-protein",
-      "low-carb",
-      "pescatarian",
-      "seafood"
+      "grilled",
+      "fish",
+      "summer",
+      "german"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
