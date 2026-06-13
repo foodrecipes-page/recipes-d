@@ -5479,17 +5479,15 @@
   },
   {
     "slug": "delicate-korean-baby-aubergine-dosirak",
-    "title": "Delicate Korean Baby Aubergine Dosirak",
+    "title": "Delicate Korean-Style Baby Aubergine Dosirak",
     "tags": [
-      "date-night",
-      "korean-cuisine",
-      "nimono-simmer",
-      "shojin-friendly",
-      "vegan",
-      "vegetarian"
+      "korean",
+      "vegetarian",
+      "rice-bowl",
+      "aubergine"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -5910,17 +5908,16 @@
   },
   {
     "slug": "delicate-norwegian-chuck-roast",
-    "title": "Delicate Norwegian Chuck Roast",
+    "title": "Norwegian Chuck Roast Delight",
     "tags": [
-      "glaze",
-      "high-protein",
-      "kid-friendly",
-      "oven-dinner",
-      "weeknight",
-      "whole30-friendly"
+      "beef",
+      "chuck-roast",
+      "norwegian-cuisine",
+      "hearty-meal",
+      "slow-cooked"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 155,
+    "cuisine": "norwegian",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -7816,19 +7813,15 @@
   },
   {
     "slug": "delicious-deep-fried-venezuelan-knafeh-papillote",
-    "title": "Delicious Deep-Fried Venezuelan Knafeh Papillote",
+    "title": "Delicious Knafeh Papillote",
     "tags": [
-      "deep-fried",
-      "macrobiotic",
-      "rich",
-      "snappy",
-      "vegan",
-      "vegan-friendly",
-      "venezuelan",
-      "weeknight"
+      "knafeh",
+      "papillote",
+      "dessert",
+      "vegan-friendly"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -8069,16 +8062,15 @@
   },
   {
     "slug": "delicious-japanese-rice-takikomi-gohan",
-    "title": "Delicious Japanese Rice Takikomi-Gohan",
+    "title": "Japanese-Style Takikomi Gohan",
     "tags": [
       "japanese",
-      "low-carb",
-      "one-pot",
-      "rice-bowl",
-      "weeknight"
+      "rice",
+      "chicken",
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11234,16 +11226,16 @@
   },
   {
     "slug": "dense-brazilian-bananas-curry",
-    "title": "Dense Brazilian Bananas Curry",
+    "title": "Brazilian Banana Curry Bites",
     "tags": [
-      "adventurous",
-      "fermented",
-      "low-carb",
-      "one-pot",
-      "vegan"
+      "dessert",
+      "banana",
+      "curry",
+      "brazilian",
+      "easy-to-make"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
