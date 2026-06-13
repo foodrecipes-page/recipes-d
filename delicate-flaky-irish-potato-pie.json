@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-flaky-irish-potato-pie",
+  "title": "Irish Potato Pie",
+  "description": "A traditional Irish dish made with buttery pastry, fluffy potatoes, and a hint of onion.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 large, peeled and diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, sauté diced onion in butter until softened.",
+    "Add diced potatoes and cook until slightly tender.",
+    "Season with salt and black pepper to taste.",
+    "Roll out the flaky pastry to fit a 9-inch pie dish.",
+    "Transfer the potato mixture to the pastry-lined pie dish.",
+    "Roll out the remaining pastry to fit the top of the pie.",
+    "Place the pastry on top of the filling and crimp the edges to seal.",
+    "Cut a few slits in the top pastry to allow steam to escape.",
+    "Brush the top pastry with a little extra butter.",
+    "Bake for 40-50 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "potato",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-irish-potato-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:19.794Z"
+}
