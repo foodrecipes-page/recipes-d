@@ -1,0 +1,80 @@
+{
+  "slug": "deliciously-dense-brazilian-egg-frittata",
+  "title": "Delicious Brazilian Frittata",
+  "description": "A traditional Brazilian egg dish made with eggs, onion, bell pepper, and spices. Perfect for any meal of the day.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro (optional)",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until softened, about 5 minutes.",
+    "In a large bowl, whisk together eggs, salt, and black pepper.",
+    "Pour the egg mixture over the onion and bell pepper mixture in the skillet.",
+    "If using cheese, sprinkle it on top of the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove from oven and sprinkle with chopped cilantro (if using).",
+    "Let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "brasilian",
+    "egg",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-brazilian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:29:09.680Z"
+}
