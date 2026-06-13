@@ -1,0 +1,95 @@
+{
+  "slug": "deliciously-spicy-italian-paprika-stir-fry",
+  "title": "Spicy Italian Stir Fry",
+  "description": "A quick and flavorful stir fry dish that combines the spices of Italy with a spicy kick.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Spicy stir-fry sauce",
+      "amount": "4 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 4-5 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the Italian sausage and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Add the smoked paprika and stir to combine.",
+    "Add the spicy stir-fry sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "spicy",
+    "stir-fry",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spicy-italian-paprika-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:46:03.960Z"
+}
