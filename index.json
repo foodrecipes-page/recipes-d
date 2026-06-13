@@ -4539,18 +4539,14 @@
   },
   {
     "slug": "delicate-flaky-irish-potato-pie",
-    "title": "Delicate Flaky Irish Potato Pie",
+    "title": "Irish Potato Pie",
     "tags": [
-      "ayurvedic-sattvic",
-      "flaky-crust",
-      "gluten-free",
-      "harissa-spice",
-      "irish-cuisine",
-      "potato-pie",
-      "vegetarian-friendly"
+      "irish",
+      "potato",
+      "pie"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
@@ -10905,18 +10901,15 @@
   },
   {
     "slug": "delightful-tunisian-quinoa-pilaf",
-    "title": "Delightful Tunisian Quinoa Pilaf",
+    "title": "Tunisian Quinoa Pilaf",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "north-african",
-      "one-pan",
       "quinoa",
-      "vegan",
-      "weeknight"
+      "north african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "North African",
-    "totalTimeMin": 40,
+    "cuisine": "north african",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -14893,17 +14886,14 @@
   },
   {
     "slug": "dreamy-irish-potato-bao",
-    "title": "Dreamy Irish Potato Bao",
+    "title": "Bao Bites with Irish Potatoes",
     "tags": [
-      "breakfast-ideas",
-      "hangover-cure",
-      "irish-food",
-      "jain-friendly",
-      "sweet-treats",
-      "vegetarian"
+      "irish-potatoes",
+      "bao-bites",
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
