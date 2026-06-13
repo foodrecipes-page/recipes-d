@@ -1,0 +1,86 @@
+{
+  "slug": "delightful-tunisian-quinoa-pilaf",
+  "title": "Tunisian Quinoa Pilaf",
+  "description": "A flavorful and nutritious quinoa pilaf dish with tunisian spices, perfect for a quick and easy meal.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delightful pilaf mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "or vegetable broth for vegetarian option"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the quinoa and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the quinoa is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "north african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightful-tunisian-quinoa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:13:54.873Z"
+}
