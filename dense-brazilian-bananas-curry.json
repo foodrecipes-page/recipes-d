@@ -1,0 +1,70 @@
+{
+  "slug": "dense-brazilian-bananas-curry",
+  "title": "Brazilian Banana Curry Bites",
+  "description": "A delicious and easy-to-make dessert that combines the sweetness of bananas with the warmth of a Brazilian-inspired curry.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "4"
+    },
+    {
+      "name": "Dense",
+      "amount": "1 cup",
+      "notes": "Dense cake crumbs or crushed cookies"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mash 2 bananas in a bowl and set aside.",
+    "In another bowl, whisk together coconut milk, honey, eggs, and 1 tsp of curry.",
+    "Add the mashed bananas to the wet mixture and stir to combine.",
+    "Mix in the dense cake crumbs.",
+    "Spoon the mixture into a mini muffin tin.",
+    "Bake for 15-20 minutes, or until a toothpick comes out clean.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "banana",
+    "curry",
+    "brazilian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-brazilian-bananas-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:44:56.358Z"
+}
