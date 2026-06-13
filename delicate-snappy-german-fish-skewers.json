@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-snappy-german-fish-skewers",
+  "title": "German-Style Grilled Fish Skewers",
+  "description": "A refreshing summer dish featuring marinated fish and vegetables, perfect for a light lunch. The combination of delicate fish and snappy vegetables creates a delightful harmony of textures.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (delicate white fish, such as flounder or sole)",
+      "amount": "4 fillets, cut into 1-inch pieces",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "snappy vegetables (bell peppers, onions, and zucchini)",
+      "amount": "2 each, cut into 1-inch pieces",
+      "notes": "Colorful for presentation"
+    },
+    {
+      "name": "german seasoning (paprika, salt, and pepper)",
+      "amount": "to taste",
+      "notes": "Classic german flavors"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade and serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12-15",
+      "notes": "Soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lemon juice, olive oil, paprika, salt, and pepper.",
+    "2. Add the fish and vegetables to the bowl, tossing to coat with the marinade.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread 2-3 pieces of fish and vegetables onto each skewer.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through and the vegetables are tender.",
+    "7. Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "fish",
+    "summer",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-snappy-german-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:34:44.805Z"
+}
