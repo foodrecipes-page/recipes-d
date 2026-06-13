@@ -1,0 +1,70 @@
+{
+  "slug": "ddecadent-molten-charred-parmesan-pasta",
+  "title": "Creamy Parmesan Pasta with a Crispy Crunch",
+  "description": "Indulge in the rich flavors of this comforting pasta dish, featuring a molten parmesan sauce and a satisfying crunch from charred breadcrumbs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "choose a gluten-free option"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup, grated",
+      "notes": "freshly grated for best flavor"
+    },
+    {
+      "name": "Molten Butter",
+      "amount": "4 tbsp",
+      "notes": "softened for easier mixing"
+    },
+    {
+      "name": "Charred Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dried Decadent Basil",
+      "amount": "1 tsp",
+      "notes": "crushed for added flavor"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Melt 2 tbsp of butter in a saucepan over medium heat.",
+    "Add parmesan cheese and stir until melted and smooth.",
+    "Stir in dried basil and season with salt.",
+    "Add remaining 2 tbsp of butter to saucepan and stir until well combined.",
+    "Toss cooked pasta in sauce until well coated.",
+    "Transfer pasta to a serving dish.",
+    "Sprinkle charred breadcrumbs on top of pasta.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "comfort-food",
+    "parmesan",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-molten-charred-parmesan-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:24:18.632Z"
+}
