@@ -2258,16 +2258,15 @@
   },
   {
     "slug": "decadent-molten-polish-potato-dumplings",
-    "title": "Decadent Molten Polish Potato Dumplings",
+    "title": "Decadent Polish Dumpling Delight",
     "tags": [
+      "polish",
+      "dumplings",
       "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "polish-cuisine",
-      "whole30"
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11866,15 +11865,15 @@
   },
   {
     "slug": "dense-ethiopian-tomato-pilaf",
-    "title": "Dense Ethiopian Tomato Pilaf",
+    "title": "Spicy Ethiopian Pilaf with Tomato",
     "tags": [
-      "comfort-food",
+      "spicy",
       "ethiopian",
-      "keto",
-      "rice-bowl"
+      "pilaf",
+      "tomato"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 17,
     "shard": "d"
   },
   {
@@ -12417,15 +12416,16 @@
   },
   {
     "slug": "dense-kenyan-raspberry-jam-tagine",
-    "title": "Dense Kenyan Raspberry Jam Tagine",
+    "title": "Kenyan Raspberry Tagine",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "shojin",
-      "weeknight"
+      "kenyan",
+      "raspberry",
+      "tagine",
+      "dessert",
+      "cookie"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
