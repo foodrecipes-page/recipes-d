@@ -1,0 +1,73 @@
+{
+  "slug": "dry-crunchy-algerian-vegetable-tagine",
+  "title": "Algerian Vegetable Tagine",
+  "description": "A hearty and flavorful stew originating from Algeria, cooked with vegetables and dry spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "dry cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dry coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and cook until softened.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add cumin, coriander and tagine spice mix, stir well.",
+    "Pour in enough water to cover the vegetables.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-crunchy-algerian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:23:49.174Z"
+}
