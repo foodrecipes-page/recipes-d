@@ -43,16 +43,15 @@
   },
   {
     "slug": "dairy-free-peruvian-kipper-papa-rellena",
-    "title": "Dairy-Free Peruvian Kipper Papa Rellena",
+    "title": "Causa de Papa Rellena",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "dairy-free",
+      "potatoes",
+      "chicken"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
@@ -1416,18 +1415,15 @@
   },
   {
     "slug": "ddecadent-molten-charred-parmesan-pasta",
-    "title": "DDecadent Molten Charred Parmesan Pasta",
+    "title": "Creamy Parmesan Pasta with a Crispy Crunch",
     "tags": [
-      "charred",
-      "festive",
-      "miso",
-      "molten",
+      "italian",
+      "comfort-food",
       "parmesan",
-      "tunisian",
-      "vegetarian"
+      "pasta"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
