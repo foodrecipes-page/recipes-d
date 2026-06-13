@@ -1,0 +1,63 @@
+{
+  "slug": "dense-kenyan-raspberry-jam-tagine",
+  "title": "Kenyan Raspberry Tagine",
+  "description": "A sweet and tangy dessert inspired by Kenyan flavors, featuring a raspberry jam-filled tagine with a crunchy dense cookie crust.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dense cookie crumbs",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tagine pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the dense cookie crust by mixing the cookie crumbs with a pinch of salt. Press the mixture into the bottom of a 9-inch (23cm) tagine or pie dish.",
+    "Spoon the raspberry jam into the cookie crust.",
+    "Place the tagine pastry dough over the filling, pressing the edges to seal.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the filling is warm.",
+    "Let the tagine cool for a few minutes before serving. Garnish with fresh raspberries."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "raspberry",
+    "tagine",
+    "dessert",
+    "cookie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-kenyan-raspberry-jam-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:14:37.168Z"
+}
