@@ -1,0 +1,92 @@
+{
+  "slug": "delicate-norwegian-chuck-roast",
+  "title": "Norwegian Chuck Roast Delight",
+  "description": "A hearty, flavorful roast dish from Norway, perfect for a cold evening. The chuck roast is slow-cooked to tender perfection.",
+  "cuisine": "norwegian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "delicate onion",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "norwegian allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chuck roast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "roast carrots",
+      "amount": "4 large, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chuck roast with salt, black pepper, and norwegian allspice.",
+    "Heat olive oil in a large Dutch oven over medium-high heat. Sear the chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Remove the roast from the pot and set aside.",
+    "Add sliced onion to the pot and cook until caramelized, about 10 minutes.",
+    "Add roast carrots to the pot and cook for an additional 5 minutes.",
+    "Add beef broth to the pot and stir to combine.",
+    "Return the chuck roast to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Braise the roast for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and stir in brown sugar.",
+    "Let the roast rest for 15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chuck-roast",
+    "norwegian-cuisine",
+    "hearty-meal",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-chuck-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:04:20.906Z"
+}
