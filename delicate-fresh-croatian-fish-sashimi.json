@@ -1,0 +1,71 @@
+{
+  "slug": "delicate-fresh-croatian-fish-sashimi",
+  "title": "Grilled Octopus with Croatian Aioli",
+  "description": "A Mediterranean-inspired dish featuring tender grilled octopus paired with a creamy Croatian aioli.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Octopus",
+      "amount": "1 pound, cleaned and tentacles separated"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium, juiced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Croatian olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Croatian aioli ingredients",
+      "amount": "see below"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together lemon juice, garlic, and olive oil.",
+    "3. Brush the mixture onto both sides of the octopus tentacles.",
+    "4. Season with salt and pepper to taste.",
+    "5. Grill the octopus for 2-3 minutes per side, or until slightly charred.",
+    "6. In a separate bowl, mix together Croatian aioli ingredients (see below).",
+    "7. Serve the grilled octopus with Croatian aioli and garnish with chopped parsley and capers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "octopus",
+    "appetizer",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-fresh-croatian-fish-sashimi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:32:55.074Z"
+}
