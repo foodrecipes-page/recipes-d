@@ -1,0 +1,76 @@
+{
+  "slug": "delicious-deep-fried-venezuelan-knafeh-papillote",
+  "title": "Delicious Knafeh Papillote",
+  "description": "A unique and tasty dessert combining the traditional venezuelan papillote with the popular middle eastern knafeh. A sweet and crispy treat.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "knafeh cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "deep fried dough",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "honey",
+      "amount": "20ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "pistachios",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Wrap the knafeh cheese and deep fried dough in a square piece of parchment paper.",
+    "Drizzle the maple syrup, honey, and lemon juice over the cheese and dough.",
+    "Sprinkle the pistachios and pumpkin seeds on top.",
+    "Fold the parchment paper into a triangle and tie with string.",
+    "Bake for 10 minutes.",
+    "Remove from the oven and let it rest for 2 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "knafeh",
+    "papillote",
+    "dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-deep-fried-venezuelan-knafeh-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:41:47.587Z"
+}
