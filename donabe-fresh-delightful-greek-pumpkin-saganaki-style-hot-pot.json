@@ -1,0 +1,77 @@
+{
+  "slug": "donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+  "title": "Greek Pumpkin Stifado Stew",
+  "description": "A hearty, comforting stew originating from Greece, made with tender pumpkin, onions, and a sweet and spicy sauce. Serve hot in a delightful donabe.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium-sized, peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "donabe",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saganaki",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "style hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled (optional)",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the donabe over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cubed pumpkin and cook for 5 minutes, until tender.",
+    "Add the cubed saganaki and cook for 2 minutes.",
+    "Add the hot sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with crumbled feta cheese if desired.",
+    "Enjoy your delicious Greek pumpkin stifado stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pumpkin",
+    "stew",
+    "donabe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/donabe-fresh-delightful-greek-pumpkin-saganaki-style-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:12.107Z"
+}
