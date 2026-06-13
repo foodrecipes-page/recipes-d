@@ -1,0 +1,85 @@
+{
+  "slug": "darkly-savory-argentinian-sausages-skewers",
+  "title": "Argentinian Sausage Skewers",
+  "description": "Grilled sausages and vegetables on skewers, a classic Argentinian dish.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Sausages",
+      "amount": "4-6",
+      "notes": "preferably choripan or morcilla"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "halved"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread sausages, onions, bell peppers, zucchini, and tomatoes onto skewers.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until sausages are cooked through.",
+    "Grill garlic for 1-2 minutes on each side, until slightly charred.",
+    "Serve skewers hot, garnished with grilled garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/darkly-savory-argentinian-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:06.325Z"
+}
