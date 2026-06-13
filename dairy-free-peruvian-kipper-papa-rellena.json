@@ -1,0 +1,78 @@
+{
+  "slug": "dairy-free-peruvian-kipper-papa-rellena",
+  "title": "Causa de Papa Rellena",
+  "description": "A traditional Peruvian dish consisting of stuffed potatoes with chicken salad and avocado.",
+  "cuisine": "peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "2 large potatoes"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "1 boneless chicken breast"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "1 ripe avocado"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2",
+      "notes": "1/2 cup diced onion"
+    },
+    {
+      "name": "Diced tomato",
+      "amount": "1/2",
+      "notes": "1/2 cup diced tomato"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped cilantro"
+    }
+  ],
+  "instructions": [
+    "Bake the potatoes at 400°F (200°C) for 45-50 minutes, or until tender.",
+    "Meanwhile, grill or cook the chicken breast until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing it into small pieces.",
+    "In a bowl, mix together the sliced chicken, diced onion, diced tomato, mayonnaise, and chopped cilantro.",
+    "Once the potatoes are done, let them cool for a few minutes before slicing them in half lengthwise.",
+    "Scoop out the flesh of the potatoes, leaving about 1/4 inch of the potato around the skin.",
+    "Fill the potato skins with the chicken salad and top with diced avocado.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dairy-free",
+    "potatoes",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dairy-free-peruvian-kipper-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:23:00.794Z"
+}
