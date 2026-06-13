@@ -1,0 +1,95 @@
+{
+  "slug": "delicate-roasted-spanish-chwinamul-paella-valenciana",
+  "title": "Spanish-Style Valenciana Chicken Paella",
+  "description": "A classic Spanish dish originating from the Valencia region, this paella recipe combines tender chicken, savory rice, and rich seafood flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "valenciana spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "delicate rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the valenciana spice blend and cook for 1 minute.",
+    "Add the chwinamul and cook for 2 minutes.",
+    "Add the chicken broth and water, and bring to a boil.",
+    "Add the paella rice and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "valenciana",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-spanish-chwinamul-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:17:25.222Z"
+}
