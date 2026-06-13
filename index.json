@@ -3693,17 +3693,16 @@
   },
   {
     "slug": "delicate-confit-mexican-egg-burrito",
-    "title": "Delicate Confit Mexican Egg Burrito",
+    "title": "Delicate Burrito Breakfast",
     "tags": [
-      "comfort-food",
-      "grilled",
-      "high-protein",
-      "mexican-inspired",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "burrito",
+      "egg",
+      "confit",
+      "mexican"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
@@ -6308,17 +6307,16 @@
   },
   {
     "slug": "delicate-roasted-spanish-chwinamul-paella-valenciana",
-    "title": "Delicate Roasted Spanish Chwinamul Paella Valenciana",
+    "title": "Spanish-Style Valenciana Chicken Paella",
     "tags": [
-      "herbal",
-      "macrobiotic",
-      "one-pan",
-      "roasted-vegetables",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "paella",
+      "valenciana",
+      "chicken",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -10582,16 +10580,15 @@
   },
   {
     "slug": "deliciously-spicy-italian-paprika-stir-fry",
-    "title": "Deliciously Spicy Italian Paprika Stir-fry",
+    "title": "Spicy Italian Stir Fry",
     "tags": [
       "italian",
       "spicy",
       "stir-fry",
-      "southern-american",
-      "delicious"
+      "sausage"
     ],
-    "cuisine": "Sicilian",
-    "totalTimeMin": 55,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
