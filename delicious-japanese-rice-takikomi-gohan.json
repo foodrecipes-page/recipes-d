@@ -1,0 +1,77 @@
+{
+  "slug": "delicious-japanese-rice-takikomi-gohan",
+  "title": "Japanese-Style Takikomi Gohan",
+  "description": "A traditional Japanese rice dish cooked with chicken and vegetables, perfect for a weeknight dinner. This recipe combines the flavors of Japan with the simplicity of a one-pot meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced mushrooms",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake (or dry white wine)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium-high heat.",
+    "Add 2 tablespoons of oil and cook the chicken breast until browned, about 5 minutes.",
+    "Add the shredded carrots, diced mushrooms, and diced green onions. Cook until the vegetables are tender, about 3-4 minutes.",
+    "Add the Japanese rice to the saucepan and stir to combine with the vegetables and chicken.",
+    "Pour in the soy sauce, sake, and dashi broth. Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer the takikomi gohan for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-japanese-rice-takikomi-gohan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:36.820Z"
+}
