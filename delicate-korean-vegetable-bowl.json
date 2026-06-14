@@ -1,0 +1,75 @@
+{
+  "slug": "delicate-korean-vegetable-bowl",
+  "title": "Korean Delicate Vegetable Bowl",
+  "description": "A simple and flavorful vegetarian Korean-inspired bowl filled with a variety of colorful vegetables and a crispy fried egg.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Assorted vegetables (bell peppers, carrots, zucchini)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "GoChuJang sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to the package instructions.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Add sliced vegetables and cook until they are tender.",
+    "In a small bowl, mix GoChuJang sauce and 1 tablespoon of water.",
+    "Add the sauce mixture to the pan and stir to combine.",
+    "Push the vegetables to one side of the pan.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the vegetables.",
+    "Serve the vegetables and eggs over the cooked rice.",
+    "Garnish with sesame seeds and chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "breakfast",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-korean-vegetable-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:00:46.117Z"
+}
