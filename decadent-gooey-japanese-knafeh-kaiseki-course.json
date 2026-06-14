@@ -1,0 +1,85 @@
+{
+  "slug": "decadent-gooey-japanese-knafeh-kaiseki-course",
+  "title": "Decadent Knafeh Cheesecake",
+  "description": "A unique Japanese-inspired twist on traditional cheesecake, featuring the rich flavors of knafeh.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shredded phyllo dough",
+      "amount": "1 package",
+      "notes": "for knafeh crust"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "12 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "white sugar"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare knafeh crust by layering phyllo dough in a 9-inch springform pan.",
+    "Mix cream cheese and granulated sugar in a large bowl until smooth.",
+    "Beat in eggs one at a time, followed by heavy cream and melted butter.",
+    "Stir in rose water, if using.",
+    "Pour cheesecake batter into prepared phyllo crust.",
+    "Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "Let cool completely in the pan on a wire rack.",
+    "Dust with powdered sugar before serving.",
+    "Refrigerate for at least 4 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "knafeh",
+    "japanese",
+    "cheesecake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-gooey-japanese-knafeh-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:50:59.501Z"
+}
