@@ -1913,17 +1913,16 @@
   },
   {
     "slug": "decadent-flaky-egyptian-gobo-burdock-flatbread",
-    "title": "Decadent Flaky Egyptian Gobo Burdock Flatbread",
+    "title": "Egyptian Gobo and Burdock Flatbread",
     "tags": [
       "flatbread",
-      "indulgent",
-      "middle-eastern",
-      "root-vegetables",
-      "snack",
-      "vegan"
+      "egyptian",
+      "gobo",
+      "burdock",
+      "snack"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -13024,17 +13023,15 @@
   },
   {
     "slug": "dense-raw-kenyan-corn-bread",
-    "title": "Dense Raw Kenyan Corn Bread",
+    "title": "Kenyan Corn Fritters",
     "tags": [
-      "corn-bread",
-      "gluten-free",
-      "raw-friendly",
-      "sick-day",
-      "soy-free",
+      "kenyan",
+      "corn",
+      "fritters",
       "vegan"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 255,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
