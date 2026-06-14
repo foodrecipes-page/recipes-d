@@ -8975,17 +8975,14 @@
   },
   {
     "slug": "deliciously-crunchy-mexican-chicken-tacos",
-    "title": "Deliciously Crunchy Mexican Chicken Tacos",
+    "title": "Crunchy Mexican Chicken Tacos",
     "tags": [
-      "clay-pot-cooking",
-      "crunchy-texture",
-      "halal-friendly",
-      "jalisco-style",
-      "lacquerware-bowl",
-      "mexican-cuisine"
+      "chicken",
+      "tacos",
+      "mexican"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
