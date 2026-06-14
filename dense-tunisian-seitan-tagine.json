@@ -1,0 +1,79 @@
+{
+  "slug": "dense-tunisian-seitan-tagine",
+  "title": "Lentil and Seitan Tagine",
+  "description": "A flavorful North African-inspired stew made with lentils, seitan, and spices, slow-cooked in a traditional clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "1 block (250g)"
+    },
+    {
+      "name": "Lentils, green",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "2 cups (400g) canned"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic pot.",
+    "Add onion and garlic; cook until softened.",
+    "Add seitan, lentils, and spice blend; cook for 1 minute.",
+    "Add tomatoes and water; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lentils",
+    "seitan",
+    "north-african",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-tunisian-seitan-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:00:41.074Z"
+}
