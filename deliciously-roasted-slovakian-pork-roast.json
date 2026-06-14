@@ -1,0 +1,85 @@
+{
+  "slug": "deliciously-roasted-slovakian-pork-roast",
+  "title": "Slovakian Roasted Pork Roast",
+  "description": "A classic Slovakian dish featuring a deliciously roasted pork roast, perfect for a hearty dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "salt",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 medium",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the pork roast with salt, black pepper, and caraway seeds.",
+    "Heat a large oven-safe pan over medium-high heat.",
+    "Sear the pork roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce heat to 180°C (350°F) and continue roasting for an additional 1-2 hours, or until the internal temperature reaches 65°C (150°F).",
+    "While the pork is roasting, toss the potatoes and carrots with a little bit of oil and season with salt and pepper.",
+    "Spread the potatoes and carrots around the pork roast in the pan.",
+    "Continue roasting for an additional 30-40 minutes, or until the potatoes and carrots are tender.",
+    "Remove the pan from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "roast",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-roasted-slovakian-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:01:44.117Z"
+}
