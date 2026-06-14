@@ -1,0 +1,89 @@
+{
+  "slug": "dry-crumbly-argentinian-beef-empanadas",
+  "title": "Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are crispy on the outside and savory on the inside.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dry beef broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Beef, ground",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Dry, crumbly empanada dough",
+      "amount": "4-6 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the beef broth, Worcestershire sauce, salt, and pepper. Bring the mixture to a simmer and cook until the liquid has almost completely evaporated.",
+    "Allow the beef mixture to cool to room temperature.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough. You should be able to get about 8-10 circles.",
+    "Place a tablespoon or two of the cooled beef mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle shape, and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges of the empanada to help it hold its shape.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until they are golden brown.",
+    "Serve the empanadas hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-crumbly-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:56:15.528Z"
+}
