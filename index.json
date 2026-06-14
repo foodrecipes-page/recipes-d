@@ -15439,18 +15439,15 @@
   },
   {
     "slug": "dry-crumbly-argentinian-beef-empanadas",
-    "title": "Dry Crumbly Argentinian Beef Empanadas",
+    "title": "Beef Empanadas",
     "tags": [
-      "argentinian",
       "beef",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "argentinian",
+      "empanadas",
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
