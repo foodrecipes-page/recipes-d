@@ -6781,16 +6781,14 @@
   },
   {
     "slug": "delicate-sour-algerian-chicken-tagine",
-    "title": "Delicate Sour Algerian Chicken Tagine",
+    "title": "Delicious Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chicken-recipes",
-      "gluten-free",
-      "healthy-meals",
-      "raw-friendly",
-      "sour-dishes"
+      "algerian",
+      "chicken",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "d"
   },
@@ -12898,18 +12896,14 @@
   },
   {
     "slug": "dense-portuguese-semolina-casserole",
-    "title": "Dense Portuguese Semolina Casserole",
+    "title": "Portuguese Semolina Casserole",
     "tags": [
-      "beurre-monte",
-      "creamy",
-      "lazy-sunday",
-      "mustardy",
-      "one-pan",
-      "semolina",
-      "vegetarian"
+      "portuguese",
+      "dessert",
+      "casserole"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -13890,17 +13884,16 @@
   },
   {
     "slug": "dense-tunisian-seitan-tagine",
-    "title": "Dense Tunisian Seitan Tagine",
+    "title": "Lentil and Seitan Tagine",
     "tags": [
-      "flexitarian",
-      "high-protein",
+      "stew",
+      "lentils",
       "seitan",
-      "tagine",
-      "tunisian",
+      "north-african",
       "vegetarian"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 80,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
