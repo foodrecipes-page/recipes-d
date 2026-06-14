@@ -1,0 +1,86 @@
+{
+  "slug": "deliciously-crunchy-mexican-chicken-tacos",
+  "title": "Crunchy Mexican Chicken Tacos",
+  "description": "A flavorful and crunchy twist on traditional Mexican tacos, made with crispy chicken, crunchy slaw, and fresh cilantro.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1/2 head",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with Mexican seasoning and cook in a skillet over medium-high heat for 5-7 minutes per side or until cooked through.",
+    "While the chicken is cooking, combine the red cabbage, cilantro, and a squeeze of lime juice in a bowl.",
+    "Slice the cooked chicken into thin strips and place on a platter.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of chicken on each tortilla, followed by a spoonful of the slaw.",
+    "Drizzle with olive oil and serve immediately.",
+    "Serve with additional lime wedges and hot sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:39:19.274Z"
+}
