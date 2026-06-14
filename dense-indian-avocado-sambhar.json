@@ -1,0 +1,84 @@
+{
+  "slug": "dense-indian-avocado-sambhar",
+  "title": "Avocado Sambhar",
+  "description": "A creamy and flavorful take on traditional Indian sambhar, incorporating ripe avocado for added richness.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sambhar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed vegetables (such as bean sprouts, peas, and cauliflower)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Adjust to desired consistency"
+    },
+    {
+      "name": "Rice for serving (optional)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee or oil for serving (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped carrot and cook for 2-3 minutes.",
+    "Add the mixed vegetables and cook for 2-3 minutes.",
+    "Add the sambhar powder and cook for 1 minute.",
+    "Add the tomato puree and water, and stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Stir in the diced avocado and cook for an additional 2-3 minutes.",
+    "Serve the sambhar over rice, if desired, and garnish with a dollop of ghee or oil, if desired.",
+    "Adjust seasoning to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "avocado",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-indian-avocado-sambhar",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:43:59.830Z"
+}
