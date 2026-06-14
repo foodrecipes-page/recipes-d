@@ -12240,17 +12240,14 @@
   },
   {
     "slug": "dense-indian-avocado-sambhar",
-    "title": "Dense Indian Avocado Sambhar",
+    "title": "Avocado Sambhar",
     "tags": [
-      "gluten-free",
-      "high-fiber",
       "indian",
-      "sambhar",
-      "vegan",
-      "weeknight"
+      "avocado",
+      "lunch"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13627,17 +13624,16 @@
   },
   {
     "slug": "dense-spicy-australian-potato-pancakes",
-    "title": "Dense Spicy Australian Potato Pancakes",
+    "title": "Australian Potato Pancakes",
     "tags": [
-      "dense",
-      "fluffy",
-      "macrobiotic",
-      "quick",
-      "spicy",
-      "vegetarian"
+      "australian",
+      "breakfast",
+      "gluten-free",
+      "potato",
+      "pancake"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
