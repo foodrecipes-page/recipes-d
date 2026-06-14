@@ -1,0 +1,84 @@
+{
+  "slug": "dark-brown-sugar-crumbled-garlic-argentinian",
+  "title": "Argentinian Garlic Beef Empanadas",
+  "description": "A classic South American pastry filled with seasoned ground beef and spices.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crumbled garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dark sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Argentinian seasoning blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large egg"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, combine ground beef, brown sugar, crumbled garlic, and argentinian seasoning blend. Mix well with your hands until just combined. Be careful not to overmix.",
+    "3. In a separate bowl, combine flour and salt. Gradually add the flour mixture to the beef mixture and mix until a dough forms.",
+    "4. Turn the dough out onto a floured surface and knead for about 5 minutes, until smooth and elastic.",
+    "5. Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk shape.",
+    "6. Place a tablespoon of the beef mixture in the center of each disk. Brush the edges with a little water and fold the dough over to form a half-moon shape. Press the edges together with a fork to seal.",
+    "7. Brush the tops of the empanadas with egg and cut a few slits in the top to allow steam to escape.",
+    "8. Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "9. Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-brown-sugar-crumbled-garlic-argentinian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:23:19.474Z"
+}
