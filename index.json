@@ -9224,16 +9224,15 @@
   },
   {
     "slug": "deliciously-dense-dutch-meat-stew",
-    "title": "Deliciously Dense Dutch Meat Stew",
+    "title": "Dutch Stew",
     "tags": [
+      "beef",
+      "stew",
       "comfort-food",
-      "dutch-cuisine",
-      "hearty-stew",
-      "one-pot",
-      "paleo-friendly"
+      "winter-recipe"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
