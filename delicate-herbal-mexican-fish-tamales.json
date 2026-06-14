@@ -1,0 +1,77 @@
+{
+  "slug": "delicate-herbal-mexican-fish-tamales",
+  "title": "Delicate Fish Tamales",
+  "description": "A delicate and flavorful twist on traditional tamales, using fresh fish and a hint of herbal spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh fish (such as cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Delicate masa harina",
+      "amount": "2 cups",
+      "notes": "for tamale dough"
+    },
+    {
+      "name": "Herbal spices (such as cumin and oregano)",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Tamales",
+      "amount": "12-15",
+      "notes": "corn husks for wrapping"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking the tamales"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Soak the tamales in water for 30 minutes.",
+    "Make the tamale dough by mixing the masa harina with water.",
+    "Season the fish with salt, pepper, and herbal spices.",
+    "Wrap the fish in tamales and steam for 20-25 minutes.",
+    "Serve hot with a drizzle of vegetable oil and chopped cilantro.",
+    "Optional: add a sprinkle of cotija cheese for extra flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "tamales",
+    "mexican",
+    "delicate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-herbal-mexican-fish-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:25:59.999Z"
+}
