@@ -1,0 +1,71 @@
+{
+  "slug": "dense-spicy-australian-potato-pancakes",
+  "title": "Australian Potato Pancakes",
+  "description": "A spicy take on traditional potato pancakes, inspired by Australian flavors. Crispy on the outside, fluffy on the inside.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "pancakes",
+      "amount": "1 box",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together grated potatoes, chopped dill, and chili flakes.",
+    "In a separate bowl, mix together pancake mix and a splash of water to form a batter.",
+    "Heat olive oil in a pan over medium heat.",
+    "Using a spoon, drop small amounts of the potato mixture onto the pan.",
+    "Using a spatula, flatten the mixture slightly.",
+    "Cook for 3-4 minutes, until the bottom is golden brown.",
+    "Flip and cook for an additional 2-3 minutes.",
+    "Serve hot with your favorite toppings.",
+    "Optional: add a dollop of sour cream or a sprinkle of chopped herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "gluten-free",
+    "potato",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-spicy-australian-potato-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:49:01.495Z"
+}
