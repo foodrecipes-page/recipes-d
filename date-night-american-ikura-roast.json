@@ -1,0 +1,67 @@
+{
+  "slug": "date-night-american-ikura-roast",
+  "title": "Grilled Roast with Ikura and Nightshade Salsa",
+  "description": "A delicious and flavorful dish that combines the richness of roast with the savory taste of ikura and the spiciness of nightshade salsa.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "1 (1.5-2 pound) boneless beef roast"
+    },
+    {
+      "name": "Ikura",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Nightshades",
+      "amount": "1 cup chopped tomatoes, 1/4 cup chopped red onion, 1 jalapeno pepper, 1 tablespoon olive oil"
+    },
+    {
+      "name": "Date",
+      "amount": "1/4 cup chopped fresh date"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the roast with salt and pepper.",
+    "Grill the roast for 20-25 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "While the roast is cooking, combine the chopped tomatoes, red onion, jalapeno pepper, and olive oil in a bowl.",
+    "Grill the ikura for 1-2 minutes per side, or until it's lightly charred.",
+    "To assemble the dish, slice the roast against the grain and serve with the ikura, nightshade salsa, and chopped fresh date.",
+    "Garnish with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-roast",
+    "ikura",
+    "nightshade-salsa",
+    "date"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-american-ikura-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:00:29.639Z"
+}
