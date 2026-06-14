@@ -1997,16 +1997,15 @@
   },
   {
     "slug": "decadent-gooey-japanese-knafeh-kaiseki-course",
-    "title": "Decadent Gooey Japanese Knafeh Kaiseki Course",
+    "title": "Decadent Knafeh Cheesecake",
     "tags": [
-      "banana-leaf",
-      "dairy-free",
-      "japanese-inspired",
-      "kaiseki-course",
-      "vegetarian"
+      "knafeh",
+      "japanese",
+      "cheesecake",
+      "dessert"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "cuisine": "japanese",
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
@@ -5557,16 +5556,16 @@
   },
   {
     "slug": "delicate-light-chinese-summer-savoury-wonton-soup",
-    "title": "Delicate Light Chinese Summer Savoury Wonton Soup",
+    "title": "Summer Wonton Soup",
     "tags": [
-      "chinese-cuisine",
-      "gluten-free",
-      "light-meal",
-      "low-carb",
-      "refreshing-soup"
+      "wonton",
+      "soup",
+      "summer",
+      "savory",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
