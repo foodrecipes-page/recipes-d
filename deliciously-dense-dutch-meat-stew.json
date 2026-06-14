@@ -1,0 +1,97 @@
+{
+  "slug": "deliciously-dense-dutch-meat-stew",
+  "title": "Dutch Stew",
+  "description": "A hearty and comforting Dutch stew made with tender meat and vegetables. Perfect for a cold winter's day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Dutch Yellow Onions",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Red wine or beef broth"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set it aside.",
+    "Add the sliced onions to the pot and cook until they are browned, about 5 minutes.",
+    "Add the sliced carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned beef back into the pot, along with the red wine, tomato paste, thyme, salt, and pepper.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the bay leaves.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 63,
+    "carbs": 44,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-dutch-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:28:20.788Z"
+}
