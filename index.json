@@ -974,18 +974,14 @@
   },
   {
     "slug": "date-night-american-ikura-roast",
-    "title": "Date-Night American Ikura Roast",
+    "title": "Grilled Roast with Ikura and Nightshade Salsa",
     "tags": [
-      "date-night",
-      "easy-to-make",
-      "elegant",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "special-occasion",
-      "weeknight"
+      "grilled-roast",
+      "ikura",
+      "nightshade-salsa",
+      "date"
     ],
-    "cuisine": "American-Japanese fusion",
+    "cuisine": "American",
     "totalTimeMin": 55,
     "shard": "d"
   },
@@ -5525,17 +5521,15 @@
   },
   {
     "slug": "delicate-korean-vegetable-bowl",
-    "title": "Delicate Korean Vegetable Bowl",
+    "title": "Korean Delicate Vegetable Bowl",
     "tags": [
-      "delicious",
-      "easy-to-make",
-      "healthy",
       "korean",
-      "stone-bowl",
-      "vegetarian"
+      "vegetarian",
+      "breakfast",
+      "bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -10085,16 +10079,15 @@
   },
   {
     "slug": "deliciously-roasted-slovakian-pork-roast",
-    "title": "Deliciously Roasted Slovakian Pork Roast",
+    "title": "Slovakian Roasted Pork Roast",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "family-dinner",
-      "one-pot",
-      "roasted-meats"
+      "slovakian",
+      "pork",
+      "roast",
+      "oven-roasted"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 125,
     "shard": "d"
   },
   {
