@@ -1,0 +1,67 @@
+{
+  "slug": "decadent-flaky-egyptian-gobo-burdock-flatbread",
+  "title": "Egyptian Gobo and Burdock Flatbread",
+  "description": "A flavorful and crunchy flatbread filled with Egyptian spices, roasted gobo and burdock. A unique twist on traditional Egyptian flatbreads.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "gobo",
+      "amount": "250g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "burdock",
+      "amount": "200g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "egyptian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the sliced gobo and burdock with olive oil, salt, and egyptian spice blend. Spread on a baking sheet and roast for 20 minutes.",
+    "While the gobo and burdock are roasting, toast the flatbread in the oven for 2-3 minutes.",
+    "Assemble the flatbread by spreading the roasted gobo and burdock on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "egyptian",
+    "gobo",
+    "burdock",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-flaky-egyptian-gobo-burdock-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:57.674Z"
+}
