@@ -1,0 +1,72 @@
+{
+  "slug": "delicious-croatian-datterini-tomato-toast",
+  "title": "Croatian Bruschetta",
+  "description": "A simple and delicious appetizer originating from Croatia. Fresh tomatoes and basil on toasted bread.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Datterini tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Delicious fresh basil",
+      "amount": "+4 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Croatian bread",
+      "amount": "1 loaf",
+      "notes": "sliced into 1 inch thick rounds"
+    },
+    {
+      "name": "Delicious olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "+1 cup",
+      "notes": "shaved (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Arrange the bread slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "3. In a medium bowl, combine the halved Datterini tomatoes and chopped basil.",
+    "4. Drizzle the olive oil over the tomato mixture and season with salt to taste.",
+    "5. Remove the toasted bread from the oven and let cool for a minute or two.",
+    "6. Spoon the tomato mixture over the toasted bread.",
+    "7. If using, sprinkle the shaved mozzarella cheese over the top.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-croatian-datterini-tomato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:42:05.883Z"
+}
