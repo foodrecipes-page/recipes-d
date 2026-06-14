@@ -7745,16 +7745,14 @@
   },
   {
     "slug": "delicious-croatian-datterini-tomato-toast",
-    "title": "Delicious Croatian Datterini Tomato Toast",
+    "title": "Croatian Bruschetta",
     "tags": [
-      "croatian-cuisine",
-      "easy-snack",
-      "jain-friendly",
-      "quick-appetizer",
-      "vegetarian"
+      "appetizer",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
