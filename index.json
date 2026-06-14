@@ -242,16 +242,15 @@
   },
   {
     "slug": "dark-brown-sugar-crumbled-garlic-argentinian",
-    "title": "Dark Brown Sugar Crumbled Garlic Argentinian",
+    "title": "Argentinian Garlic Beef Empanadas",
     "tags": [
-      "dark-brown-sugar",
-      "garlic-crumbles",
-      "argentine-dish",
-      "flaky-texture",
-      "vegan-friendly"
+      "argentinian",
+      "beef",
+      "empanadas",
+      "garlic"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 30,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5147,17 +5146,15 @@
   },
   {
     "slug": "delicate-herbal-mexican-fish-tamales",
-    "title": "Delicate Herbal Mexican Fish Tamales",
+    "title": "Delicate Fish Tamales",
     "tags": [
-      "fish-recipes",
-      "herbal-dishes",
-      "kid-friendly",
-      "mexican-food",
-      "steamed-food",
-      "weeknight-dinner"
+      "fish",
+      "tamales",
+      "mexican",
+      "delicate"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
