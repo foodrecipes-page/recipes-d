@@ -2288,15 +2288,15 @@
   },
   {
     "slug": "decadent-nostalgic-yogurt-ukranian-pilaf",
-    "title": "Decadent Nostalgic Yogurt Ukranian Pilaf",
+    "title": "Traditional Ukrainian Pilaf with a Twist",
     "tags": [
-      "creamy",
-      "keto-friendly",
       "ukrainian",
-      "yeasty"
+      "pilaf",
+      "yogurt",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 5,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -13383,16 +13383,14 @@
   },
   {
     "slug": "dense-smoky-algerian-sloe-berry-tagine",
-    "title": "Dense Smoky Algerian Sloe Berry Tagine",
+    "title": "Smoky Berry Tagine",
     "tags": [
-      "algerian",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "tagine",
+      "berries",
+      "almonds",
+      "dessert"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 60,
     "shard": "d"
   },
