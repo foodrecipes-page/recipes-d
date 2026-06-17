@@ -1,0 +1,67 @@
+{
+  "slug": "decadent-nostalgic-yogurt-ukranian-pilaf",
+  "title": "Traditional Ukrainian Pilaf with a Twist",
+  "description": "A classic Ukrainian pilaf recipe with the addition of creamy yogurt and a touch of decadence.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "any long-grain rice will do"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "you can also use vegetable broth"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional for authentic flavor"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "optional for extra decadence"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large pot over high heat.",
+    "Add the chopped onions and sauté until translucent.",
+    "Add the pilaf rice and stir to coat with the oil and mix with the onions.",
+    "If using caraway seeds, add them now and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes.",
+    "While the pilaf cooks, mix the yogurt and sour cream (if using) in a small bowl.",
+    "Once the pilaf is cooked, fluff it with a fork and stir in the yogurt mixture.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pilaf",
+    "yogurt",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-nostalgic-yogurt-ukranian-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:45:02.115Z"
+}
