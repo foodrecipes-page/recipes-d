@@ -1,0 +1,83 @@
+{
+  "slug": "dense-smoky-algerian-sloe-berry-tagine",
+  "title": "Smoky Berry Tagine",
+  "description": "A rich and flavorful dessert inspired by North African spices, featuring a smoky berry filling and a crunchy almond crust.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dense Sloe Berries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Smoked Almonds",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, sugar, and smoked almonds.",
+    "Add in egg and vanilla extract, mixing until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch and place in a 9-inch tart pan.",
+    "Bake for 20-25 minutes, or until lightly golden.",
+    "In a separate bowl, mix together sloe berries, Algerian spice blend, and sugar.",
+    "Pour the berry mixture into the baked tart crust.",
+    "Bake for an additional 20-25 minutes, or until the filling is bubbly and the crust is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "berries",
+    "almonds",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-algerian-sloe-berry-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:10:57.472Z"
+}
