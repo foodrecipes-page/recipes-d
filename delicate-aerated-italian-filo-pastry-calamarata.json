@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-aerated-italian-filo-pastry-calamarata",
+  "title": "Italian Filo Pastry Strata with Calamarata and Delicate Cheese",
+  "description": "A layered Italian-inspired dish made with flaky filo pastry, delicate cheese, and pasta. Perfect for a brunch or light lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Calamarata pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Delicate cheese (e.g., ricotta or cottage cheese)",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the Calamarata pasta according to the package instructions until al dente.",
+    "In a large bowl, combine the cooked pasta, delicate cheese, Italian seasoning, salt, and black pepper. Mix well.",
+    "Unroll the filo pastry and cut it into 3 equal pieces.",
+    "Brush each piece of filo with olive oil and layer them on top of each other in a baking dish.",
+    "Pour the pasta mixture over the filo pastry and smooth the top.",
+    "Fold the excess filo pastry over the filling to create a neat strata.",
+    "Bake the strata in the preheated oven for 25-30 minutes, or until the pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "lunch",
+    "filo-pastry",
+    "calamarata"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-aerated-italian-filo-pastry-calamarata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:29.768Z"
+}
