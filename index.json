@@ -14593,17 +14593,15 @@
   },
   {
     "slug": "dreamy-creamy-brazilian-chicken-stew",
-    "title": "Dreamy Creamy Brazilian Chicken Stew",
+    "title": "Creamy Chicken Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "one-pot"
+      "chicken",
+      "stew",
+      "creamy",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
