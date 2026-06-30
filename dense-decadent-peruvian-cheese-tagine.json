@@ -1,0 +1,80 @@
+{
+  "slug": "dense-decadent-peruvian-cheese-tagine",
+  "title": "Peruvian Cheese Tagine",
+  "description": "A rich and flavorful Peruvian-inspired stew made with tender cheese and aromatic spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "such as Queso fresco or similar"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "or substitute with a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Dense sweet potatoes",
+      "amount": "2 large",
+      "notes": "such as Yukon gold or similar"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium heat.",
+    "2. Add onion and cook until softened, about 5 minutes.",
+    "3. Add garlic and cook for 1 minute.",
+    "4. Add sweet potatoes and cook for 5 minutes, stirring occasionally.",
+    "5. Stir in Tagine spice blend and cook for 1 minute.",
+    "6. Add Peruvian cheese and water, bring to a simmer.",
+    "7. Reduce heat to low and cook, covered, until cheese is melted and sweet potatoes are tender, about 20-25 minutes.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "peruvian",
+    "cheese",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-decadent-peruvian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:34:56.851Z"
+}
