@@ -6639,16 +6639,16 @@
   },
   {
     "slug": "delicate-smoky-japanese-cabbage-chawanmushi",
-    "title": "Delicate Smoky Japanese Cabbage Chawanmushi",
+    "title": "Smoked Japanese Delicate Chawanmushi",
     "tags": [
-      "delicate-dishes",
-      "festive-recipes",
-      "japanese-cuisine",
-      "smoky-flavors",
-      "vegetarian-options"
+      "japanese",
+      "delicate",
+      "vegetarian",
+      "breakfast",
+      "steamed"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -14550,17 +14550,15 @@
   },
   {
     "slug": "dreamy-creamy-algerian-fish-tagine",
-    "title": "Dreamy Creamy Algerian Fish Tagine",
+    "title": "Creamy Algerian Fish Tagine",
     "tags": [
-      "coconut-milk",
-      "comfort-food",
-      "copper-pot",
+      "fish",
       "north-african",
-      "one-pot",
-      "pescatarian"
+      "aromatic-spices",
+      "creamy-sauce"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
