@@ -6226,18 +6226,14 @@
   },
   {
     "slug": "delicate-roasted-italian-butternut-squash-pilaf",
-    "title": "Delicate Roasted Italian Butternut Squash Pilaf",
+    "title": "Autumn Delight Pilaf",
     "tags": [
-      "fall",
-      "gluten-free",
       "italian",
-      "one-pan",
-      "romantic",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "butternut-squash"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11598,17 +11594,16 @@
   },
   {
     "slug": "dense-decadent-peruvian-cheese-tagine",
-    "title": "Dense Decadent Peruvian Cheese Tagine",
+    "title": "Peruvian Cheese Tagine",
     "tags": [
-      "cheese-lovers",
-      "clay-pot-cooking",
-      "comfort-food",
-      "one-pot-meal",
-      "peruvian-cuisine",
-      "spicy-food"
+      "vegetarian",
+      "peruvian",
+      "cheese",
+      "stew",
+      "comfort food"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
