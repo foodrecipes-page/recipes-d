@@ -1,0 +1,70 @@
+{
+  "slug": "delicate-roasted-italian-butternut-squash-pilaf",
+  "title": "Autumn Delight Pilaf",
+  "description": "A hearty and flavorful pilaf dish made with roasted butternut squash, perfect for fall and winter seasons.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Delicate pilaf",
+      "amount": "1 package",
+      "notes": "follow package instructions for cooking"
+    },
+    {
+      "name": "Roasted Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried herbs such as oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting squash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss cubed butternut squash with olive oil, salt, and black pepper in a bowl. Spread on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Cook pilaf according to package instructions. Set aside.",
+    "In a large skillet, combine roasted squash, cooked pilaf, and Italian seasoning. Stir to combine.",
+    "Cook over medium heat for 2-3 minutes, or until the pilaf is heated through and the squash is coated with the pilaf.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pilaf",
+    "butternut-squash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-italian-butternut-squash-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:34:25.175Z"
+}
