@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-dutch-chicken-flatbread",
+  "title": "Dutch-Style Chicken Flatbread",
+  "description": "A delicious and easy to make flatbread topped with chicken, inspired by Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": "preferably Dutch-style"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/4 cup",
+      "notes": "for marinating chicken"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together buttermilk and a pinch of salt. Add chicken and marinate for at least 30 minutes.",
+    "Remove chicken from buttermilk and pat dry with paper towels.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add chicken and cook until browned and cooked through, about 5-6 minutes per side.",
+    "Meanwhile, brush flatbread with the remaining 1 tablespoon of olive oil.",
+    "Place flatbread in the oven and toast for 2-3 minutes, or until lightly browned.",
+    "Top each flatbread piece with a piece of cooked chicken, a few slices of onion, and a sprinkle of minced garlic.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "chicken",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:56:37.512Z"
+}
