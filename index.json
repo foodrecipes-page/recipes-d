@@ -110,16 +110,15 @@
   },
   {
     "slug": "dank-comforting-uruguayan-beef-stew",
-    "title": "Comforting Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
       "beef",
-      "comfort-food",
       "stew",
-      "uruguayan",
-      "weeknight"
+      "comforting",
+      "uruguayan"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 145,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -1960,16 +1959,15 @@
   },
   {
     "slug": "decadent-garlicky-algerian-buckwheat-tagine",
-    "title": "Decadent Garlicky Algerian Buckwheat Tagine",
+    "title": "Buckwheat Tagine",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "north-african",
-      "one-pot",
-      "plant-based"
+      "algerian",
+      "buckwheat",
+      "garlic",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
