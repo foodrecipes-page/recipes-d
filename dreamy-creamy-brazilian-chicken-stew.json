@@ -1,0 +1,84 @@
+{
+  "slug": "dreamy-creamy-brazilian-chicken-stew",
+  "title": "Creamy Chicken Stew",
+  "description": "A hearty and comforting stew made with chicken and a rich creamy sauce, inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dreamy sauce",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "brazilian stew seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "creamy coconut milk",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken and set aside.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the Brazilian stew seasoning and cook for 1 minute.",
+    "Add the dreamy sauce, creamy coconut milk, chicken broth, and stew.",
+    "Stir to combine and bring to a boil.",
+    "Return the chicken to the pot and simmer, covered, for 20-25 minutes, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "creamy",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:34.179Z"
+}
