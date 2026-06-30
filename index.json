@@ -224,17 +224,15 @@
   },
   {
     "slug": "dark-braised-russian-beef-stew",
-    "title": "Dark Braised Russian Beef Stew",
+    "title": "Braised Russian Beef Stew",
     "tags": [
-      "beef-stew",
-      "braising",
+      "beef",
+      "stew",
       "comfort-food",
-      "one-pot",
-      "russian-cuisine",
-      "winter-recipe"
+      "russian-cuisine"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 230,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -5685,17 +5683,15 @@
   },
   {
     "slug": "delicate-malty-norwegian-barley-pilaf",
-    "title": "Delicate Malty Norwegian Barley Pilaf",
+    "title": "Norwegian Barley Pilaf",
     "tags": [
-      "comfort-food",
+      "barley",
       "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "norwegian-cuisine",
-      "one-pot"
+      "lunch",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12078,18 +12074,15 @@
   },
   {
     "slug": "dense-glassy-turkish-potato-kisir",
-    "title": "Turkish Potato Kisir",
+    "title": "Turkish-Style Kisir Pilaf",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kisir",
-      "one-pan",
-      "turkish",
-      "vegetarian",
-      "weeknight"
+      "turkish-cuisine",
+      "pilaf-recipe",
+      "kisir-salad",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 29,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
