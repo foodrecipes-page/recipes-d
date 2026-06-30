@@ -1,0 +1,80 @@
+{
+  "slug": "dense-ethiopian-lentil-stew",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A traditional Ethiopian dish made with red lentils in a flavorful stew. Serve with injera bread for a complete meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "niter kibbeh (Ethiopian clarified butter)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the tomato and cook until it starts to break down, about 5 minutes.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the red lentils and water to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot over injera bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-ethiopian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:48:35.027Z"
+}
