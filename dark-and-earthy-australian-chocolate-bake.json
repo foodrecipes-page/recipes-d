@@ -1,0 +1,78 @@
+{
+  "slug": "dark-and-earthy-australian-chocolate-bake",
+  "title": "Australian Dark Chocolate Tart",
+  "description": "A rich, dark chocolate tart with a nutty flavor profile, perfect for the Australian bush.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Andes mint leaves",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Australian bush honey",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour (gluten-free)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a food processor, blend the dark chocolate and Andes mint leaves until well combined.",
+    "In a separate bowl, whisk together the Australian bush honey, granulated sugar, eggs, and unsalted butter.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a smooth dough forms.",
+    "Press the dough into a 20cm (8-inch) tart pan with a removable bottom.",
+    "Pour the chocolate mixture into the tart shell and smooth the top.",
+    "Bake for 25 minutes or until the crust is golden brown and the filling is set.",
+    "Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chocolate",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-and-earthy-australian-chocolate-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:37:41.292Z"
+}
