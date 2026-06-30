@@ -1,0 +1,79 @@
+{
+  "slug": "decadent-garlicky-algerian-buckwheat-tagine",
+  "title": "Buckwheat Tagine",
+  "description": "A hearty, garlicky tagine made with buckwheat and inspired by Algerian cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the buckwheat groats and cook for 1 minute.",
+    "Add the tagine spice blend and stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes until the buckwheat is tender.",
+    "Add the dried apricots and almonds to the saucepan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "buckwheat",
+    "garlic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-garlicky-algerian-buckwheat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:19.022Z"
+}
