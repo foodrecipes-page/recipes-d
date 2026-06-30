@@ -1,0 +1,80 @@
+{
+  "slug": "dank-comforting-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty, comforting stew from Uruguay, featuring slow-cooked beef and a rich, flavorful broth.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds beef chuck or brisket, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "dank",
+      "amount": "1 cup red wine",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups beef broth",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons tomato paste",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 sprigs parsley, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, then set it aside.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the wine (if using) and cook until almost completely evaporated.",
+    "Add the beef broth and tomato paste. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "comforting",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dank-comforting-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:45:22.577Z"
+}
