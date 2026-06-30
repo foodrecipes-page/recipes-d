@@ -1,0 +1,80 @@
+{
+  "slug": "dense-springy-australian-courgettes-gratin",
+  "title": "Courgette and Australian Cheese Gratin",
+  "description": "A creamy and delicious side dish featuring courgettes, Australian cheese, and a hint of springy freshness.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Australian cheese (e.g. Tasmanian Heritage)",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice courgettes into 1/2 cm thick rounds and place in a colander.",
+    "Sprinkle with salt and let sit for 10 minutes to draw out excess moisture.",
+    "Rinse the courgettes and pat dry with paper towels.",
+    "In a large bowl, combine grated cheese, butter, spring onions, and garlic.",
+    "Add the courgette slices to the bowl and toss until they are evenly coated with the cheese mixture.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!",
+    "Note: If using a different type of cheese, adjust the amount of butter accordingly to achieve the right consistency."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "gratin",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-springy-australian-courgettes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:11:05.029Z"
+}
