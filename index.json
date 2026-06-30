@@ -10669,18 +10669,16 @@
   },
   {
     "slug": "deliciously-sweet-filipino-rice-pudding",
-    "title": "Filipino Rice Pudding",
+    "title": "Filipino Sweet Rice Pudding",
     "tags": [
-      "coconut-milk",
-      "egg-free",
-      "filipino-dish",
-      "namul-blanch-season",
-      "rice-pudding",
-      "star-anise",
-      "vegetarian"
+      "filipino",
+      "dessert",
+      "pudding",
+      "rice",
+      "coconut milk"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -13682,18 +13680,15 @@
   },
   {
     "slug": "dense-springy-australian-courgettes-gratin",
-    "title": "australian courgettes gratin",
+    "title": "Courgette and Australian Cheese Gratin",
     "tags": [
       "australian",
-      "cheesy",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "gratin",
+      "side dish"
     ],
-    "cuisine": "australian/french",
-    "totalTimeMin": 75,
+    "cuisine": "australian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
