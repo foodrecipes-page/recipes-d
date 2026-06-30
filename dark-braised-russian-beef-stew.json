@@ -1,0 +1,96 @@
+{
+  "slug": "dark-braised-russian-beef-stew",
+  "title": "Braised Russian Beef Stew",
+  "description": "A hearty, comforting stew made with tender beef and rich flavors.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, thyme, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2.5 hours.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Serve hot, garnished with fresh thyme if desired.",
+    "Serve with crusty bread or over egg noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-braised-russian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:36:13.145Z"
+}
