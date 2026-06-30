@@ -70,15 +70,14 @@
   },
   {
     "slug": "dalberry-crunch",
-    "title": "DalBerry Crunch",
+    "title": "Crunchy Dalberry Muffins",
     "tags": [
-      "dalberry-crunch",
-      "toor-dal",
-      "korean-snack",
-      "kid-friendly"
+      "muffin",
+      "breakfast",
+      "snack"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -7993,15 +7992,13 @@
     "slug": "delicious-jamaican-sweet-potato-casseroles",
     "title": "Delicious Jamaican Sweet Potato Casserole",
     "tags": [
-      "casserole",
-      "gluten-free",
-      "jamaican",
       "sweet-potato",
-      "vegetarian",
-      "weeknight"
+      "jamaican",
+      "casserole",
+      "dessert"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 65,
+    "cuisine": "jamaican",
+    "totalTimeMin": 75,
     "shard": "d"
   },
   {
