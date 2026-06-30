@@ -1,0 +1,76 @@
+{
+  "slug": "dry-roasted-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Tender and flavorful chicken skewers with a hint of Brazilian spices. Perfect for a quick and easy dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dry oregano",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "chicken skewers",
+      "amount": "10-12 skewers",
+      "notes": "pre-soaked in water for 30 minutes"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together oregano, garlic, and brazilian seasoning.",
+    "Brush skewers with olive oil and sprinkle with oregano mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Serve immediately, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "brazilian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-roasted-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:19:57.505Z"
+}
