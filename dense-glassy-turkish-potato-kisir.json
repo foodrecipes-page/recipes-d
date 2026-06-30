@@ -1,0 +1,90 @@
+{
+  "slug": "dense-glassy-turkish-potato-kisir",
+  "title": "Turkish-Style Kisir Pilaf",
+  "description": "A flavorful and nutritious Turkish pilaf made with wheat berries and topped with a tangy kisir salad. Perfect for a quick and easy dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense wheat berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glassy cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish kisir",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced potato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the onion and garlic"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the wheat berries, diced potato, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the wheat berries are tender.",
+    "While the pilaf is cooking, prepare the kisir salad by chopping the kisir and mixing with the cherry tomatoes.",
+    "Once the pilaf is cooked, fluff it with a fork and top with the kisir salad.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-cuisine",
+    "pilaf-recipe",
+    "kisir-salad",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-glassy-turkish-potato-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:23.713Z"
+}
