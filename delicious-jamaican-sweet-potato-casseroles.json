@@ -1,0 +1,85 @@
+{
+  "slug": "delicious-jamaican-sweet-potato-casseroles",
+  "title": "Delicious Jamaican Sweet Potato Casserole",
+  "description": "A classic Jamaican-inspired sweet potato casserole recipe with a delicious brown sugar and marshmallow topping.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "large sweet potatoes",
+      "amount": "3",
+      "notes": "baked"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake the sweet potatoes for 45-60 minutes, or until tender.",
+    "In a large bowl, combine the flour, brown sugar, and salt.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl.",
+    "Using a fork, mash the sweet potatoes and add them to the bowl.",
+    "Mix the ingredients together until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with marshmallows.",
+    "Bake for an additional 10-15 minutes, or until the marshmallows are golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato",
+    "jamaican",
+    "casserole",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-jamaican-sweet-potato-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:36:56.177Z"
+}
