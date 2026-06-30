@@ -1,0 +1,71 @@
+{
+  "slug": "delicate-british-turkey-neck-skewers",
+  "title": "Delicate British Turkey Neck Skewers",
+  "description": "A classic British-inspired dish featuring tender turkey neck skewers with a delicate flavor profile.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "British delicacy (e.g. mushrooms, asparagus)",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread turkey neck pieces and British delicacy onto skewers.",
+    "Brush olive oil on both sides of the skewers.",
+    "Season with salt, pepper, and garlic powder.",
+    "Grill for 8-10 minutes per side, or until the turkey is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkey-recipe",
+    "british-food",
+    "skewers",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-british-turkey-neck-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:37:45.291Z"
+}
