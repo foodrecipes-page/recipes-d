@@ -4226,17 +4226,14 @@
   },
   {
     "slug": "delicate-dutch-chicken-flatbread",
-    "title": "Delicate Dutch Chicken Flatbread",
+    "title": "Dutch-Style Chicken Flatbread",
     "tags": [
       "dutch",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "quick-meal",
-      "savory"
+      "chicken",
+      "flatbread"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 97,
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
@@ -9169,16 +9166,15 @@
   },
   {
     "slug": "deliciously-dense-chinese-pork-scallion-pancake",
-    "title": "Deliciously Dense Chinese Pork Scallion Pancake",
+    "title": "Delicious Pork Scallion Pancake",
     "tags": [
-      "cedar-plank",
-      "chinese-food",
-      "high-protein",
-      "midnight-craving",
-      "scallion-pancake"
+      "chinese",
+      "pancake",
+      "pork",
+      "scallion"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -11764,17 +11760,15 @@
   },
   {
     "slug": "dense-ethiopian-lentil-stew",
-    "title": "Dense Ethiopian Lentil Stew",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "halal-friendly",
-      "lentil-stew",
-      "one-pot",
-      "weeknight-dinner"
+      "lentil",
+      "stew",
+      "ethiopian",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14520,17 +14514,14 @@
   },
   {
     "slug": "dreamy-canadian-baby-squid-chowder",
-    "title": "Dreamy Canadian Baby Squid Chowder",
+    "title": "Baby Squid Chowder",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "low-fodmap",
       "seafood",
-      "winter-meal"
+      "canadian",
+      "lunch"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -14712,17 +14703,16 @@
   },
   {
     "slug": "dreamy-delicate-turkish-lentils-mercimek-corbasi",
-    "title": "Dreamy Delicate Turkish Lentils Mercimek Corbasi",
+    "title": "Mercimek Corbasi (Turkish Red Lentil Soup)",
     "tags": [
-      "comfort-food",
-      "lentil-soup",
-      "low-carb",
-      "one-pot",
       "turkish",
-      "vegetarian"
+      "soup",
+      "lentil",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
