@@ -1,0 +1,65 @@
+{
+  "slug": "deliciously-garlicky-argentinian-potato-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "A traditional Argentinian dish, these empanadas are filled with garlicky potatoes and make a delicious snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Argentinian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Deliciously delicious oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Boil the potatoes until tender, then peel and mash.",
+    "Mince the garlic and mix into the mashed potatoes.",
+    "Add the Argentinian seasoning and salt, and mix well.",
+    "Roll out the empanada dough to a thickness of 1/4 inch (6 mm).",
+    "Place a tablespoon of the filling in the center of each dough circle.",
+    "Brush the edges with the deliciously delicious oil and fold the dough over the filling.",
+    "Press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-garlicky-argentinian-potato-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:21.910Z"
+}
