@@ -1,0 +1,85 @@
+{
+  "slug": "dashing-australian-teque-os-fritters",
+  "title": "Teque Fritters with Australian Dipping Sauce",
+  "description": "Crispy Teque fritters paired with a refreshing dipping sauce from Australia, perfect for a snack or appetizer.",
+  "cuisine": "Australian cuisine",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Teque",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Australian flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dashing",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together teque, flour, egg, onion, garlic, and dashing.",
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop the teque mixture into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters until golden brown, about 4-5 minutes.",
+    "Remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters hot with the Australian dipping sauce.",
+    "For the Australian dipping sauce, mix together equal parts mayonnaise and ketchup with a squeeze of lime juice and a dash of dashing.",
+    "Adjust the seasoning of the fritters and dipping sauce to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "teque",
+    "australian",
+    "fritters",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dashing-australian-teque-os-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:15:12.510Z"
+}
