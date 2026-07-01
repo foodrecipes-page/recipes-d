@@ -1,0 +1,68 @@
+{
+  "slug": "dark-zy-canadian-flour-poutine",
+  "title": "Canadian Poutine Casserole",
+  "description": "A twist on the classic Canadian dish, this casserole combines crispy fries, cheese curds, and rich gravy, all in one delicious dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "comfort food",
+    "carnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark Canadian Cheese Curds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zy French Fries",
+      "amount": "2 cups",
+      "notes": "thawed"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Poutine Gravy Mix",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook French fries according to package instructions until crispy. Drain and set aside.",
+    "In a large skillet, make the gravy by mixing the Poutine Gravy Mix with 2 cups of water. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "In a separate saucepan, melt 2 tablespoons of butter over medium heat. Add 2 tablespoons of all-purpose flour and whisk until smooth, cooking for 1-2 minutes.",
+    "Slowly pour in the gravy, whisking constantly to avoid lumps. Bring the mixture to a boil, then reduce heat and simmer for 2-3 minutes.",
+    "In a large 9x13 inch baking dish, arrange half of the French fries in the bottom of the dish.",
+    "Sprinkle the dark Canadian cheese curds over the top of the fries.",
+    "Pour the gravy over the cheese curds.",
+    "Top with the remaining French fries.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "casserole",
+    "cheese-curd",
+    "french-fries"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-zy-canadian-flour-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:28:54.836Z"
+}
