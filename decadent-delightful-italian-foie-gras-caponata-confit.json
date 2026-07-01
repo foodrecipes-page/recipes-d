@@ -1,0 +1,77 @@
+{
+  "slug": "decadent-delightful-italian-foie-gras-caponata-confit",
+  "title": "Pan-Seared Foie Gras with Caponata",
+  "description": "A luxurious Italian-inspired dish featuring seared foie gras served with a sweet and tangy caponata.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Foie Gras",
+      "amount": "6 oz (170g)",
+      "notes": "high-quality, fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Caponata",
+      "amount": "1 cup (250g)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "a few sprigs",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the foie gras with salt and black pepper.",
+    "3. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "4. Sear the foie gras for 2-3 minutes on each side, or until browned.",
+    "5. Transfer the skillet to the preheated oven and cook for 2-3 minutes, or until the foie gras reaches 120°F (49°C).",
+    "6. Remove the skillet from the oven and let the foie gras rest for 1-2 minutes.",
+    "7. Serve the foie gras with caponata and drizzle with balsamic glaze, if desired.",
+    "8. Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "italian-cuisine",
+    "luxury-dining"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 55
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-delightful-italian-foie-gras-caponata-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:46.443Z"
+}
