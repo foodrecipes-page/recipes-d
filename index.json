@@ -524,17 +524,15 @@
   },
   {
     "slug": "dark-molten-brazilian-chicken-wrap",
-    "title": "Dark Molten Brazilian Chicken Wrap",
+    "title": "Brazilian Chicken Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "comal-cooking",
-      "molten-dishes",
-      "paleo-friendly",
-      "wrap-dishes"
+      "chicken",
+      "wrap",
+      "latin",
+      "spicy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -4170,18 +4168,16 @@
   },
   {
     "slug": "delicate-dry-portuguese-shrimp-skewers",
-    "title": "Delicate Dry Portuguese Shrimp Skewers",
+    "title": "Portuguese Shrimp Skewers",
     "tags": [
-      "easy",
       "grilled",
-      "low-fat",
-      "portuguese",
-      "quick",
       "seafood",
-      "shojin"
+      "portuguese",
+      "summer",
+      "quick"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -4618,16 +4614,16 @@
   },
   {
     "slug": "delicate-flaky-tunisian-pastry-bao",
-    "title": "Delicate Flaky Tunisian Pastry Bao",
+    "title": "Tunisian Bao Pastries",
     "tags": [
-      "flaky-pastry",
-      "kid-friendly",
-      "tunisian-cuisine",
-      "vegetarian-friendly",
-      "winey-flavor"
+      "pastry",
+      "bao",
+      "tunisian",
+      "snack",
+      "dessert"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "tunisian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -11589,17 +11585,16 @@
   },
   {
     "slug": "dense-delicate-middle-eastern-shungiku-umm-ali",
-    "title": "Dense Delicate Middle Eastern Shungiku Umm Ali",
+    "title": "Shungiku and Eastern Delight",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "low-calorie",
-      "middle-eastern",
-      "post-workout",
-      "vegetarian"
+      "vegetarian",
+      "lunch",
+      "shungiku",
+      "middle eastern",
+      "easycuisine"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "cuisine": "Japanese-Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -13928,17 +13923,14 @@
     "slug": "dense-uruguayan-lamb-empanadas",
     "title": "Uruguayan Lamb Empanadas",
     "tags": [
-      "cheese",
-      "comfort-food",
-      "easy-dinner",
-      "empanadas",
-      "homemade",
       "lamb",
-      "latin-american",
-      "uruguayan"
+      "empanadas",
+      "uruguayan",
+      "snack",
+      "meat"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
