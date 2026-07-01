@@ -887,17 +887,16 @@
   },
   {
     "slug": "dashing-australian-teque-os-fritters",
-    "title": "Dashing Australian Teque Os Fritters",
+    "title": "Teque Fritters with Australian Dipping Sauce",
     "tags": [
+      "teque",
       "australian",
-      "dinner",
-      "easy",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "fritters",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 15,
+    "cuisine": "Australian cuisine",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -1766,18 +1765,15 @@
   },
   {
     "slug": "decadent-delicate-turkish-ovoli-mushroom-fold",
-    "title": "Decadent Delicate Turkish Ovoli-Mushroom Fold",
+    "title": "Delicate Turkish Fold Omelette with Mushroom",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "breakfast",
+      "turkish",
+      "mushroom",
+      "omelette"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 9,
     "shard": "d"
   },
   {
@@ -5795,17 +5791,14 @@
   },
   {
     "slug": "delicate-molten-tunisian-lamb-tagine",
-    "title": "Delicate Molten Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "lamb-recipes",
-      "one-pan",
-      "romantic-dinner",
-      "slow-cooked",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "d"
   },
   {
@@ -8702,17 +8695,16 @@
   },
   {
     "slug": "deliciously-crispy-ethiopian-lentils-misir-wot",
-    "title": "Deliciously Crispy Ethiopian Lentils Misir Wot",
+    "title": "Ethiopian-Style Red Lentil Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "lentil-recipes",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "lentil",
+      "ethiopian",
+      "stew",
+      "spicy",
+      "vegan"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -11757,17 +11749,16 @@
   },
   {
     "slug": "dense-ethiopian-paneer-wot",
-    "title": "Dense Ethiopian Paneer Wot",
+    "title": "Ethiopian Paneer Wot",
     "tags": [
-      "date-night",
-      "ethiopian",
-      "high-protein",
-      "one-pan",
       "paneer",
-      "weeknight"
+      "ethiopian",
+      "wot",
+      "spicy",
+      "flavorful"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -12594,13 +12585,14 @@
   },
   {
     "slug": "dense-midnight-basque-french-eggs-paella",
-    "title": "Dense Midnight Basque-French Eggs Paella",
+    "title": "Basque-Style Paella with Midnight Eggs",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "trendy"
+      "basque",
+      "spanish",
+      "paella",
+      "eggs"
     ],
-    "cuisine": "Basque-French",
+    "cuisine": "spanish",
     "totalTimeMin": 45,
     "shard": "d"
   },
@@ -13571,16 +13563,14 @@
   },
   {
     "slug": "dense-sour-brazilian-cookie-casserole",
-    "title": "Dense Sour Brazilian Cookie Casserole",
+    "title": "Brazilian Casserole with Sour Cookie Crust",
     "tags": [
-      "brazilian-inspired",
-      "mediterranean-friendly",
-      "one-pan",
-      "sour-cream-based",
-      "weeknight"
+      "brazilian",
+      "casserole",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
