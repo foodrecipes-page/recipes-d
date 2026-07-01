@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-dry-portuguese-shrimp-skewers",
+  "title": "Portuguese Shrimp Skewers",
+  "description": "A classic Portuguese-inspired dish featuring succulent shrimp grilled to perfection on skewers. Serve with a side of rice or bread for a well-rounded meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "delicate Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Lemon",
+      "amount": "2 lemons",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dry Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak the skewers in water for 30 minutes before grilling to prevent them from catching on fire.",
+    "Peel and de-vein the shrimp.",
+    "Thread 4-5 shrimp onto each skewer.",
+    "In a small bowl, mix together the olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Brush the mixture evenly onto both sides of the shrimp.",
+    "Grill the shrimp over medium-high heat for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "portuguese",
+    "summer",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dry-portuguese-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:47.140Z"
+}
