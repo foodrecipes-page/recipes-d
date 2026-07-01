@@ -14012,13 +14012,14 @@
   },
   {
     "slug": "dewy-crisp-uruguayan-tomato-tart",
-    "title": "Dewy Crisp Uruguayan Tomato Tart",
+    "title": "Tart Dewy Salad",
     "tags": [
-      "uruguayan",
-      "lunch"
+      "salad",
+      "summer",
+      "latin-american"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "cuisine": "latin-american",
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
