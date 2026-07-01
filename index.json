@@ -802,16 +802,16 @@
   },
   {
     "slug": "dark-zy-canadian-flour-poutine",
-    "title": "Dark-Zy Canadian Flour Poutine",
+    "title": "Canadian Poutine Casserole",
     "tags": [
       "canadian",
-      "keto",
-      "low-carb",
-      "peppery",
-      "poutine"
+      "comfort-food",
+      "casserole",
+      "cheese-curd",
+      "french-fries"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -9605,16 +9605,14 @@
   },
   {
     "slug": "deliciously-garlicky-argentinian-potato-empanadas",
-    "title": "Deliciously Garlicky Argentinian Potato Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
-      "argentinian-food",
-      "fondue-pot",
-      "garlicky",
-      "potato-empanadas",
-      "solodinner",
+      "argentinian",
+      "empanadas",
+      "snack",
       "vegetarian"
     ],
-    "cuisine": "Argentinian",
+    "cuisine": "argentinian",
     "totalTimeMin": 35,
     "shard": "d"
   },
@@ -15414,18 +15412,15 @@
   },
   {
     "slug": "dry-crunchy-jamaican-coconut-skewers",
-    "title": "Dry Crunchy Jamaican Coconut Skewers",
+    "title": "Jamaican Coconut Jerk Chicken Skewers",
     "tags": [
-      "coconut",
-      "gluten-free",
-      "jamaican",
-      "low-carb",
-      "paleo",
-      "snack",
-      "whole30"
+      "jerk",
+      "caribbean",
+      "grilled",
+      "chicken"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
