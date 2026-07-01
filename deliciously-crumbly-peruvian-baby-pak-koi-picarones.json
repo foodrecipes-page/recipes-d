@@ -1,0 +1,76 @@
+{
+  "slug": "deliciously-crumbly-peruvian-baby-pak-koi-picarones",
+  "title": "Koi and Pak Picarones with Peruvian Spices",
+  "description": "A traditional Peruvian dessert made with sweet potato donuts, served with a sweet syrup and topped with koi and pak spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "baked and mashed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for donuts"
+    },
+    {
+      "name": "peruvian spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, nutmeg, and ginger"
+    },
+    {
+      "name": "koi spice mix",
+      "amount": "0.5 tsp",
+      "notes": "for topping"
+    },
+    {
+      "name": "pak spice mix",
+      "amount": "0.5 tsp",
+      "notes": "for topping"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": "for syrup"
+    }
+  ],
+  "instructions": [
+    "Combine mashed sweet potatoes, flour, and spices in a bowl.",
+    "Heat oil in a deep frying pan and fry donuts until golden brown.",
+    "Drain donuts on paper towels and let cool.",
+    "Make a syrup by heating honey in a saucepan over low heat.",
+    "Dip donuts in syrup and top with koi and pak spice mixes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "sweet-potato",
+    "donuts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crumbly-peruvian-baby-pak-koi-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:40:07.961Z"
+}
