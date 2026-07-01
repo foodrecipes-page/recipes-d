@@ -1,0 +1,74 @@
+{
+  "slug": "dense-midnight-basque-french-eggs-paella",
+  "title": "Basque-Style Paella with Midnight Eggs",
+  "description": "A twist on the classic Spanish dish, this Basque-style paella incorporates midnight eggs for added richness and dense ingredients for depth of flavor.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dense bread, cubed",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "midnight olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "basque chorizo, sliced",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "french onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the midnight olive oil in a large paella pan over medium-high heat.",
+    "Add the basque chorizo and cook, stirring occasionally, until browned.",
+    "Add the diced french onion and cook until translucent.",
+    "Add the paella rice and cook, stirring constantly, for 1-2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Push the rice to one side of the pan and create 2-3 wells.",
+    "Crack an egg into each well and cook, covered, until the whites are set.",
+    "Stir the rice and eggs together, then serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "spanish",
+    "paella",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-midnight-basque-french-eggs-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:27:54.933Z"
+}
