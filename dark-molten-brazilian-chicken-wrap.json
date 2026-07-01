@@ -1,0 +1,83 @@
+{
+  "slug": "dark-molten-brazilian-chicken-wrap",
+  "title": "Brazilian Chicken Wrap",
+  "description": "A delicious and spicy wrap filled with chicken, cheese, and vegetables, inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dark Chicken Breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Molten Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Chicken Breast",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Jalapeno",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to 375°F (190°C).",
+    "2. Season the chicken breasts with salt, pepper, and your favorite spices.",
+    "3. Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "4. Let the chicken rest for a few minutes before slicing it into thin strips.",
+    "5. Warm the Brazilian wrap in the microwave for 20-30 seconds.",
+    "6. Assemble the wrap by spreading a layer of sour cream on the bottom half.",
+    "7. Add a layer of sliced chicken, followed by sliced red onion, jalapeno, and cilantro.",
+    "8. Place a slice of molten cheese on top of the chicken.",
+    "9. Fold the bottom half of the wrap up over the filling, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "latin",
+    "spicy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-molten-brazilian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:24.245Z"
+}
