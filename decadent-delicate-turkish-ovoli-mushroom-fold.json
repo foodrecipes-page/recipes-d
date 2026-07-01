@@ -1,0 +1,73 @@
+{
+  "slug": "decadent-delicate-turkish-ovoli-mushroom-fold",
+  "title": "Delicate Turkish Fold Omelette with Mushroom",
+  "description": "A simple yet elegant omelette dish inspired by Turkish cuisine, filled with sautéed mushrooms and a delicate texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": "fresh, high-quality eggs"
+    },
+    {
+      "name": "1 tablespoon butter",
+      "amount": "1",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "0.5",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "0.25",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "1/2 cup mushrooms",
+      "amount": "0.5",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "1 tablespoon ovoli",
+      "amount": "1",
+      "notes": "softened, crumbled"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "Heat the butter in a small non-stick pan over medium heat.",
+    "Once the butter has melted, pour in the eggs.",
+    "Let the eggs cook for about 30 seconds, until the edges start to set.",
+    "Add the sliced mushrooms to one half of the omelette and sprinkle with ovoli.",
+    "Use a spatula to gently fold the other half of the omelette over the filling.",
+    "Cook for another 30 seconds, until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "turkish",
+    "mushroom",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-delicate-turkish-ovoli-mushroom-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:19:39.863Z"
+}
