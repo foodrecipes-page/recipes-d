@@ -12482,16 +12482,14 @@
   },
   {
     "slug": "dense-malaysian-vegetable-fried-rice",
-    "title": "Dense Malaysian Vegetable Fried Rice",
+    "title": "Malaysian Fried Rice",
     "tags": [
-      "malaysian-cuisine",
-      "vegetable-fried-rice",
-      "hangover-cure",
-      "egg-free",
-      "vegan-friendly"
+      "comfort-food",
+      "easy-meals",
+      "fried-rice"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
