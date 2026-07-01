@@ -1,0 +1,88 @@
+{
+  "slug": "dense-uruguayan-lamb-empanadas",
+  "title": "Uruguayan Lamb Empanadas",
+  "description": "Traditional Uruguayan recipe featuring tender lamb and flaky pastry empanadas.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "homemade or store-bought",
+      "notes": "thawed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, heat olive oil over medium heat. Add onion and cook until softened.",
+    "Add garlic, paprika, and lamb to the pan. Cook until the lamb is browned, breaking it up with a spoon as it cooks.",
+    "Season the lamb mixture with salt to taste.",
+    "Roll out empanada dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the lamb mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg. Fold the dough in half to form a half-circle, pressing the edges together to seal the empanada.",
+    "Use a fork to crimp the edges of the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with the beaten egg.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "empanadas",
+    "uruguayan",
+    "snack",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-uruguayan-lamb-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:47:04.765Z"
+}
