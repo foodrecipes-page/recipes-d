@@ -1,0 +1,83 @@
+{
+  "slug": "dense-malaysian-vegetable-fried-rice",
+  "title": "Malaysian Fried Rice",
+  "description": "A flavorful and spicy fried rice dish originating from Malaysia, made with a variety of vegetables and a hint of savory flavors.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as peas, carrots, corn"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the mixed vegetables and cooked until tender.",
+    "Push the vegetables to one side of the pan.",
+    "Add more oil if necessary, then add the cooked rice.",
+    "Stir-fry the rice with the vegetables until combined.",
+    "Add the soy sauce, oyster sauce, and stir-fry for another minute.",
+    "Taste and adjust seasoning with salt and pepper.",
+    "Transfer to a serving platter, garnish with scallions and fried shallots.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meals",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-malaysian-vegetable-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:12:15.686Z"
+}
