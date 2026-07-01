@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-flaky-tunisian-pastry-bao",
+  "title": "Tunisian Bao Pastries",
+  "description": "Delicate, flaky pastry wrapped around a sweet and savory bao filling, inspired by Tunisian cuisine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian pastry dough",
+      "amount": "1 package (1 lb)",
+      "notes": "available in most international grocery stores"
+    },
+    {
+      "name": "Bao filling (see below)",
+      "amount": "1 cup",
+      "notes": "sweet and savory mixture of ground meat, onions, and spices"
+    },
+    {
+      "name": "Delicate flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for brushing pastry with egg wash"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": "for sweetening bao filling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough to 1/4 inch thickness.",
+    "Cut into squares, about 3 inches per side.",
+    "Place a spoonful of bao filling in the center of each square.",
+    "Brush edges with egg wash and fold pastry into triangles.",
+    "Seal edges with a fork and brush tops with egg wash.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, dust with sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "bao",
+    "tunisian",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-tunisian-pastry-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:57.375Z"
+}
