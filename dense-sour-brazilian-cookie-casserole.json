@@ -1,0 +1,79 @@
+{
+  "slug": "dense-sour-brazilian-cookie-casserole",
+  "title": "Brazilian Casserole with Sour Cookie Crust",
+  "description": "A twist on traditional casserole recipes, this Brazilian-inspired dish combines the flavors of Brazil with a tangy sour cookie crust.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dense cookie crumbs",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canned black beans, drained and rinsed",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style spices",
+      "amount": "1 tsp",
+      "notes": "cumin, paprika"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a medium bowl, mix together cookie crumbs and sour cream until well combined.",
+    "Press the mixture into the bottom of a 9x13 inch baking dish.",
+    "Bake for 10 minutes.",
+    "In a large skillet, heat the Brazilian-style spices over medium heat.",
+    "Add the black beans, diced tomatoes, and grated cheese. Stir until the cheese is melted.",
+    "Pour the bean mixture over the cookie crust.",
+    "Bake for an additional 20-25 minutes, or until the cheese is bubbly and the crust is golden brown.",
+    "Let the casserole cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "casserole",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-sour-brazilian-cookie-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:22:23.659Z"
+}
