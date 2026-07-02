@@ -1,0 +1,93 @@
+{
+  "slug": "delicate-venezuelan-pea-eggplant-tagine",
+  "title": "Delicate Eggplant Tagine",
+  "description": "A light and flavorful tagine made with eggplant and a hint of Venezuelan spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "delicate",
+      "amount": "1 cup",
+      "notes": "Venezuelan-style sweet peppers"
+    },
+    {
+      "name": "pea",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the eggplant and cook until tender, about 10 minutes.",
+    "Stir in the pea, cumin, coriander, salt, and pepper.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot, garnished with delicate peppers if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "tagine",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-venezuelan-pea-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:01:00.635Z"
+}
