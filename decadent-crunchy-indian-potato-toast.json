@@ -1,0 +1,69 @@
+{
+  "slug": "decadent-crunchy-indian-potato-toast",
+  "title": "Decadent Indian Potato Toast",
+  "description": "A rich and satisfying twist on traditional toast, featuring the flavors of India and the comfort of potatoes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 medium-sized"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Crunchy Indian Spice Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the potatoes into 1/2-inch thick rounds.",
+    "Arrange the potato slices in a single layer on a baking sheet.",
+    "Drizzle the potatoes with 1 tablespoon of unsalted butter, and sprinkle with 1 tablespoon of Crunchy Indian Spice Blend.",
+    "Bake the potatoes in the preheated oven for 15-20 minutes, or until crispy.",
+    "Meanwhile, toast the bread slices until lightly browned.",
+    "Spread a layer of sour cream on each toasted bread slice.",
+    "Top each bread slice with a few potato slices.",
+    "Drizzle the remaining 1 tablespoon of unsalted butter over the potatoes.",
+    "Sprinkle with the remaining 1 tablespoon of Crunchy Indian Spice Blend.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "snack",
+    "potatoes",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-crunchy-indian-potato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:49:30.137Z"
+}
