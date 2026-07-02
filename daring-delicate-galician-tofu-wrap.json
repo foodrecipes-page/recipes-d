@@ -1,0 +1,87 @@
+{
+  "slug": "daring-delicate-galician-tofu-wrap",
+  "title": "Galician Wrap",
+  "description": "A simple and flavorful wrap filled with Galician sausage, delicate ingredients, and a hint of daring spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "mild"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (8 oz)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Delicate",
+      "amount": "1 cup",
+      "notes": "greens or mixed greens"
+    },
+    {
+      "name": "Galician",
+      "amount": "1/2 lb",
+      "notes": "sliced sausage"
+    },
+    {
+      "name": "Daring",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "tortilla or flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or grill pan to medium-high heat.",
+    "Brush the wrap with olive oil and grill for 1-2 minutes, until lightly charred.",
+    "In a pan, cook the Galician sausage over medium heat until browned, about 3-4 minutes.",
+    "Add the crumbled tofu and cook until lightly browned, about 2-3 minutes.",
+    "Add the delicate greens and cook until wilted, about 1-2 minutes.",
+    "Sprinkle with dried oregano and season with salt and pepper to taste.",
+    "Transfer the mixture to the grilled wrap and drizzle with vinegar, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "wrap",
+    "galician",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-delicate-galician-tofu-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:00.821Z"
+}
