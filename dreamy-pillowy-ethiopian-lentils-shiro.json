@@ -1,0 +1,80 @@
+{
+  "slug": "dreamy-pillowy-ethiopian-lentils-shiro",
+  "title": "Ethiopian Shiro Stew",
+  "description": "A comforting and flavorful stew popular in Ethiopia, made with lentils and the country's signature spice blend. Serve with injera bread for a traditional meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or brown lentils work well"
+    },
+    {
+      "name": "shiro",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking lentils"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, carrot, and red bell pepper; cook until the vegetables are tender.",
+    "Add lentils, shiro, and water to the pot; bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over injera bread, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentil",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-pillowy-ethiopian-lentils-shiro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:03:53.643Z"
+}
