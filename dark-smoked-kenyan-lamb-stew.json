@@ -1,0 +1,95 @@
+{
+  "slug": "dark-smoked-kenyan-lamb-stew",
+  "title": "Smoked Kenyan Lamb Stew",
+  "description": "A hearty stew originating from the highlands of Kenya, made with tender lamb and a rich blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lacto-ovo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Kenyan spices (curry, cumin, coriander)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, diced",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat oil in a Dutch oven over medium-high heat. Sear the lamb until browned on all sides, then set aside.",
+    "Add more oil if needed, then sauté the onion and garlic until softened.",
+    "Add the smoked paprika and Kenyan spices; cook for 1 minute.",
+    "Add the tomatoes, red wine, and beef broth; stir to combine.",
+    "Return the lamb to the pot; bring to a boil, then cover and transfer to the oven.",
+    "Braise the stew at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "kenyan",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-smoked-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:49:35.100Z"
+}
