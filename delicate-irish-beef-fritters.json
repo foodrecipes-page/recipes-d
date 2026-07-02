@@ -1,0 +1,89 @@
+{
+  "slug": "delicate-irish-beef-fritters",
+  "title": "Delicate Irish Beef Fritters",
+  "description": "Tender Irish beef mixed with delicate herbs and spices, formed into crispy fritters for a satisfying snack.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Irish Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Herbs (Thyme, Rosemary)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fritter Batter",
+      "amount": "4-6 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large mixing bowl, combine the ground Irish beef, onion, breadcrumbs, eggs, cheddar cheese, herbs, salt, and pepper.",
+    "3. Using your hands, mix the ingredients together until just combined.",
+    "4. Divide the mixture into 8-10 portions, depending on desired fritter size.",
+    "5. Shape each portion into a ball and then flatten slightly into a disk shape.",
+    "6. Dip each fritter into the fritter batter, coating both sides evenly.",
+    "7. Heat a large non-stick skillet or griddle over medium-high heat.",
+    "8. When the skillet is hot, add a few of the fritters and cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "9. Transfer the fritters to a baking sheet and bake for an additional 5-7 minutes, or until cooked through.",
+    "10. Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-beef-fritters",
+    "beef-fritters",
+    "snack-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-irish-beef-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:49:42.218Z"
+}
