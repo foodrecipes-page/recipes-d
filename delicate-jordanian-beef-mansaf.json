@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-jordanian-beef-mansaf",
+  "title": "Jordanian Mansaf",
+  "description": "A classic Jordanian dish made with tender lamb cooked in a rich yogurt sauce and served over rice.",
+  "cuisine": "jordanian",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (or lamb), cut into small pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "You can also use lamb if preferred"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "You can adjust the amount based on your preference"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3-4 cloves",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Mansaf spice blend",
+      "amount": "2 tablespoons",
+      "notes": "A mix of cumin, coriander, cinnamon, and black pepper"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Full-fat yogurt works best for this dish"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "White or brown rice can be used"
+    },
+    {
+      "name": "Delicate spices (such as cardamom and rosewater)",
+      "amount": "to taste",
+      "notes": "Optional, add for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until browned, about 5-7 minutes.",
+    "Add the mansaf spice blend and stir to coat the lamb.",
+    "Add the yogurt and stir to combine. Bring the mixture to a simmer.",
+    "Reduce heat to medium-low and let the mixture cook for 20-25 minutes, or until the lamb is tender.",
+    "While the lamb is cooking, prepare the rice according to package instructions.",
+    "To serve, place a scoop of rice on a plate, then top with the lamb and sauce.",
+    "Garnish with delicate spices, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jordanian",
+    "lamb",
+    "yogurt",
+    "rice",
+    "mansaf"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-jordanian-beef-mansaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:27:06.331Z"
+}
