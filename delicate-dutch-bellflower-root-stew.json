@@ -1,0 +1,62 @@
+{
+  "slug": "delicate-dutch-bellflower-root-stew",
+  "title": "Delicate Dutch Stew",
+  "description": "A hearty, comforting stew made with delicate and dutch ingredients, perfect for a cold evening.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate potatoes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dutch carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Bellflower onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Root celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Stew beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium heat.",
+    "2. Add the sliced onions and cook until softened, about 5 minutes.",
+    "3. Add the sliced carrots and celery, and cook for an additional 5 minutes.",
+    "4. Pour in the beef broth, and bring the mixture to a boil.",
+    "5. Reduce heat to low, and add the sliced potatoes.",
+    "6. Simmer the stew for 20-25 minutes, or until the potatoes are tender.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-bellflower-root-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:11:14.037Z"
+}
