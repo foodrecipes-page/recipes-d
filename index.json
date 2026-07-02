@@ -704,18 +704,15 @@
   },
   {
     "slug": "dark-smoked-kenyan-lamb-stew",
-    "title": "Dark Smoked Kenyan Lamb Stew",
+    "title": "Smoked Kenyan Lamb Stew",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
+      "lamb",
+      "stew",
       "kenyan",
-      "one-pot",
-      "smoked",
-      "weeknight"
+      "smoked"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
@@ -1713,18 +1710,17 @@
   },
   {
     "slug": "decadent-crunchy-indian-potato-toast",
-    "title": "Decadent Crunchy Indian Potato Toast",
+    "title": "Decadent Indian Potato Toast",
     "tags": [
-      "cheesy-goodness",
-      "comfort-food",
-      "easy-eats",
-      "indian-inspired",
-      "potato-perfection",
-      "shojin-friendly",
-      "snack-attack"
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "snack",
+      "potatoes",
+      "toast"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -5215,11 +5211,9 @@
     "slug": "delicate-irish-beef-fritters",
     "title": "Delicate Irish Beef Fritters",
     "tags": [
-      "flexitarian-friendly",
-      "irish",
-      "lunch",
-      "quick",
-      "savory"
+      "irish-beef-fritters",
+      "beef-fritters",
+      "snack-recipes"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 25,
@@ -6956,18 +6950,15 @@
   },
   {
     "slug": "delicate-sweet-argentinian-pineapple-skewers",
-    "title": "Delicate Sweet Argentinian Pineapple Skewers",
+    "title": "Argentinian Style Grilled Pineapple Skewers",
     "tags": [
-      "argentinian",
-      "candy",
-      "dessert",
-      "low-calorie",
-      "sweet",
-      "unique",
-      "vegetarian"
+      "summer",
+      "grilled",
+      "pineapple",
+      "dessert"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -11109,16 +11100,14 @@
   },
   {
     "slug": "dense-argentinian-rice-pilaf",
-    "title": "Dense Argentinian Rice Pilaf",
+    "title": "Argentinian Pilaf Bowl",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13825,13 +13814,11 @@
   },
   {
     "slug": "dense-turkish-lamb-icli-kofte",
-    "title": "Dense Turkish Lamb Icli Kofte",
+    "title": "Turkish Lamb Kofte",
     "tags": [
-      "dinner",
-      "high-protein",
+      "turkish",
       "lamb",
-      "one-pan",
-      "turkish"
+      "appetizer"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 45,
