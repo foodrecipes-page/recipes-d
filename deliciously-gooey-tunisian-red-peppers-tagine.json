@@ -1,0 +1,88 @@
+{
+  "slug": "deliciously-gooey-tunisian-red-peppers-tagine",
+  "title": "Tunisian Red Pepper Tagine",
+  "description": "A flavorful and aromatic stew from Tunisia, made with red peppers, tagine spices, and tender chicken.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "red peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add peppers and cook until tender, about 5 minutes.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add chicken broth and honey (if using) to pot.",
+    "Return chicken to pot and bring to a simmer.",
+    "Cover pot and transfer to oven.",
+    "Bake for 25-30 minutes, or until chicken is cooked through.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "chicken",
+    "red peppers",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-gooey-tunisian-red-peppers-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:02:23.694Z"
+}
