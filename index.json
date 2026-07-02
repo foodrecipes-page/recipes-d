@@ -5329,16 +5329,16 @@
   },
   {
     "slug": "delicate-jordanian-beef-mansaf",
-    "title": "Delicate Jordanian Beef Mansaf",
+    "title": "Jordanian Mansaf",
     "tags": [
-      "beef",
-      "kimchi",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "jordanian",
+      "lamb",
+      "yogurt",
+      "rice",
+      "mansaf"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "jordanian",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -15820,14 +15820,14 @@
   },
   {
     "slug": "dzingy-indian-citrus-smoke-dried-curry",
-    "title": "DZingy Indian Citrus Smoke-Dried Curry",
+    "title": "Smoked Dried Chicken Curry",
     "tags": [
-      "citrusy",
-      "gluten-free",
-      "smoked",
-      "vessel-mason-jar"
+      "indian",
+      "curry",
+      "chicken",
+      "smoked"
     ],
-    "cuisine": "Indian (Kerala)",
+    "cuisine": null,
     "totalTimeMin": 45,
     "shard": "d"
   },
