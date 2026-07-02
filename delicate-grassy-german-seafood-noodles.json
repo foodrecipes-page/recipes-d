@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-grassy-german-seafood-noodles",
+  "title": "German Seafood Noodle Soup",
+  "description": "A hearty and flavorful German-inspired seafood noodle soup perfect for a cold day. This recipe combines the delicate taste of white fish with the freshness of grassy parsley.",
+  "cuisine": "German",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "German-style egg noodles"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "grassy, fresh"
+    },
+    {
+      "name": "Dill",
+      "amount": "2 tbsp",
+      "notes": "german seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to package instructions.",
+    "In a separate pan, sauté the onion and garlic until softened.",
+    "Add the white fish fillets to the pan and cook until opaque and flaky.",
+    "Add the parsley, dill, salt, and black pepper to the pan and stir to combine.",
+    "Add the cooked noodles to the pan and toss with the seafood and seasoning mixture.",
+    "Serve hot and enjoy!",
+    "Heat the soup to an internal temperature of at least 145°F (63°C) to ensure food safety.",
+    "Let the soup rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "seafood",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-grassy-german-seafood-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:27:44.211Z"
+}
