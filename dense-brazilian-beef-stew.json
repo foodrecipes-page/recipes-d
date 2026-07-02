@@ -1,0 +1,84 @@
+{
+  "slug": "dense-brazilian-beef-stew",
+  "title": "Braised Beef Stew",
+  "description": "A hearty Brazilian-inspired stew made with tender beef and rich flavors. Serve with crusty bread or over mashed potatoes for a comforting meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Chuck",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dense Tomatoes",
+      "amount": "1 (28-ounce) can",
+      "notes": "crushed"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Stew Seasoning",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to the pot and cook until onion is translucent, about 3-4 minutes.",
+    "Add crushed tomatoes, beef broth, stew seasoning, salt, and pepper to the pot. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2.5 hours or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-brazilian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:32.645Z"
+}
