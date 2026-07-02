@@ -1,0 +1,85 @@
+{
+  "slug": "decadent-irish-epoisses-bowl",
+  "title": "Decadent Irish Baked Bowl",
+  "description": "A rich and creamy Irish-inspired dessert in a crispy baked bowl.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Irish whiskey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons, melted"
+    },
+    {
+      "name": "Bowl (sturdy, ceramic)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Whisk flour, baking powder, and salt in a medium bowl.",
+    "Add sugar, whiskey, and melted butter to the dry ingredients; mix until a dough forms.",
+    "Roll out dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out a circle of dough slightly larger than the bowl.",
+    "Place dough circle over the bowl, pressing edges to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While the crust is baking, mix crumbled Epoisses and heavy cream in a small bowl.",
+    "Once the crust is ready, fill with the Epoisses mixture.",
+    "Bake for an additional 5-7 minutes, or until the filling is heated through.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "decadent",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-irish-epoisses-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:36:17.782Z"
+}
