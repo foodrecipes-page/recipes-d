@@ -1,0 +1,73 @@
+{
+  "slug": "dense-gooey-middle-eastern-red-pepper-muhammara",
+  "title": "Muhammara Stuffed Red Peppers",
+  "description": "A flavorful twist on traditional stuffed peppers, featuring muhammara as the filling.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Peppers",
+      "amount": "4",
+      "notes": "any color pepper will work, but red adds extra sweetness"
+    },
+    {
+      "name": "Muhammara",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing peppers"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut off the tops of the peppers and remove seeds and membranes.",
+    "Place peppers in a baking dish and brush with olive oil.",
+    "Fill each pepper with a portion of muhammara, followed by a scoop of cooked rice.",
+    "Top with chopped parsley, if using.",
+    "Cover baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until peppers are tender.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "veggie-dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-gooey-middle-eastern-red-pepper-muhammara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:51:46.838Z"
+}
