@@ -138,16 +138,15 @@
   },
   {
     "slug": "daring-delicate-galician-tofu-wrap",
-    "title": "Daring Delicate Galician Tofu Wrap",
+    "title": "Galician Wrap",
     "tags": [
-      "flexitarian-friendly",
+      "spanish",
+      "wrap",
       "galician",
-      "quick",
-      "spicy",
-      "wrap"
+      "tofu"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -7340,16 +7339,15 @@
   },
   {
     "slug": "delicate-venezuelan-pea-eggplant-tagine",
-    "title": "Delicate Venezuelan Pea Eggplant Tagine",
+    "title": "Delicate Eggplant Tagine",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "middle-eastern-influenced",
-      "one-pot",
-      "vegetarian"
+      "eggplant",
+      "tagine",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -10069,17 +10067,16 @@
   },
   {
     "slug": "deliciously-savory-irish-plum-tomatoes-skillet",
-    "title": "Deliciously Savory Irish Plum Tomatoes Skillet",
+    "title": "Irish Skillet Dinner",
     "tags": [
-      "date-night",
-      "irish-food",
-      "one-pan",
-      "vegan-friendly",
-      "vegetarian",
-      "weeknight"
+      "irish",
+      "skillet",
+      "savory",
+      "dinner",
+      "omnivore"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
