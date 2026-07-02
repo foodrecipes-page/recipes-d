@@ -1,0 +1,62 @@
+{
+  "slug": "delicate-sweet-argentinian-pineapple-skewers",
+  "title": "Argentinian Style Grilled Pineapple Skewers",
+  "description": "A sweet and tangy dessert recipe featuring grilled pineapple, perfect for a summer evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Delicate",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "bamboo"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut pineapple into 1-inch chunks.",
+    "Thread pineapple, delicate, and argentinian onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 2-3 minutes per side, or until caramelized.",
+    "Serve warm, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "grilled",
+    "pineapple",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-sweet-argentinian-pineapple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:28:58.581Z"
+}
