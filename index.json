@@ -3346,17 +3346,16 @@
   },
   {
     "slug": "delicate-andalusian-eggs-custard",
-    "title": "Delicate Andalusian Eggs Custard",
+    "title": "Delicate Andalusian Custard Tarts",
     "tags": [
-      "free-range-eggs",
-      "glassy-jelly",
-      "herbal",
-      "kombu",
-      "lazy-sunday",
-      "no-onion-garlic"
+      "spanish",
+      "pastry",
+      "custard",
+      "tarts",
+      "dessert"
     ],
-    "cuisine": "Andalusian",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -9644,16 +9643,15 @@
   },
   {
     "slug": "deliciously-gooey-tunisian-red-peppers-tagine",
-    "title": "Deliciously Gooey Tunisian Red Peppers Tagine",
+    "title": "Tunisian Red Pepper Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "tunisian",
-      "vegetarian"
+      "north african",
+      "stew",
+      "chicken",
+      "red peppers",
+      "tagine"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 50,
     "shard": "d"
   },
@@ -12057,19 +12055,14 @@
   },
   {
     "slug": "dense-gooey-middle-eastern-red-pepper-muhammara",
-    "title": "Dense-Gooey Middle-Eastern Red-Pepper Muhammara",
+    "title": "Muhammara Stuffed Red Peppers",
     "tags": [
-      "dip",
-      "gluten-free",
       "middle-eastern",
-      "one-pan",
-      "party-food",
-      "snack",
-      "veggie-centric",
-      "weeknight"
+      "veggie-dinner",
+      "gluten-free"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -13142,16 +13135,14 @@
   },
   {
     "slug": "dense-shaggy-herbal-dish-gratin",
-    "title": "Dense Shaggy Herbal Dish Gratin",
+    "title": "Shaggy's Herbal Gratin",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "paleo",
-      "saudi-arabian",
-      "weeknight"
+      "comfort-food",
+      "easy-dinner",
+      "gratin-recipe"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 65,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
