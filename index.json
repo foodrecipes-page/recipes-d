@@ -11157,14 +11157,15 @@
   },
   {
     "slug": "dense-brazilian-beef-stew",
-    "title": "dense brazilian beef stew",
+    "title": "Braised Beef Stew",
     "tags": [
+      "brazilian",
       "beef",
-      "high-protein",
-      "weeknight"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 150,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
