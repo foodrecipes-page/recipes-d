@@ -1,0 +1,64 @@
+{
+  "slug": "delicate-andalusian-eggs-custard",
+  "title": "Delicate Andalusian Custard Tarts",
+  "description": "A classic Spanish dessert featuring delicate pastry, rich custard, and a touch of sweetness. Perfect for warm weather or special occasions.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Delicate Pastry",
+      "amount": "1 package",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Andalusian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pastry"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "For custard"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry and cut into circles for tarts.",
+    "Brush pastry with olive oil and place in tart pans.",
+    "Bake pastry for 15 minutes or until golden brown.",
+    "In a separate bowl, whisk together eggs and custard.",
+    "Pour custard mixture into baked pastry shells.",
+    "Bake for an additional 10-12 minutes or until custard is set.",
+    "Allow tarts to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pastry",
+    "custard",
+    "tarts",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-andalusian-eggs-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:42:53.012Z"
+}
