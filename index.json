@@ -567,17 +567,14 @@
   },
   {
     "slug": "dark-peppery-british-chocolate-victoria-sponge-cake",
-    "title": "Dark Peppery British Victoria Sponge Cake",
+    "title": "Victoria Sponge Cake",
     "tags": [
-      "british",
-      "chocolate",
-      "deep-fried",
-      "gluten-free",
-      "pepper",
-      "vegan"
+      "victoria-sponge",
+      "british-dessert",
+      "chocolate-buttercream"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
