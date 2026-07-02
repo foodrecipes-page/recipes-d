@@ -1,0 +1,97 @@
+{
+  "slug": "dzingy-indian-citrus-smoke-dried-curry",
+  "title": "Smoked Dried Chicken Curry",
+  "description": "A flavorful and aromatic dish that combines the richness of smoke with the depth of dried spices. Serve with steamed basmati rice or naan bread.",
+  "cuisine": null,
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoke paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "citrus juice (lemon)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together the smoke paprika, curry powder, garam masala, salt, and black pepper.",
+    "Toss the chicken pieces with the spice mixture until evenly coated.",
+    "Heat the coconut oil in a large skillet over medium-high heat. Add the chicken and cook until browned, about 5 minutes.",
+    "Transfer the chicken to a baking dish and roast in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, heat 1 tablespoon of coconut oil in the skillet over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the citrus juice and bring to a simmer. Cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Serve the chicken with the sauce spooned over the top.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve with steamed basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chicken",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dzingy-indian-citrus-smoke-dried-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:03:09.128Z"
+}
