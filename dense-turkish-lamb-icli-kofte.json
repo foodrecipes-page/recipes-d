@@ -1,0 +1,82 @@
+{
+  "slug": "dense-turkish-lamb-icli-kofte",
+  "title": "Turkish Lamb Kofte",
+  "description": "A traditional Turkish dish made with lamb and spices, served as an appetizer.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "icli kofte spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "1"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. In a large mixing bowl, combine the lamb, spice mix, onion, garlic, parsley, salt, and black pepper. Mix well with your hands until just combined.",
+    "3. Divide the mixture into 8 equal portions and shape each portion into a small oval shape.",
+    "4. Dip each kofte into the flour, coating both sides evenly.",
+    "5. Dip the floured kofte into the beaten egg, making sure they are fully coated.",
+    "6. Finally, roll the kofte in the yogurt to coat.",
+    "7. Place the kofte on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "8. Serve the kofte warm, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-turkish-lamb-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:39:54.677Z"
+}
