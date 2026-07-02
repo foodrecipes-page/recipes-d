@@ -1,0 +1,97 @@
+{
+  "slug": "dense-nostalgic-mexican-tahini-tacos",
+  "title": "Tahini Crusted Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring a crunchy tahini crust and a side of fresh salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": "preferably handmade or store-bought corn tortillas"
+    },
+    {
+      "name": "Tahini paste",
+      "amount": "1/4 cup",
+      "notes": "make sure to mix with a little water to achieve the right consistency"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "mild or hot, depends on your taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Shredded lettuce",
+      "amount": "1 head",
+      "notes": "or other leafy greens"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Diced avocado",
+      "amount": "1 ripe avocado",
+      "notes": "or guacamole"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together tahini paste, lime juice, cumin, chili powder, and salt.",
+    "2. Heat about 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "3. Dip each corn tortilla into the tahini mixture, coating both sides evenly.",
+    "4. Place the coated tortillas in the skillet and fry for about 2-3 minutes on each side, until crispy.",
+    "5. Remove the tortillas from the skillet and place them on a paper towel-lined plate to drain excess oil.",
+    "6. In a separate skillet, heat a little bit of oil over medium heat.",
+    "7. Add diced tomatoes and cook for about 3-4 minutes, until they start to soften.",
+    "8. Add shredded lettuce and diced avocado to the skillet and cook for another 2-3 minutes, until the lettuce is slightly wilted.",
+    "9. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "10. Assemble the tacos by placing a few spoonfuls of the lettuce mixture onto a tortilla and serving immediately.",
+    "11. Garnish with fresh cilantro, lime wedges, and your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegan",
+    "tacos",
+    "tahini",
+    "cruelty-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-nostalgic-mexican-tahini-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:27:07.286Z"
+}
