@@ -1,0 +1,79 @@
+{
+  "slug": "deliciously-savory-irish-plum-tomatoes-skillet",
+  "title": "Irish Skillet Dinner",
+  "description": "A hearty, savory meal featuring Irish-style sausages and fresh tomatoes.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausages",
+      "amount": "4",
+      "notes": "look for Irish-style sausages at a butcher or high-end grocery store"
+    },
+    {
+      "name": "plum tomatoes",
+      "amount": "2 cups",
+      "notes": "halve or quarter depending on size"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, heavy-bottomed skillet"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "coarse salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in the skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Irish sausages to the skillet, browning on all sides, about 5-7 minutes total.",
+    "Add the plum tomatoes to the skillet, stirring to combine with the sausages and onion mixture.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to medium-low and simmer, allowing the flavors to meld together, about 10-12 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "skillet",
+    "savory",
+    "dinner",
+    "omnivore"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-savory-irish-plum-tomatoes-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:57:01.932Z"
+}
