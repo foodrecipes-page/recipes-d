@@ -1,0 +1,80 @@
+{
+  "slug": "dark-peppery-british-chocolate-victoria-sponge-cake",
+  "title": "Victoria Sponge Cake",
+  "description": "A classic British dessert consisting of light and fluffy sponge cake, filled with rich chocolate buttercream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate (for buttercream)",
+      "amount": "200g",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Icing Sugar",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Self Raising Flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F). Grease two 20cm round sandwich tins.",
+    "Sift together flour, granulated sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together eggs and vanilla extract.",
+    "Add the sifted dry ingredients to the egg mixture and mix until just combined.",
+    "Divide the batter evenly between the prepared tins and smooth the tops.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the centre comes out clean.",
+    "Allow the cakes to cool in the tins for 5 minutes before transferring them to a wire rack to cool completely.",
+    "To make the buttercream, melt the dark chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Beat the softened butter until light and fluffy, then gradually add the icing sugar and melted chocolate.",
+    "Once the cakes are completely cool, place one half on a serving plate and spread a layer of buttercream on top.",
+    "Place the second half of the cake on top and dust with powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "victoria-sponge",
+    "british-dessert",
+    "chocolate-buttercream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-peppery-british-chocolate-victoria-sponge-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:29:25.425Z"
+}
