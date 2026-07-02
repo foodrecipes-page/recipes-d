@@ -4197,17 +4197,14 @@
   },
   {
     "slug": "delicate-dutch-bellflower-root-stew",
-    "title": "Delicate Dutch Bellflower Root Stew",
+    "title": "Delicate Dutch Stew",
     "tags": [
       "comfort-food",
-      "dutch",
-      "herbal",
-      "lacto-vegetarian",
-      "one-pot",
+      "hearty",
       "stew"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 80,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5006,14 +5003,12 @@
   },
   {
     "slug": "delicate-grassy-german-seafood-noodles",
-    "title": "Delicate Grassy German Seafood Noodles",
+    "title": "German Seafood Noodle Soup",
     "tags": [
-      "german-cuisine",
-      "low-carb",
-      "one-pan",
-      "quick-dinner",
-      "seafood-lovers",
-      "sugar-free"
+      "german",
+      "seafood",
+      "soup",
+      "noodle"
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
@@ -9975,17 +9970,16 @@
   },
   {
     "slug": "deliciously-roasted-ethiopian-lentils-misir-wot",
-    "title": "Deliciously Roasted Ethiopian Lentils Misir Wot",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "one-pan",
+      "ethiopian",
+      "lentils",
+      "stew",
       "vegan",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -12678,18 +12672,16 @@
   },
   {
     "slug": "dense-nostalgic-mexican-tahini-tacos",
-    "title": "Dense Nostalgic Mexican Tahini Tacos",
+    "title": "Tahini Crusted Tacos",
     "tags": [
-      "breakfast",
-      "creamy",
-      "jalisco",
       "mexican",
-      "mustardy",
-      "ovovegetarian",
-      "tahini"
+      "vegan",
+      "tacos",
+      "tahini",
+      "cruelty-free"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
