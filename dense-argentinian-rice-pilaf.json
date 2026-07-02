@@ -1,0 +1,81 @@
+{
+  "slug": "dense-argentinian-rice-pilaf",
+  "title": "Argentinian Pilaf Bowl",
+  "description": "A flavorful and nutritious meal inspired by Argentine cuisine, featuring a hearty pilaf with a hint of spice.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup",
+      "notes": "cooked black beans"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 tsp",
+      "notes": "pilaf spice blend"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the diced bell pepper and cook for 2-3 minutes.",
+    "Add the cooked black beans, cumin, and pilaf spice blend. Stir to combine.",
+    "Add the rice to the saucepan and stir to combine with the vegetable mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-argentinian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:13:49.393Z"
+}
