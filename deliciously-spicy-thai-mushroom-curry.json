@@ -1,0 +1,83 @@
+{
+  "slug": "deliciously-spicy-thai-mushroom-curry",
+  "title": "Spicy Thai Mushroom Curry",
+  "description": "A flavorful and spicy Thai-inspired curry made with sautéed mushrooms and a blend of aromatic spices. Serve over steamed rice for a delicious and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 pound",
+      "notes": "Assorted varieties, such as cremini and shiitake"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "Spicy and aromatic"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can (14 ounces)",
+      "notes": "Full-fat for creaminess"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Salty and umami"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Sweet and balancing"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Sweet and caramel-like"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add mushrooms and cook, stirring occasionally, until they release their liquid and start to brown, about 5 minutes.",
+    "Pour in coconut milk and stir to combine.",
+    "Add fish sauce, brown sugar, and palm sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened and the flavors have melded together, about 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with cilantro and serve over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "thai",
+    "curry",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spicy-thai-mushroom-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:34:27.003Z"
+}
