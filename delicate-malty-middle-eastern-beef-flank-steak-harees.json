@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-malty-middle-eastern-beef-flank-steak-harees",
+  "title": "Eastern Harees Flank Steak",
+  "description": "A flavorful Middle Eastern-inspired dish featuring tender flank steak and delicate harees, served with a side of sautéed vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1 pound",
+      "notes": "1-2 inches thick"
+    },
+    {
+      "name": "harees",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the flank steak with salt, black pepper, cumin, and paprika.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the flank steak for 2-3 minutes per side, then transfer to the oven.",
+    "Cook for 10-12 minutes, or until the steak reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing against the grain.",
+    "Meanwhile, heat the remaining 1 tablespoon of olive oil in a separate skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cooked harees and cook for 2-3 minutes, or until heated through.",
+    "Serve the sliced flank steak with the harees mixture and a side of sautéed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "middle-eastern",
+    "flank-steak",
+    "harees"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-malty-middle-eastern-beef-flank-steak-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:37:29.893Z"
+}
