@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-ukrainian-sesame-dumplings",
+  "title": "Pan-Seared Ukrainian Dumplings with Sesame Seeds",
+  "description": "A traditional Ukrainian dish featuring pan-seared dumplings topped with sesame seeds for added crunch and flavor.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian dumplings (pierogi)",
+      "amount": "1 package (20-25 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "optional, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add Ukrainian dumplings to the skillet and cook for about 3-4 minutes per side, or until golden brown.",
+    "Sprinkle sesame seeds over the top of the dumplings and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "sesame",
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-ukrainian-sesame-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:08:36.623Z"
+}
