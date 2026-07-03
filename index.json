@@ -5638,17 +5638,15 @@
   },
   {
     "slug": "delicate-malty-middle-eastern-beef-flank-steak-harees",
-    "title": "Delicate Malty Middle Eastern Beef Flank Steak Harees",
+    "title": "Eastern Harees Flank Steak",
     "tags": [
       "beef",
-      "dairy-free",
-      "gluten-free",
-      "hangover-cure",
-      "mason-jar",
-      "middle-eastern"
+      "middle-eastern",
+      "flank-steak",
+      "harees"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 150,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -9351,17 +9349,15 @@
   },
   {
     "slug": "deliciously-dense-thai-papaya-som-tum",
-    "title": "Deliciously Dense Thai Papaya Som Tum",
+    "title": "Som Tam (Thai Papaya Salad)",
     "tags": [
-      "fresh",
-      "gluten-free",
-      "healthy",
-      "spicy",
-      "thai-street-food",
-      "vegan-friendly"
+      "thai",
+      "vegetarian",
+      "salad",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -13250,18 +13246,15 @@
   },
   {
     "slug": "dense-smoked-egg-tunisian-shoofly-tagine",
-    "title": "Dense Smoked Egg Tunisian Shoofly Tagine",
+    "title": "Smoked Shoofly Tagine Eggs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "ovo-vegetarian",
-      "post-workout",
-      "snack",
-      "tunisian",
-      "weeknight"
+      "breakfast",
+      "eggs",
+      "smoked-meat",
+      "north-african",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 25,
     "shard": "d"
   },
