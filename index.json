@@ -2561,17 +2561,15 @@
   },
   {
     "slug": "decadent-spicy-irish-sausage-hash",
-    "title": "Decadent Spicy Irish Sausage Hash",
+    "title": "Irish Sausage Hash",
     "tags": [
-      "dairy-free-friendly",
-      "high-protein",
-      "irish-cuisine",
-      "one-pan",
-      "spicy-food",
-      "weeknight"
+      "irish",
+      "breakfast",
+      "sausage",
+      "hash"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -4815,17 +4813,16 @@
   },
   {
     "slug": "delicate-garlicky-argentinian-minari-skewers",
-    "title": "Delicate Garlicky Argentinian Minari Skewers",
+    "title": "Grilled Minari Skewers with Garlic Marinade",
     "tags": [
-      "argentinian-cuisine",
-      "easy-entertaining",
-      "garlic-lovers",
-      "grilled-vegetables",
-      "shojin-friendly",
-      "summer-recipes"
+      "korean",
+      "grilled",
+      "skewers",
+      "minari",
+      "garlic"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -14813,18 +14810,15 @@
   },
   {
     "slug": "dreamy-pillowy-uruguayan-cod-casserole",
-    "title": "Dreamy Pillowy Uruguayan Cod Casserole",
+    "title": "Cod Casserole",
     "tags": [
+      "cod",
       "casserole",
-      "no-onion-no-garlic",
-      "pillowy",
-      "seafood",
-      "sous-vide",
       "uruguayan",
-      "yeasty"
+      "fish"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 80,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
