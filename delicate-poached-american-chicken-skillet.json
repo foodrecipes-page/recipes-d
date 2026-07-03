@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-poached-american-chicken-skillet",
+  "title": "Chicken and American Skillet Delight",
+  "description": "A classic American dish featuring poached chicken, cooked in a delicate skillet with a touch of American flavor.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "American cheese",
+      "amount": "2 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Delicate skillet",
+      "amount": "",
+      "notes": "Any non-stick skillet will do"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Heat the butter in the delicate skillet over medium heat.",
+    "Add the chicken breast to the skillet and cook until browned on both sides.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the American cheese to the skillet and let it melt.",
+    "Return the chicken to the skillet and pour the melted cheese over it.",
+    "Sprinkle the garlic powder over the top of the chicken.",
+    "Cook for an additional 2-3 minutes or until the cheese is bubbly and the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chicken",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-poached-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:15:18.098Z"
+}
