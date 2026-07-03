@@ -1,0 +1,96 @@
+{
+  "slug": "dense-smoked-egg-tunisian-shoofly-tagine",
+  "title": "Smoked Shoofly Tagine Eggs",
+  "description": "A twist on traditional eggs, this dish combines the rich flavors of smoked meat and shoofly with the spices of tunisian cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "smoked tunisian meat",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "shoofly molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dense bread",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced smoked tunisian meat and cook until browned.",
+    "Add the cubed dense bread and cook until toasted.",
+    "Push the bread mixture to one side of the skillet.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the bread mixture.",
+    "Stir in the shoofly molasses, cumin, coriander, paprika, salt, and pepper.",
+    "Cook for an additional 2-3 minutes until the flavors have melded together.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "smoked-meat",
+    "north-african",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoked-egg-tunisian-shoofly-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:15:08.304Z"
+}
