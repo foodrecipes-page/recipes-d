@@ -6487,18 +6487,14 @@
   },
   {
     "slug": "delicate-smoked-middle-eastern-smoked-haddock-harees",
-    "title": "delicate smoked middle-eastern smoked haddock harees",
+    "title": "Smoked Haddock Harees",
     "tags": [
       "breakfast",
-      "harees",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "smoked-haddock",
-      "weeknight"
+      "middle eastern",
+      "smoked haddock"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -6561,17 +6557,14 @@
   },
   {
     "slug": "delicate-smoky-grilled-chinese-courgettes-bao",
-    "title": "Delicate Smoky Grilled Chinese Courgettes Bao",
+    "title": "Grilled Bao with Smoky Courgettes",
     "tags": [
-      "brunch",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "vegetarian",
+      "asian"
     ],
-    "cuisine": "Hunan",
-    "totalTimeMin": 27,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -10257,16 +10250,16 @@
   },
   {
     "slug": "deliciously-smoky-norwegian-mulukhiyah-stew",
-    "title": "Deliciously Smoky Norwegian Mulukhiyah Stew",
+    "title": "Smoky Norwegian Mulukhiyah Stew",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "norwegian-cuisine",
-      "one-pot",
-      "slow-cooked"
+      "mulukhiyah",
+      "stew",
+      "norwegian",
+      "smoked-salmon",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 190,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
