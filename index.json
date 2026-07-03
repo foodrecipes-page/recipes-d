@@ -4278,17 +4278,15 @@
   },
   {
     "slug": "delicate-dutch-sirloin-steak-tips-pasta",
-    "title": "Delicate Dutch Sirloin Steak Tips Pasta",
+    "title": "Pan-Seared Sirloin Steak with Garlic Pasta",
     "tags": [
-      "brunch-ideas",
-      "dutch-cuisine",
-      "easy-meals",
-      "low-sodium",
-      "pasta-dishes",
-      "steak-recipes"
+      "italian",
+      "dinner",
+      "steak",
+      "pasta"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
@@ -5005,17 +5003,15 @@
   },
   {
     "slug": "delicate-grassy-german-wild-garlic-pasta",
-    "title": "Delicate Grassy German Wild Garlic Pasta",
+    "title": "Wild German Pasta",
     "tags": [
-      "german-cuisine",
-      "monsoon-inspired",
-      "pasta-dish",
-      "sugar-free",
-      "vegetarian",
-      "wild-garlic"
+      "pasta",
+      "wild-garlic",
+      "german",
+      "european"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12439,16 +12435,15 @@
   },
   {
     "slug": "dense-malty-spanish-grapefruit-paella",
-    "title": "Dense Malt Spanish Grapefruit Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "raw-friendly",
       "spanish",
-      "weeknight"
+      "paella",
+      "lunch",
+      "chicken"
     ],
-    "cuisine": "valencian",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
