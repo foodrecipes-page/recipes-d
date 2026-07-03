@@ -9971,17 +9971,15 @@
   },
   {
     "slug": "deliciously-roasted-slovakian-pork-dumplings",
-    "title": "Deliciously Roasted Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "mediterranean-inspired",
-      "one-pan",
-      "pork-recipes",
-      "roasted-vegetables"
+      "slovakian",
+      "pork",
+      "dumplings",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -12920,17 +12918,15 @@
   },
   {
     "slug": "dense-roasted-australian-flour-bake",
-    "title": "Dense Roasted Australian Flour Bake",
+    "title": "Australian-Style Damper",
     "tags": [
-      "breakfast",
-      "brunch",
-      "hearty",
-      "high-fiber",
-      "snack",
-      "wholesome"
+      "australian",
+      "bread",
+      "campfire",
+      "outdoor"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13183,17 +13179,14 @@
   },
   {
     "slug": "dense-slow-roasted-uruguayan-lamb-roast",
-    "title": "Uruguayan Lamb Roast",
+    "title": "Uruguayan Slow Roasted Lamb",
     "tags": [
-      "high-protein",
-      "lamb-based",
-      "one-pan",
-      "slow-roasted",
+      "lamb",
       "uruguayan",
-      "weeknight"
+      "roasted"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 195,
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
