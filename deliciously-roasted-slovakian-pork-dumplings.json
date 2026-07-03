@@ -1,0 +1,78 @@
+{
+  "slug": "deliciously-roasted-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring roasted pork and homemade dumplings. Perfect for a comforting meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork cubes with salt and black pepper. Roast in the oven for 20 minutes.",
+    "While pork is roasting, prepare dumpling dough by combining flour, warm water, and caraway seeds (if using). Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth. Wrap in plastic wrap and let rest for 10 minutes.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk.",
+    "Place a tablespoon of roasted pork in the center of each dumpling. Fold the dough over and press edges together to seal.",
+    "Heat a large skillet over medium-high heat. Add dumplings and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with roasted pork and your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-roasted-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:34:17.785Z"
+}
