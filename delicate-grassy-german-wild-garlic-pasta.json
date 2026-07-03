@@ -1,0 +1,77 @@
+{
+  "slug": "delicate-grassy-german-wild-garlic-pasta",
+  "title": "Wild German Pasta",
+  "description": "A simple and flavorful pasta dish featuring wild garlic and a hint of German spices.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "wild garlic",
+      "amount": "2 cloves",
+      "notes": "chopped"
+    },
+    {
+      "name": "german seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "delicate olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "grassy parmesan",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a small pan, heat the olive oil over medium heat and add the chopped wild garlic.",
+    "Cook the garlic for 1-2 minutes until fragrant, then add the german seasoning and stir to combine.",
+    "Once the pasta is cooked, drain it and add it to the pan with the garlic and seasoning.",
+    "Toss the pasta in the pan to coat it evenly with the garlic and seasoning mixture.",
+    "Transfer the pasta to a serving dish and top it with shaved parmesan cheese.",
+    "Season with salt and pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "wild-garlic",
+    "german",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-grassy-german-wild-garlic-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:44:31.052Z"
+}
