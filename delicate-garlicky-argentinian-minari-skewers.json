@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-garlicky-argentinian-minari-skewers",
+  "title": "Grilled Minari Skewers with Garlic Marinade",
+  "description": "A delicious and easy-to-make Korean-inspired dish featuring minari, marinated in a garlicky mixture and grilled to perfection.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the minari into 2-inch pieces and place in a bowl.",
+    "In a small bowl, whisk together soy sauce, brown sugar, garlic, and olive oil.",
+    "Pour the marinade over the minari and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated minari onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the minari is slightly charred and tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "skewers",
+    "minari",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-argentinian-minari-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:06:05.180Z"
+}
