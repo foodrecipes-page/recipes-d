@@ -1,0 +1,79 @@
+{
+  "slug": "dense-slow-roasted-uruguayan-lamb-roast",
+  "title": "Uruguayan Slow Roasted Lamb",
+  "description": "A traditional Uruguayan recipe featuring slow roasted lamb with a rich, savory flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5kg)",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, dried oregano, and dried thyme.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to the preheated oven and roast for 2 1/2 hours, or until tender and falling apart.",
+    "While the lamb is roasting, mix the roasted garlic with 1 tablespoon of olive oil.",
+    "Remove the lamb from the oven and brush the garlic and olive oil mixture all over the top.",
+    "Return the lamb to the oven and continue roasting for an additional 30 minutes.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving.",
+    "Serve with your choice of sides, such as roasted vegetables or mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "uruguayan",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-slow-roasted-uruguayan-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:22:42.153Z"
+}
