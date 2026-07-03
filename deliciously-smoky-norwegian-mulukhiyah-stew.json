@@ -1,0 +1,86 @@
+{
+  "slug": "deliciously-smoky-norwegian-mulukhiyah-stew",
+  "title": "Smoky Norwegian Mulukhiyah Stew",
+  "description": "A hearty and flavorful stew inspired by Norwegian cuisine, featuring smoky flavors and mulukhiyah for a unique twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah leaves",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Norwegian smoked salmon",
+      "amount": "6 oz, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and cubed"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened, 5 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add mulukhiyah leaves, smoked salmon, tomato paste, beef broth, dill, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mulukhiyah",
+    "stew",
+    "norwegian",
+    "smoked-salmon",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoky-norwegian-mulukhiyah-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:02:14.147Z"
+}
