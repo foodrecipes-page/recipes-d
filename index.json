@@ -4302,17 +4302,16 @@
   },
   {
     "slug": "delicate-earthy-french-gobo-burdock-gratin",
-    "title": "Delicate Earthy French Gobo Burdock Gratin",
+    "title": "Burdock and Gobo Gratin",
     "tags": [
-      "french-cuisine",
-      "healthy",
-      "one-pan",
-      "special-occasion",
-      "vegan-friendly",
-      "vegetarian-friendly"
+      "burdock",
+      "gobo",
+      "gratin",
+      "french",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -6020,17 +6019,14 @@
   },
   {
     "slug": "delicate-poached-american-chicken-skillet",
-    "title": "Delicate Poached American Chicken Skillet",
+    "title": "Chicken and American Skillet Delight",
     "tags": [
-      "american-cuisine",
-      "gluten-free",
-      "high-protein",
-      "nut-free",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "chicken",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
