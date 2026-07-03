@@ -1,0 +1,98 @@
+{
+  "slug": "decadent-chinese-noodles-lo-mein",
+  "title": "Decadent Lo Mein",
+  "description": "A rich and savory Chinese-inspired noodle dish loaded with vegetables and meat. Perfect for a comforting evening meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lo Mein Noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Lo Mein Noodles according to package instructions.",
+    "Heat Vegetable Oil in a large skillet or wok over medium-high heat.",
+    "Add Ground Pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add Shredded Carrots, Sliced Mushrooms, and Diced Bell Peppers to the skillet. Cook until the vegetables are tender.",
+    "Add Soy Sauce, Oyster Sauce, and cooked Lo Mein Noodles to the skillet. Stir-fry everything together.",
+    "Transfer the noodle mixture to a serving platter. Garnish with Scallions and Sesame Seeds.",
+    "Serve immediately and enjoy!",
+    "Optional: You can also add other vegetables, such as chopped broccoli or snap peas, to the stir-fry.",
+    "You can also use different types of protein, such as chicken or tofu, in place of the Ground Pork.",
+    "For an added crunch, sprinkle chopped nuts or seeds on top of the noodle mixture before serving.",
+    "For a spicy kick, add some diced jalapenos or red pepper flakes to the stir-fry.",
+    "To make the dish more substantial, add some diced cooked chicken or beef to the noodle mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "decadent",
+    "chinese",
+    "noodles",
+    "lo-mein"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-chinese-noodles-lo-mein",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:45:45.214Z"
+}
