@@ -1,0 +1,87 @@
+{
+  "slug": "delicate-smoky-grilled-chinese-courgettes-bao",
+  "title": "Grilled Bao with Smoky Courgettes",
+  "description": "A sweet and savory Asian-inspired dish featuring grilled courgettes and delicate bao buns.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4-6",
+      "notes": "delicate and soft"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. Slice the courgettes into 1/2-inch thick rounds.",
+    "3. Brush the courgettes with sesame oil and season with smoked paprika, salt, and black pepper.",
+    "4. Grill the courgettes for 3-4 minutes per side, or until tender and lightly charred.",
+    "5. Meanwhile, toast the bao buns by grilling them for 2-3 minutes, or until lightly browned.",
+    "6. In a small bowl, whisk together soy sauce and honey.",
+    "7. Assemble the bao buns by spreading a small amount of the soy sauce-honey mixture on the bottom bun, followed by a grilled courgette round, and finishing with the top bun.",
+    "8. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-grilled-chinese-courgettes-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:43:45.371Z"
+}
