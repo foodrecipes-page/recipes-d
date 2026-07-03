@@ -1,0 +1,67 @@
+{
+  "slug": "dreamy-pillowy-uruguayan-cod-casserole",
+  "title": "Cod Casserole",
+  "description": "A hearty and comforting casserole dish featuring cod as the main ingredient. This recipe combines the flaky texture of cod with the creaminess of dreamy, pillowy ingredients.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "3/4 pound",
+      "notes": "Fresh, sustainable cod"
+    },
+    {
+      "name": "Dreamy cheese",
+      "amount": "1 cup, shredded",
+      "notes": "A blend of creamy cheeses"
+    },
+    {
+      "name": "Pillowy biscuit mix",
+      "amount": "1 package",
+      "notes": "For the casserole crust"
+    },
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1/2 pound, sliced",
+      "notes": "Spicy, smoked sausage"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup, crushed",
+      "notes": "For the crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine cod fillets, dreamy cheese, and pillowy biscuit mix.",
+    "Mix well and pour into a greased 9x13 inch baking dish.",
+    "Arrange sliced Uruguayan chorizo on top of the cod mixture.",
+    "Sprinkle crushed casserole over the chorizo.",
+    "Bake for 25 minutes or until the casserole is golden brown and the fish is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod",
+    "casserole",
+    "uruguayan",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-pillowy-uruguayan-cod-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:48:16.467Z"
+}
