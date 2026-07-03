@@ -1635,17 +1635,15 @@
   },
   {
     "slug": "decadent-chinese-noodles-lo-mein",
-    "title": "Decadent Chinese Noodles Lo Mein",
+    "title": "Decadent Lo Mein",
     "tags": [
-      "noodle-dish",
-      "one-pan",
-      "seafood",
-      "special-occasion",
-      "weeknight",
-      "wine-based"
+      "decadent",
+      "chinese",
+      "noodles",
+      "lo-mein"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -7153,16 +7151,17 @@
   },
   {
     "slug": "delicate-ukrainian-sesame-dumplings",
-    "title": "Delicate Ukrainian Sesame Dumplings",
+    "title": "Pan-Seared Ukrainian Dumplings with Sesame Seeds",
     "tags": [
-      "brine-recipes",
-      "dumpling-recipes",
-      "sesame-seeds",
-      "ukrainian-cuisine",
-      "vegetarian-friendly"
+      "ukrainian",
+      "dumplings",
+      "sesame",
+      "breakfast",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -10201,17 +10200,16 @@
   },
   {
     "slug": "deliciously-smoky-argentinian-vegetable-skewers",
-    "title": "Deliciously Smoky Argentinian Vegetable Skewers",
+    "title": "Smoky Argentinian Vegetable Skewers",
     "tags": [
       "argentinian",
-      "one-pot",
-      "smoky",
-      "special-occasion",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "grilled",
+      "skewers"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
