@@ -1,0 +1,72 @@
+{
+  "slug": "decadent-spicy-irish-sausage-hash",
+  "title": "Irish Sausage Hash",
+  "description": "A hearty, spicy Irish-inspired dish made with sausage and hash.",
+  "cuisine": "irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "12 oz",
+      "notes": "Cooked, sliced"
+    },
+    {
+      "name": "Hash brown",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced Irish sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the shredded hash brown to the skillet and stir to combine with the onion and bell pepper mixture.",
+    "Return the cooked sausage to the skillet and stir to combine with the hash brown mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "breakfast",
+    "sausage",
+    "hash"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spicy-irish-sausage-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:51.933Z"
+}
