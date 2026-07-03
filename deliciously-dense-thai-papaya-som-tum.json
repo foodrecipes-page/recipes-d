@@ -1,0 +1,86 @@
+{
+  "slug": "deliciously-dense-thai-papaya-som-tum",
+  "title": "Som Tam (Thai Papaya Salad)",
+  "description": "A spicy and sour salad made from shredded green papaya, peanuts, and a variety of other ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green papaya",
+      "amount": "1 medium",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chilies",
+      "amount": "2-3",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Som"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Rice vinegar"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large mortar, pound the chilies, garlic, and peanuts until well combined.",
+    "2. Add the shredded papaya, tomatoes, fish sauce, palm sugar, and vinegar to the mortar.",
+    "3. Pound the mixture until it's well combined and the papaya is slightly mashed.",
+    "4. Taste and adjust the seasoning with salt as needed.",
+    "5. Transfer the salad to a serving dish and garnish with chopped cilantro.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "salad",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-thai-papaya-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:55:28.715Z"
+}
