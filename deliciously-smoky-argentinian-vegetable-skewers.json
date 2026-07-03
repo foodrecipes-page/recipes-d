@@ -1,0 +1,83 @@
+{
+  "slug": "deliciously-smoky-argentinian-vegetable-skewers",
+  "title": "Smoky Argentinian Vegetable Skewers",
+  "description": "Deliciously grilled vegetable skewers inspired by Argentine cuisine, perfect for a healthy and flavorful meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium, cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread zucchini, bell pepper, onion, and mushrooms onto skewers.",
+    "In a small bowl, whisk together smoked paprika, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Brush the mixture onto both sides of the vegetables.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "gluten-free",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoky-argentinian-vegetable-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:07:21.006Z"
+}
