@@ -1,0 +1,51 @@
+{
+  "slug": "dense-roasted-australian-flour-bake",
+  "title": "Australian-Style Damper",
+  "description": "A classic Australian bread recipe, perfect for outdoor cooking. This dense, roasted damper is easy to make and ideal for campfires or barbecues.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a cast-iron pot or Dutch oven over medium heat.",
+    "2. Combine flour and salt (if using) in a large bowl.",
+    "3. Gradually add water, mixing until a dough forms.",
+    "4. Knead the dough for 5-7 minutes until smooth.",
+    "5. Shape the dough into a round or oblong shape.",
+    "6. Place the dough in the preheated pot, with a lid.",
+    "7. Bake for 20-25 minutes, or until the damper is golden brown and sounds hollow when tapped.",
+    "8. Remove from heat, and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "bread",
+    "campfire",
+    "outdoor"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-roasted-australian-flour-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:44:26.270Z"
+}
