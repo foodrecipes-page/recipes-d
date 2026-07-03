@@ -1724,17 +1724,15 @@
   },
   {
     "slug": "decadent-crunchy-mediterranean-duck-confit",
-    "title": "Decadent Crunchy Mediterranean Duck Confit",
+    "title": "Mediterranean Duck Confit",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "macrobiotic",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "duck",
+      "confit",
+      "gourmet"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "French",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
