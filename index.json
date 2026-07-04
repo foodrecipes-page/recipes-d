@@ -1447,17 +1447,15 @@
   },
   {
     "slug": "decadent-basque-rice-paella",
-    "title": "Decadent Basque Rice Paella",
+    "title": "Classic Paella",
     "tags": [
-      "basque",
-      "high-protein",
-      "one-pan",
+      "paella",
       "spanish",
-      "vegetarian",
-      "weeknight"
+      "seafood",
+      "vegetarian"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -7551,17 +7549,16 @@
   },
   {
     "slug": "delicious-briny-algerian-sea-bass-tagine",
-    "title": "Delicious Briny Algerian Sea Bass Tagine",
+    "title": "Algerian Sea Bass Tagine",
     "tags": [
-      "aromatic",
-      "flavorful",
-      "hangover-cure",
-      "north-african",
-      "one-pot",
-      "seafood"
+      "algerian",
+      "sea-bass",
+      "fish",
+      "tagine",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9092,16 +9089,14 @@
   },
   {
     "slug": "deliciously-dense-croatian-corn-sandwich",
-    "title": "Deliciously Dense Croatian Corn Sandwich",
+    "title": "Croatian Corn Sandwiches",
     "tags": [
-      "cheesy-delights",
-      "croatian-cuisine",
-      "quick-fix",
-      "snack-ideas",
-      "whole30-friendly"
+      "sandwich",
+      "corn",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
