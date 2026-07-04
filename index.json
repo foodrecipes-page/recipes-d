@@ -5896,17 +5896,14 @@
   },
   {
     "slug": "delicate-peppery-american-parma-ham-sandwich",
-    "title": "Delicate Peppery American Parma Ham Sandwich",
+    "title": "Parma Ham Sandwich",
     "tags": [
-      "american-classic",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "italian",
+      "ham",
+      "sandwich"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 20,
+    "cuisine": "italian",
+    "totalTimeMin": 5,
     "shard": "d"
   },
   {
@@ -7268,17 +7265,15 @@
   },
   {
     "slug": "delicate-velvety-norwegian-cod-bake",
-    "title": "Delicate Velvety Norwegian Cod Bake",
+    "title": "Baked Norwegian Cod with Delicate Cream Sauce",
     "tags": [
+      "norwegian-cod",
+      "delicate-cream-sauce",
       "baked-fish",
-      "delicate-flavors",
-      "healthy-dinner",
-      "norwegian-cuisine",
-      "pescatarian-friendly",
-      "velvety-texture"
+      "low-carb"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -11325,16 +11320,14 @@
   },
   {
     "slug": "dense-crisp-turkish-flatbread-pilaf",
-    "title": "Dense Crisp Turkish Flatbread Pilaf",
+    "title": "Turkish Pilaf with Crispy Flatbread",
     "tags": [
-      "bread-based",
-      "breakfast-option",
-      "comfort-food",
-      "one-pan",
-      "turkish-cuisine"
+      "turkish",
+      "pilaf",
+      "flatbread"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14588,16 +14581,14 @@
   },
   {
     "slug": "dreamy-dense-dutch-turkish-delight-pancakes",
-    "title": "Dreamy Dense Dutch Turkish Delight Pancakes",
+    "title": "Dutch Delight Pancakes",
     "tags": [
-      "ayurvedic-friendly",
-      "brunch-ideas",
-      "dutch-pancakes",
-      "turkish-delight",
-      "vegetarian-breakfast"
+      "breakfast",
+      "pancakes",
+      "turkish-delight"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
