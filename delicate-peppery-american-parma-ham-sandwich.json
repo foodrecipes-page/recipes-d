@@ -1,0 +1,54 @@
+{
+  "slug": "delicate-peppery-american-parma-ham-sandwich",
+  "title": "Parma Ham Sandwich",
+  "description": "A simple yet elegant sandwich featuring Parma ham, served with a delicate twist.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "8 slices",
+      "notes": null
+    },
+    {
+      "name": "American sandwich bread",
+      "amount": "2 loaves",
+      "notes": null
+    },
+    {
+      "name": "Dill",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "1. Lay out the bread slices.",
+    "2. Place 4 slices of Parma ham on two of the bread slices.",
+    "3. Sprinkle a few fresh dill leaves over the ham.",
+    "4. Top with the remaining bread slices to create a sandwich.",
+    "5. Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "ham",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-peppery-american-parma-ham-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:06:59.830Z"
+}
