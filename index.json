@@ -7288,17 +7288,15 @@
   },
   {
     "slug": "delicate-venezuelan-blackcurrant-empanadas",
-    "title": "Delicate Venezuelan Blackcurrant Empanadas",
+    "title": "Delicate Venezuelan Empanadas",
     "tags": [
-      "baked-goods",
-      "festive",
-      "homemade",
-      "sugar-free",
-      "vegetarian",
-      "venezuelan-cuisine"
+      "venezuelan",
+      "dessert",
+      "empanadas",
+      "blackcurrant"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -8837,30 +8835,29 @@
   },
   {
     "slug": "deliciously-crunchy-croatian-pork-skillet",
-    "title": "Deliciously Crunchy Croatian Pork Skillet",
+    "title": "Croatian Pork Skillet",
     "tags": [
-      "croatian-cuisine",
-      "high-protein",
-      "one-pan",
-      "pork-recipe",
-      "weeknight"
+      "croatian",
+      "pork",
+      "skillet",
+      "dinner"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
     "slug": "deliciously-crunchy-french-nuka-pickle-quiche",
-    "title": "Deliciously Crunchy French Nuka Pickle Quiche",
+    "title": "French Nuka Quiche",
     "tags": [
-      "brunch-ideas",
-      "french-cuisine",
-      "pickle-recipes",
-      "quiche-recipes",
-      "vegetarian-options"
+      "quiche",
+      "french",
+      "nuka",
+      "pickle",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
