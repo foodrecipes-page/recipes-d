@@ -1,0 +1,74 @@
+{
+  "slug": "deliciously-rich-british-stilton-cheese-spotted-dick",
+  "title": "British Stilton Spotted Dick",
+  "description": "A rich and delicious British dessert featuring Stilton cheese and spotted dick suet pudding.",
+  "cuisine": "British",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "grated stilton cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spotted dick suet pudding",
+      "amount": "1 package"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, butter, and Stilton cheese.",
+    "Add the suet pudding, heavy cream, sugar, egg, and vanilla extract to the bowl.",
+    "Mix the ingredients together until a smooth batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and the interior is set.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-rich-british-stilton-cheese-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:23:59.169Z"
+}
