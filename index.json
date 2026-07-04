@@ -917,15 +917,15 @@
   },
   {
     "slug": "date-nectar-medley",
-    "title": "Date Nectar Medley",
+    "title": "Nectar Medley Tart",
     "tags": [
-      "date-nectar-medley",
-      "saudi-arabian-dish",
-      "dairy-free",
-      "gluten-free"
+      "vegan",
+      "dessert",
+      "gluten-free",
+      "tart"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5120,16 +5120,15 @@
   },
   {
     "slug": "delicate-herbal-norwegian-rice-flour-dumplings",
-    "title": "Delicate Herbal Norwegian Rice Flour Dumplings",
+    "title": "Delicate Norwegian Dumplings",
     "tags": [
-      "herbal-remedies",
-      "low-calorie",
-      "norwegian-cuisine",
-      "steamed-dishes",
-      "vegetarian-friendly"
+      "norwegian",
+      "dumplings",
+      "delicate",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -8023,16 +8022,17 @@
   },
   {
     "slug": "delicious-molten-slovakian-egg-frittata",
-    "title": "Delicious Molten Slovakian Egg Frittata",
+    "title": "Traditional Slovakian Frittata",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian-friendly",
-      "weekend-brunch"
+      "slovakian",
+      "frittata",
+      "breakfast",
+      "brunch",
+      "eggs",
+      "cheese"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -11031,12 +11031,12 @@
   },
   {
     "slug": "dense-argentinian-chocolate-chips-brownies",
-    "title": "Dense Argentinian Chocolate Chips Brownies",
+    "title": "Argentinian Chocolate Brownie Bars",
     "tags": [
       "argentinian",
       "chocolate",
       "brownies",
-      "vegan",
+      "bars",
       "dessert"
     ],
     "cuisine": "Argentinian",
@@ -13044,17 +13044,14 @@
   },
   {
     "slug": "dense-savory-vietnamese-pork-com-tam",
-    "title": "Dense Savory Vietnamese Pork Com Tam",
+    "title": "Vietnamese Pork Com Bites",
     "tags": [
-      "flexitarian",
-      "meal-prep",
-      "one-pan",
-      "salt-block",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "pork",
+      "snack"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 70,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
