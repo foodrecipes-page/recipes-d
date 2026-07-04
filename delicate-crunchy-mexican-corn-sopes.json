@@ -1,0 +1,99 @@
+{
+  "slug": "delicate-crunchy-mexican-corn-sopes",
+  "title": "Delicious Mexican Sopes",
+  "description": "A traditional Mexican dish made with crispy sopes, topped with a variety of ingredients.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sopes",
+      "amount": "4-6",
+      "notes": "Homemade or store-bought sopes"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Queso fresco or Oaxaca cheese"
+    },
+    {
+      "name": "Carnitas",
+      "amount": "1 cup, shredded",
+      "notes": "Slow-cooked pork or store-bought carnitas"
+    },
+    {
+      "name": "Delicate Chorizo",
+      "amount": "1/4 cup, sliced",
+      "notes": " Mexican chorizo sausage"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup, grilled or boiled",
+      "notes": "Fresh corn kernels or canned corn"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh cilantro leaves"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Warm the sopes according to package instructions.",
+    "3. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "4. Add the carnitas and cook until crispy, about 4-5 minutes. Set aside.",
+    "5. In the same skillet, add the chorizo and cook until crispy, about 2-3 minutes. Set aside.",
+    "6. In a separate skillet, grill or boil the corn until slightly charred.",
+    "7. Assemble the sopes by spreading a spoonful of carnitas on each sopes, followed by a spoonful of chorizo, corn, and cheese.",
+    "8. Sprinkle with cilantro and a squeeze of lime juice (if using).",
+    "9. Serve immediately, topped with sour cream and salsa (if using).",
+    "10. Enjoy your delicious Mexican sopes!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lunch",
+    "sopes",
+    "carnitas",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crunchy-mexican-corn-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:06:12.688Z"
+}
