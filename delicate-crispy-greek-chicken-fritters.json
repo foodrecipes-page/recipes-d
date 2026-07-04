@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-crispy-greek-chicken-fritters",
+  "title": "Crispy Chicken Fritters",
+  "description": "A delicious and easy-to-make snack or appetizer, perfect for any occasion. Crispy on the outside and tender on the inside, these chicken fritters are sure to please.",
+  "cuisine": "greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "delicate olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a bowl, mix together the flour, crispy breadcrumbs, dried oregano, garlic powder, salt, and black pepper.",
+    "In another bowl, whisk together the greek yogurt and egg.",
+    "Add the chicken breast to the yogurt mixture and mix well.",
+    "Add the chicken mixture to the flour mixture and mix until just combined.",
+    "Using your hands, shape the mixture into small fritters.",
+    "Carefully place the fritters into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "greek",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crispy-greek-chicken-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:39:25.829Z"
+}
