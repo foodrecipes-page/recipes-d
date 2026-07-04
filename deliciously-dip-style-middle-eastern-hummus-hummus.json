@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-dip-style-middle-eastern-hummus-hummus",
+  "title": "Classic Hummus",
+  "description": "A delicious and healthy Middle Eastern dip made from chickpeas, tahini, garlic, and lemon juice. Serve with pita bread or vegetables for a nutritious snack.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas.",
+    "In a blender or food processor, combine the chickpeas, tahini, garlic, lemon juice, and salt.",
+    "Blend on high speed for 2 minutes, or until the mixture is smooth and creamy.",
+    "With the blender or food processor running, slowly pour in the olive oil and water.",
+    "Continue blending for another minute, or until the hummus is smooth and creamy.",
+    "Transfer the hummus to a serving bowl.",
+    "Drizzle the remaining 1 tablespoon of olive oil on top of the hummus.",
+    "Garnish with paprika, parsley, or other herbs of your choice.",
+    "Serve with pita bread, vegetables, or crackers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hummus",
+    "middle eastern",
+    "dip",
+    "snack",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dip-style-middle-eastern-hummus-hummus",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:42:28.380Z"
+}
