@@ -1,0 +1,92 @@
+{
+  "slug": "deep-red-braised-chinese-onions-braised",
+  "title": "Braised Red Onion Stir-Fry",
+  "description": "A savory and sweet Chinese-inspired dish made with deep-fried onions and a variety of spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Deep-Fried Onions",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Red Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the deep-fried onions and cook for 2-3 minutes, until crispy.",
+    "Add the sliced red onions, ginger, and garlic. Cook for 2-3 minutes, until the onions are translucent.",
+    "In a small bowl, whisk together soy sauce, hoisin sauce, rice vinegar, sugar, salt, and pepper.",
+    "Pour the sauce into the wok or skillet and stir to combine.",
+    "Continue cooking for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "onion",
+    "stir-fry",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-red-braised-chinese-onions-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:58:00.079Z"
+}
