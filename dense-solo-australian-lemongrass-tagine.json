@@ -1,0 +1,78 @@
+{
+  "slug": "dense-solo-australian-lemongrass-tagine",
+  "title": "Australian Lamb Tagine with Lemongrass",
+  "description": "A twist on traditional Australian cuisine, this lamb tagine is infused with the bright, citrusy flavors of lemongrass.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "Dense, sweet potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "4 stalks",
+      "notes": "Bruised"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the lemongrass, sweet potatoes, tagine spice mix, salt, and black pepper.",
+    "Stir to combine, then add enough water to cover the lamb and vegetables.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the lamb and vegetables for 2 hours, or until the lamb is tender and the sweet potatoes are cooked through.",
+    "Serve hot, garnished with fresh lemongrass if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "lemongrass",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-solo-australian-lemongrass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:54:36.159Z"
+}
