@@ -1,0 +1,71 @@
+{
+  "slug": "drizzled-buttery-jamaican-grape-leaves-bowl",
+  "title": "Grape and Jamaican Leaf Delight",
+  "description": "A unique, sweet, and savory dish combining the flavors of Jamaica and fresh grapes, wrapped in fragrant leaves.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "6-8",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Buttery drizzle",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the grape leaves and pat dry.",
+    "In a bowl, mix together grapes and jerk seasoning.",
+    "Place a grape leaf on a flat surface, with the stem end facing you.",
+    "Place a spoonful of the grape mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining leaves and filling.",
+    "Place the rolls in a baking dish and drizzle with buttery drizzle.",
+    "Bake for 15-20 minutes, or until the leaves are tender.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "grape",
+    "jerk",
+    "leaves"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/drizzled-buttery-jamaican-grape-leaves-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:52:24.852Z"
+}
