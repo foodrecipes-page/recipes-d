@@ -1,0 +1,68 @@
+{
+  "slug": "delicate-herbal-norwegian-rice-flour-dumplings",
+  "title": "Delicate Norwegian Dumplings",
+  "description": "A traditional Norwegian recipe made with delicate dumplings and a flavorful broth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delicate herbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "norwegian spices",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour and rice in a large bowl.",
+    "Add delicate herbs and mix well.",
+    "Gradually add water and stir until dough forms.",
+    "Knead dough for 10 minutes.",
+    "Divide dough into small pieces and shape into dumplings.",
+    "Bring a large pot of water to a boil.",
+    "Gently add dumplings to the boiling water.",
+    "Cook for 15 minutes or until dumplings float to the surface.",
+    "Serve with a flavorful broth made by simmering norwegian spices and salt in water."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "dumplings",
+    "delicate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-herbal-norwegian-rice-flour-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:41:03.243Z"
+}
