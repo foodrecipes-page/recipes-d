@@ -3951,17 +3951,15 @@
   },
   {
     "slug": "delicate-crispy-greek-chicken-fritters",
-    "title": "Delicate Crispy Greek Chicken Fritters",
+    "title": "Crispy Chicken Fritters",
     "tags": [
-      "gluten-free",
+      "chicken",
       "greek",
-      "low-glycemic",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 27,
+    "cuisine": "greek",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -4070,14 +4068,13 @@
   },
   {
     "slug": "delicate-crunchy-mexican-corn-sopes",
-    "title": "Delicate Crunchy Mexican Corn Sopes",
+    "title": "Delicious Mexican Sopes",
     "tags": [
-      "easy-to-make",
-      "jain-friendly",
       "mexican",
-      "one-pan",
-      "snack",
-      "vegetarian"
+      "lunch",
+      "sopes",
+      "carnitas",
+      "chorizo"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
@@ -7103,16 +7100,15 @@
   },
   {
     "slug": "delicate-turkish-tortillas-su-boregi",
-    "title": "Delicate Turkish Tortillas Su Boregi",
+    "title": "Turkish Boregi Bites",
     "tags": [
-      "comfort-food",
-      "mediterranean-inspired",
-      "snack-time",
-      "turkish-cuisine",
-      "vegetarian-friendly"
+      "turkish",
+      "appetizer",
+      "snack",
+      "cheese"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -15115,17 +15111,15 @@
   },
   {
     "slug": "drizzled-buttery-jamaican-grape-leaves-bowl",
-    "title": "Drizzled Buttery Jamaican Grape Leaves Bowl",
+    "title": "Grape and Jamaican Leaf Delight",
     "tags": [
-      "high-protein",
-      "jamaican-flavor",
-      "low-carb",
-      "one-pot",
-      "post-workout",
-      "stone-bowl"
+      "caribbean",
+      "grape",
+      "jerk",
+      "leaves"
     ],
-    "cuisine": "Jamaican Fusion",
-    "totalTimeMin": 25,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
