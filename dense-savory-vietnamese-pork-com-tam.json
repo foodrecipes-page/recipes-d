@@ -1,0 +1,72 @@
+{
+  "slug": "dense-savory-vietnamese-pork-com-tam",
+  "title": "Vietnamese Pork Com Bites",
+  "description": "A savory and easy-to-make Vietnamese-inspired dish made with pork, com and tam.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "250g",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "com",
+      "amount": "100g",
+      "notes": "Rice flour"
+    },
+    {
+      "name": "tam",
+      "amount": "20g",
+      "notes": "Vietnamese shallots"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "oil",
+      "amount": "20g",
+      "notes": "Vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, rice flour, salt, and pepper in a bowl.",
+    "Mix well until just combined, being careful not to overmix.",
+    "Heat a small amount of oil in a pan over medium-high heat.",
+    "Using your hands, shape the pork mixture into small patties.",
+    "Fry the patties until golden brown and cooked through, about 3-4 minutes per side.",
+    "Remove from heat and serve hot.",
+    "Garnish with additional tam if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-savory-vietnamese-pork-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:22:46.436Z"
+}
