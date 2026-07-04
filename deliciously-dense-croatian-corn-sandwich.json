@@ -1,0 +1,65 @@
+{
+  "slug": "deliciously-dense-croatian-corn-sandwich",
+  "title": "Croatian Corn Sandwiches",
+  "description": "A flavorful twist on the classic sandwich, featuring dense Croatian bread and sweet corn.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup, fresh kernels"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tablespoon, chopped fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Butter the Croatian bread slices.",
+    "Grill the bread until lightly toasted.",
+    "Season the corn kernels with salt and black pepper.",
+    "Grill the corn kernels for 2-3 minutes, until slightly charred.",
+    "Assemble the sandwiches by spreading dill on each bread slice, then topping with corn kernels.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sandwich",
+    "corn",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-croatian-corn-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:24:20.631Z"
+}
