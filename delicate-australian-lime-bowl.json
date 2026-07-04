@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-australian-lime-bowl",
+  "title": "Grilled Australian Delicate Fish with Lime",
+  "description": "A simple and flavorful recipe showcasing the delicate flavor of Australian fish paired with the brightness of lime.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Delicate Fish Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lime",
+      "amount": "2",
+      "notes": "Freshly squeezed juice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "High-quality and extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unrefined and flaky"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped and fresh"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "Optional for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the fish fillets under cold water and pat them dry with paper towels.",
+    "Season the fish with salt and pepper to taste.",
+    "Drizzle the olive oil over the fish and make sure it's evenly coated.",
+    "Place the fish on the grill and cook for 4-5 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Remove the fish from the grill and let it rest for a few minutes.",
+    "Squeeze the lime juice over the fish and garnish with chopped cilantro.",
+    "Serve the fish with lemon wedges on the side, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "fish",
+    "australian",
+    "lime",
+    "delicate"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-australian-lime-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:25:20.715Z"
+}
