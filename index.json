@@ -6733,17 +6733,16 @@
   },
   {
     "slug": "delicate-sour-indian-chicken-curry",
-    "title": "Delicate Sour Indian Chicken Curry",
+    "title": "Delicate Chicken Curry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "indian-cuisine",
-      "one-pan",
-      "weeknight"
+      "indian",
+      "chicken",
+      "curry",
+      "easy",
+      "healthy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -8568,18 +8567,16 @@
   },
   {
     "slug": "deliciously-crisp-peruvian-lamb-seco-de-cordero",
-    "title": "Deliciously Crisp Peruvian Lamb Seco De Cordero",
+    "title": "Crisp Peruvian Lamb Seco",
     "tags": [
-      "crispy",
-      "crowd-pleaser",
-      "dinner-party",
-      "fermented",
+      "latin-american",
       "lamb",
-      "macrobiotic",
-      "peruvian"
+      "stew",
+      "crock-pot",
+      "slow-cooker"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -9395,17 +9392,17 @@
   },
   {
     "slug": "deliciously-dip-style-middle-eastern-hummus-hummus",
-    "title": "Deliciously Dip-Style Middle-Eastern Hummus",
+    "title": "Classic Hummus",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "hummus",
+      "middle eastern",
+      "dip",
+      "snack",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 15,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
@@ -9580,17 +9577,15 @@
   },
   {
     "slug": "deliciously-garlicky-spanish-chicken-paella",
-    "title": "Deliciously Garlicky Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "chicken-recipes",
-      "fodmap-friendly",
-      "garlic-lovers",
-      "gluten-free",
-      "one-pot",
-      "spanish-food"
+      "chicken",
+      "paella",
+      "spanish",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13452,18 +13447,15 @@
   },
   {
     "slug": "dense-solo-australian-lemongrass-tagine",
-    "title": "Dense Solo Australian Lemongrass Tagine",
+    "title": "Australian Lamb Tagine with Lemongrass",
     "tags": [
       "australian",
-      "dinner",
-      "gluten-free",
       "lamb",
       "lemongrass",
-      "meal-prep",
-      "vegetarian"
+      "tagine"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
