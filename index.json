@@ -9501,19 +9501,15 @@
   },
   {
     "slug": "deliciously-energizing-thai-sea-bass-tom-yum",
-    "title": "Deliciously energizing Thai sea bass Tom Yum",
+    "title": "Thai-Style Sea Bass with Tom Yum Sauce",
     "tags": [
-      "energizing",
-      "high-protein",
-      "one-pan",
+      "thai-cuisine",
       "seafood",
-      "sour",
-      "spicy",
-      "thaicuisine",
-      "weeknight"
+      "healthy",
+      "low-carb"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
@@ -12558,18 +12554,14 @@
   },
   {
     "slug": "dense-moroccan-pilchards-tagine",
-    "title": "Dense Moroccan Pilchards Tagine",
+    "title": "Moroccan-Style Pilchard Tagine",
     "tags": [
-      "comfort-food",
-      "fish",
-      "low-fat",
       "moroccan",
-      "one-pan",
-      "tagine",
-      "weeknight"
+      "fish-stew",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
