@@ -1,0 +1,74 @@
+{
+  "slug": "delicate-turkish-tortillas-su-boregi",
+  "title": "Turkish Boregi Bites",
+  "description": "Delicate Turkish boregi filled with cheese and wrapped in flaky tortillas, perfect as a snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "flaky, round tortillas"
+    },
+    {
+      "name": "su",
+      "amount": "1/4 cup",
+      "notes": "melted butter or oil"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly feta cheese"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 bunch",
+      "notes": "chopped parsley for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tortillas into squares, about 4 inches per side.",
+    "In a bowl, mix together the feta cheese, chopped parsley, salt, and black pepper.",
+    "Brush the su on a tortilla square, then place a small spoonful of the cheese mixture in the center.",
+    "Fold the tortilla into a triangle, pressing the edges to seal.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Place the boregi bites on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "appetizer",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-turkish-tortillas-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:01:52.948Z"
+}
