@@ -1,0 +1,80 @@
+{
+  "slug": "dreamy-dense-dutch-turkish-delight-pancakes",
+  "title": "Dutch Delight Pancakes",
+  "description": "A fluffy and sweet pancake recipe inspired by Dutch cuisine, topped with a delightful Turkish delight mixture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, sugar, and a pinch of salt.",
+    "2. In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "3. Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "4. Heat a non-stick pan over medium heat.",
+    "5. Drop the batter by 1/4 cupfuls onto the pan.",
+    "6. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "7. Flip the pancakes and cook for another 1-2 minutes.",
+    "8. Meanwhile, mix together crushed Turkish delight, icing sugar, and lemon juice in a bowl.",
+    "9. Once the pancakes are cooked, top with the Turkish delight mixture.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-dense-dutch-turkish-delight-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:55:09.757Z"
+}
