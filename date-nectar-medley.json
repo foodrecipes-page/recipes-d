@@ -1,0 +1,58 @@
+{
+  "slug": "date-nectar-medley",
+  "title": "Nectar Medley Tart",
+  "description": "A sweet and tangy tart made with nectar, medley, and date. Perfect for a dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Nectar",
+      "amount": "1 cup",
+      "notes": "honey or maple syrup as substitute"
+    },
+    {
+      "name": "Medley",
+      "amount": "1/4 cup",
+      "notes": "any combination of nuts, seeds, and dried fruits"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough and place in a tart pan.",
+    "Arrange dates in a pattern on the dough.",
+    "Drizzle nectar over the dates.",
+    "Top with medley.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "gluten-free",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-nectar-medley",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:28:34.409Z"
+}
