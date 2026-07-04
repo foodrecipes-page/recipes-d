@@ -3007,15 +3007,15 @@
   },
   {
     "slug": "deep-red-braised-chinese-onions-braised",
-    "title": "Deep Red Braised Chinese Onions",
+    "title": "Braised Red Onion Stir-Fry",
     "tags": [
-      "braised",
+      "onion",
+      "stir-fry",
       "chinese",
-      "dinner",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 120,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
