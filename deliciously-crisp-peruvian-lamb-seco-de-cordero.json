@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-crisp-peruvian-lamb-seco-de-cordero",
+  "title": "Crisp Peruvian Lamb Seco",
+  "description": "A traditional Peruvian lamb stew slow-cooked in a rich and flavorful broth, served with crispy potatoes and a side of rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Peruvian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and chopped aji amarillo pepper and cook for 1 minute.",
+    "Add the chopped potatoes and cook for 5 minutes.",
+    "Add the browned lamb back to the pot, along with the chopped cilantro, salt, and black pepper.",
+    "Pour in the beef broth and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Remove from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "lamb",
+    "stew",
+    "crock-pot",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crisp-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:51:57.061Z"
+}
