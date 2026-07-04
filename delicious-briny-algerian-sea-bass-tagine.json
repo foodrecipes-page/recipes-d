@@ -1,0 +1,100 @@
+{
+  "slug": "delicious-briny-algerian-sea-bass-tagine",
+  "title": "Algerian Sea Bass Tagine",
+  "description": "A flavorful and aromatic Algerian dish made with sea bass, preserved lemons, and olives.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass",
+      "amount": "2 fillets",
+      "notes": "1 pound each"
+    },
+    {
+      "name": "Algerian Preserved Lemons (chopped)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Green Olives (pitted)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro (chopped)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic (minced)",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Algerian Spices (optional)",
+      "amount": "1 teaspoon",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay or ceramic tagine over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped preserved lemons and cook for 2 minutes.",
+    "Add the green olives and cook for 1 minute.",
+    "Add the cumin, paprika, and Algerian spices (if using) and cook for 1 minute.",
+    "Season the sea bass with salt and black pepper, then add to the tagine.",
+    "Cover the tagine and cook for 8-10 minutes, until the fish is cooked through.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "sea-bass",
+    "fish",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-briny-algerian-sea-bass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:31:18.652Z"
+}
