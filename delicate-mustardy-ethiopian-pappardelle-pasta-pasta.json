@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-mustardy-ethiopian-pappardelle-pasta-pasta",
+  "title": "Ethiopian Pappardelle Pasta",
+  "description": "A twist on traditional pasta with an ethiopian-inspired flavor profile. This dish combines delicate pappardelle pasta with spicy and tangy flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian berbere spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the mustard oil over medium-high heat.",
+    "Add the mustard seeds and let them sizzle for a few seconds.",
+    "Add the garlic, ginger, onion, and red bell pepper to the skillet.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the ethiopian berbere spice mix and cook for 1 minute.",
+    "Drain the cooked pasta and add it to the skillet.",
+    "Toss the pasta with the spicy vegetable mixture until well combined.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "pasta",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-mustardy-ethiopian-pappardelle-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:55:38.395Z"
+}
