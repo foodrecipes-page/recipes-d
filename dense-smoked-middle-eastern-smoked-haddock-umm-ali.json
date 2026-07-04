@@ -1,0 +1,79 @@
+{
+  "slug": "dense-smoked-middle-eastern-smoked-haddock-umm-ali",
+  "title": "Smoked Haddock Fritters",
+  "description": "A crispy and flavorful fritter filled with the rich taste of smoked haddock. Best served with a side of lemon wedges and tartar sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "grated onion",
+      "amount": "1/2 cup",
+      "notes": "soaked in milk"
+    },
+    {
+      "name": "crushed egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the flaked smoked haddock, sifted flour, soaked onion, beaten egg, chopped parsley, salt, and black pepper. Mix well.",
+    "2. Heat the melted butter in a large skillet over medium heat.",
+    "3. Using a 1/4 cup measuring cup, scoop the haddock mixture into the skillet.",
+    "4. Flatten the mixture slightly and cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "5. Serve the fritters hot with lemon wedges and tartar sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-haddock",
+    "fritters",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoked-middle-eastern-smoked-haddock-umm-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:30:06.017Z"
+}
