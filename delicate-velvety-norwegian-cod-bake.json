@@ -1,0 +1,76 @@
+{
+  "slug": "delicate-velvety-norwegian-cod-bake",
+  "title": "Baked Norwegian Cod with Delicate Cream Sauce",
+  "description": "A simple and flavorful recipe featuring tender Norwegian cod baked to perfection with a rich and creamy sauce.",
+  "cuisine": null,
+  "diet": [
+    "fish",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian cod fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "delicate cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Place the cod fillets on a baking sheet lined with parchment paper.",
+    "Dot the top of each cod fillet with unsalted butter.",
+    "Bake in the preheated oven for 8-10 minutes or until cooked through.",
+    "While the cod is baking, melt the unsalted butter in a saucepan over medium heat.",
+    "Add the delicate cream and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 2-3 minutes or until slightly thickened.",
+    "Stir in the chopped fresh parsley.",
+    "Serve the baked cod with the delicate cream sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-cod",
+    "delicate-cream-sauce",
+    "baked-fish",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-velvety-norwegian-cod-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:49:35.582Z"
+}
