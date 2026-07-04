@@ -1,0 +1,73 @@
+{
+  "slug": "dense-crisp-turkish-flatbread-pilaf",
+  "title": "Turkish Pilaf with Crispy Flatbread",
+  "description": "A classic Turkish dish made with flavorful pilaf and crispy flatbread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dense Flatbread",
+      "amount": "4 slices",
+      "notes": "preferably warm"
+    },
+    {
+      "name": "Crispy Flatbread",
+      "amount": "8-10 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "Turkish Pilaf Mix",
+      "amount": "1 package",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the dense flatbread into 1-inch pieces and toast until crispy.",
+    "Cook the Turkish pilaf mix according to the package instructions.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Add salt and black pepper to taste.",
+    "Serve the pilaf hot topped with toasted flatbread pieces and chopped parsley (if using).",
+    "Serve crispy flatbread on the side for dipping into the pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "pilaf",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-crisp-turkish-flatbread-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:11:32.235Z"
+}
