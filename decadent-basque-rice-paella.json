@@ -1,0 +1,71 @@
+{
+  "slug": "decadent-basque-rice-paella",
+  "title": "Classic Paella",
+  "description": "A traditional Spanish dish originating from the Valencia region, often served at family gatherings. This recipe showcases the iconic combination of saffron-infused rice and succulent seafood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Decadent Saffron Rice Blend",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Decadent Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Decadent Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Basque Chorizo",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Shrimp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes.",
+    "Add the mussels, clams, and shrimp. Cook until the seafood is lightly browned, about 2-3 minutes.",
+    "Add the saffron-infused rice blend and stir to combine with the seafood and chorizo.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Garnish with fresh parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-basque-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:48:54.240Z"
+}
