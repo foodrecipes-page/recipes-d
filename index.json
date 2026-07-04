@@ -9863,17 +9863,14 @@
   },
   {
     "slug": "deliciously-rich-british-stilton-cheese-spotted-dick",
-    "title": "Deliciously Rich British Stilton Cheese Spotted Dick",
+    "title": "British Stilton Spotted Dick",
     "tags": [
-      "british-classic",
-      "comfort-food",
+      "british",
       "dessert",
-      "easy-to-make",
-      "rich-and-decadent",
-      "special-occasion"
+      "cheese"
     ],
     "cuisine": "British",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -10613,16 +10610,16 @@
   },
   {
     "slug": "deliciously-tangy-kenyan-chicken-curry",
-    "title": "Deliciously Tangy Kenyan Chicken Curry",
+    "title": "Kenyan Chicken Curry",
     "tags": [
-      "ayurvedic-friendly",
-      "chicken-recipes",
-      "curry-dishes",
-      "gluten-free",
-      "kenyan-cuisine"
+      "kenyan",
+      "curry",
+      "chicken",
+      "dinner",
+      "meal"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -13201,15 +13198,14 @@
   },
   {
     "slug": "dense-smoked-middle-eastern-smoked-haddock-umm-ali",
-    "title": "Dense Smoked Middle-Eastern Smoked Haddock Umm Ali",
+    "title": "Smoked Haddock Fritters",
     "tags": [
-      "dessert",
-      "diabetic-friendly",
-      "low-carb",
-      "special-occasion"
+      "smoked-haddock",
+      "fritters",
+      "middle-eastern"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
