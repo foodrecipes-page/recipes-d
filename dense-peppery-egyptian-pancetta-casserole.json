@@ -1,0 +1,70 @@
+{
+  "slug": "dense-peppery-egyptian-pancetta-casserole",
+  "title": "Pancetta and Egyptian Pepper Casserole",
+  "description": "A hearty, flavorful casserole featuring the rich taste of pancetta and the spicy kick of Egyptian peppers.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancetta",
+      "amount": "6 slices",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Egyptian Peppers",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "Dense Fresh Tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pancetta in olive oil until crispy, then set aside.",
+    "Saute diced Egyptian peppers until tender.",
+    "Add crushed tomatoes to the pan and cook for 5 minutes.",
+    "Combine cooked pancetta, peppers, and tomatoes in a large bowl.",
+    "Add grated Parmesan cheese and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with additional Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "pancetta",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peppery-egyptian-pancetta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:55:46.636Z"
+}
