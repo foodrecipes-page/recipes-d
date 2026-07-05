@@ -1,0 +1,66 @@
+{
+  "slug": "dense-jammy-tunisian-dish-mushimono",
+  "title": "Tunisian Jammy Cake",
+  "description": "Moist and flavorful cake originating from Tunisia, made with jammy flavors and dense texture.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mushimono",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jammy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease a 9-inch round cake pan.",
+    "In a large mixing bowl, combine mushrooms, sugar, eggs, flour, and jammy flavors.",
+    "Mix well until a smooth batter forms.",
+    "Pour the batter into the prepared cake pan.",
+    "Bake for 35-40 minutes, or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Transfer the cake to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "tunisian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-jammy-tunisian-dish-mushimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:18:26.980Z"
+}
