@@ -1,0 +1,95 @@
+{
+  "slug": "deliciously-nutty-filipino-vegetables-pinakbet",
+  "title": "Pinakbet Filipino Vegetable Stew",
+  "description": "A flavorful and classic Filipino vegetable stew originating from the Ilocos region. This hearty dish is made with a variety of vegetables and a savory bagoong sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly or baby back ribs",
+      "amount": "1 pound",
+      "notes": "you can also use pork shoulders"
+    },
+    {
+      "name": "bagoong (fermented fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "eggplant, cut into wedges",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "okra, sliced",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "long green chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "tomatoes, chopped",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Sauté the onion and garlic until softened.",
+    "Add the pork belly or baby back ribs and cook until browned on all sides.",
+    "Add the bagoong sauce and stir well.",
+    "Add the eggplant, okra, long green chili peppers, and tomatoes. Stir well.",
+    "Cook for 10 minutes or until the vegetables are tender.",
+    "Stir in the spinach and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegetarian",
+    "stew",
+    "okra",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-nutty-filipino-vegetables-pinakbet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:22:44.547Z"
+}
