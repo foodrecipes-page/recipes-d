@@ -7915,17 +7915,16 @@
   },
   {
     "slug": "delicious-japanese-rice-biryani",
-    "title": "Delicious Japanese Rice Biryani",
+    "title": "Delicious Japanese Biryani",
     "tags": [
-      "arabic-influence",
-      "gluten-free",
-      "japanese-cuisine",
-      "one-pot",
-      "rainy-day",
-      "vegetarian-friendly"
+      "japanese",
+      "biryani",
+      "rice",
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
