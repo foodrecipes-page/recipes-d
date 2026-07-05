@@ -5579,16 +5579,14 @@
   },
   {
     "slug": "delicate-malaysian-red-snapper-sushi",
-    "title": "Delicate Malaysian Red Snapper Sushi",
+    "title": "Pan-Seared Snapper with Malaysian Salsa",
     "tags": [
-      "ayurvedic",
-      "high-protein",
-      "malaysian-cuisine",
-      "sattvic",
+      "fish",
       "seafood",
-      "sushi"
+      "malaysian",
+      "easy-dinner"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "d"
   },
@@ -6176,17 +6174,15 @@
   },
   {
     "slug": "delicate-roasted-saudi-arabian-lamb-tagine",
-    "title": "Delicate Roasted Saudi Arabian Lamb Tagine",
+    "title": "Delicate Lamb Tagine",
     "tags": [
-      "air-fry",
-      "copper-pot",
-      "gluten-free",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "middle-eastern",
-      "pomegranate"
+      "stew"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -6428,16 +6424,15 @@
   },
   {
     "slug": "delicate-slovakian-morbiere-dumplings",
-    "title": "Delicate Slovakian Morbiere Dumplings",
+    "title": "Traditional Slovakian Dumplings",
     "tags": [
-      "comfort-food",
-      "european",
-      "kid-friendly",
-      "steamed",
-      "vegetarian"
+      "slovakian",
+      "dumplings",
+      "cheese",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -11391,16 +11386,15 @@
   },
   {
     "slug": "dense-croatian-cheese-gratin",
-    "title": "Dense Croatian Cheese Gratin",
+    "title": "Cheesy Croatian Crostatte",
     "tags": [
-      "cheese-gratin",
-      "comfort-food",
-      "dense",
-      "keto-friendly",
-      "one-pan"
+      "cheesy",
+      "croatian",
+      "breakfast",
+      "brunch"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -14447,17 +14441,15 @@
   },
   {
     "slug": "dreamy-creamy-norwegian-coconut-pudding",
-    "title": "Dreamy Creamy Norwegian Coconut Pudding",
+    "title": "Dreamy Coconut Pudding",
     "tags": [
-      "coconut-cream-pudding",
-      "egg-free",
-      "gluten-free",
-      "lazy-sunday",
-      "norwegian-dessert",
-      "vegetarian"
+      "dessert",
+      "pudding",
+      "coconut",
+      "creamy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
