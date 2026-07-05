@@ -8365,14 +8365,11 @@
   },
   {
     "slug": "deliciously-caramelized-southern-thai-chicken-gaeng-curry",
-    "title": "Deliciously Caramelized Southern Thai Chicken Gaeng Curry",
+    "title": "Southern Thai Chicken Gaeng Curry",
     "tags": [
-      "brunch-idea",
-      "coconut-based",
-      "fodmap-friendly",
-      "gluten-free",
-      "southern-thai",
-      "thai-curry"
+      "thaicurry",
+      "chicken",
+      "southernthaicuisine"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -12423,20 +12420,16 @@
   },
   {
     "slug": "dense-mexican-kanten-agar-tacos",
-    "title": "dense mexican kanten-agar tacos",
+    "title": "Kanten Tacos",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "kanten-agar",
+      "kanten",
+      "tacos",
+      "vegan",
       "mexican",
-      "oaxacan",
-      "raw",
-      "taco",
-      "tandoor",
       "vegetarian"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 20,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
