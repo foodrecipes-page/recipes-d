@@ -1,0 +1,85 @@
+{
+  "slug": "dreamy-japanese-pork-curry",
+  "title": "Dreamy Japanese Pork Curry",
+  "description": "A sweet and savory Japanese-inspired curry dish featuring tender pork and a rich, dreamy sauce.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Japanese curry powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Curry sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the pork cubes and cook until browned, about 5-6 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the curry sauce, soy sauce, sugar, and rice vinegar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the pork is tender.",
+    "Season with salt to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-japanese-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:51.495Z"
+}
