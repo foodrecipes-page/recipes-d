@@ -10435,16 +10435,14 @@
   },
   {
     "slug": "deliciously-spicy-malaysian-chicken-curry",
-    "title": "Deliciously Spicy Malaysian Chicken Curry",
+    "title": "Malaysian Chicken Curry",
     "tags": [
-      "clay-pot-cooking",
-      "halal-friendly",
-      "malaysian-cuisine",
-      "one-pot-meal",
-      "spicy-food"
+      "malaysian",
+      "curry",
+      "chicken"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14384,17 +14382,14 @@
   },
   {
     "slug": "dreamy-creamy-american-cheese-casserole",
-    "title": "Dreamy Creamy American Cheese Casserole",
+    "title": "Creamy American Casserole",
     "tags": [
-      "casserole",
       "comfort-food",
-      "macrobiotic",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "cheesy",
+      "casserole"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
