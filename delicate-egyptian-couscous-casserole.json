@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-egyptian-couscous-casserole",
+  "title": "Egyptian Delicate Couscous Casserole",
+  "description": "A delicious and flavorful casserole made with couscous, Egyptian spices, and delicate flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delicate eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook couscous according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add sliced eggplant and cook until tender, about 10 minutes.",
+    "Stir in Egyptian spices and cook for 1 minute.",
+    "In a large bowl, combine cooked couscous, eggplant mixture, and chicken broth.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with crumbled feta cheese.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "egyptian",
+    "casserole",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-egyptian-couscous-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:54:07.969Z"
+}
