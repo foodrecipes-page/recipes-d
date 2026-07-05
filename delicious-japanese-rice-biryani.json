@@ -1,0 +1,72 @@
+{
+  "slug": "delicious-japanese-rice-biryani",
+  "title": "Delicious Japanese Biryani",
+  "description": "A flavorful Japanese twist on the traditional Indian dish. This recipe combines the aroma of sesame oil with the sweetness of Japanese rice and the spices of biryani.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "biryani spices",
+      "amount": "2 tsp",
+      "notes": "curry powder, turmeric, cumin powder"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "scallions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating tofu"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add biryani spices and sauté for 1 minute.",
+    "Add tofu and cook until golden brown.",
+    "Add Japanese rice and stir-fry for 2-3 minutes.",
+    "Add soya sauce and stir-fry for another minute.",
+    "Transfer the mixture to a serving dish.",
+    "Garnish with chopped scallions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "biryani",
+    "rice",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-japanese-rice-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:50:12.508Z"
+}
