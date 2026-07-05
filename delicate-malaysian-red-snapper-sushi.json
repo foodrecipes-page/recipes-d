@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-malaysian-red-snapper-sushi",
+  "title": "Pan-Seared Snapper with Malaysian Salsa",
+  "description": "A flavorful and colorful dish featuring pan-seared snapper topped with a zesty Malaysian-inspired salsa. This recipe is perfect for a light and refreshing dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": "about 6 ounces each"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "delicate fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and chili flakes.",
+    "Heat a skillet over medium-high heat and add a tablespoon of oil.",
+    "Sear the snapper fillets for 2-3 minutes on each side, then transfer to the oven and bake for 8-10 minutes or until cooked through.",
+    "While the snapper is cooking, prepare the Malaysian salsa by combining the red onion, red bell pepper, fish sauce, sushi rice vinegar, and lime juice in a bowl.",
+    "Stir in the chopped cilantro and season with salt to taste.",
+    "To serve, place a snapper fillet on each plate and top with a spoonful of the Malaysian salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "malaysian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-malaysian-red-snapper-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:54:30.595Z"
+}
