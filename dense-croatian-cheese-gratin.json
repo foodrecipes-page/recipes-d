@@ -1,0 +1,77 @@
+{
+  "slug": "dense-croatian-cheese-gratin",
+  "title": "Cheesy Croatian Crostatte",
+  "description": "A hearty, cheesy dish inspired by Croatian cuisine. Flaky crust, rich cheese sauce, and a perfectly cooked egg make this a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Dense croatian bread",
+      "amount": "1 loaf, cubed"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter the bottom of a 9x13-inch baking dish.",
+    "Arrange half of the bread cubes in the dish.",
+    "Sprinkle with half of the Croatian cheese and half of the gratin cheese.",
+    "Dot the top with butter.",
+    "Repeat the layers.",
+    "In a separate bowl, mix the beaten egg with salt and pepper.",
+    "Pour the egg mixture over the bread and cheese.",
+    "Bake for 35-40 minutes, or until golden brown and puffed.",
+    "Garnish with chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-croatian-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:23:22.572Z"
+}
