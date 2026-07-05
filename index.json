@@ -12149,16 +12149,14 @@
   },
   {
     "slug": "dense-jammy-tunisian-dish-mushimono",
-    "title": "Dense Jammy Tunisian Dish Mushimono",
+    "title": "Tunisian Jammy Cake",
     "tags": [
-      "high-protein",
-      "low-calorie",
-      "one-pan",
+      "cake",
       "tunisian",
-      "weeknight"
+      "dessert"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "tunisian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
