@@ -1,0 +1,71 @@
+{
+  "slug": "dreamy-creamy-norwegian-coconut-pudding",
+  "title": "Dreamy Coconut Pudding",
+  "description": "A creamy Norwegian dessert with a tropical twist.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "dreamy creamy pudding mix",
+      "amount": "1 package (4 serving size)"
+    },
+    {
+      "name": "norwegian heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together coconut milk, sugar, and cornstarch.",
+    "Cook over medium heat, whisking constantly, until mixture comes to a boil.",
+    "Remove from heat and stir in pudding mix until fully dissolved.",
+    "Pour mixture into a large bowl and whisk in heavy cream and vanilla extract.",
+    "Refrigerate until chilled, at least 2 hours.",
+    "Serve chilled, garnished with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "coconut",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-norwegian-coconut-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:22:12.535Z"
+}
