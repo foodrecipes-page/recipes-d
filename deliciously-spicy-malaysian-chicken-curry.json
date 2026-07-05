@@ -1,0 +1,95 @@
+{
+  "slug": "deliciously-spicy-malaysian-chicken-curry",
+  "title": "Malaysian Chicken Curry",
+  "description": "A flavorful and spicy Malaysian-inspired chicken curry made with tender chicken and a blend of aromatic spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Stir in the curry powder and cumin and cook for 1 minute.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and stir in the coconut milk and fish sauce (if using).",
+    "Reduce the heat to low and simmer for 10-15 minutes or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spicy-malaysian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:15:15.506Z"
+}
