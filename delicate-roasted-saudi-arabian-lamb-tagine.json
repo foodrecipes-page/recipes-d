@@ -1,0 +1,93 @@
+{
+  "slug": "delicate-roasted-saudi-arabian-lamb-tagine",
+  "title": "Delicate Lamb Tagine",
+  "description": "A traditional Middle Eastern stew made with tender lamb, aromatic spices, and dried fruits. This dish is perfect for cold winter nights.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Delicate Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Arabian Ground Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pitted Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cinnamon, ginger, salt, and pepper. Stir to combine.",
+    "Add the apricots and dates. Stir to combine.",
+    "Cover the tagine and transfer to the oven. Braise for 2.5 hours, or until the lamb is tender.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:54:26.839Z"
+}
