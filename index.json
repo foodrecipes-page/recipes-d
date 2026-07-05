@@ -834,17 +834,15 @@
   },
   {
     "slug": "darkly-smoked-german-pork-skewers",
-    "title": "Darkly Smoked German Pork Skewers",
+    "title": "Smoked Pork Skewers",
     "tags": [
-      "diabetic-friendly",
-      "german-cuisine",
-      "grilled-meat",
-      "low-carb",
-      "quick-fix",
-      "smoked-paprika"
+      "german",
+      "smoked-pork",
+      "grill",
+      "summer"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 32,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12538,16 +12536,15 @@
   },
   {
     "slug": "dense-mustardy-uruguayan-prawns-bowl",
-    "title": "dense mustardy Uruguayan prawns bowl",
+    "title": "Chimichurri Prawn Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "prawns",
+      "chimichurri",
+      "grilled"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 10,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -12595,17 +12592,15 @@
   },
   {
     "slug": "dense-peppery-egyptian-pancetta-casserole",
-    "title": "Dense Peppery Egyptian Pancetta Casserole",
+    "title": "Pancetta and Egyptian Pepper Casserole",
     "tags": [
-      "crunchy",
-      "dinner",
-      "egyptian",
-      "high-protein",
+      "italian",
+      "casserole",
       "pancetta",
-      "post-workout"
+      "peppers"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
