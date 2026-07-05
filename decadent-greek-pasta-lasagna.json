@@ -1,0 +1,97 @@
+{
+  "slug": "decadent-greek-pasta-lasagna",
+  "title": "Greek Lasagna",
+  "description": "A rich and satisfying pasta dish with layers of flavors and textures.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk or low-fat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 package frozen, thawed",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a medium skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes.",
+    "Add the spinach to the skillet and cook until wilted. Season with salt and pepper to taste.",
+    "In a large bowl, combine the ricotta cheese, feta cheese, and dried oregano. Mix well to combine.",
+    "Spread a layer of tomato sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Top with half of the spinach mixture and half of the remaining tomato sauce.",
+    "Repeat the layers, starting with the noodles, then the ricotta cheese mixture, the spinach mixture, and finally the remaining tomato sauce.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lasagna",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-greek-pasta-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:35:09.533Z"
+}
