@@ -1,0 +1,93 @@
+{
+  "slug": "dense-mexican-kanten-agar-tacos",
+  "title": "Kanten Tacos",
+  "description": "A vegetarian twist on traditional tacos, using kanten to create a meat-free substitute.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kanten",
+      "amount": "1 block (200g)",
+      "notes": "dissolved in 1 cup (250ml) water"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups (400g)",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup (20g)",
+      "notes": ""
+    },
+    {
+      "name": "diced avocado",
+      "amount": "1 cup (150g)",
+      "notes": ""
+    },
+    {
+      "name": "sour cream (vegan)",
+      "amount": "1/2 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup (250g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Dissolve the kanten in water and bring to a boil. Reduce heat and simmer for 10 minutes.",
+    "2. Add diced tomatoes, cumin, chili powder, and salt to the kanten mixture. Simmer for an additional 10 minutes.",
+    "3. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble tacos by spooning the kanten mixture onto a tortilla, followed by shredded lettuce, diced avocado, and a dollop of vegan sour cream.",
+    "5. Serve immediately and top with salsa.",
+    "6. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kanten",
+    "tacos",
+    "vegan",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-mexican-kanten-agar-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:19:53.619Z"
+}
