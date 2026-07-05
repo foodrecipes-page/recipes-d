@@ -1,0 +1,80 @@
+{
+  "slug": "delicate-slovakian-morbiere-dumplings",
+  "title": "Traditional Slovakian Dumplings",
+  "description": "A hearty and comforting meal of pillowy Slovakian dumplings served in a rich, flavorful Morbiere sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Morbiere cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Dumpling meat (optional)",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "Delicate onions",
+      "amount": "- for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, egg, and salt.",
+    "Gradually add milk and mix until a smooth dough forms.",
+    "Knead dough for 5 minutes until elastic.",
+    "Bring a large pot of salted water to a boil.",
+    "Cook dumplings for 5-7 minutes or until they float to the surface.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add Morbiere cheese and stir until melted and smooth.",
+    "Add cooked dumplings to the skillet and toss to coat with cheese sauce.",
+    "Garnish with chopped parsley and serve hot, topped with delicate onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-slovakian-morbiere-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:15:38.319Z"
+}
