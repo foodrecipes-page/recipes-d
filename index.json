@@ -6815,17 +6815,15 @@
   },
   {
     "slug": "delicate-springy-korean-lettuce-sujebi",
-    "title": "Delicate Springy Korean Lettuce Sujebi",
+    "title": "Sujebi with Delicate Korean Greens",
     "tags": [
-      "buddhist-friendly",
-      "korean-cuisine",
-      "noodle-dish",
-      "savory",
-      "spicy",
-      "vegetarian"
+      "korean",
+      "soup",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14900,16 +14898,14 @@
   },
   {
     "slug": "dreamy-wood-fired-portuguese-cheese-bake",
-    "title": "Dreamy Wood Fired Portuguese Cheese Bake",
+    "title": "Portuguese Wood Fired Cheese Bake",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "portuguese-cuisine",
-      "weekend-meal",
+      "portuguese",
+      "cheese",
       "wood-fired"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
