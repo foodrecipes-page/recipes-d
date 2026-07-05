@@ -1,0 +1,78 @@
+{
+  "slug": "dense-mustardy-uruguayan-prawns-bowl",
+  "title": "Chimichurri Prawn Bowl",
+  "description": "A flavorful and spicy Uruguayan-inspired dish featuring succulent prawns tossed in a dense and tangy chimichurri sauce, served in a bowl.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 oz",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tsp",
+      "notes": "preferably Uruguayan"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "good quality"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tbsp",
+      "notes": "for a dense and tangy flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill or grill pan to medium-high heat.",
+    "2. Peel and de-vein the prawns, leaving the tails intact.",
+    "3. Season the prawns with salt, pepper, and dried oregano.",
+    "4. Grill the prawns for 2-3 minutes per side, until pink and cooked through.",
+    "5. Meanwhile, combine parsley, garlic, red pepper flakes, red wine vinegar, and mustard oil in a bowl.",
+    "6. Toss the grilled prawns in the chimichurri sauce until well-coated.",
+    "7. Serve the prawn bowl immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "prawns",
+    "chimichurri",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-mustardy-uruguayan-prawns-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:19:19.424Z"
+}
