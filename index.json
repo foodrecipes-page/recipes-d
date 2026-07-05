@@ -2007,18 +2007,14 @@
   },
   {
     "slug": "decadent-greek-pasta-lasagna",
-    "title": "Decadent Greek Pasta Lasagna",
+    "title": "Greek Lasagna",
     "tags": [
-      "baked",
-      "comfort-food",
-      "easy",
       "greek",
-      "pasta",
-      "smoky-tomato",
-      "vegetarian"
+      "lasagna",
+      "pasta"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -3714,18 +3710,14 @@
   },
   {
     "slug": "delicate-crisp-argentinian-raspberry-empanadas",
-    "title": "Delicate Crisp Argentinian Raspberry Empanadas",
+    "title": "Empanada Dessert",
     "tags": [
-      "argentinian-cuisine",
-      "brunch-ideas",
-      "empanada-recipe",
-      "fruit-filled-pastries",
-      "mustard-based-dishes",
-      "raspberry-recipes",
-      "talavera-plate"
+      "argentinian",
+      "dessert",
+      "empanadas"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
