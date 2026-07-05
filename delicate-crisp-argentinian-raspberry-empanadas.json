@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-crisp-argentinian-raspberry-empanadas",
+  "title": "Empanada Dessert",
+  "description": "A sweet twist on traditional empanadas, filled with a raspberry and argentinian crumb mixture, served with a delicate crisp crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/2 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "argentinian dulce de leche",
+      "amount": "1/2 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "for the egg wash"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the egg wash"
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, sugar, and salt.",
+    "Add the butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add cold water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your empanadas to be.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Spoon a tablespoon of dulce de leche and a tablespoon of raspberry jam onto one half of the circle.",
+    "Fold the other half over the filling and press the edges together to seal.",
+    "Brush the tops with the egg wash and sprinkle with granulated sugar.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Allow the empanadas to cool for a few minutes before serving. Garnish with fresh raspberries."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-argentinian-raspberry-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:34:32.126Z"
+}
