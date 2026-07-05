@@ -1,0 +1,94 @@
+{
+  "slug": "deliciously-caramelized-southern-thai-chicken-gaeng-curry",
+  "title": "Southern Thai Chicken Gaeng Curry",
+  "description": "A deliciously rich and flavorful curry dish featuring tender chicken, caramelized onions, and a blend of southern Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "southern Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "gaeng curry leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the caramelized onions and cook for an additional 2 minutes.",
+    "Add the southern Thai curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the fish sauce, brown sugar, gaeng curry leaves, and chicken broth.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to medium-low and simmer, covered, for 10-15 minutes or until the chicken is cooked through.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional gaeng curry leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "chicken",
+    "southernthaicuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-caramelized-southern-thai-chicken-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:33:12.805Z"
+}
