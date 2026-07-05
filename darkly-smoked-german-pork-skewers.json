@@ -1,0 +1,82 @@
+{
+  "slug": "darkly-smoked-german-pork-skewers",
+  "title": "Smoked Pork Skewers",
+  "description": "A delicious and easy-to-make dish featuring smoked pork, perfect for a summer barbecue.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Darkly smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "German black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper, thinly sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini, thinly sliced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, black pepper, and salt.",
+    "Add the sliced onion, bell pepper, and zucchini to the bowl and toss to coat.",
+    "Thread the smoked pork, onion, bell pepper, and zucchini onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, or until the pork is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "smoked-pork",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/darkly-smoked-german-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:02:32.990Z"
+}
