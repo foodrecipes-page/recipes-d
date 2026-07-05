@@ -1,0 +1,68 @@
+{
+  "slug": "dreamy-creamy-american-cheese-casserole",
+  "title": "Creamy American Casserole",
+  "description": "A comforting, creamy casserole filled with melted cheese and American flavors.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dreamy pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "1/4 cup milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1/2 cup grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/2 cup crushed crackers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 tsp dried onion powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the Dreamy pasta according to package instructions.",
+    "In a large mixing bowl, combine the Creamy sauce, milk, and shredded American cheese. Stir until smooth.",
+    "Add the cooked pasta to the cheese mixture and stir until well combined.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top the pasta with grated cheddar cheese and crushed crackers.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "cheesy",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-american-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:39:06.524Z"
+}
