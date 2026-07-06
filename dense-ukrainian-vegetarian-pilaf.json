@@ -1,0 +1,78 @@
+{
+  "slug": "dense-ukrainian-vegetarian-pilaf",
+  "title": "Ukrainian Vegetable Pilaf",
+  "description": "A hearty, vegetarian Ukrainian pilaf dish filled with vegetables and spices. Serve hot as a side or main course.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add diced carrots and bell peppers, cook for an additional 5 minutes.",
+    "Stir in pilaf rice, dried dill weed, salt and pepper.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 20 minutes.",
+    "Stir in chopped parsley, serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "pilaf",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-ukrainian-vegetarian-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:52:25.913Z"
+}
