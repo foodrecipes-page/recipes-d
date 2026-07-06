@@ -1,0 +1,96 @@
+{
+  "slug": "dense-polish-pork-stew",
+  "title": "Traditional Polish Pork Stew",
+  "description": "A hearty, comforting stew made with tender pork and a blend of traditional polish spices.",
+  "cuisine": "polish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for coating pork"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the broth to the pot, whisking constantly.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Add the sausage to the pot and cook for an additional 30 minutes.",
+    "Season with thyme, salt, and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "polish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-polish-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:20:15.647Z"
+}
