@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-sweet-malaysian-cookies-cookies",
+  "title": "Delicate Malaysian Cookies",
+  "description": "A sweet and delicate Malaysian-inspired cookie recipe with a crunchy exterior and chewy interior.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup (1 stick)",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Whisk together the butter and sugar until light and fluffy.",
+    "Beat in the egg and vanilla extract.",
+    "In a separate bowl, whisk together the flour, baking powder, and sesame seeds.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough on a floured surface to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the cookies on the prepared baking sheet, leaving about 1 inch of space between each cookie.",
+    "Bake for 12-15 minutes or until lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "malaysiancookies",
+    "delicatecookies",
+    "sweetcookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-sweet-malaysian-cookies-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:57:28.099Z"
+}
