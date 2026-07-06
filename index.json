@@ -6900,17 +6900,14 @@
   },
   {
     "slug": "delicate-sweet-malaysian-cookies-cookies",
-    "title": "Delicate Sweet Malaysian Cookies",
+    "title": "Delicate Malaysian Cookies",
     "tags": [
-      "baked-goods",
-      "cookies",
-      "glazed-cookies",
-      "low-sodium",
-      "malaysian-desserts",
-      "sweet-treats"
+      "malaysiancookies",
+      "delicatecookies",
+      "sweetcookies"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
