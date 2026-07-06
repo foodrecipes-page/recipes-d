@@ -1,0 +1,86 @@
+{
+  "slug": "double-fry-indulgent-japanese-beef-flank-steak-udon",
+  "title": "Japanese Beef Udon Stir Fry",
+  "description": "A quick and delicious Japanese-inspired stir fry made with tender beef and udon noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and garlic and stir-fry for 1-2 minutes.",
+    "Add the thinly sliced beef and stir-fry for 2-3 minutes, or until browned and cooked through.",
+    "Add the udon noodles, soy sauce, and sugar to the skillet and stir-fry for 2-3 minutes, or until the noodles are well coated.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped green onions and sesame seeds, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-fry-indulgent-japanese-beef-flank-steak-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:48:23.849Z"
+}
