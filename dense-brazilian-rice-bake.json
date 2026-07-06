@@ -1,0 +1,84 @@
+{
+  "slug": "dense-brazilian-rice-bake",
+  "title": "Brazilian-Style Rice Bake",
+  "description": "A flavorful and simple rice dish with a twist of Brazilian spices. This recipe is perfect for a weeknight dinner or a lunch meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "brazilian-style seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bake",
+      "amount": "1 medium",
+      "notes": "sweet potato, peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. In a large bowl, mix together rice, brazilian-style seasoning, and dried oregano (if using).",
+    "3. In a separate pan, sauté the onion, garlic, and sweet potato until tender.",
+    "4. Add the diced tomatoes to the pan and cook for an additional 2-3 minutes.",
+    "5. In a 9x13 inch baking dish, create a layer of rice mixture, followed by a layer of the vegetable mixture.",
+    "6. Repeat steps 5 for 2-3 layers, ending with a layer of rice on top.",
+    "7. If using cheese, sprinkle on top of the final layer of rice.",
+    "8. Bake in the preheated oven for 25-30 minutes, or until the rice is tender and the top is lightly browned.",
+    "9. Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "rice",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-brazilian-rice-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:58:09.811Z"
+}
