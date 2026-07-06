@@ -1,0 +1,78 @@
+{
+  "slug": "decadent-mexican-nuts-quesadilla",
+  "title": "Decadent Quesadilla",
+  "description": "A rich and indulgent twist on the classic Mexican dish, loaded with creamy cheese and crunchy nuts.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Lay a tortilla flat and sprinkle shredded cheese on half of it.",
+    "Add a sprinkle of chopped nuts and a pinch of cinnamon.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Place the quesadilla in the skillet and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "Cut the quesadillas into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "decadent",
+    "cheesy",
+    "nuty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-mexican-nuts-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:44:41.284Z"
+}
