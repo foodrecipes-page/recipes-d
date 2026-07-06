@@ -1,0 +1,86 @@
+{
+  "slug": "dense-korean-flaxseed-juk",
+  "title": "Korean-Style Flaxseed Pancakes",
+  "description": "Crispy on the outside and fluffy on the inside, these pancakes are a delicious twist on traditional Korean-style pancakes. Made with nutritious flaxseed, they're perfect for a quick breakfast or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dense Flaxseed",
+      "amount": "1 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "Korean Chopped Greens",
+      "amount": "1/2 cup",
+      "notes": "such as kimchi"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegan Egg Replacer",
+      "amount": "1 tablespoon",
+      "notes": "such as flaxseed or chia seeds"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ground flaxseed, Korean chopped greens, Korean chili flakes, vegan egg replacer, and water.",
+    "Let the mixture sit for 5 minutes to thicken.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Add sesame oil to the pan and swirl it around.",
+    "Using a 1/4 cup measuring cup, scoop the flaxseed mixture into the pan.",
+    "Cook the pancakes for 2-3 minutes on the first side, or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve the pancakes hot with soy sauce and coconut sugar.",
+    "Optional: garnish with additional Korean chopped greens and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "flaxseed",
+    "pancakes",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-korean-flaxseed-juk",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:02:53.883Z"
+}
