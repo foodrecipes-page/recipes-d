@@ -12673,18 +12673,15 @@
   },
   {
     "slug": "dense-polish-pork-stew",
-    "title": "Dense Polish Pork Stew",
+    "title": "Traditional Polish Pork Stew",
     "tags": [
-      "dense",
-      "glassy-jelly",
-      "one-pot",
-      "poland",
-      "smoky",
-      "sous-vide",
-      "sugar-free"
+      "pork",
+      "polish",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 130,
+    "cuisine": "polish",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
