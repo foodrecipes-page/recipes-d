@@ -1,0 +1,73 @@
+{
+  "slug": "delicate-slovakian-perilla-leaf-dumplings",
+  "title": "Slovakian Delicate Perilla Dumplings",
+  "description": "A traditional Slovakian dish made with delicate dumplings and perilla, perfect for a light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Slovakian cheese",
+      "amount": "1 cup",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Clean and chop the perilla leaves.",
+    "2. In a large bowl, combine the flour, eggs, Slovakian cheese, salt, and black pepper.",
+    "3. Mix the dough until smooth and elastic.",
+    "4. Knead the dough for 5-7 minutes.",
+    "5. Divide the dough into small balls.",
+    "6. Flatten each ball of dough into a disk.",
+    "7. Place a tablespoon of chopped perilla leaves in the center of each disk.",
+    "8. Fold the dough over the perilla leaves and press the edges together to seal.",
+    "9. Bring a large pot of salted water to a boil.",
+    "10. Carefully add the dumplings to the pot and cook for 5-7 minutes.",
+    "11. Remove the dumplings from the pot with a slotted spoon.",
+    "12. Serve the dumplings hot with the chopped perilla leaves on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "perilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-slovakian-perilla-leaf-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:04:34.280Z"
+}
