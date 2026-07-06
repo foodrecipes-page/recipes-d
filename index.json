@@ -12230,19 +12230,16 @@
   },
   {
     "slug": "dense-korean-flaxseed-juk",
-    "title": "Dense Korean Flaxseed Juk",
+    "title": "Korean-Style Flaxseed Pancakes",
     "tags": [
-      "breakfast-lunch",
-      "comfort-food",
-      "easy-weeknight",
-      "flaxseed",
-      "gluten-free",
       "korean",
-      "slow-cooker",
-      "vegan"
+      "flaxseed",
+      "pancakes",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -14109,24 +14106,15 @@
   },
   {
     "slug": "double-fry-indulgent-japanese-beef-flank-steak-udon",
-    "title": "Double-Fry-Indulgent Japanese Beef Flank Steak Udon",
+    "title": "Japanese Beef Udon Stir Fry",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "double-fry-sauce",
-      "easy-to-make",
-      "high-protein",
-      "indulgent",
-      "japanese-cuisine",
-      "kobe-beef",
-      "one-pan",
-      "pungent",
-      "udon-noodles",
-      "wagyu-beef",
-      "weeknight"
+      "beef",
+      "japanese",
+      "stir-fry",
+      "noodles"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
