@@ -2133,17 +2133,15 @@
   },
   {
     "slug": "decadent-mexican-nuts-quesadilla",
-    "title": "Decadent Mexican Nuts Quesadilla",
+    "title": "Decadent Quesadilla",
     "tags": [
-      "cheat-meal",
-      "high-protein",
-      "indulgent",
       "mexican",
-      "nutty",
-      "snack"
+      "decadent",
+      "cheesy",
+      "nuty"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 20,
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -6437,17 +6435,14 @@
   },
   {
     "slug": "delicate-slovakian-perilla-leaf-dumplings",
-    "title": "Delicate Slovakian Perilla Leaf Dumplings",
+    "title": "Slovakian Delicate Perilla Dumplings",
     "tags": [
-      "banana-leaf",
-      "jain-friendly",
-      "perilla-leaf",
       "slovakian",
-      "steamed",
-      "vegetarian"
+      "dumplings",
+      "perilla"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -10939,15 +10934,15 @@
   },
   {
     "slug": "dense-american-butter-casserole",
-    "title": "Dense American Butter Casserole",
+    "title": "American Casserole",
     "tags": [
-      "breakfast-casserole",
+      "american",
       "comfort-food",
-      "one-pan",
-      "post-workout"
+      "casserole",
+      "cheesy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11234,17 +11229,16 @@
   },
   {
     "slug": "dense-comforting-moroccan-ricotta-khlea",
-    "title": "Dense Comforting Moroccan Ricotta Khlea",
+    "title": "Moroccan Ricotta Khlea Cheesecake",
     "tags": [
-      "bitter",
       "comforting",
       "dessert",
       "moroccan",
-      "paleo",
-      "ricotta"
+      "ricotta",
+      "cheesecake"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
