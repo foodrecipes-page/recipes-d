@@ -1,0 +1,88 @@
+{
+  "slug": "dense-comforting-moroccan-ricotta-khlea",
+  "title": "Moroccan Ricotta Khlea Cheesecake",
+  "description": "A comforting, dense, and sweet Moroccan-inspired cheesecake made with ricotta and khlea, perfect for a satisfying dessert.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Khlea",
+      "amount": "250g"
+    },
+    {
+      "name": "Ricotta",
+      "amount": "200g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Honey",
+      "amount": "100g"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "Flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large mixing bowl, combine khlea, ricotta, cinnamon, ginger, and nutmeg. Mix well.",
+    "Add honey and mix until well combined.",
+    "Beat in eggs until smooth.",
+    "Add flour and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Transfer the dough to a greased 20cm (8 inch) springform pan.",
+    "Bake for 35-40 minutes or until the edges are lightly golden brown.",
+    "Remove from oven and let cool completely.",
+    "Drizzle with orange blossom water, if using.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "dessert",
+    "moroccan",
+    "ricotta",
+    "cheesecake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-comforting-moroccan-ricotta-khlea",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:54:01.723Z"
+}
