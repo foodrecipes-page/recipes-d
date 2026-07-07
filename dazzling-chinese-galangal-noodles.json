@@ -1,0 +1,76 @@
+{
+  "slug": "dazzling-chinese-galangal-noodles",
+  "title": "Spicy Galangal Noodle Soup",
+  "description": "A fusion of Chinese and dazzling flavors in a comforting noodle soup. This dish is a perfect blend of spices and herbs.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "chinese chili bean paste",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth for vegetarian option"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add galangal and cook until fragrant, about 2 minutes.",
+    "Add chili bean paste and cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Add noodles and cook until tender, about 8 minutes.",
+    "Stir in soy sauce and season with salt.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "spicy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dazzling-chinese-galangal-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:12:50.021Z"
+}
