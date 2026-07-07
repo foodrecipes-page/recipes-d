@@ -10809,14 +10809,15 @@
   },
   {
     "slug": "dense-adventurous-ethiopian-spice-kik-alicha",
-    "title": "Dense Adventurous Ethiopian Spice Kik Alicha",
+    "title": "Alicha Chicken with Kik Spices",
     "tags": [
-      "high-protein",
-      "vegetarian",
-      "weeknight"
+      "ethiopian",
+      "chicken",
+      "spice",
+      "kik"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -13272,17 +13273,16 @@
   },
   {
     "slug": "dense-smoky-middle-eastern-lamb-tagine",
-    "title": "Dense, Smoky Middle-Eastern Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "hearty",
       "lamb",
       "middle-eastern",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "couscous",
+      "braised",
+      "slow-cooked"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 165,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
