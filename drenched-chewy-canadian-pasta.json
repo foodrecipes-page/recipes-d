@@ -1,0 +1,74 @@
+{
+  "slug": "drenched-chewy-canadian-pasta",
+  "title": "Drenched Chewy Pasta Bake",
+  "description": "A comforting, cheesy pasta bake with chewy texture. Perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta (chewy)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Canadian cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or 2% works well"
+    },
+    {
+      "name": "drenched butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large saucepan, melt butter over medium heat.",
+    "Add shredded cheddar cheese and stir until melted.",
+    "Add milk and stir until smooth.",
+    "Combine cooked pasta and cheese sauce. Season with salt and pepper.",
+    "Transfer pasta mixture to a baking dish.",
+    "Top with additional grated cheese if desired.",
+    "Bake for 20-25 minutes or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/drenched-chewy-canadian-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:28:27.457Z"
+}
