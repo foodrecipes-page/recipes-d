@@ -1,0 +1,85 @@
+{
+  "slug": "dense-chinese-tofu-noodles",
+  "title": "Chinese Tofu Stir Fry",
+  "description": "A quick and easy stir fry recipe made with tofu and noodles, inspired by Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain excess water before cutting into small cubes"
+    },
+    {
+      "name": "Dense Noodles",
+      "amount": "8 oz",
+      "notes": "Rice noodles or udon work well for this recipe"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade and stir frying"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook noodles according to package instructions and set aside.",
+    "2. Cut tofu into small cubes and marinate in a mixture of soy sauce, sesame oil, and a pinch of sugar for at least 15 minutes.",
+    "3. Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "4. Add minced garlic and grated ginger and stir fry for 30 seconds.",
+    "5. Add marinated tofu and stir fry until golden brown, about 5 minutes.",
+    "6. Add chopped scallions and stir fry for another minute.",
+    "7. Stir in cooked noodles and cook for 2-3 minutes, until well combined.",
+    "8. Season with additional soy sauce if needed.",
+    "9. Garnish with chopped scallions and serve hot.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tofu",
+    "noodles",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-chinese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:36:20.377Z"
+}
