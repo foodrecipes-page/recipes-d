@@ -1,0 +1,91 @@
+{
+  "slug": "delicate-juicy-moroccan-fish-pastilla",
+  "title": "Delicate Moroccan Fish Pastilla",
+  "description": "A flavorful and moist Moroccan-inspired fish dish wrapped in a delicate pastry, perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate pastry",
+      "amount": "1 sheet",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Flaky fish",
+      "amount": "1 pound",
+      "notes": "Any mild-flavored fish works well"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Make sure to use a store-bought or homemade blend that includes cumin and coriander"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry sheet to a thickness of 1/8 inch.",
+    "Place the rolled-out pastry on a baking sheet lined with parchment paper.",
+    "In a separate pan, sauté the fish until it's cooked through.",
+    "In the same pan, add the Moroccan spice blend, onion, garlic, salt, and pepper. Cook for 1-2 minutes.",
+    "Transfer the cooked fish to the center of the pastry, leaving a 1-inch border around it.",
+    "Spread the Moroccan spice blend mixture evenly over the fish.",
+    "Fold the pastry over the fish, pressing the edges to seal.",
+    "Brush the pastry with butter and make a few cuts on top to allow steam to escape.",
+    "Bake the pastilla for 20-25 minutes or until the pastry is golden brown.",
+    "Remove the pastilla from the oven and let it cool for 5 minutes.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pastilla",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-juicy-moroccan-fish-pastilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:57:08.132Z"
+}
