@@ -1,0 +1,107 @@
+{
+  "slug": "deep-fried-peruvian-lamb-seco-de-cordero",
+  "title": "Peruvian Lamb Seco",
+  "description": "A traditional Peruvian lamb stew, tender and flavorful, made with lamb shoulder, onions, garlic, and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2-3"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Peruvian aji panca paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the lamb on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and cook the onions, garlic, and red pepper until the onions are softened, about 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the aji amarillo peppers, cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the beef broth, red wine, and potatoes. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the lamb for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the Peruvian aji panca paste.",
+    "Simmer the stew on the stovetop over low heat for 10-15 minutes.",
+    "Serve the stew hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "peruvian",
+    "stew",
+    "beef-broth",
+    "red-wine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:34:57.165Z"
+}
