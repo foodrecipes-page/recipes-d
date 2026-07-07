@@ -1,0 +1,105 @@
+{
+  "slug": "delicate-crispy-chinese-pork-mu-shu",
+  "title": "Crispy Pork Mu Shu",
+  "description": "A classic Chinese-inspired dish featuring crispy pork and delicate pancakes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "null"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mu shu pancakes",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "2. Add the sliced pork and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "3. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "4. Add the chopped scallions, grated ginger, and minced garlic. Cook until fragrant, about 1 minute.",
+    "5. Add the hoisin sauce, soy sauce, and Shaoxing wine. Stir to combine.",
+    "6. Return the cooked pork to the skillet and stir to coat with the sauce.",
+    "7. Warm the mu shu pancakes according to package instructions.",
+    "8. Assemble the mu shu by placing a few slices of the pork mixture onto a pancake, followed by a sprinkle of chopped crispy noodles and a drizzle of hoisin sauce.",
+    "9. Fold the pancake in half to enclose the filling.",
+    "10. Serve immediately and enjoy!",
+    "11. Garnish with additional scallions and crispy noodles, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "mu-shu"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crispy-chinese-pork-mu-shu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:45:07.408Z"
+}
