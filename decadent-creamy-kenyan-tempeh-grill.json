@@ -1,0 +1,82 @@
+{
+  "slug": "decadent-creamy-kenyan-tempeh-grill",
+  "title": "Grilled Kenyan Tempeh",
+  "description": "A vegetarian take on traditional Kenyan cuisine, this dish combines the nutty flavor of tempeh with the smoky taste of grilled vegetables.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "marinated in soy sauce and lime juice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "marinade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "marinade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Marinate tempeh in a mixture of lime juice and soy sauce for at least 30 minutes.",
+    "Brush coconut oil on tempeh and grill for 5-7 minutes per side, or until slightly charred.",
+    "Meanwhile, grill sliced onion and bell pepper for 5-7 minutes, or until tender.",
+    "Add chopped tomato to grill and cook for an additional 2-3 minutes.",
+    "Serve grilled tempeh with vegetables and a side of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "grilled",
+    "tempeh"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-creamy-kenyan-tempeh-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:32:48.737Z"
+}
