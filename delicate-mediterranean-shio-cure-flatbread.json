@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-mediterranean-shio-cure-flatbread",
+  "title": "Mediterranean Focaccia",
+  "description": "A delicious flatbread recipe inspired by the flavors of the Mediterranean. This recipe features a crispy crust, a soft interior, and a flavorful topping.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delicate olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "cure sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shio (flaky sea salt)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the yeast and warm water. Stir to dissolve the yeast.",
+    "2. Add the olive oil, salt, and rosemary to the bowl. Mix until well combined.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 425°F (220°C).",
+    "6. Punch down the dough and shape it into a circle or an oval.",
+    "7. Place the dough on a baking sheet lined with parchment paper.",
+    "8. Dimple the dough with your fingers and drizzle with olive oil.",
+    "9. Bake the focaccia for 15-20 minutes until it's golden brown.",
+    "10. Remove the focaccia from the oven and sprinkle with parmesan cheese and garlic.",
+    "11. Drizzle with olive oil and sprinkle with sea salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "flatbread",
+    "focaccia",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-mediterranean-shio-cure-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:17:02.426Z"
+}
