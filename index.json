@@ -14511,13 +14511,13 @@
   },
   {
     "slug": "dreamy-gooey-argentinian-little-gem-lettuce-gratin",
-    "title": "Dreamy Gooey Argentinian Little Gem Lettuce Gratin",
+    "title": "Dreamy Argentinian Gratin",
     "tags": [
+      "gratin",
+      "cheesy",
       "argentinian",
-      "bain-marie",
-      "low-fat",
-      "romantic-dinner",
-      "vegetarian"
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
@@ -14929,17 +14929,15 @@
   },
   {
     "slug": "dried-resinous-syrian-runner-beans-stew",
-    "title": "Dried Resinous Syrian Runner Beans Stew",
+    "title": "Syrian Runner Bean Stew",
     "tags": [
-      "dairy-free",
-      "high-fiber",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian-stew",
-      "weeknight"
+      "runner beans",
+      "middle eastern",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
