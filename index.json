@@ -1546,14 +1546,14 @@
     "title": "Decadent Canadian Cauliflower Dumplings",
     "tags": [
       "canadian",
-      "charred",
+      "cauliflower",
       "dumplings",
-      "festive",
-      "low-carb",
-      "one-pan"
+      "vegan",
+      "vegetarian",
+      "comfortfood"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -1660,18 +1660,15 @@
   },
   {
     "slug": "decadent-creamy-kenyan-tempeh-grill",
-    "title": "Decadent Creamy Kenyan Tempeh Grill",
+    "title": "Grilled Kenyan Tempeh",
     "tags": [
-      "comfort-food",
-      "creamy",
+      "kenyan",
+      "vegetarian",
       "grilled",
-      "high-protein",
-      "indulgent",
-      "one-pan",
-      "weeknight"
+      "tempeh"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "cuisine": "kenyan",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
