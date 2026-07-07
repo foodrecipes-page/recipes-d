@@ -1,0 +1,82 @@
+{
+  "slug": "decadent-canadian-cauliflower-dumplings",
+  "title": "Decadent Canadian Cauliflower Dumplings",
+  "description": "A rich and comforting Canadian-inspired dish that combines the earthiness of cauliflower with the decadence of dumplings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "melted vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the cauliflower and remove the leaves and stem. Cut it into florets.",
+    "3. In a large mixing bowl, combine the flour, nutritional yeast, salt, black pepper, and dried parsley.",
+    "4. Gradually add the melted vegan butter and plant-based milk to the dry ingredients, mixing until a dough forms.",
+    "5. Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "6. Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "7. Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "8. Place a few cauliflower florets in the center of each circle and fold the dough over to form a half-moon shape.",
+    "9. Press the edges together to seal the dumpling and crimp with a fork to prevent it from opening during cooking.",
+    "10. Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "11. Bake the dumplings in the preheated oven for 20-25 minutes, or until they are golden brown and crispy.",
+    "12. Serve the Canadian cauliflower dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cauliflower",
+    "dumplings",
+    "vegan",
+    "vegetarian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-canadian-cauliflower-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:32:15.749Z"
+}
