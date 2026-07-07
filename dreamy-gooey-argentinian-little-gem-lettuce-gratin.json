@@ -1,0 +1,59 @@
+{
+  "slug": "dreamy-gooey-argentinian-little-gem-lettuce-gratin",
+  "title": "Dreamy Argentinian Gratin",
+  "description": "A rich and creamy gratin dish infused with the flavors of Argentina, topped with a layer of gooey cheese.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Dreamy cheese",
+      "amount": "1 cup, grated",
+      "notes": "A blend of white and cream cheese."
+    },
+    {
+      "name": "Argentinian gem tomatoes",
+      "amount": "3, diced",
+      "notes": "Sweet and flavorful, use any small tomato."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the chopped lettuce over medium heat until tender.",
+    "In a separate bowl, mix together the grated dreamy cheese and diced Argentinian gem tomatoes.",
+    "In a 9x13 inch baking dish, create a layer of sautéed lettuce.",
+    "Top the lettuce with the cheese and tomato mixture.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the cheese is melted and gooey.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "cheesy",
+    "argentinian",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-gooey-argentinian-little-gem-lettuce-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:34:33.136Z"
+}
