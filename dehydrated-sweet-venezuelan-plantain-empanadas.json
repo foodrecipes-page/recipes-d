@@ -1,0 +1,78 @@
+{
+  "slug": "dehydrated-sweet-venezuelan-plantain-empanadas",
+  "title": "Sweet Plantain Empanada",
+  "description": "A Venezuelan-style dessert empanada filled with sweet plantain puree and topped with a crunchy dehydrated coconut crust.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "2 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dehydrated coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "for plantain puree"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for thickening plantain puree"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel the plantains and boil them in water until tender.",
+    "Mash the boiled plantains and mix with granulated sugar, all-purpose flour, and a pinch of salt.",
+    "Roll out the empanada dough to a thickness of 1/8 inch (3 mm).",
+    "Place a tablespoon of the plantain mixture onto one half of the dough, leaving a 1/2 inch (1 cm) border.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the top of the empanada with vegetable oil and sprinkle with dehydrated coconut flakes.",
+    "Bake for 20-25 minutes, or until the empanada is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dehydrated-sweet-venezuelan-plantain-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:46:34.820Z"
+}
