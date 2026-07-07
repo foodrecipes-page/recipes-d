@@ -3834,13 +3834,10 @@
   },
   {
     "slug": "delicate-crispy-chinese-pork-mu-shu",
-    "title": "Delicate Crispy Chinese Pork Mu Shu",
+    "title": "Crispy Pork Mu Shu",
     "tags": [
-      "air-fryer-recipes",
-      "brunch-ideas",
-      "cheese-pull",
-      "chinese-food",
-      "high-protein",
+      "chinese",
+      "pork",
       "mu-shu"
     ],
     "cuisine": "Chinese",
@@ -14839,16 +14836,14 @@
   },
   {
     "slug": "drenched-chewy-canadian-pasta",
-    "title": "Drenched Chewy Canadian Pasta",
+    "title": "Drenched Chewy Pasta Bake",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "mediterranean-inspired",
-      "one-pot",
-      "vegetarian-friendly"
+      "pasta",
+      "cheese",
+      "comfort-food"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
