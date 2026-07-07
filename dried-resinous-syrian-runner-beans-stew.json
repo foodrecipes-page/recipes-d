@@ -1,0 +1,82 @@
+{
+  "slug": "dried-resinous-syrian-runner-beans-stew",
+  "title": "Syrian Runner Bean Stew",
+  "description": "A hearty and flavorful stew made with runner beans, syrian spices, and a touch of resinous sweetness. Serve warm, garnished with a drizzle of olive oil.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "resinous honey",
+      "amount": "2 tablespoons",
+      "notes": "to taste"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add the soaked and drained runner beans, ground cumin, and ground coriander. Cook, stirring occasionally, for 2-3 minutes.",
+    "Add the resinous honey, chopped thyme, and enough water to cover the beans. Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the beans are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with a drizzle of olive oil and a sprinkle of thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "runner beans",
+    "middle eastern",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dried-resinous-syrian-runner-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:25:24.790Z"
+}
