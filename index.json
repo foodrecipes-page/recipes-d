@@ -983,16 +983,16 @@
   },
   {
     "slug": "date-night-chewy-saudiarabian-tofu-tagine",
-    "title": "Date-Night Chewy Saudi Arabian Tofu Tagine",
+    "title": "Saudiarabian Date and Tofu Tagine",
     "tags": [
-      "date-night",
-      "pescatarian",
-      "saudi-arabian",
-      "tagine",
-      "umami"
+      "middle-eastern",
+      "stew",
+      "tofu",
+      "dates",
+      "vegan"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -2906,18 +2906,17 @@
   },
   {
     "slug": "deep-fried-peruvian-lamb-seco-de-cordero",
-    "title": "Deep Fried Peruvian Lamb Seco de Cordero",
+    "title": "Peruvian Lamb Seco",
     "tags": [
-      "halal",
-      "high-protein",
       "lamb",
-      "one-pan",
       "peruvian",
-      "post-workout",
-      "weeknight"
+      "stew",
+      "beef-broth",
+      "red-wine",
+      "spicy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
@@ -7381,18 +7380,18 @@
   },
   {
     "slug": "delicate-yeasty-spanish-split-peas-fideua",
-    "title": "Delicate Yeasty Spanish Split Peas Fideua",
+    "title": "Spanish Fideua with Peas and Delicate Fish",
     "tags": [
-      "galician",
-      "high-fiber",
-      "one-pot",
-      "quick-fix",
       "spanish",
-      "vegetarian",
-      "weeknight"
+      "fish",
+      "simple",
+      "quick",
+      "easy",
+      "fideua",
+      "noodles"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
