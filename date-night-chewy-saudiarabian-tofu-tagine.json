@@ -1,0 +1,84 @@
+{
+  "slug": "date-night-chewy-saudiarabian-tofu-tagine",
+  "title": "Saudiarabian Date and Tofu Tagine",
+  "description": "A flavorful and aromatic stew originating from the Middle East, featuring tender tofu, sweet dates, and a blend of spices. This dish is a perfect representation of the region's rich culinary heritage.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "date",
+      "amount": "1 cup (pitted and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup (chopped",
+      "notes": "almonds or pine nuts"
+    },
+    {
+      "name": "saudiarabian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp (olive oil)",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the chewy and cook until fragrant, about 1 minute.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the dates, water, saudiarabian, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes.",
+    "Stir occasionally and adjust seasoning as needed.",
+    "Serve hot, garnished with additional dates and chewy if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "stew",
+    "tofu",
+    "dates",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-chewy-saudiarabian-tofu-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:00:09.877Z"
+}
