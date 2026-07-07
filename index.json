@@ -3180,17 +3180,13 @@
   },
   {
     "slug": "dehydrated-sweet-venezuelan-plantain-empanadas",
-    "title": "Dehydrated Sweet Venezuelan Plantain Empanadas",
+    "title": "Sweet Plantain Empanada",
     "tags": [
-      "dehydrated",
-      "homemade",
-      "paleo-friendly",
-      "south-american",
-      "sweet-snack",
+      "dessert",
       "vegan-option"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 390,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5664,17 +5660,15 @@
   },
   {
     "slug": "delicate-mediterranean-shio-cure-flatbread",
-    "title": "Delicate Mediterranean Shio-cure Flatbread",
+    "title": "Mediterranean Focaccia",
     "tags": [
-      "easy-dinner",
-      "fluffy-flatbread",
-      "low-calorie",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "flatbread",
+      "focaccia",
+      "parmesan"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -8365,17 +8359,14 @@
   },
   {
     "slug": "deliciously-char-grilled-jamaican-chicken-skewers",
-    "title": "Deliciously Char Grilled Jamaican Chicken Skewers",
+    "title": "Jamaican Grilled Chicken Skewers",
     "tags": [
-      "comal-cooking",
-      "gluten-free",
-      "grilled-chicken",
-      "high-protein",
-      "jamaican-cuisine",
-      "weeknight-meal"
+      "jamaican",
+      "grilled",
+      "chicken"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "d"
   },
   {
@@ -12577,18 +12568,15 @@
   },
   {
     "slug": "dense-peppery-saudi-arabian-danmuji-hash",
-    "title": "Dense Peppery Saudi-Arabian Danmuji Hash",
+    "title": "Danmuji Hash with Saudi Arabian Spices",
     "tags": [
-      "adventurous",
-      "breakfast-option",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "breakfast",
+      "arabian",
+      "danmuji",
+      "hash"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 30,
+    "cuisine": "Arabian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
