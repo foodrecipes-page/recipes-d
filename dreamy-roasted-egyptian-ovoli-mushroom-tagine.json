@@ -1,0 +1,79 @@
+{
+  "slug": "dreamy-roasted-egyptian-ovoli-mushroom-tagine",
+  "title": "Mushroom and Ovoli Tagine",
+  "description": "A flavorful North African-inspired stew featuring roasted mushrooms and ovoli, cooked in a tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup, sliced",
+      "notes": "any variety"
+    },
+    {
+      "name": "ovoli",
+      "amount": "1 cup, sliced",
+      "notes": "use firm, fresh ovoli"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tablespoon, dried",
+      "notes": "use ground cumin or coriander as substitute"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "use a ceramic or clay tagine for authentic flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "adjust seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the tagine over medium heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the sliced ovoli and cook for an additional 2-3 minutes.",
+    "Add the dried egyptian and stir to combine.",
+    "Add water or broth to cover the ingredients and bring to a simmer.",
+    "Cover the tagine and cook for 10-15 minutes, or until the mushrooms and ovoli are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "mushroom",
+    "ovoli",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-roasted-egyptian-ovoli-mushroom-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:00:31.772Z"
+}
