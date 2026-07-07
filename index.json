@@ -2889,17 +2889,14 @@
   },
   {
     "slug": "deep-fried-moroccan-chicken-skewers",
-    "title": "Deep Fried Moroccan Chicken Skewers",
+    "title": "Moroccan Chicken Skewers",
     "tags": [
+      "grilled",
       "chicken",
-      "deep-fried",
-      "dinner",
-      "high-protein",
-      "moroccan",
-      "skewers"
+      "moroccan"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 36,
     "shard": "d"
   },
   {
@@ -11162,17 +11159,15 @@
   },
   {
     "slug": "dense-chinese-tofu-noodles",
-    "title": "Dense Chinese Tofu Noodles",
+    "title": "Chinese Tofu Stir Fry",
     "tags": [
-      "cantonese",
-      "comfort-food",
-      "dense-sauce",
-      "lacto-vegetarian",
-      "noodle-dish",
-      "sick-day"
+      "chinese",
+      "tofu",
+      "noodles",
+      "stirfry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
