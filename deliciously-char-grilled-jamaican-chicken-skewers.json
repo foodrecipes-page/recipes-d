@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-char-grilled-jamaican-chicken-skewers",
+  "title": "Jamaican Grilled Chicken Skewers",
+  "description": "A deliciously flavorful dish featuring marinated chicken, char-grilled to perfection on skewers.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "600g"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Pineapple wedges",
+      "amount": "4",
+      "notes": "Optional"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, lime juice, olive oil, garlic, and onion.",
+    "Add the chicken to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated chicken, bell peppers, zucchini, and pineapple (if using) onto the skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and the vegetables are tender.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, beans, or salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-char-grilled-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:50:50.217Z"
+}
