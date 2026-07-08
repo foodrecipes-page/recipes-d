@@ -1,0 +1,91 @@
+{
+  "slug": "decadent-tangy-kenyan-tofu-skewers",
+  "title": "Kenyan-Style Grilled Tofu Skewers",
+  "description": "A flavorful and colorful vegetarian dish inspired by Kenyan cuisine, featuring tangy tofu skewers grilled to perfection.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "kenyan-style spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together kenyan-style spice blend, lemon juice, and chili flakes (if using).",
+    "Add the cubed onion, bell peppers, and zucchini to the marinade and toss to coat.",
+    "Thread the tofu and marinated vegetables onto the skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the tofu is golden brown and the vegetables are tender.",
+    "Serve hot, garnished with fresh cilantro or scallions (if desired).",
+    "Enjoy your delicious Kenyan-style grilled tofu skewers!",
+    "Note: If using wooden skewers, be sure to soak them in water for at least 30 minutes before grilling to prevent them from catching fire."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "grilled",
+    "skewers",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-tangy-kenyan-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:13:27.014Z"
+}
