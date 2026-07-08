@@ -8224,16 +8224,16 @@
   },
   {
     "slug": "deliciously-aerated-peruvian-lamb-seco-de-cordero",
-    "title": "Deliciously Aerated Peruvian Lamb Seco De Cordero",
+    "title": "Peruvian-Style Braised Lamb Shanks",
     "tags": [
-      "earthenware-cooking",
-      "lamb-recipes",
-      "meringue-desserts",
-      "peruvian-cuisine",
-      "south-american-food"
+      "peruvian",
+      "lamb",
+      "seco",
+      "braised",
+      "main-course"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -14258,17 +14258,16 @@
   },
   {
     "slug": "dreamy-cheesy-american-silken-tofu-casserole",
-    "title": "Dreamy Cheesy American Silken Tofu Casserole",
+    "title": "Cheesy Tofu Casserole",
     "tags": [
-      "american-comfort-food",
-      "cozy-dinner",
-      "low-sodium",
-      "one-pan",
+      "casserole",
+      "cheesy",
+      "tofu",
       "vegetarian",
-      "weeknight"
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
