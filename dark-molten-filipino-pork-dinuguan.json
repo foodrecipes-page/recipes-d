@@ -1,0 +1,75 @@
+{
+  "slug": "dark-molten-filipino-pork-dinuguan",
+  "title": "Filipino-Style Pork in Dark Crispy Sauce (Dinuguan)",
+  "description": "A rich, savory, and slightly sweet Filipino dish made with pork blood and offal, served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pork blood",
+      "amount": "1 cup",
+      "notes": "Defatted"
+    },
+    {
+      "name": "Filipino vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat 2 tablespoons of oil over medium heat. Sear the pork belly until browned, then set aside.",
+    "In the same pan, sauté the onion and garlic until softened.",
+    "Add the pork blood and stir until combined with the onion and garlic mixture.",
+    "Return the pork belly to the pan and add the Filipino vinegar (if using). Season with salt and black pepper to taste.",
+    "Simmer the mixture over low heat for 10-15 minutes, stirring occasionally, until the sauce has thickened and the pork is cooked through.",
+    "Serve the dinuguan hot with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "blood",
+    "offal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-molten-filipino-pork-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:29:12.572Z"
+}
