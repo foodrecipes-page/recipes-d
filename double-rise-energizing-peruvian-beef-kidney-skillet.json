@@ -1,0 +1,72 @@
+{
+  "slug": "double-rise-energizing-peruvian-beef-kidney-skillet",
+  "title": "Peruvian-Style Skillet Beef",
+  "description": "A flavorful and hearty beef skillet dish with a Peruvian twist, featuring a bold and aromatic sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Skirt steak or flank steak work well"
+    },
+    {
+      "name": "Double",
+      "amount": "2 tablespoons",
+      "notes": "A Peruvian staple, aji amarillo pepper paste"
+    },
+    {
+      "name": "Rise",
+      "amount": "1 cup",
+      "notes": "Peruvian-style rice"
+    },
+    {
+      "name": "Energizing",
+      "amount": "2 teaspoons",
+      "notes": "Aji panca pepper powder (or substitute with smoked paprika)"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large",
+      "notes": "For cooking the beef and sauce"
+    },
+    {
+      "name": "Kidney",
+      "amount": "2",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes per side. Remove from heat and set aside.",
+    "In the same skillet, add the double and cook for 1-2 minutes, until fragrant.",
+    "Add the rise, energizing, and kidney (if using) to the skillet. Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 1 cup of water to the skillet and bring to a boil.",
+    "Return the beef to the skillet and simmer, covered, until the beef is cooked through and the sauce has thickened, about 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the beef and sauce over the Peruvian-style rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-rise-energizing-peruvian-beef-kidney-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:55:36.408Z"
+}
