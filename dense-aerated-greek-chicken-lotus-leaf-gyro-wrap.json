@@ -1,0 +1,78 @@
+{
+  "slug": "dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
+  "title": "Gyro Wrap",
+  "description": "A classic Greek-inspired wrap filled with juicy chicken and crispy lotus leaf.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "gyro wrap",
+      "amount": "1",
+      "notes": "made from lamb and beef"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain and unflavored"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": "seedless and peeled"
+    },
+    {
+      "name": "chopped red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and your favorite spices.",
+    "Wrap the chicken breast in a lotus leaf and place it in the oven.",
+    "Cook for 20-25 minutes or until the chicken is cooked through.",
+    "Meanwhile, warm the gyro wrap in the oven for 5-7 minutes.",
+    "In a bowl, mix together the Greek yogurt, chopped cucumber, and chopped red onion.",
+    "Remove the chicken from the oven and let it rest for 5 minutes.",
+    "Slice the chicken into thin strips and add it to the bowl with the yogurt mixture.",
+    "Assemble the gyro wrap by placing the chicken mixture on the warmed wrap.",
+    "Add any additional toppings you like, such as tomato, lettuce, or feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "chicken",
+    "lotus",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:40:49.303Z"
+}
