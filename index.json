@@ -1677,17 +1677,15 @@
   },
   {
     "slug": "decadent-croatian-lamb-kebabs",
-    "title": "Decadent Croatian Lamb Kebabs",
+    "title": "Croatian Lamb Kebabs",
     "tags": [
+      "lamb",
+      "kebabs",
       "croatian",
-      "high-protein",
-      "indulgent",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "grilled"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -4846,16 +4844,14 @@
   },
   {
     "slug": "delicate-german-almond-bao",
-    "title": "Delicate German Almond Bao",
+    "title": "German Almond Bao Delight",
     "tags": [
-      "almond-based",
-      "german-desserts",
-      "satvik-friendly",
-      "steamed-buns",
-      "vegetarian"
+      "german-dessert",
+      "almond-bao",
+      "delicate-treats"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
