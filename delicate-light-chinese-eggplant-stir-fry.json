@@ -1,0 +1,67 @@
+{
+  "slug": "delicate-light-chinese-eggplant-stir-fry",
+  "title": "Stir Fry Eggplant Delight",
+  "description": "A simple and quick Chinese-inspired stir fry dish made with eggplant, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Delicate Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 30 seconds.",
+    "Add the eggplant and stir-fry for 3-4 minutes, until tender.",
+    "In a small bowl, whisk together the soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture over the eggplant and stir-fry for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Transfer the eggplant to a serving platter and garnish with chopped scallions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "vegan",
+    "stir-fry",
+    "eggplant"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-light-chinese-eggplant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:13:34.726Z"
+}
