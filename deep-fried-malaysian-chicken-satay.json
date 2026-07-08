@@ -1,0 +1,91 @@
+{
+  "slug": "deep-fried-malaysian-chicken-satay",
+  "title": "Malaysian-Style Chicken Satay",
+  "description": "Grilled chicken skewers served with a spicy peanut sauce, inspired by the flavors of Malaysia. A delicious and easy-to-make dish perfect for a quick dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together coconut milk, peanut butter, soy sauce, brown sugar, garlic, lemongrass, and chili flakes.",
+    "Add the chicken to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with peanut sauce for dipping.",
+    "To make the peanut sauce, combine peanut butter, soy sauce, and brown sugar in a blender or food processor.",
+    "Blend until smooth and creamy.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "malaysian",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:32:32.530Z"
+}
