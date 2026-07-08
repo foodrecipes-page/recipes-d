@@ -1,0 +1,89 @@
+{
+  "slug": "dwholesome-zanzibari-chicken-pilaf",
+  "title": "Zanzibari Chicken Pilaf",
+  "description": "A flavorful and aromatic dish from the coast of East Africa, featuring chicken cooked in a zanzibari spice blend and served over a warm pilaf.",
+  "cuisine": "East African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "zanzibari spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dwholesome basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the zanzibari spice blend and cook for 1 minute.",
+    "Add the pilaf seasoning and stir to combine.",
+    "Add the basmati rice and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the rice is tender.",
+    "Fluff the pilaf with a fork and serve with the chicken on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "east-african",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dwholesome-zanzibari-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:22:13.967Z"
+}
