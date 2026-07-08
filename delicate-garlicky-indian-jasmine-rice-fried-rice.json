@@ -1,0 +1,72 @@
+{
+  "slug": "delicate-garlicky-indian-jasmine-rice-fried-rice",
+  "title": "Garlicky Jasmine Fried Rice",
+  "description": "A flavorful and aromatic fried rice dish infused with the essence of jasmine and the pungency of garlic.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Delicate Herb (optional)",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add the delicate herb (if using) and stir-fry for another minute.",
+    "Add the fried rice and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the jasmine rice and stir-fry for another 2-3 minutes, until the rice is well combined with the garlic and herb.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped green onions (if using).",
+    "Serve immediately and enjoy!",
+    "Note: You can customize this recipe by adding your favorite protein or vegetables to make it more substantial.",
+    "Additionally, you can adjust the amount of garlic to your taste, or omit it altogether if you're not a fan of garlic."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fried-rice",
+    "jasmine-rice",
+    "garlic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-indian-jasmine-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:29:44.509Z"
+}
