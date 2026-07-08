@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-venezuelan-vermicelli-noodles",
+  "title": "Venezuelan Delicate Noodle Soup",
+  "description": "A comforting and flavorful Venezuelan-inspired noodle soup made with delicate noodles and a variety of vegetables.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add carrots and zucchini and sauté for 2-3 minutes.",
+    "Add vegetable broth, tomato paste, and cumin.",
+    "Bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add noodles and cook according to package instructions.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "soup",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-venezuelan-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:04:09.121Z"
+}
