@@ -1,0 +1,66 @@
+{
+  "slug": "date-night-smoky-egyptian-potatoes-tagine",
+  "title": "Smoky Egyptian Tagine",
+  "description": "A hearty, spicy stew originating from Egypt, featuring smoky flavors and tender potatoes.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "date",
+      "amount": "2 tablespoons, chopped",
+      "notes": "medjool dates"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons, smoked paprika",
+      "notes": "adds depth to the tagine"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons, cumin",
+      "notes": "typical spice in Egyptian cuisine"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large, diced",
+      "notes": "a type of North African stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the cumin and smoked paprika; cook for 1 minute, stirring constantly.",
+    "Add the diced tagine and cook for 5 minutes, until slightly browned.",
+    "Add the potatoes, chopped dates, and 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-smoky-egyptian-potatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:31:59.041Z"
+}
