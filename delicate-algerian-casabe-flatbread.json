@@ -1,0 +1,60 @@
+{
+  "slug": "delicate-algerian-casabe-flatbread",
+  "title": "Algerian-Style Casabe Flatbread",
+  "description": "A traditional Algerian flatbread made with casabe, perfect for snacking or as a side dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Delicate Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: Algerian Spice Blend (Cumin, Coriander, Paprika)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush casabe pieces with olive oil and sprinkle with salt.",
+    "If desired, add a pinch of Algerian spice blend for extra flavor.",
+    "Bake in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "flatbread",
+    "casabe",
+    "snack",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-algerian-casabe-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:29:19.694Z"
+}
