@@ -1,0 +1,57 @@
+{
+  "slug": "deep-fried-malaysian-mozzarella-skewers",
+  "title": "Malaysian Mozzarella Skewers",
+  "description": "A delicious and easy-to-make appetizer inspired by Malaysian street food, featuring crispy fried mozzarella cheese on skewers.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 block",
+      "notes": "Fresh or low-moisture"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "1 package",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Malaysian chili sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Cut the mozzarella cheese into 1-inch cubes.",
+    "Thread 3-4 mozzarella cubes onto each bamboo skewer.",
+    "Dredge the cheese cubes in a mixture of cornstarch and a pinch of salt.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Fry the skewers in batches for 2-3 minutes or until golden brown.",
+    "Drain the skewers on paper towels.",
+    "Serve immediately with Malaysian chili sauce (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "snack",
+    "easy",
+    "veggie"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-malaysian-mozzarella-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:58:08.252Z"
+}
