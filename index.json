@@ -2859,15 +2859,14 @@
   },
   {
     "slug": "deep-fried-malaysian-chicken-satay",
-    "title": "Deep Fried Malaysian Chicken Satay",
+    "title": "Malaysian-Style Chicken Satay",
     "tags": [
-      "deep-fried",
-      "gluten-free",
-      "malaysian-food",
-      "peanut-free",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "malaysian",
+      "peanut-sauce"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "d"
   },
@@ -6505,17 +6504,14 @@
   },
   {
     "slug": "delicate-smoky-indian-lentil-curry",
-    "title": "Delicate Smoky Indian Lentil Curry",
+    "title": "Smoky Lentil Curry",
     "tags": [
-      "dairy-free",
-      "indian-cuisine",
-      "lentil-recipes",
-      "smoky-flavors",
-      "special-occasion",
-      "vegetarian"
+      "lentil-curry",
+      "indian-food",
+      "vegetarian-recipe"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -15472,13 +15468,14 @@
   },
   {
     "slug": "dwholesome-zanzibari-chicken-pilaf",
-    "title": "Dwholesome Zanzibari Chicken Pilaf",
+    "title": "Zanzibari Chicken Pilaf",
     "tags": [
-      "crisp",
-      "raw-friendly",
-      "smoky"
+      "chicken",
+      "pilaf",
+      "east-african",
+      "lunch"
     ],
-    "cuisine": "British",
+    "cuisine": "East African",
     "totalTimeMin": 40,
     "shard": "d"
   },
