@@ -536,17 +536,15 @@
   },
   {
     "slug": "dark-molten-filipino-pork-dinuguan",
-    "title": "Dark Molten Filipino Pork Dinuguan",
+    "title": "Filipino-Style Pork in Dark Crispy Sauce (Dinuguan)",
     "tags": [
-      "dinner-recipe",
-      "filipino-cuisine",
-      "gluten-free",
-      "one-pot",
-      "pork-recipe",
-      "sugar-free"
+      "filipino",
+      "pork",
+      "blood",
+      "offal"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14112,17 +14110,14 @@
   },
   {
     "slug": "double-rise-energizing-peruvian-beef-kidney-skillet",
-    "title": "Double Rise Energizing Peruvian Beef Kidney Skillet",
+    "title": "Peruvian-Style Skillet Beef",
     "tags": [
-      "beef-kidney",
-      "cast-iron",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "beef",
+      "skillet"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
