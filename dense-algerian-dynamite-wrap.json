@@ -1,0 +1,77 @@
+{
+  "slug": "dense-algerian-dynamite-wrap",
+  "title": "Algerian Wrap",
+  "description": "A flavorful Algerian-inspired wrap filled with spices and meat, perfect for a quick dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Brown the meat at 165°F (74°C)"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion"
+    },
+    {
+      "name": "Dense tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dynamite garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1-2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet to medium-high heat (around 350°F or 175°C).",
+    "Brown the ground beef, breaking it up with a spoon, until browned and cooked through.",
+    "Add the chopped onion to the skillet and cook until it's translucent.",
+    "Add the Algerian spice mix, dynamite garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Add the dense tomato paste to the skillet and stir to combine.",
+    "Simmer the mixture for 5 minutes, stirring occasionally.",
+    "Warm a wrap in the microwave or in a dry skillet.",
+    "Spoon the beef mixture onto the wrap and serve hot.",
+    "Garnish with additional spices or herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "beef",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-algerian-dynamite-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:25:41.790Z"
+}
