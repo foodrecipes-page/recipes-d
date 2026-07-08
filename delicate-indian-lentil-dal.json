@@ -1,0 +1,97 @@
+{
+  "slug": "delicate-indian-lentil-dal",
+  "title": "Simple Dal Makhani",
+  "description": "A classic North Indian dish made with black lentils and kidney beans in a rich tomato-based sauce. Serve with basmati rice or naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black lentils",
+      "amount": "1 cup",
+      "notes": "split or whole"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain and rinse the lentils again.",
+    "In a large pan, heat oil over medium heat.",
+    "Add the chopped onion and sauté until softened.",
+    "Add the grated ginger and minced garlic and sauté for another minute.",
+    "Add the tomato puree, garam masala, cumin powder, and salt.",
+    "Stir well and bring to a boil.",
+    "Add the lentils, kidney beans, and 4 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Check the lentils for doneness and adjust the seasoning as needed.",
+    "Serve hot with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dal",
+    "indian",
+    "lentils",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-indian-lentil-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:33:07.304Z"
+}
