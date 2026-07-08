@@ -1169,14 +1169,10 @@
   },
   {
     "slug": "date-night-smoky-egyptian-potatoes-tagine",
-    "title": "Date-Night Smoky Egyptian Potatoes Tagine",
+    "title": "Smoky Egyptian Tagine",
     "tags": [
-      "char-grilled",
-      "date-night",
-      "egyptian",
-      "fodmap-friendly",
-      "one-pan",
-      "smoky",
+      "egyptian-cuisine",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Egyptian",
@@ -4467,14 +4463,13 @@
   },
   {
     "slug": "delicate-flaky-norwegian-cod-casserole",
-    "title": "Delicate Flaky Norwegian Cod Casserole",
+    "title": "Norwegian Cod Casserole",
     "tags": [
+      "norwegian",
+      "cod",
       "casserole",
-      "comfort-food",
-      "fish-dish",
-      "norwegian-cuisine",
-      "pescatarian",
-      "weeknight-dinner"
+      "fish",
+      "seafood"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 45,
