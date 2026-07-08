@@ -1,0 +1,74 @@
+{
+  "slug": "delicate-german-almond-bao",
+  "title": "German Almond Bao Delight",
+  "description": "A sweet and delicate dessert inspired by German tradition, featuring crispy almond bao and a delightful filling.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Bao dough",
+      "amount": "4 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roll out the almond bao dough to 1/4 inch thickness.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. Brush the edges with the beaten egg for a golden glaze.",
+    "5. Place the dough circles on a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes or until golden brown.",
+    "7. In a separate bowl, mix together the granulated sugar and ground almonds.",
+    "8. Once the bao are cool, fill each with the sugar-almond mixture.",
+    "9. Dust with confectioners' sugar before serving.",
+    "10. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-dessert",
+    "almond-bao",
+    "delicate-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-german-almond-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:49:13.198Z"
+}
