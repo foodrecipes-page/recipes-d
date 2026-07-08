@@ -1,0 +1,83 @@
+{
+  "slug": "deliciously-dense-moroccan-dough-seffa",
+  "title": "Moroccan Seffa Pie",
+  "description": "A rich and dense Moroccan pie with a variety of spices, perfect for a special occasion or dinner party.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Seffa",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Dough",
+      "amount": "1 package, store-bought or homemade"
+    },
+    {
+      "name": "Deliciously spiced sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cloves",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Eggs, beaten",
+      "amount": "2"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch, and place it in a 9-inch pie dish.",
+    "In a separate bowl, mix together the crumbled seffa, spiced sugar, melted butter, cinnamon, ginger, cloves, and salt.",
+    "Add the beaten eggs to the seffa mixture and mix until well combined.",
+    "Pour the seffa mixture into the pie crust and smooth the top.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the pie from the oven and let it cool for 10 minutes.",
+    "Dust the pie with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "pie",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-moroccan-dough-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:25:14.938Z"
+}
