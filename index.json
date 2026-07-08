@@ -5437,17 +5437,15 @@
   },
   {
     "slug": "delicate-light-chinese-eggplant-stir-fry",
-    "title": "Delicate Light Chinese Eggplant Stir Fry",
+    "title": "Stir Fry Eggplant Delight",
     "tags": [
-      "copper-cooking",
-      "jain-friendly",
-      "quick-dinner",
-      "shandong-cuisine",
+      "chinese-food",
+      "vegan",
       "stir-fry",
-      "vegetarian"
+      "eggplant"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 16,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -6550,17 +6548,15 @@
   },
   {
     "slug": "delicate-smoky-mexican-shrimp-paste-enchiladas",
-    "title": "Delicate Smoky Mexican Shrimp Paste Enchiladas",
+    "title": "Smoky Shrimp Enchiladas",
     "tags": [
+      "mexican",
+      "shrimp",
       "enchiladas",
-      "mexican-food",
-      "one-pan",
-      "seafood-paste",
-      "smoky-flavors",
-      "vegetarian"
+      "smoky"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -7275,17 +7271,14 @@
   },
   {
     "slug": "delicate-venezuelan-vermicelli-noodles",
-    "title": "Delicate Venezuelan Vermicelli Noodles",
+    "title": "Venezuelan Delicate Noodle Soup",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "latin-american",
-      "noodle-dish",
-      "one-pan",
-      "weeknight"
+      "comfort-food",
+      "soup",
+      "veggie"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -10827,17 +10820,16 @@
   },
   {
     "slug": "dense-aerated-greek-chicken-lotus-leaf-gyro-wrap",
-    "title": "Dense, Aerated Greek Chicken Lotus-Leaf Gyro Wrap",
+    "title": "Gyro Wrap",
     "tags": [
-      "chicken",
       "greek",
-      "high-protein",
-      "lotus-leaf",
-      "one-pan",
-      "wrap"
+      "chicken",
+      "lotus",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 42,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
