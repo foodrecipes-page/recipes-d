@@ -8238,17 +8238,15 @@
   },
   {
     "slug": "deliciously-bitter-ethiopian-chinese-leaf-injera",
-    "title": "Deliciously Bitter Ethiopian Chinese Leaf Injera",
+    "title": "Ethiopian Injera with Bitter Greens Stir-Fry",
     "tags": [
-      "bitter-foods",
-      "chinese-influence",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "high-fiber",
-      "vegan-friendly"
+      "ethiopian",
+      "stir-fry",
+      "breakfast",
+      "lunch"
     ],
-    "cuisine": "Ethiopian Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -9172,17 +9170,15 @@
   },
   {
     "slug": "deliciously-dense-moroccan-dough-seffa",
-    "title": "Deliciously Dense Moroccan Dough Seffa",
+    "title": "Moroccan Seffa Pie",
     "tags": [
-      "garlicky",
-      "macrobiotic",
       "moroccan",
-      "one-pot",
-      "springy",
+      "pie",
+      "dessert",
       "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
