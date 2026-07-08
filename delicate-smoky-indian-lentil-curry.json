@@ -1,0 +1,87 @@
+{
+  "slug": "delicate-smoky-indian-lentil-curry",
+  "title": "Smoky Lentil Curry",
+  "description": "A flavorful and nutritious Indian-inspired curry made with red lentils, featuring a smoky and aromatic flavor profile.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "smoky curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    " Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic; sauté until the onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add lentils, coconut milk, water, and salt; stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Stir in lemon juice and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-curry",
+    "indian-food",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-indian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:40:05.006Z"
+}
