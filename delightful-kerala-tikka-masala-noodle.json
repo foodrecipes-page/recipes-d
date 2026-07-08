@@ -1,0 +1,80 @@
+{
+  "slug": "delightful-kerala-tikka-masala-noodle",
+  "title": "Kerala Tikka Noodle Bowl",
+  "description": "A flavorful and spicy Indian-inspired noodle bowl made with marinated chicken tikka, served over a bed of noodles and topped with a delicious kerala-style sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "delightful curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "noodle",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "kerala sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "for marinating chicken"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together curry powder, masala, and yogurt.",
+    "Add the chicken to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "Preheat the grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, cook the noodles according to package instructions.",
+    "In a small saucepan, heat the coconut oil over medium heat.",
+    "Add the kerala sauce and stir to combine.",
+    "To assemble the bowls, place a portion of noodles on the bottom, followed by a piece of grilled chicken, and finally top with the kerala sauce.",
+    "Serve immediately and enjoy!",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "chicken-recipes",
+    "noodle-bowl",
+    "kerala-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightful-kerala-tikka-masala-noodle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:45:07.806Z"
+}
