@@ -1,0 +1,70 @@
+{
+  "slug": "dense-spicy-russian-sausage-grill",
+  "title": "Russian Sausage Grill",
+  "description": "A flavorful sausage dish with a spicy kick, inspired by Russian cuisine, perfect for a summer grill.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pack (8-10 sausages)",
+      "notes": "Choose spicy Russian sausages"
+    },
+    {
+      "name": "Dense bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Russian dill",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Grill sausages for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, grill the onion and bell pepper for 3-4 minutes per side, or until tender.",
+    "Serve the grilled sausages with the onion and bell pepper, and a slice of dense bread.",
+    "Garnish with Russian dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "grill",
+    "russian",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-spicy-russian-sausage-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:00.289Z"
+}
