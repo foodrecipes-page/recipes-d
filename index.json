@@ -2564,18 +2564,16 @@
   },
   {
     "slug": "decadent-tangy-kenyan-tofu-skewers",
-    "title": "Decadent Tangy Kenyan Tofu Skewers",
+    "title": "Kenyan-Style Grilled Tofu Skewers",
     "tags": [
-      "dinner",
-      "indulgent",
       "kenyan",
+      "vegetarian",
+      "grilled",
       "skewers",
-      "tangy",
-      "tofu",
-      "vegan"
+      "tofu"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 31,
     "shard": "d"
   },
   {
@@ -2868,16 +2866,15 @@
   },
   {
     "slug": "deep-fried-malaysian-mozzarella-skewers",
-    "title": "Deep Fried Malaysian Mozzarella Skewers",
+    "title": "Malaysian Mozzarella Skewers",
     "tags": [
-      "brunch-ideas",
-      "deep-fried",
-      "malaysian-cuisine",
-      "mozzarella-recipes",
-      "vegetarian-options"
+      "malaysian",
+      "snack",
+      "easy",
+      "veggie"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -5120,16 +5117,15 @@
   },
   {
     "slug": "delicate-indian-lentil-dal",
-    "title": "Delicate Indian Lentil Dal",
+    "title": "Simple Dal Makhani",
     "tags": [
-      "indian-cuisine",
-      "lentil-recipes",
-      "low-calorie",
-      "one-pot-meals",
-      "vegetarian-dishes"
+      "dal",
+      "indian",
+      "lentils",
+      "kidney-beans"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
