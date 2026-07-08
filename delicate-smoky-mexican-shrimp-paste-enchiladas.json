@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-smoky-mexican-shrimp-paste-enchiladas",
+  "title": "Smoky Shrimp Enchiladas",
+  "description": "A twist on traditional enchiladas, this dish combines the flavors of smoky chipotle peppers and delicate shrimp for a spicy and savory meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "delicate shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoky chipotle peppers in adobo sauce",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "mexican enchilada sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook shrimp according to package instructions until pink and fully cooked.",
+    "In a separate pan, heat the chipotle peppers in adobo sauce over medium heat.",
+    "Add a splash of water to the pan to create a sauce and stir to combine.",
+    "Dip each tortilla into the sauce to coat, then place on a flat surface.",
+    "Arrange a few cooked shrimp in the center of each tortilla, followed by a sprinkle of cheese.",
+    "Roll up the tortillas and place seam-side down in a baking dish.",
+    "Pour the enchilada sauce over the rolled tortillas and top with additional cheese.",
+    "Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped cilantro, sour cream, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "enchiladas",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-mexican-shrimp-paste-enchiladas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:22:06.188Z"
+}
