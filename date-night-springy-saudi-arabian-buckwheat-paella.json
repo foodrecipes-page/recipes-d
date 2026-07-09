@@ -1,0 +1,78 @@
+{
+  "slug": "date-night-springy-saudi-arabian-buckwheat-paella",
+  "title": "Saudi Paella Delight",
+  "description": "A flavorful and aromatic paella dish inspired by the traditions of Saudi cuisine, featuring saudi arabian spices and buckwheat for a unique twist.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Springy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saudi Arabian",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Date",
+      "amount": "3"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the Saudi Arabian spice and stir for 1 minute.",
+    "Add the buckwheat and stir for 2 minutes.",
+    "Add the springy and stir for 2 minutes.",
+    "Add the dates and stir for 1 minute.",
+    "Add the salt and black pepper and stir for 30 seconds.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "paella",
+    "buckwheat",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-springy-saudi-arabian-buckwheat-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:25:20.312Z"
+}
