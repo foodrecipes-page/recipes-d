@@ -13,17 +13,15 @@
   },
   {
     "slug": "dainty-peppery-malaysian-chicken-spring-rolls",
-    "title": "Dainty Peppery Malaysian Chicken Spring-Rolls",
+    "title": "Malaysian Chicken Spring Rolls",
     "tags": [
-      "crispy",
-      "halal-friendly",
-      "high-protein",
-      "low-fat",
-      "malaysian-flavors",
-      "post-workout"
+      "asian",
+      "appetizer",
+      "finger-food",
+      "spring-rolls"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9237,17 +9235,16 @@
   },
   {
     "slug": "deliciously-dense-ukrainian-cheese-curds-dumplings",
-    "title": "Deliciously Dense Ukrainian Cheese Curds Dumplings",
+    "title": "Ukrainian Cheese Dumplings (Varenyky)",
     "tags": [
-      "comfort-food",
-      "eastern-european",
-      "hearty",
-      "high-carb",
-      "homemade",
-      "weeknight"
+      "ukrainian",
+      "cheese",
+      "dumplings",
+      "snack",
+      "veggie"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13826,15 +13823,15 @@
   },
   {
     "slug": "dill-bliss-vegan-tandoori-soup",
-    "title": "Dill Bliss Vegan Tandoori Soup",
+    "title": "Dill Bliss Soup",
     "tags": [
-      "dill",
-      "tandoori",
+      "soup",
       "vegan",
-      "soup"
+      "dill",
+      "comfort-food"
     ],
-    "cuisine": "Vegan, Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
