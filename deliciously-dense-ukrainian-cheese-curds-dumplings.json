@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-dense-ukrainian-cheese-curds-dumplings",
+  "title": "Ukrainian Cheese Dumplings (Varenyky)",
+  "description": "Deliciously dense Ukrainian dumplings filled with a blend of cheese and curds. Perfect as a snack or side dish.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "curds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, warm water, egg, and salt. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of the cheese and curd mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-15 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with melted butter and a sprinkle of milk."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cheese",
+    "dumplings",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-ukrainian-cheese-curds-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:00:22.073Z"
+}
