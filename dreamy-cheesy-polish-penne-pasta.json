@@ -1,0 +1,63 @@
+{
+  "slug": "dreamy-cheesy-polish-penne-pasta",
+  "title": "Cheesy Polish Pasta Bake",
+  "description": "A comforting and creamy pasta bake that combines the flavors of Poland with the richness of cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne pasta"
+    },
+    {
+      "name": "dreamy cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    },
+    {
+      "name": "cheesy sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade cheese sauce"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 lb",
+      "notes": "optional, can be omitted for vegetarian version"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook polish sausage over medium-high heat until browned, breaking into pieces as it cooks.",
+    "In a large mixing bowl, combine cooked pasta, cheesy sauce, and cooked sausage.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top with shredded dreamy cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "pasta",
+    "polish",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-cheesy-polish-penne-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T09:26:04.909Z"
+}
