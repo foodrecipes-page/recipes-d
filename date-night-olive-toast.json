@@ -1,0 +1,63 @@
+{
+  "slug": "date-night-olive-toast",
+  "title": "Date Night Olive Toast",
+  "description": "A simple yet elegant evening snack featuring caramelized dates and creamy olive tapenade on toasted bread.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Date",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Night (olive oil)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive (green pitted olives)",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Toast (gluten-free bread)",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the dates in half lengthwise and place on a baking sheet.",
+    "3. Drizzle the night with olive oil and toss with the dates to coat.",
+    "4. Roast the dates in the oven for 5-7 minutes, or until caramelized.",
+    "5. Meanwhile, toast the bread until lightly browned.",
+    "6. Spread a layer of tapenade on each slice of toast.",
+    "7. Top each slice with a roasted date half and a few olives.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-olive-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T04:04:08.057Z"
+}
