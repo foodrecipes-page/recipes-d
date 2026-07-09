@@ -1,0 +1,71 @@
+{
+  "slug": "dusted-smoky-venezuelan-cod-ceviche",
+  "title": "Smoky Ceviche Cod",
+  "description": "A simple, smoky twist on traditional ceviche, using cod and venezuelan spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fillet",
+      "amount": "4 oz",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Venezuelan chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": "Red or yellow"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1/4 tsp",
+      "notes": "Smoked or sweet"
+    }
+  ],
+  "instructions": [
+    "1. Cut the cod fillet into small, bite-sized pieces.",
+    "2. In a small bowl, mix together the Venezuelan chili powder, lime juice, and smoky paprika.",
+    "3. Add the onion to the bowl and mix well.",
+    "4. Add the cod pieces to the bowl and toss to coat with the marinade.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "6. Before serving, stir the ceviche to redistribute the flavors.",
+    "7. Serve immediately, garnished with fresh cilantro or scallions if desired.",
+    "8. Note: Traditionally, ceviche is made with raw fish, but you can cook the cod if you prefer.",
+    "9. If cooking, heat a non-stick skillet over medium-high heat and cook for 2-3 minutes per side, or until cooked through.",
+    "10. Let the cod rest for a minute before slicing it thinly and serving with the marinade."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "latinamerican",
+    "fish",
+    "ceviche",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dusted-smoky-venezuelan-cod-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:58:29.631Z"
+}
