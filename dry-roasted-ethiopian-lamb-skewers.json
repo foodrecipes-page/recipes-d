@@ -1,0 +1,84 @@
+{
+  "slug": "dry-roasted-ethiopian-lamb-skewers",
+  "title": "Lamb Skewers with Ethiopian Spices",
+  "description": "A flavorful and aromatic lamb skewer recipe with a blend of Ethiopian spices, perfect for a summer BBQ.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry red wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together berbere spice mix, red wine, garlic, salt, and black pepper.",
+    "3. Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "4. Thread the lamb onto the skewers, leaving a small space between each cube.",
+    "5. Brush the skewers with olive oil.",
+    "6. Grill the lamb skewers for 8-10 minutes per side, or until cooked through.",
+    "7. Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "skewers",
+    "bbq",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-roasted-ethiopian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:50:59.139Z"
+}
