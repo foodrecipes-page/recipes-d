@@ -1143,14 +1143,14 @@
   },
   {
     "slug": "date-night-olive-toast",
-    "title": "Date-Night Olive Toast",
+    "title": "Date Night Olive Toast",
     "tags": [
-      "date-night",
-      "olive-toast",
-      "jain-friendly"
+      "appetizer",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -1747,16 +1747,13 @@
   },
   {
     "slug": "decadent-delight-french-almonds-comal-gratin",
-    "title": "Decadent Delight French Almonds Comal Gratin",
+    "title": "French Delight Almond Gratin",
     "tags": [
-      "almonds",
-      "burgundy",
-      "comal",
-      "decadent",
-      "dinner-party",
-      "elegant",
       "french",
-      "low-calorie"
+      "almond",
+      "gratin",
+      "dessert",
+      "creamy"
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
