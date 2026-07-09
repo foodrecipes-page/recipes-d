@@ -1,0 +1,62 @@
+{
+  "slug": "delicate-briny-syrian-narutomaki-noodles",
+  "title": "Narutomaki Noodle Soup",
+  "description": "A Japanese-inspired noodle soup featuring narutomaki, a type of Japanese fish cake.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Narutomaki",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Delicate Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Syrian Briny Feta Cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil.",
+    "Add the delicate noodles and cook according to package instructions.",
+    "Add the narutomaki slices to the broth and cook for an additional 2 minutes.",
+    "Stir in the crumbled Syrian briny feta cheese.",
+    "Ladle the noodle soup into bowls and garnish with chopped green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "noodles",
+    "narutomaki",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-briny-syrian-narutomaki-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:29:12.091Z"
+}
