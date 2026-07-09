@@ -2807,17 +2807,14 @@
   },
   {
     "slug": "deep-fried-chinese-baked-beans-dumplings",
-    "title": "Deep Fried Chinese Baked Beans Dumplings",
+    "title": "Crispy Beijing Dumplings",
     "tags": [
-      "ayurvedic-friendly",
-      "chinese-food",
-      "comfort-food",
-      "deep-fried",
-      "sick-day",
-      "vegetarian-snack"
+      "chinese",
+      "dumplings",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -15420,15 +15417,14 @@
   },
   {
     "slug": "dusted-smoky-venezuelan-cod-ceviche",
-    "title": "Dusted Smoky Venezuelan Cod Ceviche",
+    "title": "Smoky Ceviche Cod",
     "tags": [
-      "fodmap-friendly",
-      "low-carb",
-      "quick",
-      "seafood",
-      "smoky"
+      "latinamerican",
+      "fish",
+      "ceviche",
+      "cod"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 15,
     "shard": "d"
   },
