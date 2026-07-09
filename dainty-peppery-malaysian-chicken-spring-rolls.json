@@ -1,0 +1,87 @@
+{
+  "slug": "dainty-peppery-malaysian-chicken-spring-rolls",
+  "title": "Malaysian Chicken Spring Rolls",
+  "description": "Crispy spring rolls filled with shredded chicken and vegetables, served with a sweet and spicy sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls wrappers",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound, shredded",
+      "notes": ""
+    },
+    {
+      "name": "dainty cabbage",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "peppery carrots",
+      "amount": "1/2 cup, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Add the shredded chicken and cook until browned, about 5 minutes.",
+    "Add the soy sauce, honey, and garlic to the skillet and stir to combine.",
+    "Add the shredded cabbage and carrots to the skillet and cook until wilted, about 2 minutes.",
+    "Place a spring roll wrapper on a flat surface and add about 1 tablespoon of the chicken and vegetable mixture to the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown, about 2-3 minutes on each side.",
+    "Drain the spring rolls on paper towels and serve hot with additional soy sauce and honey for dipping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "appetizer",
+    "finger-food",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dainty-peppery-malaysian-chicken-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:00:18.612Z"
+}
