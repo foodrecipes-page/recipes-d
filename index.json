@@ -3455,17 +3455,15 @@
   },
   {
     "slug": "delicate-briny-syrian-narutomaki-noodles",
-    "title": "Delicate Briny Syrian Narutomaki Noodles",
+    "title": "Narutomaki Noodle Soup",
     "tags": [
-      "briny",
+      "soup",
+      "noodles",
       "narutomaki",
-      "one-pot",
-      "sous-vide",
-      "syrian-cuisine",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14227,16 +14225,15 @@
   },
   {
     "slug": "dreamy-cheesy-polish-penne-pasta",
-    "title": "Dreamy Cheesy Polish Penne Pasta",
+    "title": "Cheesy Polish Pasta Bake",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "pasta-lovers",
-      "romantic-dinner",
-      "weeknight-meal"
+      "cheesy",
+      "pasta",
+      "polish",
+      "baked"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
