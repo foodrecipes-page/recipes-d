@@ -1,0 +1,89 @@
+{
+  "slug": "delicate-vietnamese-chicken-spring-rolls",
+  "title": "Vietnamese Chicken Spring Rolls",
+  "description": "A delicious and healthy Vietnamese dish made with chicken, vegetables, and rice noodles, served with a sweet and spicy sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 package (200g)"
+    },
+    {
+      "name": "Cooked chicken breast",
+      "amount": "1 cup (250g)",
+      "notes": "Shredded or diced"
+    },
+    {
+      "name": "Spring roll skin",
+      "amount": "1 package (10-12 skins)"
+    },
+    {
+      "name": "Delicate lettuce",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup (100g)"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the filling by mixing cooked chicken, shredded lettuce, sliced cucumber, grated carrots, and bean sprouts.",
+    "Soak rice noodles in hot water for 5 minutes. Drain and set aside.",
+    "Assemble the spring rolls by placing a tablespoon of the filling in the center of a spring roll skin.",
+    "Brush the edges of the spring roll skin with a little water.",
+    "Roll the spring roll tightly, starting from one corner.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with a sweet and spicy sauce made by mixing peanut butter, soy sauce, and hoisin sauce.",
+    "Garnish with chopped peanuts or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "spring-rolls",
+    "snack",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-vietnamese-chicken-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:17:15.245Z"
+}
