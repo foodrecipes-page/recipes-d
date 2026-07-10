@@ -1,0 +1,77 @@
+{
+  "slug": "dense-and-salty-argentinian-snapper-parrillada",
+  "title": "Argentinian Snapper Parrillada",
+  "description": "A flavorful and spicy grilled snapper dish from Argentina, typically served with a side of chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillet",
+      "amount": "2"
+    },
+    {
+      "name": "Argentinian seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Parrillada seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dense salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Rinse the snapper fillets and pat dry with paper towels.",
+    "In a small bowl, mix together Argentinian seasoning, lemon juice, garlic, and parrillada seasoning.",
+    "Brush the mixture evenly onto both sides of the snapper fillets.",
+    "Drizzle olive oil over the snapper fillets.",
+    "Season with dense salt to taste.",
+    "Grill the snapper for 4-5 minutes per side, or until cooked through.",
+    "Transfer the snapper to a plate and garnish with fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "snapper",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-and-salty-argentinian-snapper-parrillada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:02:13.800Z"
+}
