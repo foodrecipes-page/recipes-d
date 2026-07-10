@@ -1,0 +1,75 @@
+{
+  "slug": "delicate-roasted-middle-eastern-manchego-tagine",
+  "title": "Roasted Manchego and Eastern Delicacies",
+  "description": "A savory dish that combines the rich flavors of roasted meats with the spices of the middle east. Perfect for a dinner party.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 block, 8 oz"
+    },
+    {
+      "name": "Delicate chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "2",
+      "notes": "from a jar"
+    },
+    {
+      "name": "Eastern spices blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with Eastern spices blend.",
+    "Bake the chicken for 15-20 minutes, or until cooked through.",
+    "Warm the pita bread in the oven for 5 minutes.",
+    "Assemble the sandwiches by spreading Tagine sauce on the pita, followed by a chicken breast, roasted red peppers, and a slice of Manchego cheese.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "cheese",
+    "middle-eastern",
+    "dinner",
+    "sandwiches"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-middle-eastern-manchego-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:33:57.462Z"
+}
