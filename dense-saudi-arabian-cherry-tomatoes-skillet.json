@@ -1,0 +1,86 @@
+{
+  "slug": "dense-saudi-arabian-cherry-tomatoes-skillet",
+  "title": "Saudian Skillet Chicken and Tomatoes",
+  "description": "A flavorful and spicy dish from Saudi Arabia, made with chicken, tomatoes, and Arabian spices.",
+  "cuisine": "saudian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dutch spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce the heat to medium and add the onion and garlic to the skillet.",
+    "Cook until the onion is translucent, about 3-4 minutes.",
+    "Add the cumin, tomato paste, and cherry tomatoes to the skillet.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Return the chicken to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "saudian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-saudi-arabian-cherry-tomatoes-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:34:45.940Z"
+}
