@@ -6103,18 +6103,16 @@
   },
   {
     "slug": "delicate-roasted-middle-eastern-manchego-tagine",
-    "title": "Delicate Roasted Middle Eastern Manchego Tagine",
+    "title": "Roasted Manchego and Eastern Delicacies",
     "tags": [
-      "cozy",
-      "flavorful",
-      "gluten-free",
+      "chicken",
+      "cheese",
       "middle-eastern",
-      "one-pan",
-      "roasted",
-      "vegetarian"
+      "dinner",
+      "sandwiches"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -6771,15 +6769,15 @@
   },
   {
     "slug": "delicate-springy-tofu-pilaf",
-    "title": "Delicate Springy Tofu Pilaf",
+    "title": "Springy Delight Pilaf",
     "tags": [
-      "low-sodium-friendly",
-      "malaysian-recipe",
-      "springy-texture",
-      "tofu-dish"
+      "spring",
+      "tofu",
+      "pilaf",
+      "vegan"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
