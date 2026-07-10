@@ -6175,18 +6175,14 @@
   },
   {
     "slug": "delicate-russian-yogurt-soup",
-    "title": "Delicate Russian Yogurt Soup",
+    "title": "Russian Delicate Soup",
     "tags": [
-      "cinnamon",
-      "crowd-pleaser",
-      "low-fat",
-      "quick",
-      "sour-soup",
-      "sugar-free",
-      "yogurt"
+      "soup",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -7071,17 +7067,15 @@
   },
   {
     "slug": "delicate-umami-french-egg-omelette",
-    "title": "Delicate Umami French Egg Omelette",
+    "title": "French Delicate Omelette",
     "tags": [
-      "french-egg-omelette",
-      "gluten-free",
-      "healthy-breakfast",
-      "low-calorie",
-      "post-workout",
-      "umami-rich"
+      "breakfast",
+      "omelette",
+      "french",
+      "delicate"
     ],
     "cuisine": "French",
-    "totalTimeMin": 14,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
