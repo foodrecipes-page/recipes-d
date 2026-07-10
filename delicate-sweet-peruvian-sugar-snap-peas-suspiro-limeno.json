@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-sweet-peruvian-sugar-snap-peas-suspiro-limeno",
+  "title": "Suspiro Dessert with Sweet Pea Compote",
+  "description": "A Peruvian dessert with sweet pea compote, topped with whipped cream and cinnamon.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Suspiro",
+      "amount": "1 can",
+      "notes": "Canned dulce de leche"
+    },
+    {
+      "name": "Sweet Peas",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": "To balance sweetness"
+    },
+    {
+      "name": "Delicate Vanilla Pods",
+      "amount": "1",
+      "notes": "For compote flavor"
+    },
+    {
+      "name": "Heavy Whipping Cream",
+      "amount": "1 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "For compote flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a medium saucepan, combine sweet peas, granulated sugar, vanilla pod, and lime juice. Cook over medium heat, stirring occasionally, until peas are tender.",
+    "3. Strain the mixture and puree it in a blender or food processor until smooth.",
+    "4. In a separate saucepan, heat the suspiro over low heat, stirring occasionally, until it thickens.",
+    "5. In a separate bowl, whip the heavy whipping cream until stiff peaks form.",
+    "6. To assemble, place a spoonful of the suspiro mixture on individual serving dishes, followed by a spoonful of the sweet pea compote.",
+    "7. Top with whipped cream and sprinkle with cinnamon.",
+    "8. Refrigerate for at least 30 minutes to allow flavors to meld.",
+    "9. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "sweet-peas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-sweet-peruvian-sugar-snap-peas-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:37:14.671Z"
+}
