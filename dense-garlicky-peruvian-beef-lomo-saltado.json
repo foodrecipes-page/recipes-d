@@ -1,0 +1,86 @@
+{
+  "slug": "dense-garlicky-peruvian-beef-lomo-saltado",
+  "title": "Lomo Saltado Stir Fry",
+  "description": "A Peruvian-inspired beef stir fry with garlicky flavors. Perfect for a quick dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (lomo)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Dense, garlicky stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Peruvian saltado seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet. Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the beef back into the skillet and stir in the stir-fry sauce and seasoning.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve the beef and sauce over cooked rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-garlicky-peruvian-beef-lomo-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:59:28.726Z"
+}
