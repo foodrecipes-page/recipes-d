@@ -6847,18 +6847,14 @@
   },
   {
     "slug": "delicate-sweet-peruvian-sugar-snap-peas-suspiro-limeno",
-    "title": "Delicate Sweet Peruvian Sugar Snap Peas Suspiro Limeno",
+    "title": "Suspiro Dessert with Sweet Pea Compote",
     "tags": [
-      "dairy-free",
-      "dessert",
-      "flaky",
-      "gluten-free",
       "peruvian",
-      "sweet",
-      "whole30"
+      "dessert",
+      "sweet-peas"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11773,16 +11769,15 @@
   },
   {
     "slug": "dense-garlicky-peruvian-beef-lomo-saltado",
-    "title": "Dense Garlicky Peruvian Beef Lomo Saltado",
+    "title": "Lomo Saltado Stir Fry",
     "tags": [
-      "beef-recipes",
-      "crowd-pleaser",
-      "gluten-free",
-      "one-pot",
-      "peruvian-cuisine"
+      "beef",
+      "peruvian",
+      "stir-fry",
+      "dinner"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12872,17 +12867,14 @@
   },
   {
     "slug": "dense-saudi-arabian-cherry-tomatoes-skillet",
-    "title": "Dense Saudi Arabian Cherry Tomatoes Skillet",
+    "title": "Saudian Skillet Chicken and Tomatoes",
     "tags": [
-      "cast-iron",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight"
+      "chicken",
+      "saudian",
+      "spicy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
