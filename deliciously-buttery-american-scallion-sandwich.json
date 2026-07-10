@@ -1,0 +1,63 @@
+{
+  "slug": "deliciously-buttery-american-scallion-sandwich",
+  "title": "Buttery Scallion Sandwich",
+  "description": "A rich and savory sandwich filled with buttery goodness and a hint of scallion. Perfect for a quick snack or light lunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Butter one side of two slices of bread.",
+    "Place the slices, buttered side down, in the skillet.",
+    "Add a small amount of butter to the top of each slice.",
+    "Add a few slices of scallion on top of the butter.",
+    "Season with salt and black pepper to taste.",
+    "Flip the sandwiches over and cook for an additional 2-3 minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "snack",
+    "sandwich",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-buttery-american-scallion-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:48:38.325Z"
+}
