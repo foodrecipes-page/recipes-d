@@ -1,0 +1,88 @@
+{
+  "slug": "delicate-croatian-andouille-pilaf",
+  "title": "Croatian Andouille and Pilaf Skillet",
+  "description": "A hearty skillet dish combining the flavors of Croatia with spicy Andouille sausage.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Croatian pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the Andouille sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cooked pilaf, tomato paste, and chicken broth to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "If using white wine, add it to the skillet and cook until the liquid has reduced by half, about 2-3 minutes.",
+    "Return the Andouille sausage to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the sausage is fully coated in the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skillet",
+    "sausage",
+    "pilaf",
+    "croatian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 34,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-croatian-andouille-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:54:32.721Z"
+}
