@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-russian-yogurt-soup",
+  "title": "Russian Delicate Soup",
+  "description": "A light and comforting Russian-inspired soup made with delicate vegetables and yogurt.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "delicate soup mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add chopped carrot and potato, cook for another 5 minutes.",
+    "Add packaged soup mix and stir to combine.",
+    "Pour in enough water to cover the vegetables and soup mix.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in plain yogurt until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-russian-yogurt-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:25.130Z"
+}
