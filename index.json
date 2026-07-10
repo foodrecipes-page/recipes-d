@@ -5609,17 +5609,15 @@
   },
   {
     "slug": "delicate-mediterranean-lamb-skewers",
-    "title": "Delicate Mediterranean Lamb Skewers",
+    "title": "Mediterranean Lamb Skewers",
     "tags": [
-      "healthy",
-      "lamb",
       "mediterranean",
+      "lamb",
       "skewers",
-      "spring",
-      "steamed"
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 38,
     "shard": "d"
   },
   {
@@ -6815,16 +6813,14 @@
   },
   {
     "slug": "delicate-sun-dried-tomato-kfc-ramen",
-    "title": "Delicate Sun-Dried Tomato KFC Ramen",
+    "title": "Sun-Dried Tomato Ramen",
     "tags": [
-      "kfc-ramen",
-      "lazy-sunday",
-      "no-onion-no-garlic",
-      "ramen-miso",
-      "sun-dried-tomato"
+      "ramen",
+      "vegetarian",
+      "easy-lunch"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -9176,17 +9172,15 @@
   },
   {
     "slug": "deliciously-dense-polish-goats-cheese-casserole",
-    "title": "Deliciously Dense Polish Goats Cheese Casserole",
+    "title": "Goat Cheese Polish Casserole",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "one-pot",
+      "goat-cheese",
       "polish-cuisine",
-      "umami-rich",
-      "weeknight"
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
