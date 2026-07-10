@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-mediterranean-lamb-skewers",
+  "title": "Mediterranean Lamb Skewers",
+  "description": "Grilled lamb skewers seasoned with herbs and spices, perfect for a summer evening. This dish is inspired by the flavors of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Delicate olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean herb mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Skewers, 10-12 inches long",
+      "amount": "12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, herb mix, garlic, and lemon juice.",
+    "3. Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread the lamb cubes onto the skewers, leaving a small space between each piece.",
+    "5. Season with salt and pepper to taste.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "7. Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "lamb",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-mediterranean-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:45:34.265Z"
+}
