@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-crispy-northern-thai-chicken-khanom-thai",
+  "title": "Crispy Khanom Chicken Bites",
+  "description": "Delicate Thai-inspired chicken bites coated in crispy northern-style batter, served with a side of sweet and tangy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "northern-style crispy batter mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "thai sweet chili sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the flour, curry paste, and a pinch of salt.",
+    "2. Add the chicken to the bowl and mix until the chicken is evenly coated with the flour mixture.",
+    "3. Dip each piece of chicken into the flour mixture, shaking off any excess.",
+    "4. Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "5. When the oil is hot, add a few pieces of the chicken to the skillet and fry until golden brown.",
+    "6. Remove the chicken from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "7. In a separate bowl, mix together the sweet chili sauce, fish sauce, and sugar.",
+    "8. Add the fried chicken to the bowl and toss to coat with the sauce.",
+    "9. Sprinkle the green onions over the top of the chicken and serve immediately.",
+    "10. Serve the crispy khanom chicken bites with a side of sweet and tangy sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "khanom",
+    "thai",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crispy-northern-thai-chicken-khanom-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:37:25.684Z"
+}
