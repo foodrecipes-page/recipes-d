@@ -3924,17 +3924,16 @@
   },
   {
     "slug": "delicate-crispy-northern-thai-chicken-khanom-thai",
-    "title": "Delicate Crispy Northern Thai Chicken Khanom Thai",
+    "title": "Crispy Khanom Chicken Bites",
     "tags": [
       "crispy",
-      "kosher-friendly",
-      "northern-thai",
-      "one-pan",
-      "papillote",
-      "weeknight"
+      "khanom",
+      "thai",
+      "chicken",
+      "snack"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -7264,18 +7263,16 @@
   },
   {
     "slug": "delicate-vietnamese-chicken-spring-rolls",
-    "title": "Delicate Vietnamese Chicken Spring Rolls",
+    "title": "Vietnamese Chicken Spring Rolls",
     "tags": [
-      "chicken",
-      "date-night",
-      "gluten-free",
-      "healthy",
-      "spring-rolls",
       "vietnamese",
-      "whole30"
+      "chicken",
+      "spring-rolls",
+      "snack",
+      "healthy"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -8254,17 +8251,15 @@
   },
   {
     "slug": "deliciously-buttery-american-scallion-sandwich",
-    "title": "Deliciously Buttery American Scallion Sandwich",
+    "title": "Buttery Scallion Sandwich",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "easy-lunch",
-      "lazy-sunday",
-      "low-sodium",
-      "scallion-lover"
+      "american",
+      "snack",
+      "sandwich",
+      "easy"
     ],
     "cuisine": "American",
-    "totalTimeMin": 16,
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
