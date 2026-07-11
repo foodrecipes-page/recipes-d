@@ -1,0 +1,77 @@
+{
+  "slug": "dark-chocolate-dense-tunisian-dum-tagine",
+  "title": "Tunisian Dark Chocolate Tagine",
+  "description": "A rich and exotic dessert inspired by North African cuisine, featuring a dense, dark chocolate tagine.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "250g",
+      "notes": "high-quality, 70% cocoa solids"
+    },
+    {
+      "name": "Tunisian Dum",
+      "amount": "1 cup",
+      "notes": "small, round pastry shells"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "organic, fair-trade"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "softened, European-style"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "Maldon sea salt or similar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine coconut milk, sugar, and butter. Heat over medium heat, stirring occasionally.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until slightly thickened.",
+    "Remove the saucepan from the heat and stir in the dark chocolate until melted and smooth.",
+    "Allow the chocolate mixture to cool to room temperature.",
+    "Once cooled, stir in the Tunisian dum pastry shells.",
+    "Transfer the chocolate mixture to a 9x9-inch baking dish and smooth the top.",
+    "Bake for 25-30 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and sprinkle with a pinch of salt.",
+    "Allow the tagine to cool to room temperature before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "north-african",
+    "dessert",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-chocolate-dense-tunisian-dum-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:58:22.297Z"
+}
