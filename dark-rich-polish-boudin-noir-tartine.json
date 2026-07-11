@@ -1,0 +1,80 @@
+{
+  "slug": "dark-rich-polish-boudin-noir-tartine",
+  "title": "Tartine Noir",
+  "description": "A simple yet rich polish-inspired tartine recipe featuring dark, rich polish sausage and boudin noir.",
+  "cuisine": "polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dark Polish Sausage",
+      "amount": "4 links",
+      "notes": "sliced"
+    },
+    {
+      "name": "Boudin Noir",
+      "amount": "8 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "French Baguette",
+      "amount": "1 loaf",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange sliced baguette rounds on the prepared baking sheet.",
+    "Drizzle with 2 tbsp of unsalted butter, tossing to coat.",
+    "Bake for 10-12 minutes, or until lightly toasted.",
+    "In a large skillet, cook sliced polish sausage over medium-high heat until browned, about 5-7 minutes.",
+    "Add crumbled boudin noir to the skillet and cook, stirring occasionally, until heated through.",
+    "To assemble the tartine, place toasted baguette slices on a serving plate or board.",
+    "Top each slice with a few pieces of cooked polish sausage and boudin noir mixture.",
+    "Drizzle with remaining 2 tbsp of unsalted butter and sprinkle with chopped chives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tartine",
+    "polish",
+    "breakfast",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-rich-polish-boudin-noir-tartine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:50:04.413Z"
+}
