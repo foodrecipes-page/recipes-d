@@ -1,0 +1,62 @@
+{
+  "slug": "deliciously-jammy-syrian-italian-sausage-curry",
+  "title": "Syrian-Italian Sausage Skillet",
+  "description": "A flavorful and spicy dish that combines the best of Syrian and Italian cuisine. Perfect for a quick weeknight dinner.",
+  "cuisine": "Syrian-Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "syrian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "deliciously roasted bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "italian tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "italian parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the sliced Syrian sausage and cook until browned, about 5 minutes.",
+    "Add the sliced bell pepper and cook until tender, about 3-4 minutes.",
+    "Stir in the Italian tomato sauce and curry powder.",
+    "Bring the mixture to a simmer and let cook for 5-7 minutes.",
+    "Stir in some chopped parsley for garnish.",
+    "Serve the sausage and pepper mixture over rice or pasta.",
+    "Enjoy your delicious and spicy Syrian-Italian Sausage Skillet!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "skillet",
+    "syrian-italian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-jammy-syrian-italian-sausage-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:13:55.493Z"
+}
