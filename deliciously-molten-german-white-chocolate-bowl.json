@@ -1,0 +1,61 @@
+{
+  "slug": "deliciously-molten-german-white-chocolate-bowl",
+  "title": "German Chocolate Fondue",
+  "description": "A rich and creamy fondue made with white chocolate, perfect for dipping fruit or cake. This German-inspired dessert is a delightful twist on a classic treat.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white chocolate",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the cream over medium heat until it starts to simmer.",
+    "Remove the cream from the heat and add in the white chocolate, stirring until melted and smooth.",
+    "Add in the butter and vanilla extract, stirring until fully incorporated.",
+    "Stir in the powdered sugar until dissolved.",
+    "Transfer the fondue to a fondue pot or a small bowl and serve immediately.",
+    "Dip your favorite fruits or cakes into the fondue for a delightful treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue",
+    "chocolate",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-molten-german-white-chocolate-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:09:51.311Z"
+}
