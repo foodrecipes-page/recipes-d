@@ -149,17 +149,15 @@
   },
   {
     "slug": "daring-dutch-quinoa-casserole",
-    "title": "Daring Dutch Quinoa Casserole",
+    "title": "Creamy Quinoa Casserole",
     "tags": [
-      "broil",
-      "cheesy",
-      "comfort-food",
-      "date-night",
       "dutch",
-      "quinoa"
+      "breakfast",
+      "quinoa",
+      "cheese"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -743,17 +741,15 @@
   },
   {
     "slug": "dark-spicy-venezuelan-chicken-stew",
-    "title": "Dark Spicy Venezuelan Chicken Stew",
+    "title": "Pabellon Criollo Chicken Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chicken",
+      "beef",
+      "stew",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
