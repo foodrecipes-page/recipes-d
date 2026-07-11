@@ -1,0 +1,76 @@
+{
+  "slug": "date-night-delight-french-gruy-re-macaron",
+  "title": "French Delight Macaron Cake",
+  "description": "A delicate French-inspired dessert featuring macarons and gruyère cheese. Perfect for a special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Macaron",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "French",
+      "amount": "1/4 cup (unsalted butter, softened)"
+    },
+    {
+      "name": "Re",
+      "amount": "2 large eggs"
+    },
+    {
+      "name": "Delight",
+      "amount": "1 tsp vanilla extract"
+    },
+    {
+      "name": "Date",
+      "amount": "1/4 cup granulated sugar"
+    },
+    {
+      "name": "Night",
+      "amount": "1/2 cup confectioners' sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C). Line a baking sheet with parchment paper.",
+    "Sift the confectioners' sugar into a large bowl.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the sifted confectioners' sugar to the egg mixture and whisk until smooth.",
+    "Add the softened butter and mix until combined.",
+    "Fold in the macaron.",
+    "Transfer the mixture to a piping bag and pipe onto the prepared baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Bake for 15-20 minutes or until the edges are lightly golden.",
+    "Allow the macarons to cool completely on the baking sheet.",
+    "To assemble the cake, place a layer of macarons on a serving plate.",
+    "Spread a layer of gruyère cheese on top of the macarons.",
+    "Repeat the layers one more time, finishing with a layer of macarons on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "macaron",
+    "gruyere",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-delight-french-gruy-re-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:25:23.618Z"
+}
