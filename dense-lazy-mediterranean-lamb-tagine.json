@@ -1,0 +1,115 @@
+{
+  "slug": "dense-lazy-mediterranean-lamb-tagine",
+  "title": "Lamb Tagine with Mediterranean Flair",
+  "description": "A hearty and flavorful North African-inspired lamb dish made with tender lamb, aromatic spices, and sweet dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "About 2 inches long, sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "6-8",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large Dutch oven over medium-high heat.",
+    "2. Add the lamb and brown on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Reduce the heat to medium and add the onion to the pot.",
+    "5. Cook, stirring occasionally, until the onion is softened and lightly browned, about 8 minutes.",
+    "6. Add the garlic, ginger, cumin, coriander, cinnamon, salt, and pepper to the pot.",
+    "7. Cook, stirring constantly, for 1-2 minutes.",
+    "8. Add the browned lamb back to the pot, along with the apricots and 1 cup of water.",
+    "9. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "10. Braise the lamb for 2 1/2 to 3 hours, or until it's tender and falls apart easily.",
+    "11. Remove the pot from the oven and let it cool slightly.",
+    "12. Stir in some chopped parsley and serve the lamb hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "mediterranean",
+    "north-african",
+    "dinner",
+    "braised-lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-lazy-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:09.382Z"
+}
