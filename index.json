@@ -10252,17 +10252,16 @@
   },
   {
     "slug": "deliciously-spicy-indian-basmati-rice-biryani",
-    "title": "Deliciously Spicy Indian Basmati Rice Biryani",
+    "title": "Spicy Indian-Style Basmati Biryani",
     "tags": [
-      "indian-food",
-      "meal-prep",
-      "one-pot",
-      "ovo-vegetarian",
-      "spicy-food",
-      "weeknight"
+      "indian",
+      "rice",
+      "biryani",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
