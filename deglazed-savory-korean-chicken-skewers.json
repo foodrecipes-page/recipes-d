@@ -1,0 +1,88 @@
+{
+  "slug": "deglazed-savory-korean-chicken-skewers",
+  "title": "Spicy Korean Chicken Skewers",
+  "description": "Tender and flavorful chicken skewers marinated in a spicy Korean-inspired sauce. Perfect for a quick and delicious dinner.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine soy sauce, brown sugar, garlic, ginger, and gochujang. Blend until smooth.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the chicken with olive oil and season with salt and pepper.",
+    "Grill the chicken for 8-10 minutes, flipping halfway through.",
+    "Brush the chicken with the marinade during the last 2 minutes of cooking.",
+    "Serve the chicken hot, garnished with green onions and sesame seeds.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-fusion",
+    "grilled-chicken",
+    "spicy-food",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deglazed-savory-korean-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:05:15.194Z"
+}
