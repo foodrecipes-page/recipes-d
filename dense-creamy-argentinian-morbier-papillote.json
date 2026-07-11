@@ -1,0 +1,77 @@
+{
+  "slug": "dense-creamy-argentinian-morbier-papillote",
+  "title": "Morbier Papillote with Argentinian Salsa",
+  "description": "A flavorful and healthy papillote dish featuring morbier cheese, \n   paired with a tangy Argentinian salsa.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "argentinian chimichurri",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "papillote",
+      "amount": "4 count"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 slice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut 4 pieces of parchment paper to size.",
+    "Place a slice of morbier cheese on each piece of paper.",
+    "Add a spoonful of argentinian chimichurri on top of the cheese.",
+    "Fold the paper over to create a papillote, and twist the top.",
+    "Place the papillotes on a baking sheet and bake for 10 minutes.",
+    "Meanwhile, chop the parsley and mince the garlic.",
+    "Squeeze a slice of lemon over the parsley.",
+    "Heat a teaspoon of olive oil in a pan over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the parsley mixture and cook for an additional 2 minutes.",
+    "Remove the papillotes from the oven and serve with the parsley sauce.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "morbier",
+    "argentinian",
+    "papillote",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-creamy-argentinian-morbier-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:21:36.697Z"
+}
