@@ -1,0 +1,57 @@
+{
+  "slug": "daring-dutch-quinoa-casserole",
+  "title": "Creamy Quinoa Casserole",
+  "description": "A comforting, creamy casserole made with quinoa and a medley of flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "daring cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Any dairy cheese will work"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "A pre-made casserole dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook quinoa according to package instructions.",
+    "In a separate saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add 1 cup of daring cheese to the saucepan and stir until melted.",
+    "Combine cooked quinoa, melted cheese mixture, and 1/4 cup of milk in the casserole dish.",
+    "Transfer the casserole to the preheated oven and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot, garnished with additional daring cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "breakfast",
+    "quinoa",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-dutch-quinoa-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:13:20.116Z"
+}
