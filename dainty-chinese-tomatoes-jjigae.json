@@ -1,0 +1,94 @@
+{
+  "slug": "dainty-chinese-tomatoes-jjigae",
+  "title": "Korean-Style Jjigae Stew",
+  "description": "A flavorful and spicy Korean stew made with a variety of ingredients. Serve with a side of rice for a filling meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chinese",
+      "amount": "1/2 cup (diced)",
+      "notes": "any type of chinese cabbage"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1 cup (diced)",
+      "notes": "use a Korean chili paste or gochujang"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup (diced)",
+      "notes": "use any type of tomato"
+    },
+    {
+      "name": "dainty",
+      "amount": "2 tablespoons (diced)",
+      "notes": "any type of green chili pepper"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves (minced)",
+      "notes": "use 3-4 cloves for extra flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon (grated)",
+      "notes": "use fresh ginger for the best flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium soy sauce for a healthier option"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "use brown sugar for a richer flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "use vegetable or chicken broth for extra flavor"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "use for a tangy flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pot over medium heat.",
+    "Add the diced chinese and cook until it's softened, about 3-4 minutes.",
+    "Add the diced jjigae and cook for an additional 2 minutes.",
+    "Add the diced tomatoes, minced garlic, grated ginger, soy sauce, sugar, and rice vinegar.",
+    "Stir well to combine and cook for 2-3 minutes.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the jjigae hot over a bed of rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "jjigae",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dainty-chinese-tomatoes-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:20:18.265Z"
+}
