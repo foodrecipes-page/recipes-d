@@ -2077,17 +2077,15 @@
   },
   {
     "slug": "decadent-italian-noodles-lasagna",
-    "title": "Decadent Italian Noodles Lasagna",
+    "title": "Classic Lasagna",
     "tags": [
-      "comfort-food",
-      "high-protein",
       "italian",
-      "meat-based",
-      "one-pan",
-      "weeknight"
+      "lasagna",
+      "pasta",
+      "meat sauce"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
