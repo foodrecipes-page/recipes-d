@@ -1,0 +1,84 @@
+{
+  "slug": "delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
+  "title": "Revithia and Puy Lentil Stew",
+  "description": "A hearty Greek-inspired stew made with lentils and revithia.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puy lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes.",
+    "Add the lentils, oregano, thyme, salt, and pepper. Stir to combine.",
+    "Add the water and bring to a boil. Reduce heat to low and simmer for 30-40 minutes, or until the lentils are tender.",
+    "Stir in the revithia and cook for an additional 10-15 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:40:59.103Z"
+}
