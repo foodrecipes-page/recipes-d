@@ -305,15 +305,15 @@
   },
   {
     "slug": "dark-chocolate-dense-tunisian-dum-tagine",
-    "title": "Dark Chocolate Dense Tunisian Dum Tagine",
+    "title": "Tunisian Dark Chocolate Tagine",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "soy-free",
-      "vegan",
-      "weeknight"
+      "chocolate",
+      "north-african",
+      "dessert",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 50,
     "shard": "d"
   },
@@ -574,16 +574,15 @@
   },
   {
     "slug": "dark-rich-polish-boudin-noir-tartine",
-    "title": "Dark Rich Polish Boudin Noir Tartine",
+    "title": "Tartine Noir",
     "tags": [
-      "charcoal-recipes",
-      "flexitarian-friendly",
-      "jelly-topped",
-      "polish-cuisine",
-      "romantic-dinner"
+      "tartine",
+      "polish",
+      "breakfast",
+      "sausage"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "polish",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -2938,13 +2937,12 @@
   },
   {
     "slug": "deep-fry-tunisian-chilli-paella",
-    "title": "Deep-Fry Tunisian Chilli Paella",
+    "title": "Spicy Tunisian Paella",
     "tags": [
-      "deep-fried",
-      "keto-friendly",
-      "one-pan",
+      "paella",
+      "tunisian",
       "spicy",
-      "tunisian"
+      "chorizo"
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 45,
@@ -5776,17 +5774,16 @@
   },
   {
     "slug": "delicate-norwegian-salmon-skewers",
-    "title": "Delicate Norwegian Salmon Skewers",
+    "title": "Norwegian Salmon Skewers",
     "tags": [
-      "high-protein",
+      "salmon",
+      "skewers",
+      "grilled",
       "norwegian",
-      "one-pan",
-      "seafood",
-      "sous-vide",
-      "weeknight"
+      "nordic"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "Nordic",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
@@ -7009,16 +7006,16 @@
   },
   {
     "slug": "delicate-turkish-vine-leaf-dolma",
-    "title": "Delicate Turkish Vine Leaf Dolma",
+    "title": "Turkish Dolma",
     "tags": [
-      "light-dish",
-      "quick-meal",
-      "shojin-friendly",
+      "turkish",
       "vegetarian",
-      "winey"
+      "lunch",
+      "rice",
+      "meatballs"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
@@ -11137,16 +11134,16 @@
   },
   {
     "slug": "dense-creamy-argentinian-morbier-papillote",
-    "title": "dense creamy argentinian morbier papillote",
+    "title": "Morbier Papillote with Argentinian Salsa",
     "tags": [
+      "morbier",
       "argentinian",
-      "brunch",
-      "high-protein",
-      "one-pan",
-      "whole30"
+      "papillote",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
