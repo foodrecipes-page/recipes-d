@@ -1,0 +1,87 @@
+{
+  "slug": "deep-fry-tunisian-chilli-paella",
+  "title": "Spicy Tunisian Paella",
+  "description": "A twist on the classic Spanish dish, this spicy Tunisian paella is made with deep-fried chorizo and a blend of African and Mediterranean spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": "Deep-fried until crispy"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Tunisian chilli peppers",
+      "amount": "2",
+      "notes": "Diced and seeded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced Tunisian chilli peppers and cook for an additional 2 minutes.",
+    "Add the chorizo and cook until crispy, about 5 minutes.",
+    "Add the paella rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the tomato paste, smoked paprika, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the pitted and sliced olives.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "tunisian",
+    "spicy",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fry-tunisian-chilli-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:39:48.273Z"
+}
