@@ -1,0 +1,80 @@
+{
+  "slug": "delicate-norwegian-salmon-wrap",
+  "title": "Norwegian Salmon Wrap",
+  "description": "Delicate Norwegian salmon fillet, carefully wrapped in a crunchy wrap with fresh herbs and a hint of lemon.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "delicate norwegian salmon fillet",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "large wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillet with salt and pepper.",
+    "Place the salmon on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 12-15 minutes, or until cooked through.",
+    "Meanwhile, mix the mayonnaise, lemon juice, and chopped dill in a small bowl.",
+    "Warm the large wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the mayonnaise mixture on the wrap, followed by a cooked salmon fillet.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "norwegian",
+    "wrap",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:32:50.851Z"
+}
