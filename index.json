@@ -5771,17 +5771,16 @@
   },
   {
     "slug": "delicate-norwegian-salmon-wrap",
-    "title": "Delicate Norwegian Salmon Wrap",
+    "title": "Norwegian Salmon Wrap",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "low-sodium",
-      "norwegian-cuisine",
-      "quick-fix",
-      "seafood"
+      "salmon",
+      "norwegian",
+      "wrap",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 18,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -10417,16 +10416,15 @@
   },
   {
     "slug": "deliciously-tangy-argentinian-pork-skillet",
-    "title": "Deliciously Tangy Argentinian Pork Skillet",
+    "title": "Argentinian Skillet Pork",
     "tags": [
-      "argentinian-cuisine",
-      "one-pan-meals",
-      "pork-recipes",
-      "tangy-dishes",
-      "weeknight-dinners"
+      "argentinian",
+      "pork",
+      "skillet",
+      "lunch"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
