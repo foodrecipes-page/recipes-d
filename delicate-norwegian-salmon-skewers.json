@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-norwegian-salmon-skewers",
+  "title": "Norwegian Salmon Skewers",
+  "description": "Delicate salmon skewers with a flavorful and refreshing twist, inspired by the cuisine of Norway.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets (6 oz)",
+      "amount": "1.5 pounds",
+      "notes": "Norwegian salmon is ideal for this dish."
+    },
+    {
+      "name": "Delicate skewers",
+      "amount": "20-25",
+      "notes": "Wooden skewers work best for this recipe."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4-5",
+      "notes": "Fresh lemons add a burst of citrus flavor."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh dill adds a bright and refreshing flavor."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Minced garlic adds a savory flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality olive oil for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper adds a nice depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the salmon into 1-inch pieces and thread onto skewers.",
+    "In a small bowl, mix together olive oil, minced garlic, and chopped fresh dill.",
+    "Brush the mixture onto the salmon skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, or until cooked through.",
+    "Serve immediately with lemon wedges on the side.",
+    "Garnish with fresh dill and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "skewers",
+    "grilled",
+    "norwegian",
+    "nordic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:25:35.721Z"
+}
