@@ -3088,16 +3088,14 @@
   },
   {
     "slug": "deglazed-savory-korean-chicken-skewers",
-    "title": "Deglazed Savory Korean Chicken Skewers",
+    "title": "Spicy Korean Chicken Skewers",
     "tags": [
+      "korean-fusion",
       "grilled-chicken",
-      "korean-cuisine",
-      "low-sodium",
-      "robata-grill",
-      "savory-dish",
-      "unique-dessert"
+      "spicy-food",
+      "skewers"
     ],
-    "cuisine": "Korean",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "d"
   },
@@ -12156,16 +12154,16 @@
   },
   {
     "slug": "dense-lazy-mediterranean-lamb-tagine",
-    "title": "Dense Lazy Mediterranean lamb Tagine",
+    "title": "Lamb Tagine with Mediterranean Flair",
     "tags": [
-      "dairy-free",
-      "gluten-free",
       "lamb",
-      "lazy-sunday",
+      "tagine",
       "mediterranean",
-      "one-pot"
+      "north-african",
+      "dinner",
+      "braised-lamb"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "North African",
     "totalTimeMin": 180,
     "shard": "d"
   },
@@ -13118,16 +13116,15 @@
   },
   {
     "slug": "dense-smoky-italian-tomato-pasta",
-    "title": "Dense Smoky Italian Tomato Pasta",
+    "title": "Spaghetti Bolognese",
     "tags": [
-      "high-protein",
       "italian",
-      "one-pot",
       "pasta",
-      "smoky"
+      "sausage",
+      "tomato sauce"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
