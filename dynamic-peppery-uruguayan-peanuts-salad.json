@@ -1,0 +1,89 @@
+{
+  "slug": "dynamic-peppery-uruguayan-peanuts-salad",
+  "title": "Uruguayan Salad with Peanuts",
+  "description": "A fresh and crunchy salad inspired by Uruguayan cuisine, topped with peanuts for added crunch. This salad is perfect for a light and healthy meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dynamic lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Peppery arugula",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": " Cherry tomatoes halved and cucumber sliced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the dynamic lettuce and peppery arugula.",
+    "2. Add the salad (cherry tomatoes and cucumber) on top of the lettuce mixture.",
+    "3. Sprinkle the Uruguayan cheese over the salad.",
+    "4. In a small bowl, whisk together the olive oil and balsamic vinegar.",
+    "5. Drizzle the dressing over the salad and toss to coat.",
+    "6. Sprinkle the peanuts over the top of the salad.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "uruguayan",
+    "veggie",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dynamic-peppery-uruguayan-peanuts-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:55:41.553Z"
+}
