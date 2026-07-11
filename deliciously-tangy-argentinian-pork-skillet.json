@@ -1,0 +1,91 @@
+{
+  "slug": "deliciously-tangy-argentinian-pork-skillet",
+  "title": "Argentinian Skillet Pork",
+  "description": "A deliciously tangy pork dish from Argentina, cooked to perfection in a skillet.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Season the pork tenderloin with jerk seasoning, salt, and black pepper.",
+    "Add 1 tablespoon of olive oil to the skillet and sear the pork for 2-3 minutes on each side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the thinly sliced red onion and red bell pepper to the skillet.",
+    "Cook the vegetables for 3-4 minutes or until they start to soften.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Return the pork to the skillet and pour in the lemon juice.",
+    "Cook for an additional 2-3 minutes or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Remove the pork from the skillet and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pork",
+    "skillet",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-tangy-argentinian-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:23:46.064Z"
+}
