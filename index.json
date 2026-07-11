@@ -7398,16 +7398,15 @@
   },
   {
     "slug": "delicious-australian-sweet-potato-bake",
-    "title": "Delicious Australian Sweet Potato Bake",
+    "title": "Australian Sweet Potato Bake",
     "tags": [
-      "low-fat",
-      "macrobiotic-friendly",
-      "one-pan",
-      "oven-bake",
-      "veggie"
+      "sweet-potato",
+      "australian-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -10644,16 +10643,15 @@
   },
   {
     "slug": "delightfully-aerated-greek-puy-lentils-raclette-grilled-revithia",
-    "title": "Delightfully Aerated Greek Puy-lentils Raclette Grilled Revithia",
+    "title": "Revithia and Puy Lentil Stew",
     "tags": [
-      "adventurous",
-      "fancy",
       "greek",
-      "keto",
-      "one-pan"
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 42,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
