@@ -1,0 +1,88 @@
+{
+  "slug": "dark-spicy-venezuelan-chicken-stew",
+  "title": "Pabellon Criollo Chicken Stew",
+  "description": "A hearty and flavorful Venezuelan-inspired stew made with chicken, beef, and plantains. Perfect for a cold winter night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Beef brisket",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Plantains",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dark and spicy"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tbsp",
+      "notes": "dark and spicy"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the plantains and cook for 2 minutes.",
+    "Add the tomato paste, beef broth, and Worcestershire sauce. Stir to combine.",
+    "Bring to a simmer and cook for 20 minutes or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "beef",
+    "stew",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-spicy-venezuelan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:10:41.978Z"
+}
