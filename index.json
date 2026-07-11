@@ -923,14 +923,15 @@
   },
   {
     "slug": "date-nibbles-meditative",
-    "title": "Date Nibbles Meditative",
+    "title": "Meditative Date Bites",
     "tags": [
-      "date-night",
-      "salty-fluffy",
-      "vegan"
+      "healthy",
+      "snack",
+      "easy-to-make",
+      "gluten-free"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -2907,17 +2908,14 @@
   },
   {
     "slug": "deep-fried-turkish-pasta",
-    "title": "Deep Fried Turkish Pasta",
+    "title": "Turkish Pasta Fritters",
     "tags": [
-      "bamboo-tray",
-      "deep-fried",
-      "gluten-free",
-      "one-pot",
-      "turkish-cuisine",
-      "whole30"
+      "turkish",
+      "pasta",
+      "fritters"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -4309,14 +4307,11 @@
   },
   {
     "slug": "delicate-ethiopian-collard-greens-gomen",
-    "title": "Delicate Ethiopian Collard Greens Gomen",
+    "title": "Ethiopian Collard Greens Stew",
     "tags": [
-      "african-cuisine",
-      "gluten-free",
-      "healthy",
-      "one-pot",
-      "vegan",
-      "vegetarian"
+      "ethiopian",
+      "vegetarian",
+      "stew"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
@@ -9505,18 +9500,14 @@
   },
   {
     "slug": "deliciously-jammy-syrian-italian-sausage-curry",
-    "title": "Deliciously Jammy Syrian Italian Sausage Curry",
+    "title": "Syrian-Italian Sausage Skillet",
     "tags": [
-      "high-protein",
-      "jammy-curry",
-      "one-pan",
-      "ovo-vegetarian",
-      "post-workout",
-      "syrian-italian",
-      "weeknight"
+      "sausage",
+      "skillet",
+      "syrian-italian"
     ],
-    "cuisine": "Syrian Italian",
-    "totalTimeMin": 50,
+    "cuisine": "Syrian-Italian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11669,17 +11660,17 @@
   },
   {
     "slug": "dense-fluffy-peruvian-basmati-rice-pilaf",
-    "title": "Dense Fluffy Peruvian Basmati Rice Pilaf",
+    "title": "Peruvian Coconut Rice",
     "tags": [
-      "crowd-pleaser",
-      "gluten-free",
-      "one-pan",
       "peruvian",
-      "pescatarian",
-      "weeknight"
+      "coconut",
+      "rice",
+      "side-dish",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "peruvian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -13232,19 +13223,14 @@
   },
   {
     "slug": "dense-smoky-ukrainian-rest-meat-stew",
-    "title": "Dense Smoky Ukrainian Rest-meat Stew",
+    "title": "Smoky Ukrainian Beef Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "hearty",
-      "meat-lovers",
-      "pork",
-      "slow-cooked",
-      "ukrainian",
-      "weeknight"
+      "stew",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 140,
     "shard": "d"
   },
   {
@@ -15421,17 +15407,15 @@
   },
   {
     "slug": "dynamic-peppery-uruguayan-peanuts-salad",
-    "title": "Dynamic Peppery Uruguayan Peanuts Salad",
+    "title": "Uruguayan Salad with Peanuts",
     "tags": [
-      "keto",
-      "peppery",
       "salad",
-      "spherified",
       "uruguayan",
-      "weeknight"
+      "veggie",
+      "healthy"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 10,
     "shard": "d"
   },
   {
