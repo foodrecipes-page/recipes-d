@@ -1,0 +1,60 @@
+{
+  "slug": "date-nibbles-meditative",
+  "title": "Meditative Date Bites",
+  "description": "A sweet and healthy snack made with dates and nibbles. Perfect for a quick energy boost.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Nibbles",
+      "amount": "1/2 cup",
+      "notes": "chopped almonds or walnuts"
+    },
+    {
+      "name": "Meditative",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Cut the dates in half and place on the prepared baking sheet.",
+    "4. Sprinkle the nibbles over the dates.",
+    "5. Drizzle with meditative (vanilla extract).",
+    "6. Bake for 12-15 minutes or until the nibbles are lightly toasted.",
+    "7. Remove from the oven and let cool completely.",
+    "8. Once cool, break into bite-sized pieces.",
+    "9. Serve and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "snack",
+    "easy-to-make",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-nibbles-meditative",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:54:22.432Z"
+}
