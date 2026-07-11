@@ -1,0 +1,96 @@
+{
+  "slug": "decadent-smoky-norte-3o-chicken-burrito",
+  "title": "Smoky Burrito Chicken",
+  "description": "A rich and flavorful burrito dish with a smoky twist, featuring chicken as the main protein. This recipe is perfect for a weeknight dinner or a casual gathering.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoky chipotle peppers in adobo sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "norte beans",
+      "amount": "1 can",
+      "notes": "15 ounces"
+    },
+    {
+      "name": "burrito-sized flour tortillas",
+      "amount": "4",
+      "notes": "or substitute with corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "diced bell peppers",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt, pepper, and cumin. Cook in a skillet over medium-high heat until browned and cooked through, about 5-7 minutes.",
+    "Add the diced onions and bell peppers to the skillet and cook until tender, about 3-4 minutes.",
+    "Stir in the smoky chipotle peppers and cook for 1 minute.",
+    "Add the norte beans to the skillet and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the burritos by spooning the chicken and bean mixture onto a tortilla, followed by shredded cheese.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Place the burritos seam-side down on a baking sheet and bake for 10-12 minutes, or until the cheese is melted and the tortillas are crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burrito",
+    "chicken",
+    "mexican",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoky-norte-3o-chicken-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:20:16.472Z"
+}
