@@ -1,0 +1,74 @@
+{
+  "slug": "delicious-australian-sweet-potato-bake",
+  "title": "Australian Sweet Potato Bake",
+  "description": "A delicious and easy-to-make sweet potato dish from Australia, perfect for a weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "delicious",
+      "amount": "1/4 cup (60g) chopped fresh parsley",
+      "notes": "for garnish"
+    },
+    {
+      "name": "australian",
+      "amount": "2 tablespoons olive oil",
+      "notes": "to taste"
+    },
+    {
+      "name": "potato",
+      "amount": "1/2 teaspoon salt",
+      "notes": null
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 teaspoon black pepper",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons unsalted butter",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes with a fork.",
+    "Rub the sweet potatoes with olive oil, salt, and black pepper.",
+    "Bake the sweet potatoes for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, melt the butter in a small saucepan over low heat.",
+    "Stir in the chopped parsley.",
+    "Once the sweet potatoes are done, slice them in half lengthwise.",
+    "Top each sweet potato with the parsley butter.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "australian-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-australian-sweet-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:38:27.336Z"
+}
