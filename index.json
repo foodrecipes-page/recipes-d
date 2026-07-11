@@ -1,14 +1,15 @@
 [
   {
     "slug": "dainty-chinese-tomatoes-jjigae",
-    "title": "dainty chinese tomatoes jjigae",
+    "title": "Korean-Style Jjigae Stew",
     "tags": [
-      "flexitarian",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "stew",
+      "jjigae",
+      "spicy"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 23,
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -2442,18 +2443,15 @@
   },
   {
     "slug": "decadent-smoky-norte-3o-chicken-burrito",
-    "title": "Decadent Smoky Norteño Chicken Burrito",
+    "title": "Smoky Burrito Chicken",
     "tags": [
-      "high-protein",
+      "burrito",
+      "chicken",
       "mexican",
-      "norteno",
-      "one-pan",
-      "post-workout",
-      "smoky",
-      "weeknight"
+      "smoky"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
