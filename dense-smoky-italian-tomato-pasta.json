@@ -1,0 +1,74 @@
+{
+  "slug": "dense-smoky-italian-tomato-pasta",
+  "title": "Spaghetti Bolognese",
+  "description": "Classic Italian pasta dish made with ground beef and tomato sauce. A hearty and flavorful recipe perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Ground Italian Sausage",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dense Tomato Sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, cook Italian sausage over medium-high heat, breaking it up with a spoon, until browned and cooked through.",
+    "Add onion and garlic to the skillet and cook until softened.",
+    "Add tomato sauce to the skillet and stir to combine.",
+    "Simmer the sauce over medium-low heat for 10-15 minutes.",
+    "Drain the pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Season with salt and parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "sausage",
+    "tomato sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 60,
+    "fat": 27
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-italian-tomato-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:13.465Z"
+}
