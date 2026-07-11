@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-turkish-vine-leaf-dolma",
+  "title": "Turkish Dolma",
+  "description": "A traditional Turkish dish filled with a mixture of rice, meat, and spices, wrapped in vine leaves. This recipe is a simplified version of the classic dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dolma spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove the stems.",
+    "In a large bowl, combine the cooked rice, ground beef, chopped onion, minced garlic, dolma spice mix, salt, and black pepper.",
+    "Mix well to combine.",
+    "Place a vine leaf on a flat surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the rice mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining leaves and filling.",
+    "In a large pot, combine 2 cups of water and 2 tablespoons of olive oil.",
+    "Bring the water to a boil, then reduce the heat to medium-low and simmer for 30 minutes.",
+    "Add the dolmas to the pot and simmer for an additional 20-25 minutes, or until they are tender.",
+    "Serve the dolmas hot, garnished with lemon wedges and chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "lunch",
+    "rice",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-turkish-vine-leaf-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:11:04.286Z"
+}
