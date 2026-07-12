@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-indian-dough-gulab-jjumun",
+  "title": "Delicate Indian Doughnuts",
+  "description": "A classic Indian dessert, gulab jamun, reimagined as delicate doughnuts. These sweet treats are deep-fried and soaked in a fragrant syrup.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "leavening agent (baking powder)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gulab syrup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped pistachios or almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, leavening agent, and sugar.",
+    "2. Gradually add milk to the dry ingredients and mix until a smooth batter forms.",
+    "3. Heat oil in a deep frying pan over medium heat.",
+    "4. Using a piping bag or a spoon, drop the batter into the oil, making sure not to overcrowd the pan.",
+    "5. Fry the doughnuts until they are golden brown, about 2-3 minutes on each side.",
+    "6. Using a slotted spoon, remove the doughnuts from the oil and place them on a paper towel-lined plate.",
+    "7. Drizzle the gulab syrup over the warm doughnuts.",
+    "8. Garnish with chopped nuts.",
+    "9. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sweet",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-indian-dough-gulab-jjumun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:38:33.519Z"
+}
