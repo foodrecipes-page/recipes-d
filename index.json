@@ -11061,16 +11061,16 @@
   },
   {
     "slug": "dense-citrusy-slovakian-tuna-pilaf",
-    "title": "Dense, Citrusy Slovakian Tuna Pilaf",
+    "title": "Slovakian Tuna Salad",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "one-pan",
       "slovakian",
-      "weeknight"
+      "salad",
+      "tuna",
+      "pilaf",
+      "quick-meal"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
