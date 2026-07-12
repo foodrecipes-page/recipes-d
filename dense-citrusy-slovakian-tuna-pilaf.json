@@ -1,0 +1,86 @@
+{
+  "slug": "dense-citrusy-slovakian-tuna-pilaf",
+  "title": "Slovakian Tuna Salad",
+  "description": "A refreshing Slovakian-inspired tuna salad made with pilaf, perfect for a quick lunch or dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned tuna",
+      "amount": "1 can (5 oz)",
+      "notes": null
+    },
+    {
+      "name": "Cooked pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Dense, citrusy vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Drain the liquid from the canned tuna and set aside.",
+    "In a medium bowl, combine the cooked pilaf, red onion, salt, and black pepper.",
+    "Add the drained tuna, Slovakian paprika, and dense, citrusy vinegar to the bowl.",
+    "Mix well until the ingredients are evenly combined.",
+    "Stir in the chopped fresh parsley.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tuna salad at room temperature or chilled.",
+    "Garnish with additional parsley if desired.",
+    "Serve with crusty bread or on its own for a satisfying meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "salad",
+    "tuna",
+    "pilaf",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-citrusy-slovakian-tuna-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:47:11.674Z"
+}
