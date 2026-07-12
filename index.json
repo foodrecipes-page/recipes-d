@@ -10531,17 +10531,15 @@
   },
   {
     "slug": "delightful-polish-steak-stir-fry",
-    "title": "Delightful Polish Steak Stir-fry",
+    "title": "Delightful Polish Steak Stir Fry",
     "tags": [
-      "festive",
-      "herby",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "polish"
+      "polish",
+      "steak",
+      "stir-fry",
+      "meat-lovers"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -13052,18 +13050,14 @@
   },
   {
     "slug": "dense-smoky-delight-thai-lettuce-nam-prik",
-    "title": "Dense Smoky Delight Thai Lettuce Nam-Prik",
+    "title": "Spicy Thai Lettuce Wraps",
     "tags": [
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "smoky",
-      "snack",
       "thaifood",
-      "weeknight"
+      "lettucewraps",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
