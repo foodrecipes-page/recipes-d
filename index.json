@@ -8281,17 +8281,16 @@
   },
   {
     "slug": "deliciously-chewy-turkish-chicken-wings-kebabs",
-    "title": "Deliciously Chewy Turkish Chicken Wings Kebabs",
+    "title": "Deliciously Chewy Turkish Chicken Wings",
     "tags": [
-      "chicken-wings",
-      "festive",
-      "gluten-free",
-      "herbal",
-      "sattvic",
-      "turkish-food"
+      "turkish",
+      "chicken",
+      "wings",
+      "snack",
+      "easy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -11147,21 +11146,14 @@
   },
   {
     "slug": "dense-crispy-malaysian-tandoor-satay",
-    "title": "Dense Crispy Malaysian Tandoor Satay",
+    "title": "Tandoor Satay Chicken",
     "tags": [
-      "chicken",
-      "coconut-milk",
-      "grilled",
-      "high-protein",
-      "marzipan",
-      "mexican-inspired",
-      "one-pan",
+      "grilled-chicken",
       "satay",
-      "tandoor-oven",
-      "weeknight"
+      "malaysian-cuisine"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
