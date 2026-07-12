@@ -1,0 +1,70 @@
+{
+  "slug": "delicate-smoky-argentinian-broad-beans-wrap",
+  "title": "Smoky Bean Wrap",
+  "description": "A flavorful and healthy wrap filled with smoky beans, perfect for a quick lunch or snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate Beans",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Smoky Beans",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "flour tortilla or gluten-free alternative"
+    },
+    {
+      "name": "Argentinian Salsa",
+      "amount": "1/4 cup",
+      "notes": "mild or spicy, depending on preference"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the Argentinian salsa along the center of the wrap.",
+    "Add the cooked smoky beans on top of the salsa.",
+    "Add the delicate beans on top of the smoky beans.",
+    "Garnish with chopped cilantro.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beans",
+    "wrap",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-argentinian-broad-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:07:32.658Z"
+}
