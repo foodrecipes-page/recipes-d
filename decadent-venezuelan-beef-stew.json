@@ -1,0 +1,91 @@
+{
+  "slug": "decadent-venezuelan-beef-stew",
+  "title": "Pabellon Criollo Beef Stew",
+  "description": "A classic Venezuelan beef stew made with tender beef and crispy plantains. This hearty dish is perfect for a cold evening.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "arbequena chili peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "plantains",
+      "amount": "2",
+      "notes": "Sliced into 1/2-inch rounds"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chili peppers and cook for 1 minute.",
+    "Add cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Add beef back into the pot and pour in beef broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 1 1/2 hours, or until beef is tender.",
+    "About 30 minutes before serving, add sliced plantains to the pot.",
+    "Continue cooking until plantains are crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    " venezuelan",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:26:30.448Z"
+}
