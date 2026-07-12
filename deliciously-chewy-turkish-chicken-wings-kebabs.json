@@ -1,0 +1,85 @@
+{
+  "slug": "deliciously-chewy-turkish-chicken-wings-kebabs",
+  "title": "Deliciously Chewy Turkish Chicken Wings",
+  "description": "A flavorful and crispy Turkish-inspired chicken wings recipe, perfect for snacking or as a side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "pat dry with paper towels"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons",
+      "notes": "sweet"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Pat dry chicken wings with paper towels and place on the baking sheet.",
+    "In a small bowl, mix together paprika, cumin, garlic powder, salt, and black pepper.",
+    "Brush olive oil over the chicken wings, then sprinkle the spice mixture evenly.",
+    "Bake for 25 minutes.",
+    "Increase oven temperature to broil. Broil for an additional 5-7 minutes, until crispy.",
+    "Remove from oven and brush with lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "chicken",
+    "wings",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-chewy-turkish-chicken-wings-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:57:53.123Z"
+}
