@@ -5067,16 +5067,14 @@
   },
   {
     "slug": "delicate-indian-dough-gulab-jjumun",
-    "title": "Gulab Jjumun",
+    "title": "Delicate Indian Doughnuts",
     "tags": [
-      "deep-fried",
-      "dessert",
-      "gujarati",
-      "gulab-jamun",
-      "orange"
+      "indian",
+      "sweet",
+      "deep-fried"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 75,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -11395,17 +11393,15 @@
   },
   {
     "slug": "dense-dry-ethiopian-red-lentils-misir-wot",
-    "title": "Dense Dry Ethiopian Red Lentils Misir Wot",
+    "title": "Ethiopian Red Lentil Stew (Misir Wot)",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "spicy",
-      "vegan",
-      "weeknight"
+      "ethiopian",
+      "lentil-stew",
+      "red-lentils",
+      "misir-wot"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14347,16 +14343,14 @@
   },
   {
     "slug": "dreamy-garlicky-ukrainian-dried-cranberries-dumplings",
-    "title": "Dreamy Garlicky Ukrainian Dried Cranberries Dumplings",
+    "title": "Cranberry Dumplings",
     "tags": [
-      "comfort-food",
-      "eastern-european",
-      "grilled",
-      "macrobiotic",
-      "vegetarian"
+      "ukrainian",
+      "dessert",
+      "cranberry"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
