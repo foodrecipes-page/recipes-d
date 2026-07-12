@@ -1,0 +1,83 @@
+{
+  "slug": "dense-crispy-malaysian-tandoor-satay",
+  "title": "Tandoor Satay Chicken",
+  "description": "Grilled chicken satay marinated in a blend of spices and yogurt, served with a side of tangy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine yogurt, coconut milk, tandoor spice mix, garam masala, cumin powder, coriander powder, and salt.",
+    "Add the chicken to the marinade and mix well.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve with peanut sauce and garnish with peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "satay",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-crispy-malaysian-tandoor-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:42:46.378Z"
+}
