@@ -1,0 +1,70 @@
+{
+  "slug": "delightfully-shattering-british-penne-pasta-eton-mess",
+  "title": "Eton Mess Dessert",
+  "description": "A classic British dessert made with meringue, strawberries, and whipped cream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Eton mess",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "400g"
+    },
+    {
+      "name": "Meringue",
+      "amount": "250g"
+    },
+    {
+      "name": "Double cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Crush 200g of meringue into small pieces.",
+    "Hull and slice 400g of strawberries, then set aside.",
+    "In a separate bowl, whip 250ml of double cream until it begins to thicken.",
+    "Add 100g of caster sugar and continue whipping until stiff peaks form.",
+    "Fold the whipped cream into the crushed meringue until well combined.",
+    "Add the sliced strawberries to the mixture and gently fold until they are evenly distributed.",
+    "Drizzle 2 tbsp of lemon juice over the top of the mixture and serve immediately.",
+    "Spoon the mixture into individual serving dishes and chill in the fridge for 10 minutes before serving.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eton-mess",
+    "british-dessert",
+    "strawberries",
+    "meringue",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightfully-shattering-british-penne-pasta-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:27:49.787Z"
+}
