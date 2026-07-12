@@ -2619,16 +2619,14 @@
   },
   {
     "slug": "decadent-venezuelan-beef-stew",
-    "title": "Decadent Venezuelan Beef Stew",
+    "title": "Pabellon Criollo Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "venezuelan-cuisine"
+      " venezuelan",
+      "beef",
+      "stew"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 125,
     "shard": "d"
   },
   {
