@@ -5898,13 +5898,10 @@
   },
   {
     "slug": "delicate-pickled-chinese-tofu-chow-fun",
-    "title": "Delicate Pickled Chinese Tofu Chow Fun",
+    "title": "Stir-Fried Chow Fun with Delicate Vegetables",
     "tags": [
-      "chinese-food",
-      "one-pan",
-      "plant-based",
-      "quick-meal",
-      "vegan-friendly",
+      "chinese",
+      "quick-cooking",
       "vegetarian"
     ],
     "cuisine": "Chinese",
@@ -6402,17 +6399,16 @@
   },
   {
     "slug": "delicate-smoky-argentinian-broad-beans-wrap",
-    "title": "Delicate Smoky Argentinian Broad Beans Wrap",
+    "title": "Smoky Bean Wrap",
     "tags": [
       "argentinian",
-      "comfort-food",
-      "one-pan",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "beans",
+      "wrap",
+      "lunch",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -7099,17 +7095,14 @@
   },
   {
     "slug": "delicate-vegan-canadian-baby-new-potato-hash",
-    "title": "Delicate Vegan Canadian Baby New Potato Hash",
+    "title": "New Potato and Hash Brown Delight",
     "tags": [
-      "canadian",
-      "one-pan",
-      "potato",
-      "side-dish",
-      "snack",
-      "vegan"
+      "breakfast",
+      "vegan",
+      "potato"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
