@@ -1,0 +1,89 @@
+{
+  "slug": "delightful-polish-steak-stir-fry",
+  "title": "Delightful Polish Steak Stir Fry",
+  "description": "A hearty and flavorful dish that combines the richness of polish sausage with the savory taste of steak, all in a delicious stir-fry.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lbs",
+      "notes": "Ribeye or Sirloin"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 lb",
+      "notes": "Kielbasa"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook for 3-4 minutes, until translucent.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the polish sausage and cook for 2-3 minutes, until browned.",
+    "Add the steak and cook for 3-4 minutes, until browned.",
+    "Add the stir-fry sauce and stir to coat the ingredients.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "steak",
+    "stir-fry",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightful-polish-steak-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:24:46.681Z"
+}
