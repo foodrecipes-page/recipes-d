@@ -1,0 +1,61 @@
+{
+  "slug": "dense-smoky-delight-thai-lettuce-nam-prik",
+  "title": "Spicy Thai Lettuce Wraps",
+  "description": "A flavorful and refreshing Thai-inspired dish with crispy lettuce wraps filled with tender prik and savory delight.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Prik",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Delight",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Wash and dry the lettuce leaves.",
+    "2. In a pan, heat the nam over medium heat.",
+    "3. Add the prik to the pan and stir-fry until tender.",
+    "4. Add the delight to the pan and stir-fry for 1 minute.",
+    "5. Assemble the lettuce wraps by placing a spoonful of the prik mixture onto a lettuce leaf.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "lettucewraps",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-delight-thai-lettuce-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:29:00.084Z"
+}
