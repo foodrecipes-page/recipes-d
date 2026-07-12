@@ -1,0 +1,77 @@
+{
+  "slug": "dense-dry-ethiopian-red-lentils-misir-wot",
+  "title": "Ethiopian Red Lentil Stew (Misir Wot)",
+  "description": "A classic Ethiopian dish made with red lentils, onions, and spices. This stew is flavorful and nutritious, perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dry ginger powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté until softened, about 5 minutes.",
+    "Add ginger powder, berbere spice, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add red lentils and 2 cups of water. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir occasionally to prevent burning.",
+    "Serve hot, garnished with chopped fresh cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentil-stew",
+    "red-lentils",
+    "misir-wot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-dry-ethiopian-red-lentils-misir-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:23:51.178Z"
+}
