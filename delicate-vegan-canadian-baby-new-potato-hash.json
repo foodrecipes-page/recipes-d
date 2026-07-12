@@ -1,0 +1,73 @@
+{
+  "slug": "delicate-vegan-canadian-baby-new-potato-hash",
+  "title": "New Potato and Hash Brown Delight",
+  "description": "A simple and delicious breakfast recipe featuring new potatoes and hash browns, ideal for a cozy morning.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Hash Brown",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Baby Potatoes",
+      "amount": "4-5",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the new potatoes into 1-inch cubes.",
+    "Place the potato cubes in a bowl and drizzle with canola oil.",
+    "Season with salt and black pepper. Toss to coat.",
+    "Transfer the potatoes to a baking sheet and roast for 20-25 minutes or until golden brown.",
+    "While the potatoes are roasting, prepare the hash browns according to package instructions.",
+    "Once the potatoes are done, remove from the oven and top with hash browns.",
+    "Garnish with baby potatoes and serve hot.",
+    "Optional: serve with a side of fresh herbs or a dollop of vegan sour cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegan",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-vegan-canadian-baby-new-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:34:39.472Z"
+}
