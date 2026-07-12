@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-pickled-chinese-tofu-chow-fun",
+  "title": "Stir-Fried Chow Fun with Delicate Vegetables",
+  "description": "A light and refreshing stir-fry made with delicate vegetables and Chinese chow fun noodles, finished with a hint of pickled flair.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chow fun noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "delicate vegetables (such as bean sprouts, carrots, and cabbage)",
+      "amount": "1 cup",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 block",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "stems trimmed and separated"
+    },
+    {
+      "name": "chinese chili oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the chow fun noodles according to package instructions. Drain and set aside.",
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 3-4 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of sesame oil to the skillet, then add the delicate vegetables and broccoli.",
+    "Stir-fry the vegetables until they begin to soften, about 2-3 minutes.",
+    "Add the cooked noodles, tofu, pickled ginger, soy sauce, and chili oil (if using) to the skillet.",
+    "Stir-fry everything together for an additional 1-2 minutes, until the noodles are well coated with the sauce.",
+    "Serve the stir-fry hot, garnished with sliced scallions and an extra drizzle of soy sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "quick-cooking",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-pickled-chinese-tofu-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:08:27.741Z"
+}
