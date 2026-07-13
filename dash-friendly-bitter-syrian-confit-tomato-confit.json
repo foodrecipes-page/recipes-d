@@ -1,0 +1,71 @@
+{
+  "slug": "dash-friendly-bitter-syrian-confit-tomato-confit",
+  "title": "Bitter Confit Chicken with Tomato",
+  "description": "A savory and slightly bitter dish made with confit chicken, tomatoes, and a hint of syrian spice.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Confit Chicken",
+      "amount": "1 lb",
+      "notes": "Shredded or diced confit chicken"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Syrian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Available at most middle eastern stores"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1/4 cup",
+      "notes": "Bitter greens such as endive or radicchio"
+    },
+    {
+      "name": "Friendly",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley or cilantro"
+    },
+    {
+      "name": "Dash Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together the confit chicken, chopped tomatoes, Syrian spice blend, and a pinch of salt and pepper.",
+    "Spread the mixture onto a baking sheet and roast in the oven for 15-20 minutes, or until the chicken is heated through and the tomatoes are tender.",
+    "Meanwhile, chop the bitter greens and mix with the friendly herbs.",
+    "To serve, place a portion of the chicken and tomato mixture onto a plate, top with the bitter and friendly greens, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "tomatoes",
+    "syrian",
+    "bitter",
+    "friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dash-friendly-bitter-syrian-confit-tomato-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:16:42.128Z"
+}
