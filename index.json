@@ -15177,17 +15177,15 @@
   },
   {
     "slug": "dry-rubbed-moroccan-lamb-kebabs",
-    "title": "Dry Rubbed Moroccan Lamb Kebabs",
+    "title": "Lamb Kebabs with Moroccan Rub",
     "tags": [
-      "gluten-free",
-      "grilled",
-      "kebabs",
       "lamb",
-      "lazy-sunday",
-      "moroccan"
+      "kebabs",
+      "moroccan",
+      "grilled"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
