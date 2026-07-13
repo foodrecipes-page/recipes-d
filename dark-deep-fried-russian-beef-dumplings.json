@@ -1,0 +1,81 @@
+{
+  "slug": "dark-deep-fried-russian-beef-dumplings",
+  "title": "Russian Beef Dumplings",
+  "description": "A hearty Russian dish featuring pan-fried beef dumplings served with a side of tangy sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "20-25 wrappers"
+    },
+    {
+      "name": "Fried Onions",
+      "amount": "1 cup (optional)"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup (for serving)"
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, salt, black pepper, and egg in a bowl. Mix well.",
+    "Add water and mix until the dough comes together.",
+    "Knead the dough for 5-7 minutes until it becomes smooth.",
+    "Divide the dough into 20-25 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the beef mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings hot with a side of sour cream and fried onions (if using).",
+    "Note: To make fried onions, heat 2 tablespoons of oil in a small skillet over medium heat.",
+    "Add 1 cup of thinly sliced onions and cook for 5-7 minutes, until golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "dumplings",
+    "main-course"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-deep-fried-russian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:56:01.968Z"
+}
