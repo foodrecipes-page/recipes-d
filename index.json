@@ -837,17 +837,16 @@
   },
   {
     "slug": "dash-friendly-bitter-syrian-confit-tomato-confit",
-    "title": "Bitter Syrian Confit-Tomato Confit",
+    "title": "Bitter Confit Chicken with Tomato",
     "tags": [
-      "bitter",
-      "easy-to-make",
-      "flaky",
-      "one-pan",
+      "chicken",
+      "tomatoes",
       "syrian",
-      "weeknight"
+      "bitter",
+      "friendly"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 16,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9734,16 +9733,15 @@
   },
   {
     "slug": "deliciously-roasted-german-potato-casserole",
-    "title": "Deliciously Roasted German Potato Casserole",
+    "title": "German Potato Casserole",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "german",
+      "potato",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 65,
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -12496,18 +12494,16 @@
   },
   {
     "slug": "dense-polish-sake-toast",
-    "title": "Dense Polish Sake Toast",
+    "title": "Sake-Glazed Polish Sausage on Toast",
     "tags": [
-      "breakfast-for-dinner",
-      "dinner-party",
-      "gluten-free",
-      "midnight-snack",
-      "one-pan",
-      "potluck",
-      "sake"
+      "breakfast",
+      "sausage",
+      "gluten",
+      "sake",
+      "polish"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 15,
+    "cuisine": "polish",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
