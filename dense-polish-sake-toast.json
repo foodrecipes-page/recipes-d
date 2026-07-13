@@ -1,0 +1,56 @@
+{
+  "slug": "dense-polish-sake-toast",
+  "title": "Sake-Glazed Polish Sausage on Toast",
+  "description": "A simple and flavorful dish featuring polish sausage glazed with sake and served on toasted bread.",
+  "cuisine": "polish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "4 links"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dense Bread (Toast)",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the polish sausage into 1-inch pieces and place on a baking sheet.",
+    "Bake the sausage in the preheated oven for 12-15 minutes, or until browned and cooked through.",
+    "Meanwhile, toast the bread slices in a toaster or under the broiler.",
+    "In a small saucepan, combine the sake and 2 tablespoons of water.",
+    "Bring the sake mixture to a simmer over medium heat and cook until slightly reduced, about 5 minutes.",
+    "Brush the sake glaze over the cooked sausage and serve on top of toasted bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "gluten",
+    "sake",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-polish-sake-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:52:18.879Z"
+}
