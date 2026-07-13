@@ -1,0 +1,82 @@
+{
+  "slug": "deliciously-shaggy-filipino-chicken-adobo",
+  "title": "Filipino Chicken Adobo",
+  "description": "A classic Filipino dish made with marinated chicken cooked in vinegar, soy sauce, garlic, and bay leaves.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": "apple cider vinegar or white vinegar"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add vinegar, soy sauce, bay leaves, black pepper, and salt.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until chicken is cooked through, about 20-25 minutes.",
+    "Remove chicken from sauce and let rest for 5 minutes before serving.",
+    "Strain sauce and discard bay leaves.",
+    "Serve chicken with sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chicken",
+    "adobo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "40g",
+    "carbs": "20g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-shaggy-filipino-chicken-adobo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:17:09.621Z"
+}
