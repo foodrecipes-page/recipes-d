@@ -1,0 +1,80 @@
+{
+  "slug": "dense-scottish-haggis-stew",
+  "title": "Scottish Haggis Stew",
+  "description": "A hearty and traditional Scottish stew made with haggis, a savory mixture of sheep's heart, liver, and lungs. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "Scottish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Dense beef stewing steak",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2"
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Scottish neeps (turnips)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large heavy pot over medium heat.",
+    "2. Brown the haggis on all sides, about 5 minutes.",
+    "3. Add the beef stewing steak and brown on all sides, about 5 minutes.",
+    "4. Add the chopped onion and cook until softened, about 5 minutes.",
+    "5. Add the chopped carrots, potatoes, neeps, and beef broth.",
+    "6. Stir in the Worcestershire sauce.",
+    "7. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "8. Serve hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "haggis",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-scottish-haggis-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:41.594Z"
+}
