@@ -345,17 +345,15 @@
   },
   {
     "slug": "dark-deep-fried-russian-beef-dumplings",
-    "title": "Dark Deep Fried Russian Beef Dumplings",
+    "title": "Russian Beef Dumplings",
     "tags": [
-      "date-night",
-      "deep-fried",
-      "dutch-oven",
-      "fodmap-friendly",
-      "russian-cuisine",
-      "yeasty"
+      "beef",
+      "russian",
+      "dumplings",
+      "main-course"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
