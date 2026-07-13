@@ -3039,14 +3039,14 @@
     "slug": "deeply-savoury-slovakian-papelon-gratin",
     "title": "Slovakian Papelon Gratin",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "papelon",
+      "gratin",
+      "vegetarian",
+      "main-course"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -9890,17 +9890,15 @@
   },
   {
     "slug": "deliciously-shaggy-filipino-chicken-adobo",
-    "title": "Deliciously Shaggy Filipino Chicken Adobo",
+    "title": "Filipino Chicken Adobo",
     "tags": [
-      "banana-leaf-cooking",
-      "brunch-ideas",
-      "chicken-recipes",
-      "filipino-cuisine",
-      "gluten-free",
-      "keto-friendly"
+      "filipino",
+      "chicken",
+      "adobo",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
