@@ -2393,20 +2393,17 @@
   },
   {
     "slug": "decadent-smoky-blackened-tunisian-beans-tagine",
-    "title": "Decadent Smoky Blackened Tunisian Beans Tagine",
+    "title": "Smoky Blackened Tagine Beans",
     "tags": [
-      "ayurvedic",
-      "comfort-food",
-      "hangover-cure",
+      "tagine",
       "north-african",
-      "one-pan",
+      "beans",
       "tunisian",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "smoky",
+      "blackened"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -7255,17 +7252,15 @@
   },
   {
     "slug": "delicate-yeasty-moroccan-vermicelli-pasta",
-    "title": "Delicate Yeasty Moroccan Vermicelli Pasta",
+    "title": "Moroccan Vermicelli Delight",
     "tags": [
       "moroccan",
-      "one-pan",
-      "ovo-vegetarian",
+      "vegetarian",
       "pasta",
-      "weeknight",
-      "yeasty"
+      "easy-dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
