@@ -1,0 +1,89 @@
+{
+  "slug": "decadent-venezuelan-chicken-wrap",
+  "title": "Venezuelan Chicken Wrap",
+  "description": "A flavorful and savory Venezuelan-style chicken wrap filled with juicy chicken, crispy bacon, and creamy avocado.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crispy-cooked"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": "warm"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with cumin, chili powder, and salt.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, cook the bacon in a pan until crispy.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading lime juice on the tortilla, then adding the grilled chicken, crispy bacon, sliced avocado, and red onion.",
+    "Top with shredded cheese, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chicken",
+    "wrap",
+    "bacon",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-venezuelan-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:27:25.399Z"
+}
