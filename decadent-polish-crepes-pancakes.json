@@ -1,0 +1,90 @@
+{
+  "slug": "decadent-polish-crepes-pancakes",
+  "title": "Polish Crepes with Decadent Fillings",
+  "description": "A traditional Polish breakfast dish, filled with decadent sweet treats. These crepes are made with love and care to create a delicious and filling breakfast.",
+  "cuisine": "Polish",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "All-purpose flour for the crepes"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": "Fresh eggs for the crepe batter"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups",
+      "notes": "Whole milk for the crepe batter"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "Melted butter for the crepe batter"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated sugar for the crepe batter"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": "Imitation vanilla extract for the crepe batter"
+    },
+    {
+      "name": "Decadent chocolate spread",
+      "amount": "2 tablespoons",
+      "notes": "Decadent chocolate spread for filling"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1 tablespoon",
+      "notes": "Raspberry jam for filling"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 tablespoon",
+      "notes": "Powdered sugar for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, eggs, milk, melted butter, sugar, and vanilla extract until smooth.",
+    "Heat a small non-stick pan over medium heat and brush with butter.",
+    "Once the pan is hot, pour in about 1/4 cup of the batter and tilt the pan to evenly coat the bottom.",
+    "Cook for about 1-2 minutes or until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over and cook for another minute.",
+    "Repeat with the remaining batter, until all the crepes are made.",
+    "To assemble, spread a tablespoon of chocolate spread on one half of the crepe, followed by a tablespoon of raspberry jam.",
+    "Fold the other half of the crepe over the filling and dust with powdered sugar.",
+    "Serve immediately and enjoy!",
+    "Repeat with the remaining crepes and filling ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepes",
+    "polish",
+    "breakfast",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-polish-crepes-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:41:36.597Z"
+}
