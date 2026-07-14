@@ -1,0 +1,64 @@
+{
+  "slug": "deep-fried-brazilian-lettuce-salad",
+  "title": "Deep Fried Brazilian Salad",
+  "description": "A crispy twist on a classic Brazilian salad, this fried delight will satisfy your cravings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mixed greens salad",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brazilian salad dressing",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Deep-frying oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef or chicken broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "Separate lettuce leaves into individual cups.",
+    "Dip each lettuce cup into the Brazilian salad dressing.",
+    "Dredge the salad-dipped lettuce cups in flour.",
+    "Fry the coated lettuce cups in hot oil for 2-3 minutes on each side.",
+    "Drain on paper towels.",
+    "Serve with beef or chicken broth for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "brazilian",
+    "salad",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-brazilian-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:52:04.280Z"
+}
