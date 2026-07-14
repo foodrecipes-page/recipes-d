@@ -1,0 +1,88 @@
+{
+  "slug": "dreamy-smoky-italian-plum-tomatoes-carbonara",
+  "title": "Smoky Tomato Carbonara",
+  "description": "A twist on the classic Italian dish, with smoky bacon and fresh tomatoes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky bacon",
+      "amount": "6 slices",
+      "notes": "Cooked and crumbled"
+    },
+    {
+      "name": "plum tomatoes",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "italian cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "carbonara pasta",
+      "amount": "12 oz",
+      "notes": "Cooked al dente"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the carbonara pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the minced garlic and cook for 1 minute.",
+    "Add the chopped plum tomatoes to the skillet and cook for 2-3 minutes, until they start to release their juices.",
+    "Add the crumbled smoky bacon to the skillet and cook for an additional 2-3 minutes, until heated through.",
+    "In a large serving bowl, combine the cooked pasta, bacon and tomato mixture, and shredded italian cheese.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "carbonara",
+    "smoky",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-smoky-italian-plum-tomatoes-carbonara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:52:57.325Z"
+}
