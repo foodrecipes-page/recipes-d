@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-crisp-russian-beef-pilaf",
+  "title": "Delicate Beef Stroganoff Pilaf",
+  "description": "A dish combining the flavors of Russia with the simplicity of a pilaf. Delicate beef strips are cooked in a savory sauce and served over a crispy pilaf.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "delicate onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "mushroom soup",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the pilaf according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add the chopped onions and cook until they start to caramelize.",
+    "Add the beef strips and cook until browned.",
+    "Add the beef broth, mushroom soup, and tomato paste. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the chopped dill.",
+    "Serve the beef mixture over the cooked pilaf.",
+    "Garnish with chopped crisp lettuce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "38g",
+    "carbs": "55g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:37:18.252Z"
+}
