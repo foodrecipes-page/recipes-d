@@ -2000,18 +2000,15 @@
   },
   {
     "slug": "decadent-greek-potato-pastitsio",
-    "title": "Decadent Greek Potato Pastitsio",
+    "title": "Greek Pastitsio",
     "tags": [
-      "glassy-sauce",
       "greek",
-      "jammy",
-      "pescatarian-friendly",
-      "russet-potato",
-      "scallop-shell",
-      "show-off"
+      "pastitsio",
+      "pasta",
+      "ground-beef"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
@@ -2258,17 +2255,15 @@
   },
   {
     "slug": "decadent-polish-crepes-pancakes",
-    "title": "Decadent Polish Crepes Pancakes",
+    "title": "Polish Crepes with Decadent Fillings",
     "tags": [
-      "ayurvedic",
-      "infused-oil",
-      "polish-cuisine",
-      "romantic-dinner",
-      "sattvic",
-      "white-chocolate"
+      "crepes",
+      "polish",
+      "breakfast",
+      "sweet"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -3710,16 +3705,14 @@
   },
   {
     "slug": "delicate-crisp-russian-beef-pilaf",
-    "title": "Delicate Crisp Russian Beef Pilaf",
+    "title": "Delicate Beef Stroganoff Pilaf",
     "tags": [
-      "beef-recipes",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pot",
-      "russian-cuisine"
+      "russian",
+      "beef",
+      "pilaf"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -8841,18 +8834,15 @@
   },
   {
     "slug": "deliciously-dense-american-ancho-chillies-skillet",
-    "title": "Deliciously Dense American Ancho Chillies Skillet",
+    "title": "Spicy American-Style Skillet Steak",
     "tags": [
       "american",
-      "chilli",
-      "mushroom",
-      "one-pan",
+      "chillies",
       "skillet",
-      "vegan",
-      "vegetarian"
+      "steak"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -10461,17 +10451,14 @@
   },
   {
     "slug": "deliciously-warm-canadian-lentil-curry",
-    "title": "Deliciously Warm Canadian Lentil Curry",
+    "title": "Canadian Lentil Curry",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "vegan-friendly",
-      "warm-and-comforting"
+      "lentil-curry",
+      "indian-cuisine",
+      "vegan"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "cuisine": "indian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -11928,16 +11915,14 @@
   },
   {
     "slug": "dense-italian-yeast-lasagna",
-    "title": "Dense Italian Yeast Lasagna",
+    "title": "Homemade Lasagna",
     "tags": [
       "italian",
       "lasagna",
-      "vegetarian",
-      "weeknight",
-      "yeast"
+      "homemade"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
