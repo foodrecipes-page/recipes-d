@@ -1,0 +1,102 @@
+{
+  "slug": "deliciously-dense-middle-eastern-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish made with tender lamb and aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches until browned, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, cinnamon, paprika, and ginger. Cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Return lamb to pot and cover with a lid.",
+    "Braise lamb in the oven at 300°F (150°C) for 2 1/2 hours, or until tender.",
+    "Stir in honey (if using).",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:35:43.461Z"
+}
