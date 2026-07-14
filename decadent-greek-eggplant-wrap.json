@@ -1,0 +1,73 @@
+{
+  "slug": "decadent-greek-eggplant-wrap",
+  "title": "Decadent Greek Eggplant Wrap",
+  "description": "A flavorful and healthy wrap filled with roasted eggplant, feta cheese, and a tangy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1/2-inch thick slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "or gluten-free wrap"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place eggplant slices on a baking sheet lined with parchment paper. Drizzle with 1 tablespoon of olive oil and season with salt and pepper. Roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "In a small bowl, mix together tzatziki sauce and lemon juice.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the tzatziki sauce mixture on the tortilla, followed by roasted eggplant, crumbled feta cheese, and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "greek",
+    "tortilla",
+    "tzatziki",
+    "feta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-greek-eggplant-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:23:29.669Z"
+}
