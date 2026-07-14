@@ -1,0 +1,102 @@
+{
+  "slug": "dark-smoky-chinese-chicken-biryani",
+  "title": "Smoky Chinese Chicken Biryani",
+  "description": "A fusion dish that combines the flavors of smoky BBQ and traditional Chinese and Indian biryani. Chicken is marinated in a mixture of soy sauce, hoisin sauce, and spices before being cooked with basmati rice and served with a side of pickled vegetables.",
+  "cuisine": "Chinese-Indian fusion",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onions and cook until they start to brown, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add chicken to the skillet and cook until browned on all sides and cooked through.",
+    "In a separate saucepan, heat 2 cups of water over high heat.",
+    "Add garam masala and smoked paprika to the water and bring to a boil.",
+    "Add basmati rice to the saucepan and stir to coat with the spice mixture.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Fluff the rice with a fork and stir in dark soy sauce and hoisin sauce.",
+    "To assemble the biryani, place a scoop of the rice mixture in the bottom of a large serving dish.",
+    "Top with the cooked chicken and garnish with chopped cilantro, if desired.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of pickled vegetables, such as carrots and cucumbers, for a refreshing contrast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "indian",
+    "bbq",
+    "fusion",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-smoky-chinese-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:23:15.711Z"
+}
