@@ -4220,17 +4220,15 @@
   },
   {
     "slug": "delicate-earthy-indian-kidney-beans-rajma",
-    "title": "Delicate Earthy Indian Kidney Beans Rajma",
+    "title": "Rajma Masala",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pan",
+      "indian",
       "vegetarian",
-      "weeknight"
+      "kidney beans",
+      "beans"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -5424,16 +5422,15 @@
   },
   {
     "slug": "delicate-light-korean-fernbrake-noodles",
-    "title": "Delicate Light Korean Fernbrake Noodles",
+    "title": "Delicate Korean Noodle Stir Fry",
     "tags": [
-      "delicate-texture",
-      "gluten-free",
-      "korean-cuisine",
-      "light-meal",
-      "vegetarian-friendly"
+      "korean",
+      "noodles",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -11690,19 +11687,15 @@
   },
   {
     "slug": "dense-german-meat-salad",
-    "title": "Dense German Meat Salad",
+    "title": "German Meat Salad",
     "tags": [
-      "chilled-salad",
-      "crowd-pleaser",
-      "german-dish",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "german",
+      "salad",
+      "meat",
+      "beef"
     ],
     "cuisine": "german",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
