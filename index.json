@@ -542,17 +542,14 @@
   },
   {
     "slug": "dark-molten-jamaican-chicken-curry",
-    "title": "Dark Molten Jamaican Chicken Curry",
+    "title": "Jamaican Curry Chicken",
     "tags": [
-      "chicken-recipes",
-      "curry-recipes",
-      "jamaican-cuisine",
-      "low-sodium",
-      "one-pot",
-      "spicy-food"
+      "jamaican",
+      "curry",
+      "chicken"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -8584,15 +8581,11 @@
   },
   {
     "slug": "deliciously-crumbly-slovakian-potato-dumplings",
-    "title": "Deliciously Crumbly Slovakian Potato Dumplings",
+    "title": "Slovakian Potato Dumplings",
     "tags": [
-      "crumbly",
-      "flambe",
-      "jain",
-      "kid-friendly",
-      "potato-dumplings",
       "slovakian",
-      "vegetarian"
+      "potato",
+      "dumplings"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
@@ -8756,17 +8749,15 @@
   },
   {
     "slug": "deliciously-crusted-argentinian-millet-hash",
-    "title": "Deliciously Crusted Argentinian Millet Hash",
+    "title": "Argentinian Crusted Chicken Hash",
     "tags": [
       "argentinian",
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "hash",
+      "millet"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
