@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-light-syrian-broccoli-pilaf",
+  "title": "Delicate Syrian Broccoli Pilaf",
+  "description": "A light and flavorful Syrian-inspired pilaf dish featuring tender broccoli and delicate spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Delicate rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the broccoli and cook until tender, about 5 minutes.",
+    "Add the pilaf, water, cumin, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover with a tight-fitting lid.",
+    "Simmer for 15-20 minutes, or until the liquid has been absorbed and the pilaf is tender.",
+    "Fluff the pilaf with a fork and stir in chopped parsley.",
+    "Serve hot.",
+    "To toast the pilaf, cook in a dry skillet over medium heat, stirring frequently, until lightly browned and fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "vegetarian",
+    "pilaf",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-light-syrian-broccoli-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T08:48:34.435Z"
+}
