@@ -1966,14 +1966,12 @@
     "tags": [
       "eggplant",
       "greek",
-      "mediterranean",
-      "quick",
-      "ssamjang",
-      "vegetarian",
-      "wrap"
+      "tortilla",
+      "tzatziki",
+      "feta"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -7729,16 +7727,15 @@
   },
   {
     "slug": "delicious-irish-beetroot-gratin",
-    "title": "Delicious Irish Beetroot Gratin",
+    "title": "Irish Beetroot Gratin",
     "tags": [
+      "beetroot",
       "irish",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "gratin",
+      "cheese"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "cuisine": "irish",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
