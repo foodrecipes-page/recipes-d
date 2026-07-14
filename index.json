@@ -2750,17 +2750,16 @@
   },
   {
     "slug": "deep-fried-brazilian-lettuce-salad",
-    "title": "Deep-Fried Brazilian Lettuce Salad",
+    "title": "Deep Fried Brazilian Salad",
     "tags": [
-      "bacon",
       "fried",
-      "high-protein",
-      "one-pan",
-      "south-american",
-      "weeknight"
+      "brazilian",
+      "salad",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
