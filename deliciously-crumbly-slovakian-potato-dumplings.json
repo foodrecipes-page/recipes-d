@@ -1,0 +1,74 @@
+{
+  "slug": "deliciously-crumbly-slovakian-potato-dumplings",
+  "title": "Slovakian Potato Dumplings",
+  "description": "Traditional Slovakian dish made with deliciously crumbly dumplings and boiled potatoes. A hearty and comforting meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Boil potatoes in salted water until tender, then mash.",
+    "In a large bowl, combine flour, caraway seeds, and salt.",
+    "Gradually add water to the flour mixture, stirring until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and pliable.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Place a spoonful of mashed potatoes onto the center of each disk.",
+    "Fold the dough over the potatoes to form a dumpling, and press edges together to seal.",
+    "Cook dumplings in boiling water for 10-15 minutes, or until they float to the surface.",
+    "Serve dumplings hot with melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "potato",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crumbly-slovakian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:06:38.663Z"
+}
