@@ -1,0 +1,85 @@
+{
+  "slug": "delicious-irish-beetroot-gratin",
+  "title": "Irish Beetroot Gratin",
+  "description": "A delicious Irish-inspired beetroot gratin dish that combines the earthy sweetness of beets with the richness of Irish cheese.",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "gratin dish",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Peel and slice the beetroot into 1/2-inch thick rounds.",
+    "3. In a large bowl, combine the grated cheese, cream, garlic, butter, thyme, salt, and pepper.",
+    "4. Add the sliced beetroot to the bowl and toss to coat with the cheese mixture.",
+    "5. Transfer the beetroot mixture to a gratin dish and top with additional grated cheese.",
+    "6. Bake for 25-30 minutes or until the top is golden brown and the beets are tender.",
+    "7. Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "irish",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-irish-beetroot-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:13:31.075Z"
+}
