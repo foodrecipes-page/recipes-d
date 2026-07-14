@@ -1,0 +1,84 @@
+{
+  "slug": "dense-german-meat-salad",
+  "title": "German Meat Salad",
+  "description": "A hearty and flavorful salad made with sautéed meat and a variety of vegetables, inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "salad"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Salad mix",
+      "amount": "200g",
+      "notes": "your choice of greens"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider or white wine"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "2. Add the finely chopped onion and bell pepper and cook until softened.",
+    "3. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "4. Add the diced tomato and cook for an additional 2-3 minutes.",
+    "5. In a separate bowl, whisk together the Dijon mustard and vinegar.",
+    "6. Add the salad mix to the bowl and toss to combine.",
+    "7. Add the cooked meat mixture to the salad and toss to combine.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "salad",
+    "meat",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-german-meat-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:12:50.835Z"
+}
