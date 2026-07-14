@@ -9135,17 +9135,14 @@
   },
   {
     "slug": "deliciously-dense-ukrainian-lamb-dumplings",
-    "title": "Deliciously Dense Ukrainian Lamb Dumplings",
+    "title": "Ukrainian Lamb Dumplings",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "ukrainian-cuisine",
+      "lamb-dumplings",
+      "comfort-food"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
