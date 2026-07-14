@@ -1374,14 +1374,16 @@
   },
   {
     "slug": "ddecadent-syrian-sweet-rice-flour-chapssalgaru-pilaf",
-    "title": "DDecadent Syrian Sweet-Rice-Flour-Chapssalgaru Pilaf",
+    "title": "Spicy Syrian Rice Pilaf",
     "tags": [
-      "cuisine-specific",
-      "oil-free",
-      "snackable"
+      "syrian",
+      "rice",
+      "pilaf",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -4519,17 +4521,15 @@
   },
   {
     "slug": "delicate-floral-korean-fish-poke",
-    "title": "Delicate Floral Korean Fish Poke",
+    "title": "Seared Delicate Fish with Korean-Style Poke Sauce",
     "tags": [
-      "delicate",
-      "easy-meal",
-      "floral",
-      "korean-cuisine",
-      "refreshing",
-      "seafood"
+      "korean",
+      "fish",
+      "poke",
+      "delicate"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -5659,17 +5659,16 @@
   },
   {
     "slug": "delicate-norwegian-blackeye-pea-onigiri",
-    "title": "Delicate Norwegian Blackeye Pea Onigiri",
+    "title": "Delicate Norwegian Salmon with Blackeye Pea Rice Bowl",
     "tags": [
-      "blackeye-pea-recipes",
-      "cataplana-recipes",
-      "norwegian-cuisine",
-      "onigiri-recipes",
-      "paleo-friendly",
-      "weeknight-dinner"
+      "norwegian",
+      "salmon",
+      "blackeye peas",
+      "onigiri",
+      "japanese"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
