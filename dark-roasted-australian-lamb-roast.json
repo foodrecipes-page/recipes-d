@@ -1,0 +1,86 @@
+{
+  "slug": "dark-roasted-australian-lamb-roast",
+  "title": "Australian Roast Lamb",
+  "description": "A classic Australian-inspired roast lamb dish, perfect for a special occasion. The dark roasted lamb is tender and flavorful, with a delicious crust on the outside.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb leg",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "dark roasted olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the lamb leg with salt and pepper.",
+    "Heat the dark roasted olive oil in a large oven-safe pan over high heat.",
+    "Sear the lamb leg for 2 minutes on each side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce oven temperature to 180°C (350°F) and continue roasting for 20 minutes.",
+    "Tent the lamb with foil and continue roasting for an additional 10 minutes.",
+    "Let the lamb rest for 10 minutes before slicing.",
+    "Meanwhile, peel and chop the potatoes, carrots, and onions.",
+    "Toss the vegetables with salt, pepper, and a drizzle of dark roasted olive oil.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until tender.",
+    "Serve the lamb with the roasted vegetables and a side of beef broth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-australian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:31:19.445Z"
+}
