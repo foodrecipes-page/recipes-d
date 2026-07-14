@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-norwegian-blackeye-pea-onigiri",
+  "title": "Delicate Norwegian Salmon with Blackeye Pea Rice Bowl",
+  "description": "A light and flavorful dish featuring Norwegian salmon paired with a side of blackeye pea rice and delicate onigiri.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Salmon Fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Blackeye Peas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Japanese Short Grain Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Delicate Nori Sheets",
+      "amount": "4",
+      "notes": "for onigiri"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "for salmon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "for salmon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "for salmon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for salmon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the salmon fillets with salt, sugar, and a drizzle of sesame oil.",
+    "3. Bake the salmon in the oven for 12-15 minutes, or until cooked through.",
+    "4. In a separate pan, heat some sesame oil and cook the blackeye peas for 2-3 minutes.",
+    "5. Prepare the onigiri by filling the nori sheets with a small amount of cooked Japanese short grain rice.",
+    "6. To assemble the dish, place a portion of blackeye pea rice on a plate, followed by a piece of baked salmon, and finish with a delicate onigiri on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "salmon",
+    "blackeye peas",
+    "onigiri",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-blackeye-pea-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:43:31.477Z"
+}
