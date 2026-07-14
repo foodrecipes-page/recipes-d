@@ -6494,17 +6494,17 @@
   },
   {
     "slug": "delicate-smoky-sardinian-lemons-trofie-pasta",
-    "title": "Delicate Smoky Sardinian Lemons Trofie Pasta",
+    "title": "Sardinian Trofie with Smoky Lemon Sauce",
     "tags": [
-      "italian-cuisine",
-      "lemon-lover",
-      "one-pot",
-      "sardinian-recipe",
-      "shojin-friendly",
-      "smoky-flavors"
+      "sardinian",
+      "italian",
+      "summer",
+      "pasta",
+      "lemon",
+      "garlic"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -9933,18 +9933,14 @@
   },
   {
     "slug": "deliciously-smoky-american-corn-skillet",
-    "title": "Deliciously Smoky American Corn Skillet",
+    "title": "Smoky American Corn Skillet",
     "tags": [
-      "american",
-      "cast-iron",
-      "gluten-free",
-      "one-pan",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "skillet",
+      "corn"
     ],
     "cuisine": "American",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
