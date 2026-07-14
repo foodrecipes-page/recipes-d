@@ -4242,17 +4242,14 @@
   },
   {
     "slug": "delicate-earthy-middle-eastern-eggs-shakshuka",
-    "title": "Delicate Earthy Middle Eastern Eggs Shakshuka",
+    "title": "Middle Eastern Shakshuka",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "healthy",
       "middle-eastern",
-      "one-pan",
-      "vegetarian"
+      "breakfast",
+      "eggs"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -11406,16 +11403,15 @@
   },
   {
     "slug": "dense-energizing-uruguayan-cumin-hash",
-    "title": "dense energizing uruguayan cumin hash",
+    "title": "Uruguayan Energizing Hash",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "uruguayan",
+      "breakfast",
+      "hash",
+      "energizing"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
