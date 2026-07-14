@@ -1,0 +1,79 @@
+{
+  "slug": "deliciously-gooey-kenyan-ham-skewers",
+  "title": "Gooey Kenyan Ham Skewers",
+  "description": "Sweet and savory ham skewers with a hint of Kenyan spices, perfect for a quick snack or appetizer.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 pound",
+      "notes": "Thick-cut ham slices"
+    },
+    {
+      "name": "Kenyan-style spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Mix of coriander, cumin, and chili powder"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12 skewers",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zest of lemon",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak bamboo skewers in water for at least 30 minutes.",
+    "Thread ham, onion, bell pepper, and lemon zest onto skewers.",
+    "Brush ham with Kenyan-style spice blend.",
+    "Grill skewers for 2-3 minutes per side, or until ham is caramelized.",
+    "Glaze with honey, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "kenyan",
+    "ham",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-gooey-kenyan-ham-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:32:35.657Z"
+}
