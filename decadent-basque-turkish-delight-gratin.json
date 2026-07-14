@@ -1,0 +1,85 @@
+{
+  "slug": "decadent-basque-turkish-delight-gratin",
+  "title": "Turkish Delight Cheesecake",
+  "description": "A rich and creamy cheesecake with a Turkish delight twist, perfect for a dinner dessert.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy",
+    "eggs"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Decadent Chocolate",
+      "amount": "250g",
+      "notes": "dark chocolate, finely chopped"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "125g",
+      "notes": "for cheesecake crust"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "100g",
+      "notes": "crushed, for topping"
+    },
+    {
+      "name": "Gratin Cream Cheese",
+      "amount": "200g",
+      "notes": "softened"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "150g",
+      "notes": "for cheesecake filling"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "150g",
+      "notes": "for cheesecake filling"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "5g",
+      "notes": "for cheesecake filling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Prepare the cheesecake crust by mixing ground almonds, 50g of granulated sugar, and 100g of melted butter.",
+    "3. Press the crust mixture into a 23cm springform pan.",
+    "4. In a blender, blend cream cheese, eggs, granulated sugar, sour cream, and vanilla extract until smooth.",
+    "5. Pour the cheesecake filling into the prepared pan over the crust.",
+    "6. Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "7. Let the cheesecake cool completely in the pan.",
+    "8. Once cooled, top with crushed Turkish delight.",
+    "9. Refrigerate for at least 4 hours before serving.",
+    "10. Release the springform pan sides and slice the cheesecake to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesecake",
+    "turkish",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-basque-turkish-delight-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:30:51.663Z"
+}
