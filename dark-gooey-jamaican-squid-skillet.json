@@ -1,0 +1,84 @@
+{
+  "slug": "dark-gooey-jamaican-squid-skillet",
+  "title": "Jamaican Pan-Seared Squid",
+  "description": "A quick and flavorful seafood dish featuring pan-seared squid served with a tangy Caribbean-inspired sauce.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "4-6",
+      "notes": "Fresh or thawed, cut into 1-inch pieces"
+    },
+    {
+      "name": "Dark rum",
+      "amount": "2 tablespoons",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Gooey apricot jam",
+      "amount": "2 tablespoons",
+      "notes": "For the sauce"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": "For the squid"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid pieces and pat dry with paper towels.",
+    "Season the squid with Jamaican jerk seasoning.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the squid to the skillet and sear for 2-3 minutes per side, or until cooked through.",
+    "Transfer the squid to a plate and cover with foil to keep warm.",
+    "Add the dark rum and apricot jam to the skillet and stir to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Serve the squid with the sauce spooned over the top and garnished with chopped cilantro and a lime wedge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "squid",
+    "seafood",
+    "caribbean",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-gooey-jamaican-squid-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:13:23.736Z"
+}
