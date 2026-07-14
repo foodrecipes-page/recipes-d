@@ -700,16 +700,17 @@
   },
   {
     "slug": "dark-smoky-chinese-chicken-biryani",
-    "title": "Dark Smoky Chinese Chicken Biryani",
+    "title": "Smoky Chinese Chicken Biryani",
     "tags": [
-      "chinese-inspired",
-      "gluten-free",
-      "one-pot",
-      "smoky",
-      "weeknight"
+      "chinese",
+      "indian",
+      "bbq",
+      "fusion",
+      "chicken",
+      "rice"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese-Indian fusion",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -1431,16 +1432,14 @@
   },
   {
     "slug": "decadent-basque-turkish-delight-gratin",
-    "title": "Decadent Basque Turkish Delight Gratin",
+    "title": "Turkish Delight Cheesecake",
     "tags": [
-      "anti-inflammatory",
-      "basque",
-      "kid-friendly",
-      "raclette-grill",
-      "turkish-delight"
+      "cheesecake",
+      "turkish",
+      "dessert"
     ],
-    "cuisine": "Basque",
-    "totalTimeMin": 30,
+    "cuisine": "Turkish",
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
