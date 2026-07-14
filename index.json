@@ -2607,13 +2607,13 @@
   },
   {
     "slug": "decadent-venezuelan-chicken-wrap",
-    "title": "Decadent Venezuelan Chicken Wrap",
+    "title": "Venezuelan Chicken Wrap",
     "tags": [
-      "nut-free",
-      "pandan-leaf",
-      "savory",
       "venezuelan",
-      "wrap"
+      "chicken",
+      "wrap",
+      "bacon",
+      "avocado"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
@@ -5441,18 +5441,15 @@
   },
   {
     "slug": "delicate-light-syrian-broccoli-pilaf",
-    "title": "delicate light syrian broccoli pilaf",
+    "title": "Delicate Syrian Broccoli Pilaf",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "quick-meal",
-      "syrian-cuisine",
-      "weeknight-dinner"
+      "syrian",
+      "vegetarian",
+      "pilaf",
+      "broccoli"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -7615,17 +7612,15 @@
   },
   {
     "slug": "delicious-ethiopian-shrimp-dabo",
-    "title": "Delicious Ethiopian Shrimp Dabo",
+    "title": "Dabo Crusted Shrimp",
     "tags": [
-      "comfort-food",
-      "ethiopian",
-      "low-fat",
-      "one-pan",
       "shrimp",
-      "weeknight"
+      "ethiopian",
+      "dabo",
+      "gluten-free"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
