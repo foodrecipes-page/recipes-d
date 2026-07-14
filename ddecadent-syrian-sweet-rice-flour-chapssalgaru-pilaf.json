@@ -1,0 +1,70 @@
+{
+  "slug": "ddecadent-syrian-sweet-rice-flour-chapssalgaru-pilaf",
+  "title": "Spicy Syrian Rice Pilaf",
+  "description": "A flavorful and aromatic pilaf dish, perfect for any meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chapssalgaru spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Decadent",
+      "amount": null,
+      "notes": "optional, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a saucepan.",
+    "Add 1 tsp of salt and bring to a boil.",
+    "Add 1 cup of Syrian rice and stir to combine.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes or until the water has been absorbed.",
+    "In a separate pan, heat 1 tsp of oil over medium heat.",
+    "Add 1 tsp of Chapssalgaru spice blend and cook for 1-2 minutes.",
+    "Stir in 1 tsp of sweet and cook for an additional 1-2 minutes.",
+    "Fluff the cooked rice with a fork and stir in the spice mixture.",
+    "Transfer the rice to a serving dish and garnish with optional decadent to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "rice",
+    "pilaf",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-syrian-sweet-rice-flour-chapssalgaru-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:29:01.036Z"
+}
