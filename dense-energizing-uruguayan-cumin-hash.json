@@ -1,0 +1,69 @@
+{
+  "slug": "dense-energizing-uruguayan-cumin-hash",
+  "title": "Uruguayan Energizing Hash",
+  "description": "A traditional Uruguayan breakfast dish with a boost of energy from dense ingredients. This recipe serves a hearty plate of energizing hash.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "breakfast",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1 pound",
+      "notes": "Diced"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Dense oatmeal",
+      "amount": "1 cup",
+      "notes": "Rolled"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add diced chorizo and cook until browned, about 5 minutes.",
+    "3. Add shredded hash browns and cook until they start to brown, about 5 minutes.",
+    "4. Add rolled oatmeal and cook, stirring constantly, for 2 minutes.",
+    "5. Add ground cumin and stir to combine.",
+    "6. Create 2 wells in the hash and crack an egg into each well.",
+    "7. Cook until the eggs are cooked to your desired doneness.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "breakfast",
+    "hash",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-energizing-uruguayan-cumin-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:10:36.069Z"
+}
