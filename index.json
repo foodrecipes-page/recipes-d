@@ -923,16 +923,14 @@
   },
   {
     "slug": "date-night-american-dutch-stroop-tart",
-    "title": "Date-Night American Dutch Stroop Tart",
+    "title": "Dutch Apple Tart",
     "tags": [
-      "almond-based",
-      "caramelized",
-      "date-night",
-      "dutch-stroop",
-      "paleo-friendly",
-      "whole30-friendly"
+      "dessert",
+      "tart",
+      "apples",
+      "stroop"
     ],
-    "cuisine": "american",
+    "cuisine": "Dutch",
     "totalTimeMin": 60,
     "shard": "d"
   },
@@ -14480,16 +14478,15 @@
   },
   {
     "slug": "dreamy-smoky-italian-plum-tomatoes-carbonara",
-    "title": "Dreamy Smoky Italian Plum Tomatoes Carbonara",
+    "title": "Smoky Tomato Carbonara",
     "tags": [
-      "italian-food",
-      "one-pot-meals",
-      "smoky-flavors",
-      "vegetarian-options",
-      "weeknight-dinners"
+      "italian",
+      "carbonara",
+      "smoky",
+      "tomato"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
