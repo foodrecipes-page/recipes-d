@@ -1,0 +1,103 @@
+{
+  "slug": "delicate-earthy-indian-kidney-beans-rajma",
+  "title": "Rajma Masala",
+  "description": "A popular North Indian dish made with kidney beans in a rich and flavorful tomato-based sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup, drained and rinsed",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add cumin powder, coriander powder, garam masala powder, and red chili powder. Cook for 1 minute.",
+    "Add tomato. Cook until the tomato is soft.",
+    "Add kidney beans, water, and salt. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir occasionally to prevent the sauce from sticking to the pan.",
+    "Serve hot with basmati rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "kidney beans",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-earthy-indian-kidney-beans-rajma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:57:01.793Z"
+}
