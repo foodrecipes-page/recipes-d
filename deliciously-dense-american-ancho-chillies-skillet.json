@@ -1,0 +1,85 @@
+{
+  "slug": "deliciously-dense-american-ancho-chillies-skillet",
+  "title": "Spicy American-Style Skillet Steak",
+  "description": "A flavorful and spicy steak dish cooked to perfection in a skillet, inspired by American cuisine. This recipe combines the bold flavors of ancho chillies with the richness of a dense cut of American steak.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5-2 pounds American steak (such as ribeye or strip loin)",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "2 ancho chillies",
+      "amount": "2",
+      "notes": "rehydrated in hot water or broth"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat (400°F/200°C).",
+    "Season the steak with salt, black pepper, and smoked paprika.",
+    "Add the oil to the skillet and sear the steak for 3-4 minutes per side, or until browned.",
+    "Remove the steak from the skillet and set aside to rest.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the rehydrated ancho chillies to the skillet and cook for 2-3 minutes, until fragrant.",
+    "Add the brown sugar to the skillet and cook for 1 minute, until dissolved.",
+    "Return the steak to the skillet and spoon the ancho chillie sauce over the top.",
+    "Cook for an additional 2-3 minutes, until the steak reaches your desired level of doneness.",
+    "Let the steak rest for 5-10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chillies",
+    "skillet",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-american-ancho-chillies-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:15:40.880Z"
+}
