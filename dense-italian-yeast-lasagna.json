@@ -1,0 +1,80 @@
+{
+  "slug": "dense-italian-yeast-lasagna",
+  "title": "Homemade Lasagna",
+  "description": "A classic Italian dish made with layers of pasta, rich meat sauce, and creamy cheese. Perfect for a comforting meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "amount": "16 ounces"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, brown ground beef over medium-high heat.",
+    "Add tomato sauce to the skillet and stir to combine.",
+    "In a large bowl, combine ricotta cheese and egg. Mix well.",
+    "Spread a layer of meat sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese and half of the parmesan cheese.",
+    "Repeat the layers, starting with the meat sauce, noodles, ricotta cheese mixture, and finally the remaining mozzarella and parmesan cheese.",
+    "Top with chopped basil.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-italian-yeast-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:03:11.930Z"
+}
