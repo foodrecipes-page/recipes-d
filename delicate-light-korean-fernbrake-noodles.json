@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-light-korean-fernbrake-noodles",
+  "title": "Delicate Korean Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry dish using delicate noodles, Korean chili flakes, and fernbrake for added texture.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Fernbrake",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the delicate noodles according to package instructions. Drain and set aside.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the fernbrake and cook for 2-3 minutes, until slightly tender.",
+    "Add the green onions and cook for an additional minute.",
+    "In a small bowl, whisk together the light soy sauce and Korean chili flakes.",
+    "Pour the soy sauce mixture over the fernbrake mixture and stir to combine.",
+    "Add the cooked noodles to the skillet and toss everything together.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-light-korean-fernbrake-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:12:52.170Z"
+}
