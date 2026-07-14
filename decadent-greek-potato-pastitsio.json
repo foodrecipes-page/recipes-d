@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-greek-potato-pastitsio",
+  "title": "Greek Pastitsio",
+  "description": "A classic Greek pasta bake, rich and decadent with layers of ground beef, tomato sauce, and creamy bechamel.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "pasta (macaroni)",
+      "amount": "1 box",
+      "notes": null
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "grated kefalograviera cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions.",
+    "In a large pan, cook ground beef over medium-high heat, breaking it up into small pieces.",
+    "Once browned, add tomato sauce and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Add flour and whisk to combine, cooking for 1 minute.",
+    "Slowly add bechamel sauce and stir until thickened.",
+    "In a 9x13 inch baking dish, create a layer of pasta.",
+    "Follow with a layer of meat sauce, then a layer of bechamel sauce.",
+    "Repeat the layers, ending with a layer of bechamel sauce on top.",
+    "Sprinkle kefalograviera cheese over the top.",
+    "Bake for 30-40 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pastitsio",
+    "pasta",
+    "ground-beef"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 70,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-greek-potato-pastitsio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:59:50.488Z"
+}
