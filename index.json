@@ -429,17 +429,15 @@
   },
   {
     "slug": "dark-gooey-jamaican-squid-skillet",
-    "title": "Dark Gooey Jamaican Squid Skillet",
+    "title": "Jamaican Pan-Seared Squid",
     "tags": [
-      "caribbean",
-      "halal",
-      "jamaican",
-      "one-pan",
+      "squid",
       "seafood",
-      "spicy"
+      "caribbean",
+      "pescatarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -9046,15 +9044,12 @@
   },
   {
     "slug": "deliciously-dense-middle-eastern-lamb-tagine",
-    "title": "Deliciously Dense Middle Eastern Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "date-night",
-      "gluten-free",
       "lamb",
-      "middle-eastern",
-      "one-pan"
+      "tagine",
+      "moroccan",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 180,
@@ -9398,17 +9393,16 @@
   },
   {
     "slug": "deliciously-gooey-kenyan-ham-skewers",
-    "title": "Deliciously Gooey Kenyan Ham Skewers",
+    "title": "Gooey Kenyan Ham Skewers",
     "tags": [
-      "easy",
+      "african",
+      "kenyan",
+      "ham",
       "grilled",
-      "healthy",
-      "kid-friendly",
-      "oven-optional",
-      "quick"
+      "skewers"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "African",
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
