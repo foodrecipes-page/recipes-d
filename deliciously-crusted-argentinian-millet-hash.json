@@ -1,0 +1,81 @@
+{
+  "slug": "deliciously-crusted-argentinian-millet-hash",
+  "title": "Argentinian Crusted Chicken Hash",
+  "description": "A flavorful and crunchy chicken hash dish inspired by Argentinian cuisine, perfect for a quick dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "crusted seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "deliciously seasoned oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded, cooked according to package instructions"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "optional: chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with crusted seasoning and deliciously seasoned oil.",
+    "Cook the millet according to package instructions.",
+    "Shred the hash browns and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Sear the chicken breast until browned on both sides and cooked through.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet and stir in the shredded hash browns.",
+    "Cook for 2-3 minutes, stirring occasionally, until the hash browns are crispy and golden.",
+    "Serve the chicken on top of the hash browns, garnished with chopped parsley if desired.",
+    "Serve with a side of cooked millet."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "hash",
+    "millet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crusted-argentinian-millet-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:59:37.311Z"
+}
