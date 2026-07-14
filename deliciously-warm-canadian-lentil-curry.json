@@ -1,0 +1,88 @@
+{
+  "slug": "deliciously-warm-canadian-lentil-curry",
+  "title": "Canadian Lentil Curry",
+  "description": "A hearty and flavorful curry made with Canadian lentils, perfect for a chilly evening.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger. Saute until the onion is translucent.",
+    "Add the lentils, curry powder, cumin powder, and salt. Cook for 1-2 minutes.",
+    "Add the tomato puree and vegetable broth. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30-40 minutes.",
+    "Check the lentils for tenderness. If they are not tender, continue to simmer for another 10-15 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-curry",
+    "indian-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-warm-canadian-lentil-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:44:51.055Z"
+}
