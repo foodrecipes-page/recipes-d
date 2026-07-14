@@ -594,17 +594,14 @@
   },
   {
     "slug": "dark-roasted-australian-lamb-roast",
-    "title": "Dark Roasted Australian Lamb Roast",
+    "title": "Australian Roast Lamb",
     "tags": [
-      "australian-cuisine",
-      "cheesy-goodness",
-      "gluten-free",
-      "lamb-recipes",
-      "red-wine-sauce",
-      "whole30"
+      "australian",
+      "lamb",
+      "roast"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 90,
     "shard": "d"
   },
   {
