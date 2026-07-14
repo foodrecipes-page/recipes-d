@@ -1,0 +1,74 @@
+{
+  "slug": "delicious-ethiopian-shrimp-dabo",
+  "title": "Dabo Crusted Shrimp",
+  "description": "A simple, flavorful dish featuring succulent shrimp coated with a spicy dabo crust from Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dabo",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the shrimp under cold water and pat dry with paper towels.",
+    "3. In a shallow dish, mix together crushed dabo, olive oil, lemon juice, salt, black pepper, garlic powder, and paprika.",
+    "4. Coat each shrimp with the dabo mixture, pressing gently to adhere.",
+    "5. Place the coated shrimp on a baking sheet lined with parchment paper.",
+    "6. Bake for 8-10 minutes or until the shrimp are pink and cooked through.",
+    "7. Serve immediately and garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "ethiopian",
+    "dabo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-ethiopian-shrimp-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:18:18.885Z"
+}
