@@ -4133,16 +4133,14 @@
   },
   {
     "slug": "delicate-dutch-oxtail-stew",
-    "title": "Delicate Dutch Oxtail Stew",
+    "title": "Braised Oxtail Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pot-meals",
-      "oxtail-recipes",
-      "vegetarian-friendly"
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 180,
+    "totalTimeMin": 200,
     "shard": "d"
   },
   {
