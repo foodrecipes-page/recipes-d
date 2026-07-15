@@ -3347,17 +3347,14 @@
   },
   {
     "slug": "delicate-basque-chicken-paella",
-    "title": "Delicate Basque Chicken Paella",
+    "title": "Delicate Chicken Paella",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "spanish-cuisine",
-      "special-occasion"
+      "chicken",
+      "paella",
+      "spanish"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
