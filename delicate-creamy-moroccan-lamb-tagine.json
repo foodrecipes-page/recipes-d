@@ -1,0 +1,106 @@
+{
+  "slug": "delicate-creamy-moroccan-lamb-tagine",
+  "title": "Lamb Tagine with Creamy Moroccan Sauce",
+  "description": "A rich and flavorful tagine made with tender lamb and a creamy moroccan sauce, perfect for a special occasion. This traditional moroccan dish is easy to make and full of exotic flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, cinnamon, and moroccan spice blend and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Transfer the Dutch oven to the oven and braise the lamb for 2 1/2 hours, or until tender.",
+    "While the lamb is cooking, make the creamy moroccan sauce by combining the heavy cream, honey, and a pinch of salt in a small saucepan.",
+    "Bring the sauce to a simmer over medium heat and cook until thickened, about 5 minutes.",
+    "To serve, slice the lamb and serve with the creamy moroccan sauce spooned over the top.",
+    "Garnish with fresh parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "creamy sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-creamy-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:38:30.365Z"
+}
