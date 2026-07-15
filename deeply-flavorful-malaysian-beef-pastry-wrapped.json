@@ -1,0 +1,91 @@
+{
+  "slug": "deeply-flavorful-malaysian-beef-pastry-wrapped",
+  "title": "Beef Roti",
+  "description": "A Malaysian-inspired dish featuring richly flavored beef in a flaky pastry wrap.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Malaysian curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan over medium-high heat, heat the oil and cook the beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the shallots, garlic, and ginger to the pan and cook for 1-2 minutes, or until fragrant.",
+    "Add the curry powder, salt, and pepper to the pan and cook for an additional minute.",
+    "Roll out the pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with a little water and fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Brush the top of the pastry with a little oil and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "malaysian",
+    "pastry",
+    "wrapped",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deeply-flavorful-malaysian-beef-pastry-wrapped",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:25:10.197Z"
+}
