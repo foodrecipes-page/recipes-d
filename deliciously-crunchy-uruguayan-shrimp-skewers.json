@@ -1,0 +1,79 @@
+{
+  "slug": "deliciously-crunchy-uruguayan-shrimp-skewers",
+  "title": "Uruguayan Shrimp Skewers",
+  "description": "A delicious and easy-to-make Uruguayan-inspired appetizer or snack featuring succulent shrimp, flavorful spices, and a crunchy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "deveined and peeled"
+    },
+    {
+      "name": "Uruguayan chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crunchy parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread 4-6 shrimp onto each skewer.",
+    "In a small bowl, mix together chimichurri sauce, parsley, garlic, salt, and black pepper.",
+    "Brush the shrimp with olive oil and season with salt and pepper.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Brush the shrimp with the chimichurri sauce during the last minute of grilling.",
+    "Serve the shrimp hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "shrimp",
+    "uruguayan",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-uruguayan-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:37:46.685Z"
+}
