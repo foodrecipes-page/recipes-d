@@ -1,0 +1,75 @@
+{
+  "slug": "dense-herbal-norwegian-lamb-stew",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty, comforting stew made with lamb, Norwegian ingredients, and a touch of herbal flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "carnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Dense root vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots and turnips"
+    },
+    {
+      "name": "Norwegian herbs",
+      "amount": "2 tablespoons",
+      "notes": "such as thyme and rosemary"
+    },
+    {
+      "name": "Stew broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add more oil if necessary and sauté the root vegetables until tender, about 5 minutes.",
+    "Add the herbs and cook for 1 minute.",
+    "Add the stew broth, red wine (if using), and browned lamb to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "stew",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-herbal-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:13:35.508Z"
+}
