@@ -1,0 +1,64 @@
+{
+  "slug": "delicate-kenyan-sloe-berry-skewers",
+  "title": "Grilled Berry Skewers",
+  "description": "A sweet and refreshing summer dessert, perfect for hot days. Made with a combination of juicy berries, grilled to perfection.",
+  "cuisine": "kitchen",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "delicate sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh, cleaned, and patted dry"
+    },
+    {
+      "name": "kenyan berry",
+      "amount": "1 cup",
+      "notes": "fresh, cleaned, and patted dry"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12-15",
+      "notes": "soaked in water for 10 minutes"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread 3-4 berries onto each skewer.",
+    "Brush with honey and lemon juice (if using).",
+    "Grill for 2-3 minutes per side, or until slightly charred.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional berries and a drizzle of honey (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "dessert",
+    "summer",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-kenyan-sloe-berry-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:51:01.380Z"
+}
