@@ -1,0 +1,96 @@
+{
+  "slug": "deliciously-juicy-spanish-peppers-paella",
+  "title": "Classic Spanish Paella",
+  "description": "A traditional Spanish dish from the Valencia region, made with saffron-infused rice, savory chicken, and succulent vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Juicy peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Deliciously sweet onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from the pan and set aside.",
+    "Add the sliced peppers and chopped onions to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, smoked paprika, and saffron threads to the pan and cook for 1 minute.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Add the uncooked rice to the pan and stir to combine with the broth.",
+    "Return the chicken to the pan and stir to combine with the rice.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken",
+    "rice",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-juicy-spanish-peppers-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:58:28.018Z"
+}
