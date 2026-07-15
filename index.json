@@ -2883,17 +2883,14 @@
   },
   {
     "slug": "deep-fry-peruvian-tod-fried-rice",
-    "title": "Deep-Fry Peruvian Tod Fried-Rice",
+    "title": "Peruvian Fried Rice",
     "tags": [
-      "breakfast",
-      "deep-fried",
-      "fried-rice",
       "peruvian",
-      "rice",
-      "tod"
+      "fried-rice",
+      "spicy"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -7004,17 +7001,15 @@
   },
   {
     "slug": "delicate-uruguayan-galangal-stew",
-    "title": "Delicate Uruguayan Galangal Stew",
+    "title": "Uruguayan-Style Stew",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "flavorful",
-      "healthy",
-      "lacto-vegetarian",
-      "one-pot"
+      "uruguayan",
+      "stew",
+      "beef",
+      "latinamerican"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "latinamerican",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -8510,15 +8505,13 @@
     "slug": "deliciously-crispy-saudi-arabian-chicken-kebabs",
     "title": "Deliciously Crispy Saudi Arabian Chicken Kebabs",
     "tags": [
-      "chicken-recipes",
-      "grilled",
-      "kid-friendly",
-      "kosher",
+      "chicken",
+      "kebabs",
       "middle-eastern",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
     "shard": "d"
   },
   {
@@ -13246,14 +13239,14 @@
   },
   {
     "slug": "dense-syrian-grape-leaves-stuffed",
-    "title": "Dense Syrian Grape Leaves Stuffed",
+    "title": "Stuffed Grape Leaves (Dolmas)",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "weeknight"
+      "syrian",
+      "grape-leaves",
+      "appetizer"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 60,
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -13839,16 +13832,15 @@
   },
   {
     "slug": "double-layered-indian-morcilla-biryani",
-    "title": "Double Layered Indian Morcilla Biryani",
+    "title": "Morcilla Biryani",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "indian-cuisine",
-      "one-pan",
-      "weeknight"
+      "indian",
+      "spanish",
+      "morcilla",
+      "biryani"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "Indian-Spanish",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
