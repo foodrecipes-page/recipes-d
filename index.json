@@ -15806,5 +15806,18 @@
     "cuisine": "italian",
     "totalTimeMin": 10,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-basque-chicken-paella--japanese",
+    "title": "Chicken Paella with Japanese Twist",
+    "tags": [
+      "japanese",
+      "paella",
+      "chicken",
+      "rice"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
