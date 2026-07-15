@@ -7584,12 +7584,12 @@
   },
   {
     "slug": "delicious-ethiopian-shrimp-dabo",
-    "title": "Dabo Crusted Shrimp",
+    "title": "Delicious Ethiopian Shrimp Dabo",
     "tags": [
-      "shrimp",
       "ethiopian",
-      "dabo",
-      "gluten-free"
+      "shrimp",
+      "pepper-paste",
+      "injera-bread"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -9431,14 +9431,12 @@
   },
   {
     "slug": "deliciously-light-irish-semolina-bake",
-    "title": "Deliciously Light Irish Semolina Bake",
+    "title": "Irish Semolina Cake",
     "tags": [
-      "baked-goods",
-      "breakfast-inspiration",
-      "high-protein",
-      "irish-cuisine",
-      "vegetarian-friendly",
-      "weeknight"
+      "irish",
+      "cake",
+      "semolina",
+      "breakfast"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 45,
@@ -11757,17 +11755,15 @@
   },
   {
     "slug": "dense-herbal-norwegian-lamb-stew",
-    "title": "Dense Herbal Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "herbal-recipes",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "paleo-diet",
-      "winter-stew"
+      "norwegian",
+      "lamb",
+      "stew",
+      "herbal"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 140,
     "shard": "d"
   },
   {
