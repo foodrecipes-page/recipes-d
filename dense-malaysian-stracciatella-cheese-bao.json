@@ -1,0 +1,68 @@
+{
+  "slug": "dense-malaysian-stracciatella-cheese-bao",
+  "title": "Stracciatella Bao Bites",
+  "description": "A creative twist on traditional bao, filled with creamy stracciatella cheese and served as bite-sized appetizers. Perfect for any occasion.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "1 package (12-15 pieces)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Stracciatella Cheese",
+      "amount": "1 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Dense Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "Malaysian Chilies",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut bao into small squares, about 1 inch (2.5 cm) per side.",
+    "Spoon a small amount of stracciatella cheese onto the center of each square.",
+    "Top with a sprinkle of dense cheese and a few slices of chili.",
+    "Garnish with chopped green onions.",
+    "Bake for 5-7 minutes, or until the cheese is melted and the bao is lightly toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": "12-15",
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "cheese",
+    "snack",
+    "stracciatella",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-malaysian-stracciatella-cheese-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:22:40.701Z"
+}
