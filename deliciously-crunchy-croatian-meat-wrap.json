@@ -1,0 +1,76 @@
+{
+  "slug": "deliciously-crunchy-croatian-meat-wrap",
+  "title": "Croatian Meat Wrap",
+  "description": "A delicious and crunchy wrap filled with tender Croatian meat, perfect for a quick snack or meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Sausage",
+      "amount": "1 pound",
+      "notes": "Grilled or pan-cooked"
+    },
+    {
+      "name": "Crunchy Lettuce",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Meat Wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup, crumbled (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the Croatian sausage for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, slice the meat wrap in half lengthwise and toast on the grill or in a toaster.",
+    "Shred the lettuce and chop the caramelized onions.",
+    "Assemble the wrap by placing the grilled sausage on the bottom half, followed by the shredded lettuce, chopped onions, crushed red pepper, salt, and pepper.",
+    "Top with crumbled feta cheese, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "meat-lovers",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-croatian-meat-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:00:31.157Z"
+}
