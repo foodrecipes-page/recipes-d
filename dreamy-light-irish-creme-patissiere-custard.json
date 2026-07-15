@@ -1,0 +1,79 @@
+{
+  "slug": "dreamy-light-irish-creme-patissiere-custard",
+  "title": "Dreamy Irish Cream Custard",
+  "description": "A rich and creamy dessert with a hint of Irish whiskey, perfect for special occasions.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "light creme",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "irish cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "patissiere creme",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, whisk together the light creme, irish cream, patissiere creme, egg yolks, and granulated sugar.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon, about 10 minutes.",
+    "Remove from heat and stir in the unsalted butter and vanilla extract until melted.",
+    "Strain the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Serve chilled, garnished with a sprinkle of powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "custard",
+    "irish-cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-light-irish-creme-patissiere-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:50:21.872Z"
+}
