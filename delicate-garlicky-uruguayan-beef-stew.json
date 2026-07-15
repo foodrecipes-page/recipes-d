@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-garlicky-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty, garlicky beef stew with delicate flavors, inspired by Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 lbs",
+      "notes": "Chopped into 1-inch cubes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "2 tbsp",
+      "notes": "Uruguayan seasoning blend (or equivalent)"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "Beef broth"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Add broth, water, seasoning blend, salt, and pepper.",
+    "Return beef to the pot and bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 2 hours.",
+    "Check for seasoning and adjust as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan",
+    "garlicky",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:47:40.808Z"
+}
