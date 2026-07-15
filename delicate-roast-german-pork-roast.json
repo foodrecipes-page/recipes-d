@@ -1,0 +1,99 @@
+{
+  "slug": "delicate-roast-german-pork-roast",
+  "title": "German Pork Roast",
+  "description": "A classic German-style pork roast with a delicate crust, perfect for a special occasion.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin roast",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "Roast potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "dark German lager"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the pork loin with salt, black pepper, and thyme.",
+    "Heat a large oven-safe pan over medium-high heat.",
+    "Sear the pork loin on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 63°C (145°F).",
+    "While the pork is roasting, cook the bacon in a separate pan until crispy.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for an additional 5 minutes.",
+    "Add the beer and brown sugar to the pan, stirring to combine.",
+    "Simmer the sauce over low heat until the pork is done.",
+    "Let the pork rest for 10 minutes before slicing and serving with the roasted vegetables and sauce.",
+    "Serve with boiled potatoes or roasted potatoes, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "pork",
+    "roast",
+    "meat",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 90,
+    "carbs": 40,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roast-german-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:09:49.977Z"
+}
