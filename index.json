@@ -3369,17 +3369,14 @@
   },
   {
     "slug": "delicate-basque-vermicelli-pasta",
-    "title": "Delicate Basque Vermicelli Pasta",
+    "title": "Delicate Vermicelli Pasta Bake",
     "tags": [
-      "basque",
-      "easy-to-make",
-      "pasta",
-      "romantic",
-      "steamed",
-      "vegetarian"
+      "pasta-bake",
+      "italian-food",
+      "weeknight-dinner"
     ],
-    "cuisine": "Basque",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9437,17 +9434,16 @@
   },
   {
     "slug": "deliciously-juicy-spanish-peppers-paella",
-    "title": "Spanish Peppers Paella",
+    "title": "Classic Spanish Paella",
     "tags": [
-      "flavorful",
-      "gluten-free",
-      "one-pan",
-      "spanish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "paella",
+      "chicken",
+      "rice",
+      "vegetables"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
