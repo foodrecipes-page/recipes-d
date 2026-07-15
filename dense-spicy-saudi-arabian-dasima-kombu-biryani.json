@@ -1,0 +1,95 @@
+{
+  "slug": "dense-spicy-saudi-arabian-dasima-kombu-biryani",
+  "title": "Saudi Arabian Biryani with Dasima Kombu Broth",
+  "description": "A twist on traditional biryani, this dish incorporates the unique flavors of dasima and kombu from Saudi Arabian cuisine, all within a delicious and aromatic rice dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Dasima",
+      "amount": "2 pieces",
+      "notes": "dried kelp sheets"
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 pieces",
+      "notes": "dried kelp sheets"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Soak dasima and kombu in water for 4-5 hours. Drain and cut into smaller pieces.",
+    "In a large pot, heat ghee over medium heat. Add onion and cook until translucent.",
+    "Add ginger, cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add soaked dasima and kombu pieces. Cook for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Add basmati rice and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff the rice with a fork and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "biryani",
+    "dasima",
+    "kombu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-spicy-saudi-arabian-dasima-kombu-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:22:50.512Z"
+}
