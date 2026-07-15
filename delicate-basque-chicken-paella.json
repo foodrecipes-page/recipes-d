@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-basque-chicken-paella",
+  "title": "Delicate Chicken Paella",
+  "description": "A traditional Spanish dish with a delicate twist, featuring chicken and Basque rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basque rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Delicate chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the Basque rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, diced tomatoes, paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "paella",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-basque-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:42:37.509Z"
+}
