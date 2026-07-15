@@ -1,0 +1,87 @@
+{
+  "slug": "decadent-smoky-canadian-vegan-trout-poutine",
+  "title": "Decadent Smoked Trout Poutine",
+  "description": "A rich and indulgent twist on the classic Canadian dish, featuring smoked trout and a side of creamy cheese sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked trout",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "truffle oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "french fries",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the French fries into 1-inch pieces and place on a baking sheet.",
+    "Drizzle with vegetable oil and toss to coat.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "In a saucepan, melt the cheddar cheese over low heat.",
+    "Add the truffle oil and whisk until smooth.",
+    "Add the beef broth and whisk until combined.",
+    "Simmer for 2-3 minutes or until the sauce has thickened.",
+    "To assemble the poutine, place a portion of French fries on a plate.",
+    "Top with a piece of smoked trout and spoon the cheese sauce over the top.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "poutine",
+    "smoked-trout",
+    "decadent"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 44,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoky-canadian-vegan-trout-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:42:59.091Z"
+}
