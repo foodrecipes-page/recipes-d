@@ -2967,18 +2967,16 @@
   },
   {
     "slug": "deeply-flavorful-malaysian-beef-pastry-wrapped",
-    "title": "Beef Pastry Wrapped with Spicy Red Peppers",
+    "title": "Beef Roti",
     "tags": [
       "beef",
-      "high-protein",
-      "keto-friendly",
-      "kid-friendly",
       "malaysian",
-      "one-pan",
-      "weeknight"
+      "pastry",
+      "wrapped",
+      "lunch"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -12049,16 +12047,16 @@
   },
   {
     "slug": "dense-malaysian-stracciatella-cheese-bao",
-    "title": "Dense Malaysian Stracciatella-Cheese Bao",
+    "title": "Stracciatella Bao Bites",
     "tags": [
-      "brunch",
-      "dairy-free",
-      "indian-fusion",
-      "malaysian",
-      "weeknight"
+      "appetizer",
+      "cheese",
+      "snack",
+      "stracciatella",
+      "bao"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
