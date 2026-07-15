@@ -1,0 +1,98 @@
+{
+  "slug": "delicate-dutch-oxtail-stew",
+  "title": "Braised Oxtail Stew",
+  "description": "A hearty and comforting Dutch-inspired stew made with tender oxtail and delicate vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting oxtail"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the oxtail with salt and black pepper.",
+    "Dust the oxtail with flour, shaking off excess.",
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the chopped onion, carrot, and celery until softened, about 8 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth, red wine (if using), and browned oxtail to the pot.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise for 2 1/2 to 3 hours, or until the oxtail is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off excess fat from the surface of the stew.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:07:25.995Z"
+}
