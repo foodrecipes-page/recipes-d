@@ -1,0 +1,70 @@
+{
+  "slug": "delicate-flaky-australian-pumpkin-pie",
+  "title": "Australian Pumpkin Pie",
+  "description": "A classic Australian dessert made with a flaky crust and a delicious pumpkin filling.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 cup, cooked and mashed"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "delicate spices",
+      "amount": "1 tsp, ground cinnamon",
+      "notes": "additional spices such as nutmeg or ginger can be added to taste"
+    },
+    {
+      "name": "australian pie filling",
+      "amount": "1/2 cup, store-bought or homemade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup, granulated"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup, heavy cream or half-and-half"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place into a 9-inch pie dish.",
+    "Mix the mashed pumpkin, sugar, spices, and pie filling in a large bowl until well combined.",
+    "Beat in the egg and heavy cream until the mixture is smooth.",
+    "Pour the pumpkin mixture into the pastry-lined pie dish.",
+    "Bake the pie for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Allow the pie to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pumpkin",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-australian-pumpkin-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:56:37.230Z"
+}
