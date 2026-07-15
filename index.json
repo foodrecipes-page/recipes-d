@@ -4745,16 +4745,16 @@
   },
   {
     "slug": "delicate-garlicky-uruguayan-beef-stew",
-    "title": "Delicate Garlicky Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "uruguayan-cuisine"
+      "beef",
+      "stew",
+      "uruguayan",
+      "garlicky",
+      "dinner"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 110,
+    "totalTimeMin": 135,
     "shard": "d"
   },
   {
@@ -8587,17 +8587,14 @@
   },
   {
     "slug": "deliciously-crunchy-croatian-meat-wrap",
-    "title": "Deliciously Crunchy Croatian Meat Wrap",
+    "title": "Croatian Meat Wrap",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "crunchy",
-      "meat-wraps",
-      "spicy",
-      "yeasty"
+      "croatian",
+      "meat-lovers",
+      "wrap"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
