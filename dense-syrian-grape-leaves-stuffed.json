@@ -1,0 +1,80 @@
+{
+  "slug": "dense-syrian-grape-leaves-stuffed",
+  "title": "Stuffed Grape Leaves (Dolmas)",
+  "description": "A classic Syrian dish where grape leaves are stuffed with a mix of rice, meat, and spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground meat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak grape leaves in water for 30 minutes.",
+    "Prepare the filling: mix rice, ground meat, olive oil, onion, allspice, salt, and pepper.",
+    "Place a grape leaf on a flat surface, with the stem end facing you.",
+    "Place a tablespoon of the filling in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmas seam-side down in a pot and add vinegar to the water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "grape-leaves",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-syrian-grape-leaves-stuffed",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:15:40.045Z"
+}
