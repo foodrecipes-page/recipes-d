@@ -8957,17 +8957,15 @@
   },
   {
     "slug": "deliciously-dense-irish-lamb-stew",
-    "title": "Deliciously Dense Irish Lamb Stew",
+    "title": "Delicious Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stews",
-      "high-protein",
-      "irish-cuisine",
-      "lamb-recipes",
-      "one-pot-meals"
+      "stew",
+      "lamb",
+      "irish",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 120,
+    "cuisine": "irish",
+    "totalTimeMin": 150,
     "shard": "d"
   },
   {
