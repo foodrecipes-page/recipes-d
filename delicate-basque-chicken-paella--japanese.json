@@ -1,0 +1,87 @@
+{
+  "slug": "delicate-basque-chicken-paella--japanese",
+  "title": "Chicken Paella with Japanese Twist",
+  "description": "A fusion dish combining the flavors of Japanese cuisine with the traditional Spanish paella. This recipe features chicken and delicate rice cooked to perfection in a savory broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "delicate rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "basque chicken sausage",
+      "amount": "1/2 lb",
+      "notes": "slice into rounds"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp",
+      "notes": "Japanese cooking wine"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large paella pan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the pan and set aside.",
+    "Add the chicken to the pan and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the pan and set aside with the sausage.",
+    "Add the soy sauce, mirin, and sake to the pan, stirring to combine.",
+    "Add the rice to the pan and stir to coat with the liquid.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Add the chicken and sausage back to the pan, stirring to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "paella",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-basque-chicken-paella--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:32:51.242Z"
+}
