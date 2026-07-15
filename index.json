@@ -3560,17 +3560,15 @@
   },
   {
     "slug": "delicate-creamy-moroccan-lamb-tagine",
-    "title": "Delicate Creamy Moroccan Lamb Tagine",
+    "title": "Lamb Tagine with Creamy Moroccan Sauce",
     "tags": [
-      "comfort-food",
-      "flexitarian-friendly",
-      "grilled-meats",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "tagine-recipes"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "creamy sauce"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 70,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -5252,16 +5250,15 @@
   },
   {
     "slug": "delicate-kenyan-sloe-berry-skewers",
-    "title": "Delicate Kenyan Sloe Berry Skewers",
+    "title": "Grilled Berry Skewers",
     "tags": [
-      "african-cuisine",
-      "healthy-option",
-      "quick-snack",
-      "raw-friendly",
-      "vegan-snack"
+      "grilled",
+      "dessert",
+      "summer",
+      "bbq"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "kitchen",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
