@@ -1,0 +1,101 @@
+{
+  "slug": "double-layered-indian-morcilla-biryani",
+  "title": "Morcilla Biryani",
+  "description": "A savory twist on traditional Biryani, featuring spicy Spanish morcilla sausage and aromatic Indian spices.",
+  "cuisine": "Indian-Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish-style blood sausage"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Double-layered Indian flatbread",
+      "amount": "4 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add cumin seeds and let them sizzle for 1-2 seconds.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger; sauté for another minute.",
+    "Add morcilla sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add basmati rice, coriander powder, turmeric powder, red chili powder, and salt.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the biryani with a fork and serve hot with double-layered Indian flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spanish",
+    "morcilla",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-layered-indian-morcilla-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:49:04.637Z"
+}
