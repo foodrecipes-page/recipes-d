@@ -1,0 +1,73 @@
+{
+  "slug": "deliciously-garlicky-croatian-polenta-pilaf",
+  "title": "Croatian Polenta Pilaf",
+  "description": "A hearty and flavorful polenta pilaf, infused with the rich flavors of Croatia. Serve as a main course or side dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polenta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "deliciously seasoned vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the polenta and pilaf, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in the salt and black pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook time: 20-25 minutes.",
+    "Total time: 25-30 minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "polenta",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-garlicky-croatian-polenta-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:45:40.591Z"
+}
