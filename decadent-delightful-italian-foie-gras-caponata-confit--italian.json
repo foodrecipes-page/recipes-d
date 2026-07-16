@@ -1,0 +1,85 @@
+{
+  "slug": "decadent-delightful-italian-foie-gras-caponata-confit--italian",
+  "title": "Braised Caponata with Foie Gras",
+  "description": "A rich and savory Italian dish featuring the sweetness of eggplant caponata, paired with the luxuriousness of seared foie gras.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caponata",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Foie Gras",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large skillet over medium heat. Add the garlic and cook for 1 minute.",
+    "Add the eggplant to the skillet and cook for 5 minutes, until tender.",
+    "Add the caponata to the skillet and stir to combine.",
+    "Meanwhile, sear the foie gras in a separate skillet over medium-high heat for 2-3 minutes on each side, until golden brown.",
+    "Transfer the foie gras to a baking dish and top with the caponata mixture.",
+    "Bake in the preheated oven for 10-12 minutes, until the foie gras is cooked to your desired level of doneness.",
+    "Serve immediately, garnished with fresh herbs if desired.",
+    "Note: Foie gras should be cooked to an internal temperature of 130°F (54°C) for medium-rare, or 140°F (60°C) for medium.",
+    "Let the foie gras rest for 2-3 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "luxurious",
+    "foie-gras"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-delightful-italian-foie-gras-caponata-confit--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:02:50.397Z"
+}
