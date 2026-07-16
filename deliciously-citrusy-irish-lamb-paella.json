@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-citrusy-irish-lamb-paella",
+  "title": "Lamb Paella with Irish Twist",
+  "description": "A twist on the classic Spanish dish, this lamb paella incorporates Irish ingredients for a unique flavor profile. The citrusy note from the lemon pairs perfectly with the rich flavor of lamb.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Saffron Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Irish Smoked Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Citrusy Lemon Zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large paella pan over medium-high heat.",
+    "Add the lamb shoulder and cook until browned, about 5 minutes.",
+    "Add the Irish smoked bacon and cook until crispy, about 3 minutes.",
+    "Add the garlic and smoked paprika and cook for 1 minute.",
+    "Add the chicken broth, saffron rice, lemon zest, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and continue cooking for an additional 10 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Slice the lamb against the grain and serve with the paella."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "paella",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-citrusy-irish-lamb-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:16:08.317Z"
+}
