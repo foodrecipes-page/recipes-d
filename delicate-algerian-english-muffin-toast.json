@@ -1,0 +1,65 @@
+{
+  "slug": "delicate-algerian-english-muffin-toast",
+  "title": "English Muffin Toast",
+  "description": "A simple breakfast dish featuring toasted English muffins with delicate toppings.",
+  "cuisine": "english",
+  "diet": [
+    "breakfast",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English Muffin",
+      "amount": "2"
+    },
+    {
+      "name": "Algerian Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Delicate Cheese",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Muffin",
+      "amount": "1",
+      "notes": "Optional"
+    },
+    {
+      "name": "Toast",
+      "amount": "1 slice",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Toast the English muffin until lightly browned.",
+    "Spread Algerian olive oil on top of the toasted English muffin.",
+    "Place a slice of Delicate cheese on top of the English muffin.",
+    "Optional: Place a slice of muffin on top of the cheese.",
+    "Optional: Place a slice of toast on top of the cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "english",
+    "muffin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-algerian-english-muffin-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:57:54.056Z"
+}
