@@ -1,0 +1,61 @@
+{
+  "slug": "delicious-ukrainian-tomato-bake--indian",
+  "title": "Ukrainian-Style Baked Tomato",
+  "description": "A delicious and flavorful Indian-inspired dish made with fresh tomatoes baked to perfection. This recipe is perfect for a weeknight dinner or a weekend lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "any variety of tomato works well"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 tsp",
+      "notes": "or dried dill weed as a substitute"
+    },
+    {
+      "name": "delicious",
+      "amount": "1 tsp",
+      "notes": "or any other spice of your choice"
+    },
+    {
+      "name": "bake",
+      "amount": "1/4 cup",
+      "notes": "baking powder or baking soda"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the tomatoes and slice them into wedges.",
+    "In a small bowl, mix together the Ukrainian spice and delicious spice.",
+    "Place the tomato wedges in a baking dish and sprinkle the spice mixture evenly over them.",
+    "Sprinkle the baking powder over the top of the tomatoes.",
+    "Bake the tomatoes in the preheated oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "Serve the baked tomatoes hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-ukrainian-tomato-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:45:50.849Z"
+}
