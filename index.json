@@ -2723,17 +2723,13 @@
   },
   {
     "slug": "deep-canadian-olive-stew",
-    "title": "Deep Canadian Olive Stew",
+    "title": "Pan-Seared Canadian Stew Meat",
     "tags": [
-      "high-fiber",
-      "low-carb",
-      "olive-rich",
-      "one-pot",
-      "smoked",
-      "vegan"
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 105,
     "shard": "d"
   },
   {
