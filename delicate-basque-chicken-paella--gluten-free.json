@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-basque-chicken-paella--gluten-free",
+  "title": "Delicate Chicken Paella",
+  "description": "A gluten-free twist on the classic Spanish dish, featuring tender chicken and delicate flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate rice",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Basque chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2-3 minutes. Remove from the pan and set aside.",
+    "Add the chicken to the pan and cook until browned on all sides and cooked through, about 5-6 minutes. Remove from the pan and set aside with the chorizo.",
+    "Add the shrimp to the pan and cook until pink and just cooked through, about 2-3 minutes. Remove from the pan and set aside with the chicken and chorizo.",
+    "Add the diced tomato and minced garlic to the pan and cook until the tomato is tender, about 3-4 minutes.",
+    "Add the smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "Add the cooked chicken, chorizo, and shrimp back to the pan, and stir to combine with the tomato mixture.",
+    "Add the delicate rice to the pan and stir to combine with the tomato mixture.",
+    "Cook the rice for 2-3 minutes, stirring constantly, until the liquid is absorbed and the rice is tender.",
+    "Reduce the heat to low and simmer, covered, for 10-12 minutes, or until the rice is tender and the liquid is absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "spanish",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-basque-chicken-paella--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:22:55.630Z"
+}
