@@ -1,0 +1,75 @@
+{
+  "slug": "deliciously-roasted-canadian-kanten-agar-casserole",
+  "title": "Roasted Canadian Kanten Casserole",
+  "description": "A sweet and savory dessert made with roasted kanten, agar, and deliciously rich flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian kanten",
+      "amount": "200g"
+    },
+    {
+      "name": "Agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "100ml",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "Roasted almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Soak the kanten in water for at least 4 hours.",
+    "Drain and rinse the kanten, then chop into small pieces.",
+    "In a saucepan, combine the agar powder, maple syrup, coconut milk, and vanilla extract.",
+    "Bring to a boil, stirring constantly, then reduce the heat and simmer for 5 minutes.",
+    "Add the chopped kanten and roasted almonds to the saucepan.",
+    "Pour the mixture into a baking dish and refrigerate for at least 2 hours.",
+    "Cut into squares and serve chilled.",
+    "Optional: garnish with additional roasted almonds and maple syrup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 160,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "dessert",
+    "vegan",
+    "vegetarian",
+    "kanten"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-roasted-canadian-kanten-agar-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:32:19.095Z"
+}
