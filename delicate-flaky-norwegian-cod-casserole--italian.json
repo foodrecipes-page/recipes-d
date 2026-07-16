@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-flaky-norwegian-cod-casserole--italian",
+  "title": "Italian Cod Casserole",
+  "description": "A simple yet flavorful Italian-inspired cod casserole, perfect for a weeknight dinner. The delicate cod pairs well with the rich flavors of tomato sauce and melted mozzarella.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1 pound",
+      "notes": "delicate, flaky, norwegian"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 large",
+      "notes": "for baking"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the casserole dish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grease the casserole dish with olive oil.",
+    "Season the cod with salt and pepper.",
+    "Place the cod in the casserole dish, leaving a small border around the edges.",
+    "Pour the tomato sauce over the cod.",
+    "Sprinkle the mozzarella and parmesan cheese over the sauce.",
+    "Dot the top with garlic and basil.",
+    "Cover the casserole with aluminum foil and bake for 15 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the fish is cooked through and the cheese is melted and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "casserole",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-norwegian-cod-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:29:31.373Z"
+}
