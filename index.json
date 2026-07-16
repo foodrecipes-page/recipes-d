@@ -8002,18 +8002,16 @@
   },
   {
     "slug": "delicious-velvet-mexican-haggis-horchata",
-    "title": "Delicious Velvet Mexican Haggis Horchata",
+    "title": "Delicious Velvet Mexican Haggis Tacos",
     "tags": [
-      "dinner",
-      "lacto-vegetarian",
-      "mexican-haggis",
-      "romantic",
-      "spicy",
-      "velvet-horchata",
-      "weeknight"
+      "haggis",
+      "velvet-sauce",
+      "mexican",
+      "tacos",
+      "fusion"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -14932,16 +14930,14 @@
   },
   {
     "slug": "dry-heat-delightful-spanish-chicken-paella",
-    "title": "dry-heat delightful spanish chicken paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "gluten-free",
-      "nut-free",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "chicken",
+      "rice"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -15940,6 +15936,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-delightful-italian-foie-gras-caponata-confit--italian",
+    "title": "Braised Caponata with Foie Gras",
+    "tags": [
+      "italian",
+      "luxurious",
+      "foie-gras"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
