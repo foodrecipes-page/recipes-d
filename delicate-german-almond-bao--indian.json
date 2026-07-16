@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-german-almond-bao--indian",
+  "title": "Delicate German Bao Dessert",
+  "description": "A unique Indian-inspired dessert combining delicate flavors of German almond cake and soft bao.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "German almond cake",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bao",
+      "amount": "4-6",
+      "notes": "soft and fresh"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "edible"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the German almond cake into 1-inch thick slices.",
+    "Wrap each slice in a piece of bao, creating a small pouch.",
+    "In a small saucepan, warm the almond milk over low heat.",
+    "Add honey, ghee, and cardamom powder to the almond milk. Whisk until dissolved.",
+    "Dip each bao-wrapped cake slice into the warm almond milk mixture, coating lightly.",
+    "Place the coated cake slices on a baking sheet lined with parchment paper.",
+    "Bake for 5-7 minutes or until the bao is lightly toasted.",
+    "Serve warm with fresh berries, if desired.",
+    "Garnish with a sprinkle of cardamom powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "almond",
+    "bao",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-german-almond-bao--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:39:47.396Z"
+}
