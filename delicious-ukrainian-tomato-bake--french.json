@@ -1,0 +1,67 @@
+{
+  "slug": "delicious-ukrainian-tomato-bake--french",
+  "title": "French Tomato Tart",
+  "description": "A classic French tart filled with a delicious tomato and egg mixture. Perfect for a light dinner or snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Delicious",
+      "amount": "1 tsp",
+      "notes": "Paprika"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": "1 tsp",
+      "notes": "Dried thyme"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 sheet",
+      "notes": "Puff pastry, frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a bowl, whisk together the eggs, tomatoes, paprika, and thyme.",
+    "Pour the egg mixture into the pastry shell.",
+    "Bake for 35-40 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "french",
+    "tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-ukrainian-tomato-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:55:11.224Z"
+}
