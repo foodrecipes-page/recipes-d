@@ -1,0 +1,74 @@
+{
+  "slug": "delicate-smoky-peruvian-padron-peppers-skewers--german",
+  "title": "Grilled Padron Peppers with Smoked Paprika Aioli",
+  "description": "A simple yet flavorful German-inspired side dish featuring smoky grilled Padron peppers served with a side of creamy smoked paprika aioli for dipping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12-15",
+      "notes": "any color"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush the peppers with olive oil and season with salt and black pepper.",
+    "Grill the peppers for 2-3 minutes per side, or until blistered and slightly charred.",
+    "Meanwhile, mix together smoked paprika, garlic, lemon juice, and mayonnaise in a bowl.",
+    "Once the peppers are done, let them cool slightly before serving with the smoked paprika aioli for dipping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "german",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-peruvian-padron-peppers-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:18:57.462Z"
+}
