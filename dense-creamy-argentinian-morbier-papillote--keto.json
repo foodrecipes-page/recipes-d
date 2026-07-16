@@ -1,0 +1,86 @@
+{
+  "slug": "dense-creamy-argentinian-morbier-papillote--keto",
+  "title": "Keto Argentinian Creamy Papillote Chicken",
+  "description": "A keto twist on traditional Argentinian papillote chicken, featuring a rich and creamy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Dense cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Papillote",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Place a sheet of papillote on a flat surface.",
+    "Place a chicken breast in the center of the papillote.",
+    "Top the chicken with a spoonful of morbier cheese and a dollop of dense cream cheese.",
+    "Drizzle argentinian chimichurri over the cheese.",
+    "Fold the papillote over the chicken to create a sealed packet.",
+    "Repeat with the remaining ingredients.",
+    "Place the papillote packets on a baking sheet and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve with additional morbier cheese and parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "argentinian",
+    "chicken",
+    "papillote",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-creamy-argentinian-morbier-papillote--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:28:51.614Z"
+}
