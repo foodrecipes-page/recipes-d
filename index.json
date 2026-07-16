@@ -16015,5 +16015,29 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicious-ukrainian-tomato-bake--indian",
+    "title": "Ukrainian-Style Baked Tomato",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "quick-meal"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-middle-eastern-lamb-tagine--vegan",
+    "title": "Middle Eastern-Style Stuffed Bell Peppers",
+    "tags": [
+      "vegan",
+      "middle-eastern",
+      "bell-peppers"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "d"
   }
 ]
