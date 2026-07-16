@@ -4728,16 +4728,15 @@
   },
   {
     "slug": "delicate-garlicky-moroccan-lamb-tagine",
-    "title": "Delicate Garlicky Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "lamb",
       "moroccan",
-      "one-pot",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "slow-cooked"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -8225,17 +8224,15 @@
   },
   {
     "slug": "deliciously-citrusy-irish-lamb-paella",
-    "title": "Deliciously Citrusy Irish Lamb Paella",
+    "title": "Lamb Paella with Irish Twist",
     "tags": [
-      "gluten-free",
-      "irish-food",
-      "lamb-recipes",
-      "one-pan",
-      "paella-recipes",
-      "sattvic"
+      "irish",
+      "lamb",
+      "paella",
+      "spanish"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -9616,16 +9613,16 @@
   },
   {
     "slug": "deliciously-roasted-canadian-kanten-agar-casserole",
-    "title": "Deliciously Roasted Canadian Kanten Agar Casserole",
+    "title": "Roasted Canadian Kanten Casserole",
     "tags": [
-      "canadian",
       "casserole",
-      "roasted",
+      "dessert",
+      "vegan",
       "vegetarian",
-      "weeknight"
+      "kanten"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 160,
     "shard": "d"
   },
   {
@@ -10648,18 +10645,14 @@
   },
   {
     "slug": "dense-algerian-lentil-tagine",
-    "title": "Dense Algerian Lentil Tagine",
+    "title": "Lentil Tagine",
     "tags": [
-      "algerian",
-      "dense",
-      "glassy-jelly",
-      "jain-friendly",
-      "lentil",
-      "one-pot",
-      "post-workout"
+      "lentils",
+      "vegetarian",
+      "north-african"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "d"
   },
   {
