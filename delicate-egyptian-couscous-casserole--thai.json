@@ -1,0 +1,88 @@
+{
+  "slug": "delicate-egyptian-couscous-casserole--thai",
+  "title": "Thai-Style Delicate Couscous Casserole",
+  "description": "A flavorful and aromatic Thai-inspired couscous casserole made with delicate flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Small onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz) drained and rinsed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion, mushrooms, and red bell pepper to the skillet and cook until the vegetables are tender, about 5-7 minutes.",
+    "Stir in the curry paste and cook for 1 minute.",
+    "Add the chickpeas, broth, soy sauce, and coconut milk to the skillet. Bring to a simmer.",
+    "Stir in the couscous and cook for 2-3 minutes or until the liquid has been absorbed.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25-30 minutes or until the casserole is hot and the couscous is tender.",
+    "Remove the foil and bake for an additional 5-10 minutes or until the top is lightly browned.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "thai",
+    "vegetarian",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-egyptian-couscous-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:46.388Z"
+}
