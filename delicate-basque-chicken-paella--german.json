@@ -1,0 +1,107 @@
+{
+  "slug": "delicate-basque-chicken-paella--german",
+  "title": "Chicken and Sausage Paella",
+  "description": "A German twist on the classic Spanish dish, featuring chicken and sausage in a delicious paella.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "Basque sausage",
+      "amount": "1 pound, sliced",
+      "notes": null
+    },
+    {
+      "name": "Delicate rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1, diced",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1, diced",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1, diced",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add sausage and cook until browned, about 5 minutes.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add chicken broth, smoked paprika, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Add diced tomato and continue to simmer, covered, for an additional 5 minutes.",
+    "Remove from heat and let rest, covered, for 5 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "paella",
+    "sausage",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-basque-chicken-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:38:14.749Z"
+}
