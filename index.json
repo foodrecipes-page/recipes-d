@@ -3500,17 +3500,15 @@
   },
   {
     "slug": "delicate-citrusy-korean-kielbasa-kalguksu",
-    "title": "Delicate Citrusy Korean Kielbasa Kalguksu",
+    "title": "Spicy Kielbasa Kalguksu Stew",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "korean-food",
-      "low-fat",
-      "one-pot",
-      "weeknight"
+      "korean",
+      "noodles",
+      "stew",
+      "kielbasa"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -15847,6 +15845,33 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-basque-chicken-paella--german",
+    "title": "Chicken and Sausage Paella",
+    "tags": [
+      "german",
+      "chicken",
+      "paella",
+      "sausage",
+      "spanish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-basque-chicken-paella--gluten-free",
+    "title": "Delicate Chicken Paella",
+    "tags": [
+      "gluten-free",
+      "spanish",
+      "chicken",
+      "paella"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "d"
   }
 ]
