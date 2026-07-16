@@ -1,0 +1,69 @@
+{
+  "slug": "date-night-japanese-mirin-hon-inari-zushi",
+  "title": "Japanese Inari Zushi",
+  "description": "A traditional Japanese dish made with sweetened tofu pouches and sushi rice. Inari zushi is a popular snack at Japanese festivals and markets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "inari",
+      "amount": "2 packages"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice and cook according to package instructions.",
+    "Prepare the inari by cutting off the stems and rinsing the pouches.",
+    "In a small saucepan, combine the mirin and date syrup.",
+    "Bring the mixture to a simmer and cook until the syrup has thickened slightly.",
+    "Add the cooked sushi rice to a large bowl and pour the mirin-date syrup mixture over the top.",
+    "Stir the rice gently to combine.",
+    "Stuff each inari pouch with a portion of the sushi rice mixture.",
+    "Serve the inari zushi immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "inari",
+    "sushi",
+    "japanese",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-japanese-mirin-hon-inari-zushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:28:16.817Z"
+}
