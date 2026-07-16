@@ -1,0 +1,81 @@
+{
+  "slug": "dense-syrian-garlic-bake--french",
+  "title": "French Baguette with Garlic and Syrian Olives",
+  "description": "A classic French baguette recipe topped with garlic and delicious Syrian olives. This savory dish is perfect for a quick meal or snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dense flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Syrian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bake yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the dense flour, salt, and bake yeast.",
+    "2. Gradually add in the water and mix until a dough forms.",
+    "3. Knead the dough for 5-7 minutes until smooth and elastic.",
+    "4. Place the dough in a greased bowl and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 400°F (200°C).",
+    "6. Punch down the dough and shape into a long, thin baguette.",
+    "7. Place the baguette on a baking sheet lined with parchment paper.",
+    "8. Brush the top of the baguette with olive oil and sprinkle with minced garlic.",
+    "9. Bake the baguette in the preheated oven for 15-20 minutes, or until golden brown.",
+    "10. Remove the baguette from the oven and top with sliced Syrian olives.",
+    "11. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baguette",
+    "french",
+    "garlic",
+    "olives"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-syrian-garlic-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:03:52.040Z"
+}
