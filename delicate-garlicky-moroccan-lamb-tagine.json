@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-garlicky-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb, aromatic spices, and dried fruits. This tagine is slow-cooked to perfection, perfect for a cold winter's night.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "delicate olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlicky onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "moroccan spices",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add spices, apricots, broth, and honey. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt to taste.",
+    "Garnish with cilantro and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:27:29.476Z"
+}
