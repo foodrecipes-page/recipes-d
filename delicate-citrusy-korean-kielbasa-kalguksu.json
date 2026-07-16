@@ -1,0 +1,91 @@
+{
+  "slug": "delicate-citrusy-korean-kielbasa-kalguksu",
+  "title": "Spicy Kielbasa Kalguksu Stew",
+  "description": "A twist on traditional Korean noodle soup, this hearty stew combines spicy kielbasa with delicate kalguksu noodles and a hint of citrus.",
+  "cuisine": "Korean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "kalguksu noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the kielbasa and cook until browned, about 5-6 minutes.",
+    "Add the gochujang, soy sauce, and brown sugar. Stir to combine.",
+    "Add the noodles and 4 cups of water. Bring to a boil, then reduce heat to medium-low and simmer for 8-10 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped green onions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodles",
+    "stew",
+    "kielbasa"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-citrusy-korean-kielbasa-kalguksu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:15:03.891Z"
+}
