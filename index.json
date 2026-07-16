@@ -15873,5 +15873,60 @@
     "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "delicious-ukrainian-tomato-bake--french",
+    "title": "French Tomato Tart",
+    "tags": [
+      "tart",
+      "french",
+      "tomato",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-creamy-argentinian-morbier-papillote--keto",
+    "title": "Keto Argentinian Creamy Papillote Chicken",
+    "tags": [
+      "keto",
+      "argentinian",
+      "chicken",
+      "papillote",
+      "cheese"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-citrusy-irish-lamb-paella--german",
+    "title": "Lamb and Lemon German Paella",
+    "tags": [
+      "german-cuisine",
+      "lamb-based",
+      "citrusy",
+      "irish-inspiration",
+      "paella-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-german-almond-bao--indian",
+    "title": "Delicate German Bao Dessert",
+    "tags": [
+      "indian",
+      "dessert",
+      "almond",
+      "bao",
+      "german"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 17,
+    "shard": "d"
   }
 ]
