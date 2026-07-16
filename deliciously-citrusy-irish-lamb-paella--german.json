@@ -1,0 +1,99 @@
+{
+  "slug": "deliciously-citrusy-irish-lamb-paella--german",
+  "title": "Lamb and Lemon German Paella",
+  "description": "A twist on traditional German cuisine, featuring lamb and citrusy notes in a flavorful paella dish.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Remove the lamb from the pan and set aside.",
+    "Add the garlic, cumin, smoked paprika, salt, and pepper to the pan.",
+    "Cook for 1 minute, until fragrant.",
+    "Add the paella rice to the pan and cook for 2-3 minutes, until lightly toasted.",
+    "Add the lemon juice and chicken broth to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the cooked lamb and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Let the paella rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "lamb-based",
+    "citrusy",
+    "irish-inspiration",
+    "paella-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-citrusy-irish-lamb-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:33:36.326Z"
+}
