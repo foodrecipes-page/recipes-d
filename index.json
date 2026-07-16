@@ -15949,5 +15949,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dense-syrian-garlic-bake--french",
+    "title": "French Baguette with Garlic and Syrian Olives",
+    "tags": [
+      "baguette",
+      "french",
+      "garlic",
+      "olives"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
