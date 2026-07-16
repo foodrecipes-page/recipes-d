@@ -1,0 +1,95 @@
+{
+  "slug": "delicious-velvet-mexican-haggis-horchata",
+  "title": "Delicious Velvet Mexican Haggis Tacos",
+  "description": "A unique fusion of flavors featuring haggis in a taco shell, topped with a creamy velvet sauce and a sprinkle of Mexican spices. This dish is a bold twist on traditional Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Velvet Sauce",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Horchata",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Queso Fresco",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the haggis in the skillet for 5-7 minutes, breaking it up with a spoon as it cooks.",
+    "In a small bowl, whisk together the velvet sauce and Mexican spices.",
+    "Add the velvet sauce mixture to the skillet with the haggis and stir to combine.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by spooning the haggis mixture into the shells.",
+    "Serve the tacos with a drizzle of horchata, a sprinkle of queso fresco, and a squeeze of lime juice.",
+    "Garnish with chopped cilantro, sliced radishes, and chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haggis",
+    "velvet-sauce",
+    "mexican",
+    "tacos",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-velvet-mexican-haggis-horchata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:24:42.726Z"
+}
