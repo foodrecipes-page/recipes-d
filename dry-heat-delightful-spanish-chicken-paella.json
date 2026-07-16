@@ -1,0 +1,82 @@
+{
+  "slug": "dry-heat-delightful-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A traditional Spanish dish made with chicken, rice, and spices. This recipe serves a crowd and is perfect for a special occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo, sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heat, delightful paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the chorizo and cook until browned, about 3 minutes.",
+    "Add the Spanish rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine, paprika, chicken broth, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the cover and cook for an additional 5-10 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-heat-delightful-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:12:30.062Z"
+}
