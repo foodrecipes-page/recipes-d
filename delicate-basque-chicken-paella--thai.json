@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-basque-chicken-paella--thai",
+  "title": "Thai-Style Chicken Paella",
+  "description": "A unique fusion of Thai and Spanish flavors in this Thai-style chicken paella recipe. Delicate chicken and basque rice come together in a flavorful and aromatic dish.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "delicate chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "basque rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free fish sauce if necessary"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "use gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "peeled and deveined shrimp",
+      "amount": "1 pound",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add chicken broth, coconut milk, fish sauce, soy sauce, and Thai red curry paste. Stir to combine.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add basque rice to the pan and stir to combine with the liquid.",
+    "Cook for 10-12 minutes or until rice is tender and liquid has been absorbed.",
+    "If using shrimp, add to the pan and cook until pink and fully cooked.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "paella",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-basque-chicken-paella--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:23:29.019Z"
+}
