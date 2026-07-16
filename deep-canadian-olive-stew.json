@@ -1,0 +1,76 @@
+{
+  "slug": "deep-canadian-olive-stew",
+  "title": "Pan-Seared Canadian Stew Meat",
+  "description": "A flavorful dish made with seared Canadian stew meat, served with a side of sautéed vegetables.",
+  "cuisine": null,
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "deep red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the chopped carrot and potato and cook for another 5 minutes.",
+    "Add the Canadian stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the deep red wine, beef broth, and tomato paste. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-canadian-olive-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:52:45.189Z"
+}
