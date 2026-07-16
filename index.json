@@ -9278,17 +9278,15 @@
   },
   {
     "slug": "deliciously-garlicky-croatian-polenta-pilaf",
-    "title": "Deliciously Garlicky Croatian Polenta Pilaf",
+    "title": "Croatian Polenta Pilaf",
     "tags": [
-      "comfort-food",
-      "european-cuisine",
-      "flexitarian",
-      "garlic-lovers",
-      "mushroom-based",
-      "one-pot"
+      "croatian",
+      "polenta",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -15818,6 +15816,44 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-basque-chicken-paella--thai",
+    "title": "Thai-Style Chicken Paella",
+    "tags": [
+      "thai",
+      "chicken",
+      "paella",
+      "coconut-milk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-egyptian-couscous-casserole--thai",
+    "title": "Thai-Style Delicate Couscous Casserole",
+    "tags": [
+      "couscous",
+      "thai",
+      "vegetarian",
+      "casserole"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-ethiopian-shrimp-dabo--vegetarian",
+    "title": "Ethiopian Stew",
+    "tags": [
+      "ethiopian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
