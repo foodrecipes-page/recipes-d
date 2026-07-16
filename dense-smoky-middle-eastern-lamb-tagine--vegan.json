@@ -1,0 +1,77 @@
+{
+  "slug": "dense-smoky-middle-eastern-lamb-tagine--vegan",
+  "title": "Middle Eastern-Style Stuffed Bell Peppers",
+  "description": "A flavorful and nutritious vegan dish inspired by Middle Eastern cuisine. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 bell peppers",
+      "amount": "any color",
+      "notes": "any color bell peppers"
+    },
+    {
+      "name": "1 cup cooked rice",
+      "amount": "",
+      "notes": "preferably brown rice"
+    },
+    {
+      "name": "1 cup black beans, cooked",
+      "amount": "",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "for roasting"
+    },
+    {
+      "name": "1 tsp cumin",
+      "amount": "",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "",
+      "notes": "sweet or smoked paprika"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the tops off the bell peppers and remove the seeds and membranes.",
+    "3. In a large bowl, combine the cooked rice, black beans, diced tomatoes, cumin, and paprika.",
+    "4. Stuff each bell pepper with the rice mixture, filling to the top.",
+    "5. Drizzle the olive oil over the bell peppers and cover with foil.",
+    "6. Roast the bell peppers in the preheated oven for 25 minutes.",
+    "7. Remove the foil and continue roasting for an additional 10-15 minutes, or until the bell peppers are tender.",
+    "8. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-middle-eastern-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:46:52.577Z"
+}
