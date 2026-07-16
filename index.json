@@ -3191,16 +3191,15 @@
   },
   {
     "slug": "delicate-algerian-english-muffin-toast",
-    "title": "Delicate Algerian English Muffin Toast",
+    "title": "English Muffin Toast",
     "tags": [
       "breakfast",
-      "brunch",
-      "low-fat",
-      "one-pan",
-      "wooden-board"
+      "english",
+      "muffin",
+      "cheese"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 22,
+    "cuisine": "english",
+    "totalTimeMin": 7,
     "shard": "d"
   },
   {
@@ -15958,6 +15957,34 @@
       "french",
       "garlic",
       "olives"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-smoky-peruvian-padron-peppers-skewers--german",
+    "title": "Grilled Padron Peppers with Smoked Paprika Aioli",
+    "tags": [
+      "grilled",
+      "german",
+      "side-dish",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 13,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-japanese-pork-curry--french",
+    "title": "Japanese Curry Pork Tenderloin",
+    "tags": [
+      "japanese",
+      "curry",
+      "pork",
+      "french",
+      "dinner",
+      "main-course"
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
