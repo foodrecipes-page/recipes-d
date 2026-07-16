@@ -15989,5 +15989,18 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-irish-beef-fritters--chinese",
+    "title": "Beef and Delicate Irish Fritter Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "beef",
+      "vegetarian-friends"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
