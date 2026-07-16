@@ -15928,5 +15928,18 @@
     "cuisine": "indian",
     "totalTimeMin": 17,
     "shard": "d"
+  },
+  {
+    "slug": "dill-bliss-vegan-tandoori-soup--thai",
+    "title": "Thai Tandoori Soup",
+    "tags": [
+      "thai",
+      "soup",
+      "chicken",
+      "tandoori"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
