@@ -1064,16 +1064,16 @@
   },
   {
     "slug": "date-night-japanese-mirin-hon-inari-zushi",
-    "title": "Date-Night Japanese Mirin-Hon Inari-Zushi",
+    "title": "Japanese Inari Zushi",
     "tags": [
-      "abalone",
-      "date-night",
-      "hon-mirin",
+      "inari",
+      "sushi",
       "japanese",
-      "romantic"
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -16001,6 +16001,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-flaky-norwegian-cod-casserole--italian",
+    "title": "Italian Cod Casserole",
+    "tags": [
+      "italian",
+      "fish",
+      "casserole",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
