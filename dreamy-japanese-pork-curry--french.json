@@ -1,0 +1,97 @@
+{
+  "slug": "dreamy-japanese-pork-curry--french",
+  "title": "Japanese Curry Pork Tenderloin",
+  "description": "A French-inspired twist on traditional Japanese curry, served with a tenderloin of pork. This dish combines the rich flavors of French cuisine with the bold spices of Japan.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": null
+    },
+    {
+      "name": "dreamy curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "japanese curry paste",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "pork broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the pork tenderloin until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook the pork to an internal temperature of 145°F (63°C), about 15-20 minutes.",
+    "While the pork is cooking, combine the curry powder, curry paste, pork broth, sugar, and soy sauce in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook until the sauce has thickened slightly, about 5-7 minutes.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the sliced pork with the Japanese curry sauce spooned over the top and steamed rice on the side.",
+    "Garnish with green onions and serve immediately.",
+    "Melt the butter in a small saucepan over low heat and brush it over the pork tenderloin during the last 2 minutes of cooking.",
+    "This will add a rich, caramelized flavor to the pork."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "pork",
+    "french",
+    "dinner",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-japanese-pork-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:06:46.510Z"
+}
