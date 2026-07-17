@@ -1,0 +1,86 @@
+{
+  "slug": "delicious-brazilian-chicken-tagine--vegetarian",
+  "title": "Brazilian Tagine Delight",
+  "description": "A flavorful and aromatic vegetarian tagine dish inspired by Brazilian cuisine, featuring chicken as a central element.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breast",
+      "amount": "2 cups mixed bell peppers (green, red, yellow)",
+      "notes": ""
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "2 medium zucchinis",
+      "amount": "2 medium tomatoes, diced",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "1 tsp ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "Salt and pepper, to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14.5 oz) diced tomatoes",
+      "amount": "2 tbsp chopped fresh cilantro (optional)",
+      "notes": ""
+    },
+    {
+      "name": "2 cups vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add zucchinis and cook until they start to soften, about 5 minutes.",
+    "Add bell peppers, cumin, smoked paprika, salt, and pepper; cook for 2 minutes.",
+    "Stir in diced tomatoes, vegetable broth, and oregano.",
+    "Add the chicken and bring to a simmer.",
+    "Cover the tagine and cook for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in chopped cilantro (if using).",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-brazilian-chicken-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:31:55.211Z"
+}
