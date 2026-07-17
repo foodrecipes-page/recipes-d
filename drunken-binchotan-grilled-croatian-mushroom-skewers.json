@@ -1,0 +1,85 @@
+{
+  "slug": "drunken-binchotan-grilled-croatian-mushroom-skewers",
+  "title": "Croatian Mushroom Skewers with Binchotan Glaze",
+  "description": "A flavorful and aromatic dish featuring Croatian mushrooms, marinated in a mixture of herbs and spices, then grilled to perfection and served with a sweet binchotan glaze.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian mushrooms",
+      "amount": "250g",
+      "notes": "such as porcini or chanterelle"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "",
+      "notes": "for grilling"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, thyme, salt, and pepper.",
+    "Add the mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Brush the grill grates with binchotan charcoal to prevent sticking.",
+    "Grill the skewers for 3-4 minutes per side, or until the mushrooms are tender and slightly charred.",
+    "Meanwhile, mix together 1 tbsp of water and 1 tsp of binchotan charcoal to create a glaze.",
+    "Brush the glaze over the skewers during the last minute of grilling.",
+    "Remove the skewers from the grill and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "mushroom",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/drunken-binchotan-grilled-croatian-mushroom-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:09:06.135Z"
+}
