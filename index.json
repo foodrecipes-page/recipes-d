@@ -16119,5 +16119,30 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "delicious-brazilian-chicken-tagine--vegetarian",
+    "title": "Brazilian Tagine Delight",
+    "tags": [
+      "brazilian",
+      "chicken",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deep-fried-moroccan-chicken-skewers--indian",
+    "title": "Indian-Style Chicken Skewers",
+    "tags": [
+      "chicken",
+      "indian",
+      "skewers"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
