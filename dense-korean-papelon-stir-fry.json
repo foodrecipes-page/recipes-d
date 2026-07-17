@@ -1,0 +1,84 @@
+{
+  "slug": "dense-korean-papelon-stir-fry",
+  "title": "Spicy Papelon Stir Fry",
+  "description": "A spicy and flavorful stir fry made with papelon, Korean chili flakes, and a blend of herbs.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dense",
+      "amount": "2 cups",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grate"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the papelon and stir-fry for 2-3 minutes, or until it starts to soften.",
+    "Add the dense, Korean chili flakes, soy sauce, and rice vinegar. Stir-fry for 1-2 minutes, or until the vegetables are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds.",
+    "Adjust the heat level to your liking by adding more or less Korean chili flakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegan",
+    "stir-fry",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-korean-papelon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:45:35.899Z"
+}
