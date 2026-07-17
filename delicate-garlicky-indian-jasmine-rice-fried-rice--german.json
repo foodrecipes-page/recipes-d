@@ -1,0 +1,61 @@
+{
+  "slug": "delicate-garlicky-indian-jasmine-rice-fried-rice--german",
+  "title": "Garlicky German Fried Rice",
+  "description": "A simple and flavorful German-inspired fried rice dish infused with garlicky and delicate flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "fried rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "delicate herbs (such as parsley or dill)",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the cooked jasmine rice and stir-fry for about 5 minutes, breaking up any clumps.",
+    "Add the fried rice and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with delicate herbs and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fried-rice",
+    "vegetarian",
+    "garlic",
+    "delicate-herbs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-indian-jasmine-rice-fried-rice--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:19:13.629Z"
+}
