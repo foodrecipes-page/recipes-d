@@ -1,0 +1,94 @@
+{
+  "slug": "deliciously-spicy-indian-basmati-rice-biryani--indian",
+  "title": "Spicy Indian Basmati Biryani",
+  "description": "A flavorful and aromatic rice dish originating from India, made with the goodness of basmati rice and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Cashew nuts",
+      "amount": "10-12",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of ghee or oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion and sauté until it's translucent.",
+    "Add ginger paste and garlic paste and sauté for another minute.",
+    "Add tomato puree and mix well.",
+    "Add biryani masala, red chili powder, and salt. Mix well.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Add basmati rice and mix well.",
+    "Reduce the heat to low and cook covered for 15-20 minutes or until the rice is cooked and fluffy.",
+    "Garnish with chopped cashew nuts and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spicy-indian-basmati-rice-biryani--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:16:56.425Z"
+}
