@@ -1,0 +1,112 @@
+{
+  "slug": "deliciously-spicy-malaysian-chicken-curry--mexican",
+  "title": "Spicy Chicken Curry Tacos",
+  "description": "A fusion of Mexican and Malaysian flavors, these spicy chicken curry tacos are a bold twist on traditional tacos.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on both sides and cooked through.",
+    "Add the curry powder, chili powder, cumin, and smoked paprika to the skillet and cook for 1-2 minutes.",
+    "Stir in the diced tomatoes and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the chicken mixture onto a tortilla and topping with shredded cheese, sour cream, and cilantro.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with diced avocado, sliced jalapeños, or a sprinkle of queso fresco for added flavor and texture.",
+    "Serve with a side of Mexican street corn or a simple green salad for a delicious and well-rounded meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "malaysian",
+    "curry",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-spicy-malaysian-chicken-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:06:13.494Z"
+}
