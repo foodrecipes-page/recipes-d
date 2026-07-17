@@ -1,0 +1,92 @@
+{
+  "slug": "dank-comforting-uruguayan-beef-stew--thai",
+  "title": "Thai Beef Stew",
+  "description": "A comforting and flavorful Thai-inspired beef stew that's perfect for a cozy evening. The Uruguayan influence adds a unique twist to this Asian-inspired dish.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "uruguayan beef broth",
+      "amount": "2 cups",
+      "notes": "you can also use beef broth as a substitute"
+    },
+    {
+      "name": "dank Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat for a richer stew"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adds depth and umami"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances the flavors"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the coconut milk, fish sauce, and brown sugar.",
+    "Simmer for another 10 minutes, or until the stew has thickened slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stew",
+    "comforting",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dank-comforting-uruguayan-beef-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:07:21.584Z"
+}
