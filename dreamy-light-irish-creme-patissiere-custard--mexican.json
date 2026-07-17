@@ -1,0 +1,85 @@
+{
+  "slug": "dreamy-light-irish-creme-patissiere-custard--mexican",
+  "title": "Irish Cream Crème Brûlée Tres Leches",
+  "description": "A unique twist on the classic crème brûlée, infused with irish cream and topped with a caramelized sugar crust.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "irish cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "patissiere",
+      "amount": "1 package"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dreamy whipped cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium saucepan, whisk together cream, sugar, and irish cream. Cook over medium heat, stirring occasionally, until sugar dissolves and mixture simmers.",
+    "Remove from heat and stir in patissiere and vanilla extract.",
+    "In a separate bowl, whisk together egg yolks. Gradually add warm cream mixture to egg yolks, whisking constantly.",
+    "Pour mixture into 4-6 ramekins or small baking dishes.",
+    "Place ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes or until edges are set and centers are still slightly jiggly.",
+    "Remove from oven and let cool to room temperature.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of sugar over the top of each ramekin.",
+    "Caramelize sugar with a kitchen torch or under the broiler.",
+    "Top with whipped cream and drizzle with caramel sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "mexican",
+    "creme-brulee",
+    "tres-leches"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-light-irish-creme-patissiere-custard--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:55:38.449Z"
+}
