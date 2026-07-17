@@ -2963,16 +2963,16 @@
   },
   {
     "slug": "deeply-flavorful-malaysian-beef-pastry-wrapped",
-    "title": "Beef Roti",
+    "title": "Beef Samosas",
     "tags": [
       "beef",
       "malaysian",
       "pastry",
-      "wrapped",
-      "lunch"
+      "snack",
+      "deep-fried"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 28,
     "shard": "d"
   },
   {
@@ -16034,6 +16034,19 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-crunchy-indian-chicken-kebabs--japanese",
+    "title": "Japanese Chicken Kebabs",
+    "tags": [
+      "japanese",
+      "grilled",
+      "kebabs",
+      "chicken"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
