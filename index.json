@@ -16048,5 +16048,18 @@
     "cuisine": "Japanese",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoky-american-corn-skillet--chinese",
+    "title": "Smoky Skillet Corn",
+    "tags": [
+      "chinesefood",
+      "vegetarian",
+      "corn",
+      "skillet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "d"
   }
 ]
