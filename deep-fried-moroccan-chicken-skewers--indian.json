@@ -1,0 +1,102 @@
+{
+  "slug": "deep-fried-moroccan-chicken-skewers--indian",
+  "title": "Indian-Style Chicken Skewers",
+  "description": "Tender and flavorful chicken skewers marinated in a blend of Indian spices, grilled to perfection.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Moroccan olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cumin powder, coriander powder, garam masala powder, red chili powder, and salt.",
+    "Add the yogurt, lemon juice, garlic, and ginger to the bowl and mix until smooth.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken pieces onto the skewers, leaving a little space between each piece.",
+    "Brush the grill with Moroccan olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve hot garnished with chopped cilantro.",
+    "Serve with naan bread or rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-moroccan-chicken-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:19:14.382Z"
+}
