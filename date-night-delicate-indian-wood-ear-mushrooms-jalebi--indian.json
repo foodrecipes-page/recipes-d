@@ -1,0 +1,93 @@
+{
+  "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi--indian",
+  "title": "Indian Mushroom Jalebi Stir Fry",
+  "description": "A flavorful and spicy Indian-inspired stir fry made with mushrooms, jalebi, and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "jalebi",
+      "amount": "2 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onion and cook until translucent, about 3-4 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add cumin powder, coriander powder, and red chili powder. Cook for 1 minute.",
+    "Add jalebi and cook for another 2-3 minutes, until they're crispy and golden brown.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "mushrooms",
+    "jalebi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-delicate-indian-wood-ear-mushrooms-jalebi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:59:05.998Z"
+}
