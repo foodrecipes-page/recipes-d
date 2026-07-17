@@ -1,0 +1,73 @@
+{
+  "slug": "deliciously-smoky-american-corn-skillet--indian",
+  "title": "Smoky Corn Skillet",
+  "description": "A delicious and easy Indian-inspired dish made with smoked corn, perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked corn",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "american cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "deliciously seasoned oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet in a large skillet over medium-high heat.",
+    "Add the deliciously seasoned oil and swirl to coat the skillet.",
+    "Add the smoked corn and cook until slightly charred, about 5 minutes.",
+    "Add the shredded american cheese and stir until melted and combined with the corn.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Note: You can also add some chopped cilantro or scallions on top for extra flavor and color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "indian",
+    "easy",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoky-american-corn-skillet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:22:18.608Z"
+}
