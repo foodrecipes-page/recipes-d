@@ -11961,14 +11961,15 @@
   },
   {
     "slug": "dense-korean-papelon-stir-fry",
-    "title": "Earthy Papelon Stir-Fry",
+    "title": "Spicy Papelon Stir Fry",
     "tags": [
-      "dense-papelon-dish",
-      "earthly-meal-prep",
-      "korean-stir-fry"
+      "korean",
+      "vegan",
+      "stir-fry",
+      "vegetable"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
