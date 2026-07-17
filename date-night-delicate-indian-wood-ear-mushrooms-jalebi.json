@@ -1,0 +1,66 @@
+{
+  "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi",
+  "title": "Date and Mushroom Jalebi",
+  "description": "A unique dessert recipe that combines the sweetness of dates with the crunch of jalebi and earthy flavor of mushrooms.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Jalebi",
+      "amount": "1 package"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 teaspoon, ground"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat ghee in a pan over medium heat.",
+    "2. Add chopped mushrooms and sauté until they're golden brown.",
+    "3. Add pitted dates and cook for another 2-3 minutes.",
+    "4. Sprinkle ground cardamom and sugar over the mixture.",
+    "5. Cook for an additional minute.",
+    "6. Meanwhile, heat jalebi according to package instructions.",
+    "7. Serve warm jalebi with the date and mushroom mixture.",
+    "8. Garnish with chopped cardamom, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mushroom",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-delicate-indian-wood-ear-mushrooms-jalebi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:56:29.452Z"
+}
