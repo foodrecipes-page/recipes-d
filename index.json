@@ -16062,5 +16062,33 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "d"
+  },
+  {
+    "slug": "dank-comforting-uruguayan-beef-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "thai",
+      "beef",
+      "stew",
+      "comforting",
+      "uruguayan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoky-american-corn-skillet--indian",
+    "title": "Smoky Corn Skillet",
+    "tags": [
+      "corn",
+      "indian",
+      "easy",
+      "dinner",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
