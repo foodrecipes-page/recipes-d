@@ -1,0 +1,78 @@
+{
+  "slug": "dry-crunchy-algerian-vegetable-tagine--indian",
+  "title": "Spiced Algerian Vegetable Tagine",
+  "description": "A flavorful and aromatic Indian-inspired vegetarian tagine recipe using Algerian spices and vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "crunchy vegetables (carrots, zucchini, bell peppers)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "dry couscous",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tagine (or Dutch oven)",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chopped vegetables and cook until tender, 5-7 minutes.",
+    "Add algerian spice blend, diced tomatoes, and couscous.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-crunchy-algerian-vegetable-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:57:59.063Z"
+}
