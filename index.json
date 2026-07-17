@@ -16105,5 +16105,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-garlicky-indian-jasmine-rice-fried-rice--german",
+    "title": "Garlicky German Fried Rice",
+    "tags": [
+      "german",
+      "fried-rice",
+      "vegetarian",
+      "garlic",
+      "delicate-herbs"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
