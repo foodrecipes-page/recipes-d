@@ -1005,16 +1005,14 @@
   },
   {
     "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi",
-    "title": "Date-Night Delicate Indian Wood Ear Mushrooms Jalebi",
+    "title": "Date and Mushroom Jalebi",
     "tags": [
-      "date-night",
-      "dessert",
-      "gulab-jamun",
       "indian",
-      "wood-ear-mushrooms"
+      "mushroom",
+      "dessert"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -16141,6 +16139,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-slovakian-pork-dumplings--vegan",
+    "title": "Slovakian Vegan Dumplings",
+    "tags": [
+      "vegan",
+      "slovakian-cuisine",
+      "dumplings",
+      "comfort-food"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 55,
     "shard": "d"
   }
 ]
