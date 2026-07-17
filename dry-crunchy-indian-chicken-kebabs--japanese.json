@@ -1,0 +1,80 @@
+{
+  "slug": "dry-crunchy-indian-chicken-kebabs--japanese",
+  "title": "Japanese Chicken Kebabs",
+  "description": "Grilled Japanese-style chicken kebabs with a sweet and savory sauce, perfect for a summer evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dry soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "crunchy sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "indian garam masala",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10",
+      "notes": "for grilling"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sesame oil, and garam masala. Add the chicken cubes and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread marinated chicken onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together honey, brown sugar, and ginger. Brush the glaze onto the kebabs during the last 2 minutes of grilling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "kebabs",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-crunchy-indian-chicken-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:01:12.923Z"
+}
