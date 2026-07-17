@@ -16178,5 +16178,30 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dry-crunchy-algerian-vegetable-tagine--indian",
+    "title": "Spiced Algerian Vegetable Tagine",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "algerian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "date-night-delicate-indian-wood-ear-mushrooms-jalebi--indian",
+    "title": "Indian Mushroom Jalebi Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "mushrooms",
+      "jalebi"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
