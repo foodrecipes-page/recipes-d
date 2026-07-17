@@ -16153,5 +16153,30 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 55,
     "shard": "d"
+  },
+  {
+    "slug": "dreamy-light-irish-creme-patissiere-custard--mexican",
+    "title": "Irish Cream Crème Brûlée Tres Leches",
+    "tags": [
+      "dessert",
+      "mexican",
+      "creme-brulee",
+      "tres-leches"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-spicy-indian-basmati-rice-biryani--indian",
+    "title": "Spicy Indian Basmati Biryani",
+    "tags": [
+      "indian",
+      "rice",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
