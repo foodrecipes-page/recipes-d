@@ -1,0 +1,69 @@
+{
+  "slug": "dreamy-creamy-norwegian-coconut-pudding--vegan",
+  "title": "Coconut Cream Pudding",
+  "description": "A rich and creamy dessert made with coconut milk, perfect for satisfying your sweet tooth. This recipe is free from animal products, making it suitable for vegans.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Dreamy creamy pudding mix",
+      "amount": "1 package",
+      "notes": "Make sure it is vegan"
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1 cup",
+      "notes": "Such as almond or soy milk"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the coconut milk and non-dairy milk.",
+    "Add the sugar and stir until dissolved.",
+    "Add the dreamy creamy pudding mix and stir until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 3 hours or until set.",
+    "Just before serving, drizzle with coconut oil.",
+    "Garnish with toasted coconut flakes or shredded coconut, if desired.",
+    "Serve chilled and enjoy!",
+    "Note: If using a pudding mix that requires cooking, do so according to package instructions.",
+    "Let cool before refrigerating.",
+    "If using individual serving cups, you can garnish with toasted coconut flakes or shredded coconut before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 360,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "cream",
+    "pudding",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-norwegian-coconut-pudding--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:18:54.321Z"
+}
