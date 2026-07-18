@@ -1,0 +1,82 @@
+{
+  "slug": "dense-kenyan-biscuit-clay-pot",
+  "title": "Kenyan Biscuit Clay Pot Bites",
+  "description": "A unique twist on traditional biscuits, baked in clay pots for a crispy crust and fluffy interior.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "biscuit mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "buttermilk or regular milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pots in a 400°F oven for 10 minutes.",
+    "In a large bowl, combine the flour, sugar, salt, and baking powder.",
+    "Add the cold butter and use a pastry blender or your fingertips to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Stir in the biscuit mix.",
+    "In a separate bowl, whisk together the egg and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead a few times until it comes together.",
+    "Roll the dough out to about 1/2 inch thickness.",
+    "Cut out small squares, about 2 inches per side.",
+    "Place a biscuit square in each clay pot.",
+    "Bake for 15-20 minutes, or until the biscuits are golden brown and the edges are crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "biscuits",
+    "kenyan",
+    "snack",
+    "claypots"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-kenyan-biscuit-clay-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:02:28.694Z"
+}
