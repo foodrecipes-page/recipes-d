@@ -1,0 +1,57 @@
+{
+  "slug": "delicious-crunchy-russian-seeds-pilaf--chinese",
+  "title": "Crunchy Russian Pilaf",
+  "description": "A delicious and easy-to-make Chinese-inspired pilaf dish with crunchy texture.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crunchy seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Delicious vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Russian onion",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add pilaf and seeds, stir-fry for 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 15 minutes.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "chinese",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-crunchy-russian-seeds-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:52:07.291Z"
+}
