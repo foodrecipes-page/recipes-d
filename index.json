@@ -7541,17 +7541,14 @@
   },
   {
     "slug": "delicious-dutch-chicken-stew",
-    "title": "Delicious Dutch Chicken Stew",
+    "title": "Classic Dutch Chicken Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "hearty-stew",
-      "homestyle",
-      "one-pot",
-      "winter-meal"
+      "chicken",
+      "stew",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -16435,6 +16432,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-dutch-bellflower-root-stew--thai",
+    "title": "Thai Stew with Bellflower and Delicate Vegetables",
+    "tags": [
+      "thaistew",
+      "bellflower",
+      "vegetarian",
+      "vegan",
+      "delicatevegetables"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
