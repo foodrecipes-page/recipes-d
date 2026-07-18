@@ -1,0 +1,80 @@
+{
+  "slug": "dense-crispy-uruguayan-turkey-neck-stew",
+  "title": "Uruguayan-Style Stewed Turkey Neck",
+  "description": "A hearty, comforting stew originating from Uruguay, made with tender turkey neck and rich vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1 (about 1 1/2 pounds)",
+      "notes": "ask your butcher to cut into 2-inch pieces"
+    },
+    {
+      "name": "Dense, crispy bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oven to 300°F (150°C).",
+    "Brown the bacon in a large Dutch oven over medium heat. Remove the cooked bacon and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato, cook for 5 minutes.",
+    "Add the turkey neck pieces to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Return the cooked bacon to the pot, add the chicken broth, and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the turkey neck is tender and falls off the bone.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-crispy-uruguayan-turkey-neck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:55:32.532Z"
+}
