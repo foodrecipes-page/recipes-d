@@ -16422,5 +16422,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 23,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-smoky-blackened-tunisian-beans-tagine--thai",
+    "title": "Decadent Smoked Tagine Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "smoked",
+      "beans",
+      "tagine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
