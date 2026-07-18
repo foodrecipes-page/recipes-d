@@ -1,0 +1,72 @@
+{
+  "slug": "delicious-japanese-corn-ramen",
+  "title": "Japanese-Style Ramen with Corn",
+  "description": "A twist on the classic Japanese noodle soup, featuring sweet corn and a rich pork broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "pork bones",
+      "amount": "2 lbs",
+      "notes": "you can also use beef or chicken bones"
+    },
+    {
+      "name": "corn",
+      "amount": "4 ears",
+      "notes": "fresh or frozen, corn kernels work too"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp",
+      "notes": "Japanese cooking wine or substitute with sake"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Place pork bones on a baking sheet and roast for 30 minutes.",
+    "3. In a large pot, combine roasted bones, 4 cups of water, soy sauce, mirin, and bring to a boil.",
+    "4. Reduce heat to low and simmer for 4 hours.",
+    "5. Cook ramen noodles according to package instructions.",
+    "6. Remove pork bones from the broth and discard.",
+    "7. Add corn kernels to the broth and cook for an additional 5 minutes.",
+    "8. Assemble the ramen by placing noodles in a bowl, ladling the hot broth over the top, and garnishing with green onions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-japanese-corn-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:13:44.999Z"
+}
