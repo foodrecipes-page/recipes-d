@@ -1,0 +1,84 @@
+{
+  "slug": "dense-scottish-haggis-stew--gluten-free",
+  "title": "Scottish Gluten-Free Haggis Stew",
+  "description": "A hearty and comforting stew made with traditional Scottish haggis, perfect for a cold winter's day. This recipe is gluten-free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Scottish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "diced carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "diced potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add diced onion and cook until softened, about 3-4 minutes.",
+    "Add diced carrots and cook for an additional 2-3 minutes.",
+    "Add diced potatoes and cook for 2-3 minutes.",
+    "Add haggis and cook, breaking it up with a spoon, until browned.",
+    "Pour in chicken broth and water, and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until potatoes are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haggis",
+    "scottish",
+    "gluten-free",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-scottish-haggis-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:10:42.916Z"
+}
