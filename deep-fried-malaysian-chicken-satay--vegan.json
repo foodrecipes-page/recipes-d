@@ -1,0 +1,95 @@
+{
+  "slug": "deep-fried-malaysian-chicken-satay--vegan",
+  "title": "Vegan Satay Stir Fry",
+  "description": "A Malaysian-inspired stir fry made with marinated tofu and served with peanut sauce. A delicious and easy vegan alternative to traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Replace with maple syrup for a vegan version"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Marinate the tofu in a mixture of soy sauce, rice vinegar, and honey (or maple syrup) for at least 30 minutes.",
+    "In a blender or food processor, combine peanut butter, coconut milk, and 2 tbsp of water to make the peanut sauce. Set aside.",
+    "Heat 2 tbsp of oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the bell pepper and onion and stir-fry until tender.",
+    "Add the marinated tofu and stir-fry until golden brown.",
+    "Pour in the peanut sauce and stir-fry until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "tropical",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-malaysian-chicken-satay--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:22:06.815Z"
+}
