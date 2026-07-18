@@ -16341,5 +16341,71 @@
     "cuisine": "german",
     "totalTimeMin": 27,
     "shard": "d"
+  },
+  {
+    "slug": "dense-american-nutella-casserole--mexican",
+    "title": "Mexican Casserole",
+    "tags": [
+      "mexican",
+      "casserole",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-scottish-haggis-stew--gluten-free",
+    "title": "Scottish Gluten-Free Haggis Stew",
+    "tags": [
+      "haggis",
+      "scottish",
+      "gluten-free",
+      "stew"
+    ],
+    "cuisine": "Scottish",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-braised-egyptian-chicken-kebabs--indian",
+    "title": "Braised Chicken Kebabs",
+    "tags": [
+      "indian",
+      "chicken",
+      "kebabs",
+      "braised",
+      "easy-dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "deep-fried-malaysian-chicken-satay--vegan",
+    "title": "Vegan Satay Stir Fry",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "tropical",
+      "stir-fry"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-egyptian-lentil-curry--french",
+    "title": "French Lentil Curry",
+    "tags": [
+      "french",
+      "lentils",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
