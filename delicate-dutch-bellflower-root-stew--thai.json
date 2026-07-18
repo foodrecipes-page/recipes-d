@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-dutch-bellflower-root-stew--thai",
+  "title": "Thai Stew with Bellflower and Delicate Vegetables",
+  "description": "A flavorful Thai-inspired stew made with tender bellflower and delicate vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bellflower",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "delicate vegetables (such as lotus stem or water chestnut)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "dutch white onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "root ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "stew paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add sliced ginger and onion, cook for 3-4 minutes until softened.",
+    "Add sliced bellflower and delicate vegetables, cook for 5 minutes until tender.",
+    "Add stew paste and cook for 1 minute, until fragrant.",
+    "Pour in coconut milk and vegetable broth, bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes.",
+    "Season with fish sauce (if using) and salt.",
+    "Serve hot garnished with fresh herbs.",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaistew",
+    "bellflower",
+    "vegetarian",
+    "vegan",
+    "delicatevegetables"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-bellflower-root-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:21:30.616Z"
+}
