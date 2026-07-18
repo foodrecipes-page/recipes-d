@@ -1,0 +1,82 @@
+{
+  "slug": "dense-malaysian-fig-skillet",
+  "title": "Pan-Seared Fig Skillet",
+  "description": "A sweet and savory dish featuring caramelized figs and a crispy skillet finish.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "figs",
+      "amount": "2 cups, fresh or dried",
+      "notes": "fresh if in season, dried otherwise"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "preferably cast-iron or stainless steel"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon, ground",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat the skillet over medium heat and add the olive oil.",
+    "Add the figs to the skillet and cook for 2-3 minutes on each side, or until caramelized.",
+    "Add the brown sugar, soy sauce, and ginger to the skillet, stirring to combine.",
+    "Transfer the skillet to the oven and bake for 5-7 minutes, or until the figs are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "sweet",
+    "savory",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-malaysian-fig-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:04:55.720Z"
+}
