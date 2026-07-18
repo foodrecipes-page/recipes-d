@@ -1,0 +1,83 @@
+{
+  "slug": "dense-herbal-norwegian-lamb-stew--gluten-free",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty and comforting stew made with Norwegian lamb, herbs, and dense vegetables. This gluten-free dish is perfect for a chilly evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Herbs (such as thyme and rosemary)",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Red wine (gluten-free)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb cubes until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and herbs until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes, cooking for 5 minutes.",
+    "Add the red wine (if using), beef broth, browned lamb, and dense tomatoes.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-herbal-norwegian-lamb-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:58:36.845Z"
+}
