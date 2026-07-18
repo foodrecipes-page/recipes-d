@@ -16263,5 +16263,44 @@
     "cuisine": "malaysian",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "dense-herbal-norwegian-lamb-stew--gluten-free",
+    "title": "Norwegian Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 170,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-tangy-argentinian-pork-skillet--vegetarian",
+    "title": "Argentinian-Style Skillet Vegetables",
+    "tags": [
+      "argentinian",
+      "vegetarian",
+      "skillet",
+      "veggies"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-turkish-tortillas-su-boregi--french",
+    "title": "French-Style Boregi",
+    "tags": [
+      "french",
+      "turkish",
+      "cheese",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
