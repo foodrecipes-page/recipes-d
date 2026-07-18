@@ -16314,5 +16314,32 @@
     "cuisine": "French",
     "totalTimeMin": 170,
     "shard": "d"
+  },
+  {
+    "slug": "dreamy-creamy-norwegian-coconut-pudding--vegan",
+    "title": "Coconut Cream Pudding",
+    "tags": [
+      "coconut",
+      "cream",
+      "pudding",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 360,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-brazilian-egg-frittata--german",
+    "title": "German Frittata",
+    "tags": [
+      "breakfast",
+      "german",
+      "egg-dish",
+      "frittata"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "d"
   }
 ]
