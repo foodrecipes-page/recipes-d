@@ -1,0 +1,89 @@
+{
+  "slug": "deep-fried-japanese-chicken-gyoza--keto",
+  "title": "Japanese Keto Chicken Gyoza",
+  "description": "Crispy fried Japanese gyoza filled with chicken and served with a side of soy sauce for dipping.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20-25 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "avocado oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F.",
+    "In a large mixing bowl, combine the chicken breast, green onions, soy sauce, sesame oil, garlic, salt, and black pepper. Mix well.",
+    "Place a gyoza wrapper on a flat surface. Place a tablespoon of the chicken mixture in the center of the wrapper.",
+    "Fold the wrapper over the filling to form a triangle and press the edges together to seal the gyoza.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, add a few of the gyoza to the pan (do not overcrowd). Fry for 2-3 minutes on each side or until golden brown.",
+    "Remove the gyoza from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the gyoza hot with a side of soy sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "chicken",
+    "gyoza",
+    "deepfried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-japanese-chicken-gyoza--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:49:11.840Z"
+}
