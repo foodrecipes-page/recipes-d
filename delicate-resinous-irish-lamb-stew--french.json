@@ -1,0 +1,98 @@
+{
+  "slug": "delicate-resinous-irish-lamb-stew--french",
+  "title": "Irish Lamb Stew à la Française",
+  "description": "A hearty, comforting stew originating from Ireland, reimagined with a French twist, featuring tender lamb and a rich broth.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and pepper.",
+    "In a large Dutch oven, melt 2 tablespoons of butter over medium heat. Sear the lamb until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pot. Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the sliced carrot and cook for an additional 2 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in the fresh thyme.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "french",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-resinous-irish-lamb-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:15:53.854Z"
+}
