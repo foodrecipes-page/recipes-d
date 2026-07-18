@@ -16447,5 +16447,32 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-crunchy-mexican-corn-sopes--french",
+    "title": "French Sopes with Corn and Delicate Crust",
+    "tags": [
+      "french",
+      "dessert",
+      "corn"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-japanese-rice-biryani--chinese",
+    "title": "Japanese-Style Chicken Biryani with Chinese Twist",
+    "tags": [
+      "fusion",
+      "chinese",
+      "japanese",
+      "biryani",
+      "rice",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
