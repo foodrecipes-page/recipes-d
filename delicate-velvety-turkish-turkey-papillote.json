@@ -1,0 +1,91 @@
+{
+  "slug": "delicate-velvety-turkish-turkey-papillote",
+  "title": "Delicate Turkish-Style Papillote Baked Turkey",
+  "description": "A moist and flavorful dish, inspired by Turkish cuisine, where tender turkey is wrapped in delicate pastry and baked to perfection.",
+  "cuisine": "turkish",
+  "diet": [
+    "pork-free",
+    "shellfish-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 whole (1.5 lbs)",
+      "notes": null
+    },
+    {
+      "name": "Delicate puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Papillote",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the turkey breast with salt, black pepper, garlic powder, and paprika.",
+    "Roll out the puff pastry to a large sheet.",
+    "Place the turkey breast in the center of the pastry, leaving a 1-inch border around it.",
+    "Sprinkle chopped parsley and papillote around the turkey breast.",
+    "Brush the edges of the pastry with olive oil.",
+    "Fold the pastry over the turkey, pressing the edges to seal.",
+    "Place the papillote turkey on a baking sheet lined with parchment paper.",
+    "Bake for 30 minutes, then reduce heat to 350°F (180°C) and bake for an additional 20-25 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the turkey rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "papillote",
+    "baked-turkey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-velvety-turkish-turkey-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:19:15.117Z"
+}
