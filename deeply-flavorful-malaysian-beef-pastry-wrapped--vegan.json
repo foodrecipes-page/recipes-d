@@ -1,0 +1,81 @@
+{
+  "slug": "deeply-flavorful-malaysian-beef-pastry-wrapped--vegan",
+  "title": "Malaysian-Style Vegan Beef Satay Wraps",
+  "description": "A Malaysian-inspired vegan dish featuring flavorful satay filling wrapped in crispy pastry. This recipe is perfect for a quick and satisfying meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "Full-fat, refrigerated"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Pastry",
+      "amount": "1 package",
+      "notes": "Vegan puff pastry, thawed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together coconut milk, chili peppers, ginger, lemongrass, and tofu.",
+    "Let the mixture marinate for at least 30 minutes.",
+    "Roll out the pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into 4-6 rectangles, depending on the desired size for the wraps.",
+    "Place a tablespoon of the satay filling onto one end of each pastry rectangle.",
+    "Brush the edges with water and fold the pastry in half to form a triangle.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "malaysian",
+    "beef",
+    "pastry",
+    "wrapped"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deeply-flavorful-malaysian-beef-pastry-wrapped--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:59:08.159Z"
+}
