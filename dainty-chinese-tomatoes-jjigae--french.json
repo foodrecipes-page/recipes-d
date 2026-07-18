@@ -1,0 +1,63 @@
+{
+  "slug": "dainty-chinese-tomatoes-jjigae--french",
+  "title": "French Stuffed Tomatoes",
+  "description": "A French-inspired recipe featuring fresh tomatoes stuffed with a mixture of dainty and chinese seasonings. Serve as a side dish or add to a larger meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "dainty",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chinese",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "jjigae",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut tops off tomatoes and scoop out insides.",
+    "3. In a bowl, mix together dainty, chinese, and jjigae.",
+    "4. Stuff each tomato with the mixture.",
+    "5. Place tomatoes in a baking dish and cover with foil.",
+    "6. Bake for 20 minutes.",
+    "7. Remove foil and bake for an additional 10-15 minutes.",
+    "8. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "tomatoes",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dainty-chinese-tomatoes-jjigae--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:58:10.585Z"
+}
