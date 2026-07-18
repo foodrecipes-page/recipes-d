@@ -7056,17 +7056,14 @@
   },
   {
     "slug": "delicate-velvety-turkish-turkey-papillote",
-    "title": "Delicate Velvety Turkish Turkey Papillote",
+    "title": "Delicate Turkish-Style Papillote Baked Turkey",
     "tags": [
-      "gluten-free",
-      "healthy-dinner",
-      "low-glycemic",
+      "turkish",
       "papillote",
-      "turkish-cuisine",
-      "weeknight-meal"
+      "baked-turkey"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "cuisine": "turkish",
+    "totalTimeMin": 70,
     "shard": "d"
   },
   {
@@ -7681,16 +7678,14 @@
   },
   {
     "slug": "delicious-japanese-corn-ramen",
-    "title": "Delicious Japanese Corn Ramen",
+    "title": "Japanese-Style Ramen with Corn",
     "tags": [
-      "corn-based",
-      "egg-free",
-      "japanese-cuisine",
-      "lazy-sunday",
-      "one-pot"
+      "ramen",
+      "japanese",
+      "corn"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 270,
     "shard": "d"
   },
   {
@@ -11660,14 +11655,12 @@
   },
   {
     "slug": "dense-greek-dry-shrimp-avgolemono-fritters",
-    "title": "Dense Greek Dry Shrimp Avgolemono Fritters",
+    "title": "Greek Shrimp Fritters with Avgolemono Sauce",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "high-protein",
-      "one-pan",
+      "greek",
       "seafood",
-      "weeknight"
+      "appetizer",
+      "snack"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 27,
@@ -11848,16 +11841,15 @@
   },
   {
     "slug": "dense-kenyan-biscuit-clay-pot",
-    "title": "Dense Kenyan Biscuit Clay Pot",
+    "title": "Kenyan Biscuit Clay Pot Bites",
     "tags": [
-      "biscuit",
+      "biscuits",
       "kenyan",
-      "mustard",
-      "sunday-roast",
-      "weekend-brunch"
+      "snack",
+      "claypots"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
