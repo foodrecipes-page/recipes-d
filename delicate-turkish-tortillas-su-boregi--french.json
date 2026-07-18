@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-turkish-tortillas-su-boregi--french",
+  "title": "French-Style Boregi",
+  "description": "Delicate boregi filled with a rich turkey and cheese mixture, inspired by French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey",
+      "amount": "250g"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "60g"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Boregi Pastry",
+      "amount": "500g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Su (Water)",
+      "amount": "100ml"
+    },
+    {
+      "name": "Turkish Delicate Cheese",
+      "amount": "80g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a bowl, mix together the turkey, feta cheese, parsley, onion, mozzarella cheese, and Turkish Delicate Cheese.",
+    "Cut the boregi pastry into squares and place a spoonful of the turkey mixture in the centre of each square.",
+    "Brush the edges of the pastry with the egg and fold the pastry over to form a triangle.",
+    "Place the boregi on a baking tray lined with parchment paper and brush with su (water).",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "turkish",
+    "cheese",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-turkish-tortillas-su-boregi--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:36:19.591Z"
+}
