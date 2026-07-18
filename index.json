@@ -5752,17 +5752,15 @@
   },
   {
     "slug": "delicate-peppery-mediterranean-chicken-tagine",
-    "title": "Delicate Peppery Mediterranean Chicken Tagine",
+    "title": "Delicate Chicken Tagine",
     "tags": [
+      "moroccan",
       "chicken",
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "mediterranean",
-      "one-pot"
+      "tagine",
+      "slow-cooked"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -11996,16 +11994,15 @@
   },
   {
     "slug": "dense-malaysian-fig-skillet",
-    "title": "Dense Malaysian Fig Skillet",
+    "title": "Pan-Seared Fig Skillet",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pan-meal",
-      "vegetarian-breakfast"
+      "caramelized",
+      "sweet",
+      "savory",
+      "dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -16301,6 +16298,21 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-resinous-irish-lamb-stew--french",
+    "title": "Irish Lamb Stew à la Française",
+    "tags": [
+      "irish",
+      "lamb",
+      "stew",
+      "french",
+      "hearty",
+      "comforting"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
     "shard": "d"
   }
 ]
