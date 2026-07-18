@@ -1,0 +1,89 @@
+{
+  "slug": "delicate-crunchy-mexican-corn-sopes--french",
+  "title": "French Sopes with Corn and Delicate Crust",
+  "description": "A French twist on traditional Mexican sopes, topped with fresh corn and delicate pastry crust.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sopes",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "delicate pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and cut into circles for the sopes.",
+    "Place the sopes on a baking sheet and bake for 10-12 minutes, or until lightly golden.",
+    "In a separate bowl, mix together the eggs, milk, sugar, salt, and melted butter.",
+    "Once the sopes are done, brush the tops with the egg mixture and sprinkle with cinnamon.",
+    "Top each sopes with a spoonful of corn and a sprinkle of mexican cheese.",
+    "Bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crunchy-mexican-corn-sopes--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:35:05.290Z"
+}
