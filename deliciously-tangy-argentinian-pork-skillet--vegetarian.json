@@ -1,0 +1,79 @@
+{
+  "slug": "deliciously-tangy-argentinian-pork-skillet--vegetarian",
+  "title": "Argentinian-Style Skillet Vegetables",
+  "description": "A flavorful and colorful vegetarian recipe inspired by Argentine cuisine, featuring a skillet of sautéed vegetables.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Any color bell pepper works."
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "Can use any onion variety."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for best flavor."
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Can substitute with other summer squash."
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Cherry or grape tomatoes work too."
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Any cast-iron or stainless steel skillet is suitable."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality oil for best flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add olive oil and swirl to coat the pan.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced red bell pepper and cook for 3-4 minutes.",
+    "Add the sliced yellow onion and cook until translucent.",
+    "Add the sliced zucchini and cook for 3-4 minutes.",
+    "Add the cherry tomatoes and cook until they start to release their juices.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "skillet",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-tangy-argentinian-pork-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:25:50.765Z"
+}
