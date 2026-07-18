@@ -1,0 +1,89 @@
+{
+  "slug": "delicious-dutch-chicken-stew",
+  "title": "Classic Dutch Chicken Stew",
+  "description": "A hearty and comforting stew made with tender chicken and flavorful spices.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicious Chicken Thighs",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Chicken Stew Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion, carrots, and potatoes to the pot and cook until tender, about 10-12 minutes.",
+    "Add stew spice mix, salt, and pepper to the pot and stir to combine.",
+    "Add chicken broth to the pot and bring to a boil.",
+    "Return chicken to the pot and reduce heat to low.",
+    "Simmer, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-dutch-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:46:51.628Z"
+}
