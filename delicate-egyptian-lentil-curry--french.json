@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-egyptian-lentil-curry--french",
+  "title": "French Lentil Curry",
+  "description": "A French twist on the classic Indian curry, featuring tender lentils in a flavorful and aromatic sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "French-style"
+    },
+    {
+      "name": "egyptian delicately seasoned tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "For added depth"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "Optional, adds a rich flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "For cooking lentils"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Stir in the curry powder and cook for 1-2 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the wine (if using) and cook until the liquid is almost completely reduced.",
+    "Add the lentils, water, and season with salt and pepper to taste.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Adjust seasoning as needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lentils",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-egyptian-lentil-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:38:00.069Z"
+}
