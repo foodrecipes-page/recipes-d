@@ -1,0 +1,77 @@
+{
+  "slug": "dense-american-nutella-casserole--mexican",
+  "title": "Mexican Casserole",
+  "description": "A twist on the classic casserole with a Mexican flair. Perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Dense Tortillas",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "14.5 oz",
+      "notes": null
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "for baking"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook ground beef in a skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add diced tomatoes, salsa, and shredded cheese to the skillet. Stir to combine.",
+    "In a separate pan, warm tortillas over medium heat for about 30 seconds on each side.",
+    "To assemble the casserole, spread some of the beef mixture on the bottom of the casserole dish, followed by a tortilla, and then more beef mixture.",
+    "Repeat this process, ending with a layer of beef mixture on top.",
+    "Cover the casserole with the remaining tortillas and top with more beef mixture.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle with chopped cilantro and serve hot.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-american-nutella-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:04:21.404Z"
+}
