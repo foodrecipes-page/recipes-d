@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-braised-egyptian-chicken-kebabs--indian",
+  "title": "Braised Chicken Kebabs",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring tender chicken, marinated in a blend of spices and slow-cooked to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium, minced",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken",
+      "amount": "1 pound, boneless and skinless, cut into 1-inch pieces",
+      "notes": "delicate"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, combine ginger, garlic, cumin, coriander, turmeric, and cayenne pepper. Blend until smooth.",
+    "In a large bowl, whisk together the blended spice mixture, yogurt, and 1 tablespoon of the butter.",
+    "Add the chicken to the marinade and mix until the chicken is well coated. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Thread the marinated chicken onto the kebab skewers, leaving a small space between each piece.",
+    "Place the kebab skewers on a baking sheet lined with parchment paper. Drizzle the remaining 1 tablespoon of butter over the kebabs.",
+    "Bake the kebabs in the preheated oven for 20-25 minutes, or until the chicken is cooked through and slightly charred.",
+    "While the kebabs are baking, heat a large skillet over medium heat.",
+    "Once the kebabs are done, remove them from the oven and place them in the skillet. Braise the kebabs in the skillet for 5-7 minutes, or until the chicken is nicely browned and the sauce has thickened.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve the braised kebabs with basmati rice or naan bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "kebabs",
+    "braised",
+    "easy-dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-braised-egyptian-chicken-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:21:01.705Z"
+}
