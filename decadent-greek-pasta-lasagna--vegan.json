@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-greek-pasta-lasagna--vegan",
+  "title": "Greek Lasagna",
+  "description": "A vegan take on the classic Italian dish, with layers of pasta, marinara sauce, and rich dairy-free cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese substitute",
+      "amount": "1 cup",
+      "notes": "cashew cream or tofu cream"
+    },
+    {
+      "name": "shredded vegan mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a blender or food processor, combine the marinara sauce, ricotta cheese substitute, garlic powder, oregano, salt, and black pepper. Blend until smooth.",
+    "Spoon a layer of marinara sauce in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the ricotta cheese substitute mixture over the noodles. Sprinkle with half of the shredded mozzarella.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, the remaining ricotta cheese substitute mixture, and finally the remaining mozzarella.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "italian",
+    "lasagna",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-greek-pasta-lasagna--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:41:20.867Z"
+}
