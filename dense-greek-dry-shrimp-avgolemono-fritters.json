@@ -1,0 +1,84 @@
+{
+  "slug": "dense-greek-dry-shrimp-avgolemono-fritters",
+  "title": "Greek Shrimp Fritters with Avgolemono Sauce",
+  "description": "A delightful Greek-inspired appetizer or snack combining shrimp and avgolemono sauce with crispy fritters.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 pound large shrimp, peeled and deveined",
+      "amount": "1 pound",
+      "notes": "raw, deveined"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "2 tablespoons chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "1/4 cup dry white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "1 egg",
+      "amount": "1 egg",
+      "notes": "raw"
+    },
+    {
+      "name": "2 tablespoons avgolemono sauce",
+      "amount": "2 tablespoons",
+      "notes": "avgolemono sauce (store-bought or homemade)"
+    },
+    {
+      "name": "1/2 cup vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the shrimp, flour, dill, Parmesan cheese, and white wine.",
+    "In a separate bowl, whisk together the egg and avgolemono sauce.",
+    "Add the egg mixture to the shrimp mixture and mix until well combined.",
+    "Using your hands, shape the mixture into small fritters.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few fritters to the skillet and fry until golden brown, about 2-3 minutes on each side.",
+    "Repeat with the remaining fritters.",
+    "Drain the fritters on paper towels and serve hot with additional avgolemono sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "seafood",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 14,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-greek-dry-shrimp-avgolemono-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:32:58.879Z"
+}
