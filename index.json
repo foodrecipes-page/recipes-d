@@ -16407,5 +16407,20 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-garlicky-argentinian-minari-skewers--japanese",
+    "title": "Garlicky Skewers Yakitori",
+    "tags": [
+      "grilled",
+      "japanese",
+      "skewers",
+      "minari",
+      "garlic",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "d"
   }
 ]
