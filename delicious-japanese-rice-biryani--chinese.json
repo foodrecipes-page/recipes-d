@@ -1,0 +1,96 @@
+{
+  "slug": "delicious-japanese-rice-biryani--chinese",
+  "title": "Japanese-Style Chicken Biryani with Chinese Twist",
+  "description": "A fusion of East Asian and South Asian flavors in this Japanese-inspired biryani dish with a Chinese twist. This exotic rice dish is perfect for adventurous foodies looking to spice up their meals.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Biryanis",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the soy sauce and stir to combine.",
+    "Add the cooked Japanese rice and stir-fry for 2-3 minutes.",
+    "Add the biryani and stir-fry for another 2-3 minutes.",
+    "Transfer the mixture to a serving platter and garnish with green onions and sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "chinese",
+    "japanese",
+    "biryani",
+    "rice",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-japanese-rice-biryani--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:43:35.138Z"
+}
