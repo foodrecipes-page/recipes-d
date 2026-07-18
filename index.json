@@ -16492,5 +16492,18 @@
     "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "dark-braised-russian-beef-stew--vegan",
+    "title": "Vegan Russian Stew",
+    "tags": [
+      "vegan",
+      "russian",
+      "stew",
+      "comfort food"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 50,
+    "shard": "d"
   }
 ]
