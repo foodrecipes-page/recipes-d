@@ -11069,17 +11069,15 @@
   },
   {
     "slug": "dense-croatian-asparagus-paella",
-    "title": "Dense Croatian Asparagus Paella",
+    "title": "Pan-Seared Asparagus with Croatian Paella and Crostini",
     "tags": [
       "asparagus",
-      "croatian",
-      "festive",
-      "holidays",
-      "one-pan",
-      "paella"
+      "paella",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -16212,6 +16210,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-algerian-dynamite-wrap--keto",
+    "title": "Algerian Keto Wrap",
+    "tags": [
+      "keto",
+      "north-african",
+      "wrap"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "d"
   }
 ]
