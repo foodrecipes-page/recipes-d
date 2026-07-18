@@ -16200,5 +16200,18 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "dainty-chinese-tomatoes-jjigae--french",
+    "title": "French Stuffed Tomatoes",
+    "tags": [
+      "french",
+      "vegetarian",
+      "tomatoes",
+      "stuffed"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "d"
   }
 ]
