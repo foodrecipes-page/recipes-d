@@ -14674,16 +14674,15 @@
   },
   {
     "slug": "drunken-silky-japanese-lamb-skewers",
-    "title": "Drunken Silky Japanese Lamb Skewers",
+    "title": "Japanese Grilled Lamb Skewers",
     "tags": [
-      "ayurvedic-friendly",
-      "festive-dishes",
-      "grilled-meats",
-      "japanese-cuisine",
-      "lamb-recipes"
+      "japanese",
+      "lamb",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 36,
     "shard": "d"
   },
   {
@@ -16534,6 +16533,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 36,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-peruvian-bread-casserole--gluten-free",
+    "title": "Peruvian-Style Casserole",
+    "tags": [
+      "gluten-free",
+      "peruvian",
+      "casserole",
+      "chicken"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-delicately-roasted-indian-sea-bass-roast--german",
+    "title": "Pan-Seared Sea Bass with Roasted Vegetables",
+    "tags": [
+      "german",
+      "seafood",
+      "vegetarian",
+      "dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dark-gooey-jamaican-squid-skillet--french",
+    "title": "Pan-Seared Squid with Dark Rum Glaze",
+    "tags": [
+      "french",
+      "squid",
+      "dark-rum",
+      "glaze",
+      "plantains"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
