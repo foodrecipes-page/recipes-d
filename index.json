@@ -16612,5 +16612,17 @@
     "cuisine": "American",
     "totalTimeMin": 180,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-irish-epoisses-bowl--keto",
+    "title": "Irish Keto Creamy Bowl",
+    "tags": [
+      "keto",
+      "irish",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 20,
+    "shard": "d"
   }
 ]
