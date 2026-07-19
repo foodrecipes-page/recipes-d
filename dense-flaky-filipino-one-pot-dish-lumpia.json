@@ -1,0 +1,88 @@
+{
+  "slug": "dense-flaky-filipino-one-pot-dish-lumpia",
+  "title": "Filipino Lumpia with Vegetables",
+  "description": "A Filipino-style spring roll dish made with a variety of vegetables, served as a snack or appetizer. Lumpia is a popular Filipino street food.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lumpia wrapper",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section or at an Asian market"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "for assembling lumpia"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1/4 cup of vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the grated carrots and cook for 2-3 minutes, until they start to soften.",
+    "Add the shredded cabbage and cook until the vegetables are tender, about 5-7 minutes.",
+    "In a small bowl, mix together the flour and water to make a paste.",
+    "Add the paste to the pan and mix well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2-3 minutes.",
+    "Prepare the lumpia wrappers according to the package instructions.",
+    "Place a tablespoon of the vegetable mixture onto the center of a lumpia wrapper.",
+    "Brush the edges of the wrapper with water, then fold the wrapper into a triangle and press the edges together to seal.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the lumpia to the skillet and fry until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the lumpia from the oil and drain on paper towels."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lumpia",
+    "filipino",
+    "veggie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-flaky-filipino-one-pot-dish-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:46:48.100Z"
+}
