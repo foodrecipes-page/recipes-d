@@ -1,0 +1,64 @@
+{
+  "slug": "date-night-jelly-algerian-sugars-tagine",
+  "title": "Algerian Date Tagine",
+  "description": "A traditional Algerian dessert made with dates, sugar, and a hint of spices. This tagine is perfect for warm evenings.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "250g"
+    },
+    {
+      "name": "Algerian sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Jelly",
+      "amount": "150g"
+    },
+    {
+      "name": "Night",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spices (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Rinse the dates and remove any pits. Cut them into small pieces.",
+    "In a large bowl, mix together the dates, sugar, and jelly.",
+    "Add the night and mix until well combined.",
+    "Transfer the mixture to a 20cm (8 inch) round baking dish.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 15-20 minutes.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dates",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 80,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-jelly-algerian-sugars-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:45:51.713Z"
+}
