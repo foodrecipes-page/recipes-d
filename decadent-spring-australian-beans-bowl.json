@@ -1,0 +1,85 @@
+{
+  "slug": "decadent-spring-australian-beans-bowl",
+  "title": "Decadent Australian Spring Bean Bowl",
+  "description": "A hearty and flavorful bowl filled with decadent ingredients, perfect for a spring evening. This recipe combines Australian bush tomatoes with spring beans for a delicious and nutritious meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "spring beans",
+      "amount": "1 cup",
+      "notes": "blanched"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "mixed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the roasted vegetables with olive oil, salt, and pepper. Roast in the oven for 20 minutes.",
+    "In a large bowl, combine the brown rice, blanched spring beans, and roasted vegetables.",
+    "Drizzle the lemon juice over the top and toss to combine.",
+    "Serve the Australian bush tomatoes on top of the bowl and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "spring",
+    "beans",
+    "bowl",
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spring-australian-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:01:54.507Z"
+}
