@@ -12374,17 +12374,16 @@
   },
   {
     "slug": "dense-post-workout-roast-turkish-lamb-pilaf",
-    "title": "dense post-workout roast Turkish lamb Pilaf",
+    "title": "Turkish Lamb Pilaf for Post-Workout",
     "tags": [
-      "halal",
-      "one-pan",
-      "post-workout",
-      "roast",
       "turkish",
-      "weeknight"
+      "lamb",
+      "pilaf",
+      "post-workout",
+      "workout"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -16652,6 +16651,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dzatzik-besa-flora--italian",
+    "title": "Italian Chicken Fritters",
+    "tags": [
+      "italian",
+      "chicken",
+      "fritters"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-french-beef-bourguignon--vegetarian",
+    "title": "French Bourguignon Mushroom Risotto",
+    "tags": [
+      "risotto",
+      "mushrooms",
+      "vegetarian",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "d"
   }
 ]
