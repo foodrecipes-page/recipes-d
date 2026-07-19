@@ -369,16 +369,15 @@
   },
   {
     "slug": "dark-delicious-moroccan-lamb-mrouzia",
-    "title": "Dark Delicious Moroccan Lamb Mrouzia",
+    "title": "Traditional Moroccan Mrouzia Dessert",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pan-meals"
+      "moroccan",
+      "dessert",
+      "lamb",
+      "almonds"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -2500,17 +2499,18 @@
   },
   {
     "slug": "decadent-spring-australian-beans-bowl",
-    "title": "Decadent Spring Australian Beans Bowl",
+    "title": "Decadent Australian Spring Bean Bowl",
     "tags": [
       "australian",
-      "gluten-free",
-      "one-pan",
       "spring",
+      "beans",
+      "bowl",
+      "vegetarian",
       "vegan",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14276,16 +14276,14 @@
   },
   {
     "slug": "dreamy-moroccan-lamb-tagine",
-    "title": "Dreamy Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot-meals",
-      "slow-cooked"
+      "moroccan",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 190,
     "shard": "d"
   },
   {
