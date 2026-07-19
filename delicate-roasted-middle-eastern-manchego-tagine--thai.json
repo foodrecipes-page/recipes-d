@@ -1,0 +1,95 @@
+{
+  "slug": "delicate-roasted-middle-eastern-manchego-tagine--thai",
+  "title": "Thai Chicken Tagine with Manchego Crunch",
+  "description": "A twist on traditional Thai cuisine, blending the warm spices of a tagine with the creamy richness of Manchego cheese. Serve over fluffy jasmine rice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "delicate rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "middle eastern flatbread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken to skillet and cook until browned, about 5 minutes.",
+    "Transfer chicken to a plate and set aside.",
+    "In the same skillet, add tagine spice blend and cook for 1 minute.",
+    "Add roasted red pepper, green onions, and cilantro to the skillet, and cook until vegetables are softened.",
+    "Add cooked chicken back to the skillet and stir to combine.",
+    "Transfer mixture to a serving platter or individual plates.",
+    "Top with shredded Manchego cheese and serve with Middle Eastern flatbread.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "tagine",
+    "manchego",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-middle-eastern-manchego-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:53:01.136Z"
+}
