@@ -1,0 +1,77 @@
+{
+  "slug": "dry-delicately-roasted-indian-sea-bass-roast--german",
+  "title": "Pan-Seared Sea Bass with Roasted Vegetables",
+  "description": "A German-inspired dish featuring pan-seared sea bass served with a variety of roasted vegetables. This recipe is perfect for a weeknight dinner and can be prepared in under 30 minutes.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "2 fillets (6 oz each)",
+      "notes": null
+    },
+    {
+      "name": "roasted",
+      "amount": "2 cups mixed vegetables (such as Brussels sprouts, carrots, and red bell peppers)",
+      "notes": null
+    },
+    {
+      "name": "dry",
+      "amount": "1 cup German-style potato salad",
+      "notes": null
+    },
+    {
+      "name": "delicately",
+      "amount": "2 tbsp olive oil",
+      "notes": null
+    },
+    {
+      "name": "roast",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "indian",
+      "amount": "1 tsp ground cumin",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use kosher salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the sea bass with salt and cumin.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the garlic and sauté for 1 minute.",
+    "Add the mixed vegetables to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add the sea bass to the skillet and cook for 3-4 minutes on each side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and roast for an additional 5-7 minutes, or until the fish is cooked through.",
+    "Serve the sea bass with the roasted vegetables and German-style potato salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "seafood",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-delicately-roasted-indian-sea-bass-roast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:14:54.141Z"
+}
