@@ -1,0 +1,92 @@
+{
+  "slug": "deliciously-smoked-australian-chicken-skewers",
+  "title": "Smoked Aussie Chicken Skewers",
+  "description": "A delicious and easy-to-make recipe featuring marinated chicken skewers grilled to perfection. Inspired by the flavors of Australia, this dish is perfect for a summer barbecue.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the skewers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasonings"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasonings"
+    },
+    {
+      "name": "wood chips (optional)",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, soy sauce, honey, garlic powder, and paprika.",
+    "Add the chicken pieces to the marinade and toss to coat.",
+    "Thread the marinated chicken onto the skewers, leaving a little space between each piece.",
+    "Season the chicken with salt and pepper.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers over medium-high heat for 8-10 minutes, turning occasionally.",
+    "During the last 2 minutes of grilling, add wood chips to the grill to give the skewers a smoky flavor.",
+    "Remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "skewers",
+    "grilled",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-smoked-australian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:52:59.727Z"
+}
