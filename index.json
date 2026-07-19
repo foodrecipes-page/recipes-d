@@ -9167,17 +9167,17 @@
   },
   {
     "slug": "deliciously-energizing-greek-lamb-keftedes",
-    "title": "Deliciously Energizing Greek Lamb Keftedes",
+    "title": "Traditional Greek Lamb Koftas with Keftedes",
     "tags": [
-      "greek-food",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "greek",
+      "lamb",
+      "keftedes",
+      "koftas",
+      "grill",
+      "fry"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 38,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -10256,16 +10256,16 @@
   },
   {
     "slug": "deliciously-sweet-mexican-pork-cochinita-pibil",
-    "title": "Deliciously Sweet Mexican Pork Cochinita Pibil",
+    "title": "Cochinita Pibil",
     "tags": [
-      "anti-inflammatory",
-      "clay-pot-cooking",
-      "mexican-food",
-      "pork-recipes",
-      "special-occasion"
+      "cochinita",
+      "pibil",
+      "mexican",
+      "pork",
+      "slow-cooked"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 170,
+    "cuisine": "mexican",
+    "totalTimeMin": 180,
     "shard": "d"
   },
   {
@@ -16513,6 +16513,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-aerated-italian-filo-pastry-calamarata--chinese",
+    "title": "Steamed Calamarata Cakes",
+    "tags": [
+      "chinese",
+      "italian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-mediterranean-lamb-skewers--italian",
+    "title": "Grilled Lamb Skewers Italian-Style",
+    "tags": [
+      "italian",
+      "lamb",
+      "skewers",
+      "grilled",
+      "summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 36,
     "shard": "d"
   }
 ]
