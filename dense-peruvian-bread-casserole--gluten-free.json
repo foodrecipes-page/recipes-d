@@ -1,0 +1,67 @@
+{
+  "slug": "dense-peruvian-bread-casserole--gluten-free",
+  "title": "Peruvian-Style Casserole",
+  "description": "A gluten-free twist on a classic casserole, this Peruvian-inspired dish combines flavors of the Andes with a satisfying, comforting casserole.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian corn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dense chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "Bread, gluten-free",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Casserole cheese blend",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Peruvian corn according to package instructions.",
+    "Season the chicken breast with salt, pepper, and your favorite Peruvian spices.",
+    "In a large skillet, cook the chicken over medium-high heat until browned and cooked through.",
+    "Steam the cauliflower in a steamer basket until tender.",
+    "Cut the cauliflower into florets.",
+    "In a large mixing bowl, combine the cooked chicken, cauliflower, and cooked Peruvian corn.",
+    "Add the gluten-free bread and casserole cheese blend to the bowl and mix until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Let the casserole rest for 10-15 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "peruvian",
+    "casserole",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-bread-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:08:32.794Z"
+}
