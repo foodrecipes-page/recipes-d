@@ -1,0 +1,94 @@
+{
+  "slug": "delicate-smoky-algerian-veal-ceviche--japanese",
+  "title": "Smoked Veal Yakitori",
+  "description": "Japanese-style grilled veal skewers with a delicate smoky flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese-style"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": "rice wine"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 teaspoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, sake, mirin, brown sugar, grated ginger, and garlic.",
+    "2. Add the thinly sliced veal to the marinade and toss to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread 2-3 pieces of marinated veal onto skewers.",
+    "6. Brush the grill or grill pan with sesame oil to prevent sticking.",
+    "7. Grill the veal for 2-3 minutes per side, or until cooked through.",
+    "8. Serve the grilled veal hot, garnished with thinly sliced scallions and smoked sesame seeds if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "skewers",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-algerian-veal-ceviche--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:41:27.249Z"
+}
