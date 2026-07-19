@@ -1,0 +1,76 @@
+{
+  "slug": "delicate-aerated-italian-filo-pastry-calamarata--chinese",
+  "title": "Steamed Calamarata Cakes",
+  "description": "Delicate calamarata cakes, steamed to perfection with a hint of Italian flavor.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "calamarata",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "italian",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "filo",
+      "amount": "4 sheets",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "aerated",
+      "amount": "1/2 cup",
+      "notes": "whipped egg whites"
+    },
+    {
+      "name": "delicate",
+      "amount": "1/2 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "pastry",
+      "amount": "1/4 cup",
+      "notes": "melted butter"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the steamer.",
+    "2. Mix together calamarata, Italian, and delicate.",
+    "3. Add filo crumbs and mix well.",
+    "4. Fold in aerated.",
+    "5. Divide mixture into 8 equal portions.",
+    "6. Shape each portion into a ball.",
+    "7. Flatten each ball into a disk.",
+    "8. Place disks in the steamer basket.",
+    "9. Steam for 12-15 minutes.",
+    "10. Brush with melted pastry.",
+    "11. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "italian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-aerated-italian-filo-pastry-calamarata--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:41:20.908Z"
+}
