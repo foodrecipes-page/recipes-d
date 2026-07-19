@@ -7574,17 +7574,14 @@
   },
   {
     "slug": "delicious-festive-mexican-toor-dal-tacos",
-    "title": "Delicious Festive Mexican Toor Dal Tacos",
+    "title": "Mexican Toor Dal Tacos",
     "tags": [
-      "festive",
-      "gluten-free",
       "mexican",
-      "one-pan",
-      "special-occasion",
+      "tacos",
       "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -11435,17 +11432,15 @@
   },
   {
     "slug": "dense-flaky-filipino-one-pot-dish-lumpia",
-    "title": "Lumpia",
+    "title": "Filipino Lumpia with Vegetables",
     "tags": [
-      "comfort-food",
+      "lumpia",
       "filipino",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "veggie",
+      "snack"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
