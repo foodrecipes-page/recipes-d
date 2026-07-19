@@ -1,0 +1,81 @@
+{
+  "slug": "ddecadent-gooey-peruvian-sweet-potato-pilaf",
+  "title": "Sweet Potato and Pilaf Peruvian-Style Casserole",
+  "description": "A sweet and savory casserole that combines the flavors of Peruvian cuisine with the comfort of a hearty casserole. Sweet potatoes and pilaf are the stars of this show, topped with a gooey and decadent sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Peruvian Pilaf",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sweet Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pilaf according to package instructions.",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the sliced sweet potatoes and cook until tender.",
+    "In a separate saucepan, combine the goat cheese, cilantro, and lime juice.",
+    "Stir over low heat until the cheese is melted and the sauce is smooth.",
+    "In a 9x13 inch baking dish, arrange the cooked pilaf, sweet potatoes, and sauce in layers.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 15-20 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "sweet-potato",
+    "pilaf",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-gooey-peruvian-sweet-potato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:37:50.722Z"
+}
