@@ -644,16 +644,16 @@
   },
   {
     "slug": "dark-roasted-spanish-chicken-paella",
-    "title": "Dark Roasted Spanish Chicken Paella",
+    "title": "Spanish Paella with Chicken",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "roasted-chicken",
-      "weeknight"
+      "spanish",
+      "paella",
+      "chicken",
+      "rice",
+      "veggies"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -2340,17 +2340,15 @@
   },
   {
     "slug": "decadent-smoked-american-turkey-burger",
-    "title": "Decadent Smoked American Turkey Burger",
+    "title": "Smoked Turkey Burger",
     "tags": [
-      "american",
-      "binchotan-grill",
-      "high-protein",
-      "post-workout",
-      "smoked",
-      "sous-vide"
+      "burger",
+      "smoked-turkey",
+      "bbq",
+      "american-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 140,
+    "cuisine": "american",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -15057,19 +15055,15 @@
   },
   {
     "slug": "dull-saudi-arabian-grana-padano-bake",
-    "title": "Saudi Arabian Grana Padano Bake",
+    "title": "Saudi Arabian Chicken Shawarma",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "dinner",
-      "flexitarian",
-      "high-protein",
-      "lunch",
-      "saudi-arabian",
-      "slow-cooked"
+      "saudi arabian",
+      "chicken",
+      "shawarma",
+      "arabic"
     ],
     "cuisine": "saudi arabian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -16675,6 +16669,19 @@
       "french"
     ],
     "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crunchy-spanish-seafood-tarta-de-santiago--thai",
+    "title": "Spanish Seafood Tarta",
+    "tags": [
+      "seafood",
+      "spanish",
+      "tarta",
+      "thai"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "d"
   }
