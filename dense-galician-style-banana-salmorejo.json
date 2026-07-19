@@ -1,0 +1,74 @@
+{
+  "slug": "dense-galician-style-banana-salmorejo",
+  "title": "Galician-Style Banana Fritters",
+  "description": "A sweet and crispy dessert inspired by traditional Galician cuisine. Fried banana fritters, perfect for a quick dessert.",
+  "cuisine": "Galician",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Banana",
+      "amount": "2 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Salmorejo",
+      "amount": "1/4 cup",
+      "notes": "diluted with milk to a thick batter"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, sugar, and a pinch of salt. Stir to combine.",
+    "In a separate bowl, mix the beaten egg, diluted salmorejo, and a splash of milk.",
+    "Peel the bananas and slice them into 1-inch rounds.",
+    "Dip each banana slice into the egg mixture, then coat in the flour mixture, shaking off excess.",
+    "Heat the vegetable oil in a deep frying pan over medium heat until it reaches 350°F.",
+    "Fry the banana fritters in batches until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm, dust with powdered sugar, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana",
+    "fritters",
+    "galician",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-galician-style-banana-salmorejo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:05:30.785Z"
+}
