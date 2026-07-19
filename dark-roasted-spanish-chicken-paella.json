@@ -1,0 +1,96 @@
+{
+  "slug": "dark-roasted-spanish-chicken-paella",
+  "title": "Spanish Paella with Chicken",
+  "description": "A classic Spanish dish made with chicken, saffron-infused rice, and vegetables. Perfect for a hearty and flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dark Spanish Chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Roasted Spanish Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Paella Pan",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "drained, chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in paella pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken from pan and set aside.",
+    "Add onion, garlic, and red bell pepper to pan and cook until tender.",
+    "Add tomato, smoked paprika, and artichoke hearts to pan and cook for 2 minutes.",
+    "Add rice to pan and stir to coat with oil.",
+    "Add chicken broth to pan and bring to a boil.",
+    "Add chicken back to pan and simmer, covered, for 20-25 minutes.",
+    "Remove pan from heat and let sit, covered, for 5 minutes.",
+    "Fluff rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken",
+    "rice",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:14:56.233Z"
+}
