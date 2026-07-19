@@ -1,0 +1,93 @@
+{
+  "slug": "dark-delicious-moroccan-lamb-mrouzia",
+  "title": "Traditional Moroccan Mrouzia Dessert",
+  "description": "A rich and sweet Moroccan dessert made with lamb, almonds, and spices. Perfect for special occasions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "Make sure to cook the lamb thoroughly."
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "You can also use other types of nuts like walnuts or pistachios."
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1 cup",
+      "notes": "You can adjust the amount of chocolate to your liking."
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/2 cup",
+      "notes": "Toasted coconut flakes can add a nice texture."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Adjust the amount of cinnamon to your taste."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "Grated ginger can add a nice warmth to the dessert."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 cup",
+      "notes": "You can adjust the amount of honey to your taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use a pinch of salt to balance the sweetness."
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "amount": "1 cup",
+      "notes": "You can use other types of milk like coconut milk or soy milk."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Chopped pistachios can add a nice crunch to the dessert."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, combine the ground lamb, almonds, dark chocolate chips, coconut flakes, cinnamon, ginger, honey, salt, and pistachios. Mix well until everything is fully incorporated.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth out the top.",
+    "Bake the mixture in the preheated oven for 25-30 minutes or until it's lightly golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Pour the unsweetened almond milk over the top of the mixture and let it sit for 5-10 minutes or until the liquid is fully absorbed.",
+    "Serve the mrouzia warm or at room temperature. You can garnish with additional almonds or pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "dessert",
+    "lamb",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-delicious-moroccan-lamb-mrouzia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:14:43.507Z"
+}
