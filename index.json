@@ -1748,17 +1748,15 @@
   },
   {
     "slug": "decadent-dutch-epoisses-gratin",
-    "title": "Decadent Dutch Epoisses Gratin",
+    "title": "Baked Epoisses Gratin",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "winter"
+      "cheese",
+      "dutch",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -16640,6 +16638,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 32,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-kenyan-biscuit-clay-pot--chinese",
+    "title": "Biscuit Clay Dumplings",
+    "tags": [
+      "chinese",
+      "dumplings",
+      "biscuit",
+      "kenyan",
+      "peanut sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
