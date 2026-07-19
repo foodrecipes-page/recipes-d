@@ -1,0 +1,85 @@
+{
+  "slug": "dreamy-tunisian-pea-eggplant-tagine",
+  "title": "Tunisian Eggplant Tagine",
+  "description": "A hearty and flavorful tagine made with eggplant, peas, and a blend of Tunisian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "pea",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced eggplant and cook for 3-4 minutes, until softened.",
+    "Add the fresh peas, ground cumin, coriander, and smoked paprika. Stir to combine.",
+    "Add the Tunisian spice blend and stir to combine.",
+    "Pour in 1 cup of water and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, until the eggplant is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "peas",
+    "tunisian-spices",
+    "vegetarian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-tunisian-pea-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:53:19.940Z"
+}
