@@ -1,0 +1,70 @@
+{
+  "slug": "decadent-smoked-american-turkey-burger",
+  "title": "Smoked Turkey Burger",
+  "description": "A twist on the classic burger, featuring smoked turkey and decadent toppings.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Decadent BBQ Sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "Grill the smoked turkey breast for 5-6 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, toast the buns on the grill.",
+    "Assemble the burgers by spreading BBQ sauce on the bottom bun, followed by a slice of cheese, a few slices of lettuce, a few slices of tomato, a few slices of red onion, and finally the grilled turkey breast.",
+    "Top with the top bun."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "smoked-turkey",
+    "bbq",
+    "american-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoked-american-turkey-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:30:50.893Z"
+}
