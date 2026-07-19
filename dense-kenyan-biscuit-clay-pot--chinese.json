@@ -1,0 +1,76 @@
+{
+  "slug": "dense-kenyan-biscuit-clay-pot--chinese",
+  "title": "Biscuit Clay Dumplings",
+  "description": "A unique twist on traditional Chinese dumplings using biscuit dough and a Kenyan-inspired filling. The dense texture of the biscuit pairs well with the savory flavors of the filling.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "biscuit dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kenyan peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": "for mixing biscuit dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the biscuit dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of Kenyan peanut sauce in the center of each dough circle.",
+    "Add shredded cabbage and grated ginger on top of the peanut sauce, if using.",
+    "Fold the dough over the filling to form a half-moon shape, pressing the edges together to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops of the dumplings with a little water and sprinkle with salt, if using.",
+    "Bake for 15-20 minutes, or until the dumplings are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "biscuit",
+    "kenyan",
+    "peanut sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-kenyan-biscuit-clay-pot--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:14:48.882Z"
+}
