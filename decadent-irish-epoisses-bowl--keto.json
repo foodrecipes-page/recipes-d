@@ -1,0 +1,82 @@
+{
+  "slug": "decadent-irish-epoisses-bowl--keto",
+  "title": "Irish Keto Creamy Bowl",
+  "description": "A rich and creamy keto bowl with the flavors of Ireland, featuring decadent and pungent epoisses cheese. Serve as a comforting keto dinner or lunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "2 ounces",
+      "notes": "pungent and strong"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat for keto"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "full-fat for keto"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Melt the Irish butter in a saucepan over medium heat.",
+    "2. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "3. Add the heavy cream and bring to a simmer.",
+    "4. Reduce the heat to low and let simmer for 5 minutes.",
+    "5. Stir in the epoisses cheese until melted and smooth.",
+    "6. Season with salt to taste.",
+    "7. Serve the creamy sauce over a bowl, garnished with chopped chives if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "irish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 54
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-irish-epoisses-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:32:34.525Z"
+}
