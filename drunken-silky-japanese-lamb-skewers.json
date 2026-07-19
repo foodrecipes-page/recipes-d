@@ -1,0 +1,88 @@
+{
+  "slug": "drunken-silky-japanese-lamb-skewers",
+  "title": "Japanese Grilled Lamb Skewers",
+  "description": "Delicious lamb skewers marinated in a mixture of Japanese flavors, then grilled to perfection. Serve as a main dish or as an appetizer.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes for even grilling."
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality soy sauce for the best flavor."
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "A sweet Japanese cooking wine that adds depth to the marinade."
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "A small amount of sugar helps balance the acidity in the marinade."
+    },
+    {
+      "name": "green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": "Add some chopped green onions on top for garnish."
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "Use sesame oil for a nutty flavor and aroma."
+    },
+    {
+      "name": "silky sake",
+      "amount": "2 tablespoons",
+      "notes": "Add a splash of silky sake for added depth to the marinade."
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "Use metal or bamboo skewers for grilling."
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "a few sheets",
+      "notes": "Add some dried seaweed on top for added texture and flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, mirin, sugar, and sesame oil.",
+    "Add the lamb cubes to the marinade and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with a little oil to prevent sticking.",
+    "Grill the lamb skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and garnish with chopped green onions and dried seaweed.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/drunken-silky-japanese-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:25:02.134Z"
+}
