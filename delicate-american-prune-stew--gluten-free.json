@@ -1,0 +1,89 @@
+{
+  "slug": "delicate-american-prune-stew--gluten-free",
+  "title": "Delicate Stew",
+  "description": "A comforting and tender stew made with delicate American beef, perfect for a cozy evening. This gluten-free stew is a twist on a classic recipe.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate American Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Prune",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add 1 tablespoon of oil and brown the beef on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the gluten-free flour to the pot and cook for 1 minute.",
+    "Gradually stir in the beef broth and bring the mixture to a boil.",
+    "Return the beef to the pot and add the prune, salt, and pepper.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "gluten-free",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-american-prune-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:43:00.319Z"
+}
