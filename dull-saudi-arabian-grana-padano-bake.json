@@ -1,0 +1,80 @@
+{
+  "slug": "dull-saudi-arabian-grana-padano-bake",
+  "title": "Saudi Arabian Chicken Shawarma",
+  "description": "A flavorful and aromatic Saudi Arabian dish made with marinated chicken, served in a warm pita with vegetables and tahini sauce.",
+  "cuisine": "saudi arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "100g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dull rice",
+      "amount": "250g",
+      "notes": "cooked"
+    },
+    {
+      "name": "arabian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "bake naan bread",
+      "amount": "4",
+      "notes": "warmed"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "100g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, lemon juice, and arabian spices.",
+    "2. Add the chicken strips to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "5. Warm the naan bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "6. Assemble the shawarma by placing the cooked chicken on the naan bread, followed by a sprinkle of grana padano cheese, a dollop of tahini sauce, and a spoonful of cooked rice.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "chicken",
+    "shawarma",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dull-saudi-arabian-grana-padano-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:31:50.277Z"
+}
