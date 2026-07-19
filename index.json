@@ -5664,16 +5664,15 @@
   },
   {
     "slug": "delicate-norwegian-meat-stew",
-    "title": "Delicate Norwegian Meat Stew",
+    "title": "Traditional Norwegian Beef Stew",
     "tags": [
+      "beef",
+      "stew",
       "comfort-food",
-      "diabetic-friendly",
-      "kid-friendly",
-      "norwegian-cuisine",
-      "one-pot"
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
