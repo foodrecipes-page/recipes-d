@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-spanish-oats-gazpacho",
+  "title": "Spanish Gazpacho Oats Bowl",
+  "description": "A twist on traditional gazpacho, this hearty Spanish-inspired oat bowl is perfect for a filling breakfast or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "1/2 cup",
+      "notes": "preferably steel-cut"
+    },
+    {
+      "name": "Gazpacho",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "amount": "1/2 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "2 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "1 slice",
+      "notes": "diced for topping"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add 1/2 cup of rolled oats and reduce heat to low.",
+    "Simmer for 5 minutes or until oats have absorbed most of the water.",
+    "In a separate bowl, combine gazpacho, crushed tomatoes, and red wine vinegar (if using).",
+    "Stir in diced crusty bread and season with salt and pepper.",
+    "To assemble the oat bowls, place cooked oats in a bowl and top with gazpacho mixture.",
+    "Drizzle with extra-virgin olive oil and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "oats",
+    "gazpacho"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spanish-oats-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:54:27.472Z"
+}
