@@ -1,0 +1,83 @@
+{
+  "slug": "dense-post-workout-roast-turkish-lamb-pilaf",
+  "title": "Turkish Lamb Pilaf for Post-Workout",
+  "description": "A hearty and flavorful Turkish-inspired pilaf made with lamb and spices, perfect for a post-workout meal to replenish energy.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "Choose leaner cuts for a healthier option"
+    },
+    {
+      "name": "Turkish Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "Use a mix specifically labeled as Turkish pilaf"
+    },
+    {
+      "name": "Dense Roast Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "Add for extra fiber and vitamins"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "Saute with garlic for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Mince for better flavor distribution"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use sea salt for better flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for best results"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "Add pilaf rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add 2 cups of water to skillet and bring to a boil.",
+    "Add lamb back into skillet and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until rice is tender.",
+    "Stir in chopped carrots during the last 10 minutes of cooking.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "pilaf",
+    "post-workout",
+    "workout"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-post-workout-roast-turkish-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:51:01.838Z"
+}
