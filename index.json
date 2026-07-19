@@ -11523,18 +11523,15 @@
   },
   {
     "slug": "dense-galician-style-banana-salmorejo",
-    "title": "Dense Galician-Style Banana Salmorejo",
+    "title": "Galician-Style Banana Fritters",
     "tags": [
-      "bananas",
-      "dessert-free",
-      "easy-breakfast",
+      "banana",
+      "fritters",
       "galician",
-      "laminated",
-      "snack",
-      "spanish"
+      "dessert"
     ],
-    "cuisine": "galician",
-    "totalTimeMin": 45,
+    "cuisine": "Galician",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
