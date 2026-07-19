@@ -1326,15 +1326,16 @@
   },
   {
     "slug": "ddecadent-gooey-peruvian-sweet-potato-pilaf",
-    "title": "DDecadent Gooey Peruvian Sweet Potato Pilaf",
+    "title": "Sweet Potato and Pilaf Peruvian-Style Casserole",
     "tags": [
-      "kosher-friendly",
       "peruvian",
-      "sauce-based-dish",
-      "sweet-potato"
+      "sweet-potato",
+      "pilaf",
+      "casserole",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 65,
     "shard": "d"
   },
   {
@@ -9797,17 +9798,16 @@
   },
   {
     "slug": "deliciously-smoked-australian-chicken-skewers",
-    "title": "Deliciously Smoked Australian Chicken Skewers",
+    "title": "Smoked Aussie Chicken Skewers",
     "tags": [
-      "australian-cuisine",
-      "festive-recipes",
-      "gluten-free",
-      "grilled-meats",
-      "low-glycemic",
-      "smoked-chicken"
+      "australian",
+      "chicken",
+      "skewers",
+      "grilled",
+      "smoked"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "d"
   },
   {
@@ -16573,6 +16573,44 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--vegetarian",
+    "title": "Vegetarian Pancit Stir Fry",
+    "tags": [
+      "vegetarian",
+      "philippine",
+      "stir-fry",
+      "noodles"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "date-night-jelly-algerian-sugars-tagine--vegan",
+    "title": "Algerian Date Tagine",
+    "tags": [
+      "algerian",
+      "vegan",
+      "stew",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-american-prune-stew--gluten-free",
+    "title": "Delicate Stew",
+    "tags": [
+      "stew",
+      "gluten-free",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
     "shard": "d"
   }
 ]
