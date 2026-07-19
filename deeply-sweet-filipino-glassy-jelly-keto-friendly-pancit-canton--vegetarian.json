@@ -1,0 +1,82 @@
+{
+  "slug": "deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--vegetarian",
+  "title": "Vegetarian Pancit Stir Fry",
+  "description": "A vegetarian take on the classic Filipino noodle dish, made with sweet and crunchy vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glassy Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Deeply Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cantonese Cabbage",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jelly-Like Tofu",
+      "amount": "1 block",
+      "notes": "pressed and diced"
+    },
+    {
+      "name": "Sweet Bell Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Keto Friendly Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Filipino-Style Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Vegetarian Oyster Sauce",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the shallots and cook until crispy, about 2-3 minutes.",
+    "Add the cabbage and cook until slightly softened, about 2-3 minutes.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the bell peppers and cook until tender, about 4-5 minutes.",
+    "Add the noodles, soy sauce, and oyster sauce. Stir-fry for 2-3 minutes.",
+    "Serve hot and garnish with crispy fried shallots."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "philippine",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deeply-sweet-filipino-glassy-jelly-keto-friendly-pancit-canton--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:17:48.249Z"
+}
