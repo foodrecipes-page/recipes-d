@@ -1,0 +1,73 @@
+{
+  "slug": "dzatzik-besa-flora--italian",
+  "title": "Italian Chicken Fritters",
+  "description": "Crunchy Italian-style fritters filled with flavorful chicken and herbs. Serve as a snack or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "flora",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dzatzik",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together chicken, garlic, and italian seasoning.",
+    "Add flora and mix until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Using a spoon, drop small balls of the chicken mixture into the skillet.",
+    "Cook for 3-4 minutes on each side or until golden brown.",
+    "Transfer the fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve hot with dzatzik for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dzatzik-besa-flora--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:17:48.561Z"
+}
