@@ -2430,18 +2430,15 @@
   },
   {
     "slug": "decadent-spanish-oats-gazpacho",
-    "title": "Decadent Spanish Oats Gazpacho",
+    "title": "Spanish Gazpacho Oats Bowl",
     "tags": [
-      "easy-meal",
-      "gluten-free",
-      "kid-friendly",
-      "lunch-ideas",
-      "one-pot",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "breakfast",
+      "oats",
+      "gazpacho"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -16503,6 +16500,19 @@
     ],
     "cuisine": "russian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-roasted-middle-eastern-manchego-tagine--thai",
+    "title": "Thai Chicken Tagine with Manchego Crunch",
+    "tags": [
+      "thaifood",
+      "tagine",
+      "manchego",
+      "chicken"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
