@@ -14463,17 +14463,16 @@
   },
   {
     "slug": "dreamy-tunisian-pea-eggplant-tagine",
-    "title": "Dreamy Tunisian Pea Eggplant Tagine",
+    "title": "Tunisian Eggplant Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "tunisian",
+      "eggplant",
+      "peas",
+      "tunisian-spices",
       "vegetarian",
-      "weeknight"
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -16616,6 +16615,32 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "diced-fresh-polish-cucumber-pickle--gluten-free",
+    "title": "Polish-Style Dill Cucumber Salad",
+    "tags": [
+      "gluten-free",
+      "salad",
+      "cucumber",
+      "polish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-smoky-algerian-veal-ceviche--japanese",
+    "title": "Smoked Veal Yakitori",
+    "tags": [
+      "japanese",
+      "grilled",
+      "skewers",
+      "veal"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
     "shard": "d"
   }
 ]
