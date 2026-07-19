@@ -1,0 +1,95 @@
+{
+  "slug": "delicate-mediterranean-lamb-skewers--italian",
+  "title": "Grilled Lamb Skewers Italian-Style",
+  "description": "A flavorful and colorful Italian-inspired dish featuring marinated lamb skewers, perfect for a summer evening.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean olives, pitted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Delicate onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Skewers, soaked in water for 30 minutes",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lemon juice, garlic, salt, black pepper, and Italian seasoning.",
+    "2. Add the lamb cubes and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated lamb, olives, and onion onto the skewers.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the lamb reaches 145°F (63°C) for medium-rare.",
+    "7. Let the skewers rest for 5 minutes before serving.",
+    "8. Garnish with fresh oregano and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-mediterranean-lamb-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:21:03.842Z"
+}
