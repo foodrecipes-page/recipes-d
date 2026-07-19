@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-sweet-mexican-pork-cochinita-pibil",
+  "title": "Cochinita Pibil",
+  "description": "A traditional Mexican dish from the Yucatan region, cochinita pibil is a slow-roasted pork marinated in citrus juice, spices, and chili peppers. The pork is then wrapped in banana leaves and cooked to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs",
+      "notes": "Ask for the pork shoulder to be tied with kitchen twine"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "4-6 leaves",
+      "notes": "Fresh or frozen banana leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine orange and lime juice, chili powder, cumin, garlic, and salt. Blend until smooth.",
+    "Place the pork shoulder in a large ziplock bag or a non-reactive container. Pour the marinade over the pork and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Place the pork on a large piece of aluminum foil or parchment paper, leaving a 1-inch border around the pork.",
+    "Place 2-3 banana leaves on top of the pork, overlapping them slightly to cover the entire surface.",
+    "Fold the foil or parchment paper over the pork and banana leaves, creating a tight seal.",
+    "Place the pork in the preheated oven and cook for 2-1/2 to 3 hours, or until the pork is tender and easily shreds with a fork.",
+    "Remove the pork from the oven and let rest for 10-15 minutes before slicing.",
+    "Serve with rice, beans, and your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cochinita",
+    "pibil",
+    "mexican",
+    "pork",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-sweet-mexican-pork-cochinita-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:57:54.190Z"
+}
