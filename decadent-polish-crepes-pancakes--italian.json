@@ -1,0 +1,64 @@
+{
+  "slug": "decadent-polish-crepes-pancakes--italian",
+  "title": "Italian Crepes with Fresh Fruit",
+  "description": "Thin Italian crepes filled with a sweet and tangy mix of fresh berries and topped with whipped cream. A light and delicious dessert perfect for warm evenings.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "crepes",
+      "amount": "8-10 crepes"
+    },
+    {
+      "name": "fresh berries",
+      "amount": "1 cup",
+      "notes": "strawberries, blueberries, raspberries"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the crepes according to the package instructions.",
+    "In a large bowl, mix together the fresh berries, powdered sugar, and lemon juice.",
+    "Fill each crepe with the berry mixture and fold in half.",
+    "Serve the crepes warm with whipped cream, if desired.",
+    "Garnish with additional fresh berries, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "dessert",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-polish-crepes-pancakes--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:11:16.821Z"
+}
