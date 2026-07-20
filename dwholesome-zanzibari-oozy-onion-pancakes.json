@@ -1,0 +1,79 @@
+{
+  "slug": "dwholesome-zanzibari-oozy-onion-pancakes",
+  "title": "Zanzibari Pancake Stacks with Caramelized Onion",
+  "description": "A sweet and savory dish featuring zanzibari pancakes topped with caramelized onions and a drizzle of oozy syrup.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zanzibari",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "oozy",
+      "amount": "1/2 cup",
+      "notes": "syrup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dwholesome",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together zanzibari, dwholesome, salt, and sugar.",
+    "Drop pancake batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip pancakes and cook for an additional 1-2 minutes.",
+    "While pancakes are cooking, caramelize the onion in a separate skillet.",
+    "To caramelize the onion, cook over low heat for 20-25 minutes, stirring occasionally.",
+    "Once pancakes are cooked, stack them high and top with caramelized onions and a drizzle of oozy syrup.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "american",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dwholesome-zanzibari-oozy-onion-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:17:14.081Z"
+}
