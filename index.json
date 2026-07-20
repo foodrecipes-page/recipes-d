@@ -16694,5 +16694,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 28,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-smoky-algerian-veal-ceviche--mexican",
+    "title": "Ceviche Tostada",
+    "tags": [
+      "mexican",
+      "fish",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deep-fried-chinese-baked-beans-dumplings--italian",
+    "title": "Italian-Style Baked Dumplings",
+    "tags": [
+      "italian",
+      "baked",
+      "dumplings",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
