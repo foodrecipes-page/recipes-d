@@ -1,0 +1,78 @@
+{
+  "slug": "decadent-smoked-american-turkey-burger--french",
+  "title": "Smoked Turkey Burger à la Française",
+  "description": "A French-inspired twist on the classic turkey burger, featuring decadent flavors and a smoky twist.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked turkey burgers",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Brioche buns",
+      "amount": "4",
+      "notes": "split and toasted"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Melted Brie cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh arugula",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the smoked turkey burgers with salt and pepper.",
+    "Grill the burgers for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the brioche buns on the grill or in a toaster.",
+    "Spread a layer of Dijon mustard on the bottom bun.",
+    "Add a slice of Brie cheese, a few leaves of arugula, and a spoonful of caramelized onions.",
+    "Place a cooked turkey burger on top.",
+    "Drizzle with honey and top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "burgers",
+    "smoked",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoked-american-turkey-burger--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:20:42.349Z"
+}
