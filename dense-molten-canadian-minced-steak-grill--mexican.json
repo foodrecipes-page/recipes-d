@@ -1,0 +1,72 @@
+{
+  "slug": "dense-molten-canadian-minced-steak-grill--mexican",
+  "title": "Grilled Steak Fajitas",
+  "description": "A classic Mexican dish featuring grilled steak and sautéed vegetables, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled steak",
+      "amount": "1 pound",
+      "notes": "1 inch thick, cut into thin strips"
+    },
+    {
+      "name": "minced",
+      "amount": "1/2 cup",
+      "notes": "onion and bell pepper"
+    },
+    {
+      "name": "canadian",
+      "amount": "2",
+      "notes": "flour tortillas"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup",
+      "notes": "cooked white rice"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "steak",
+      "amount": "1 teaspoon",
+      "notes": "fajita seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the minced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the fajita seasoning and cook for 1 minute.",
+    "Add the grilled steak to the skillet and cook until browned and cooked to desired doneness.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the steak and vegetables onto the tortillas and serving with cooked white rice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "steak",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-molten-canadian-minced-steak-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:25:11.838Z"
+}
