@@ -10824,16 +10824,15 @@
   },
   {
     "slug": "dense-chewy-polish-manchego-fried-rice",
-    "title": "Dense Chewy Polish Manchego Fried Rice",
+    "title": "Polish Fried Rice Casserole",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "weeknight"
+      "polish",
+      "casserole",
+      "rice",
+      "sausage"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "cuisine": "polish",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -14442,14 +14441,12 @@
   },
   {
     "slug": "dreamy-sweet-jamaican-sweet-potato-casserole",
-    "title": "Dreamy Sweet Jamaican Sweet Potato Casserole",
+    "title": "Jamaican Sweet Potato Casserole",
     "tags": [
-      "gluten-free",
       "jamaican",
-      "marshmallow",
-      "pecan",
-      "sweet-potato",
-      "whole30"
+      "sweet",
+      "casserole",
+      "dessert"
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 55,
@@ -16683,6 +16680,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dehydrated-sweet-venezuelan-plantain-empanadas--japanese",
+    "title": "Japanese Plantain Empanada Fritters",
+    "tags": [
+      "japanese",
+      "fritters",
+      "plantain",
+      "empanada"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 28,
     "shard": "d"
   }
 ]
