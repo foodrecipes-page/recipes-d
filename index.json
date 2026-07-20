@@ -16751,5 +16751,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-smoked-american-turkey-burger--french",
+    "title": "Smoked Turkey Burger à la Française",
+    "tags": [
+      "french",
+      "burgers",
+      "smoked",
+      "turkey"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
