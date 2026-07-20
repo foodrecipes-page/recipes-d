@@ -16738,5 +16738,18 @@
     "cuisine": "italian",
     "totalTimeMin": 20,
     "shard": "d"
+  },
+  {
+    "slug": "dense-molten-canadian-minced-steak-grill--mexican",
+    "title": "Grilled Steak Fajitas",
+    "tags": [
+      "mexican",
+      "grilled",
+      "steak",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
