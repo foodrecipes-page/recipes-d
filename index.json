@@ -789,17 +789,15 @@
   },
   {
     "slug": "darkly-charred-portuguese-chicken-skewers",
-    "title": "Darkly Charred Portuguese Chicken Skewers",
+    "title": "Grilled Chicken Skewers with Portuguese Flair",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "low-calorie",
-      "miso-paste",
-      "portuguese-cuisine",
-      "sesame-seeds"
+      "portuguese",
+      "chicken",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 33,
     "shard": "d"
   },
   {
@@ -3189,17 +3187,14 @@
   },
   {
     "slug": "delicate-algerian-pappardelle-pasta",
-    "title": "Delicate Algerian Pappardelle Pasta",
+    "title": "Spicy Algerian Pasta Delight",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mediterranean",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "north african",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -12126,17 +12121,14 @@
   },
   {
     "slug": "dense-monsoon-saute-portuguese-fish-skewers",
-    "title": "dense monsoon saute portuguese fish skewers",
+    "title": "Grilled Fish Skewers with Portuguese Seasoning",
     "tags": [
-      "fish",
-      "grilled",
-      "one-pan",
-      "portuguese",
-      "skewers",
-      "weeknight"
+      "grilled-fish",
+      "portuguese-seasoning",
+      "summer-recipe"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 18,
     "shard": "d"
   },
   {
@@ -15135,15 +15127,15 @@
   },
   {
     "slug": "dwholesome-zanzibari-oozy-onion-pancakes",
-    "title": "DWholesome Zanzibari Oozy Onion Pancakes",
+    "title": "Zanzibari Pancake Stacks with Caramelized Onion",
     "tags": [
-      "gluten-free",
-      "quick-fix",
-      "vegan",
-      "vegetarian"
+      "breakfast",
+      "dessert",
+      "american",
+      "sweet"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -16718,6 +16710,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-sun-dried-tomato-kfc-ramen--french",
+    "title": "Sun Dried Tomato and Delicate French Soup",
+    "tags": [
+      "french",
+      "soup",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-polish-crepes-pancakes--italian",
+    "title": "Italian Crepes with Fresh Fruit",
+    "tags": [
+      "italian",
+      "breakfast",
+      "brunch",
+      "dessert",
+      "fruit"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "d"
   }
 ]
