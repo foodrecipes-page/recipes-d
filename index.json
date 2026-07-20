@@ -16774,5 +16774,17 @@
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-dry-ethiopian-herring-ceviche--french",
+    "title": "Pan-Seared Herring with Lemon Butter Sauce",
+    "tags": [
+      "french",
+      "seafood",
+      "herring"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "d"
   }
 ]
