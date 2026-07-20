@@ -16786,5 +16786,18 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "d"
+  },
+  {
+    "slug": "dense-french-beef-bourguignon--keto",
+    "title": "Keto Beef Bourguignon",
+    "tags": [
+      "keto",
+      "beef",
+      "bourguignon",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
+    "shard": "d"
   }
 ]
