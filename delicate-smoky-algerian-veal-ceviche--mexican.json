@@ -1,0 +1,85 @@
+{
+  "slug": "delicate-smoky-algerian-veal-ceviche--mexican",
+  "title": "Ceviche Tostada",
+  "description": "A refreshing Mexican dish featuring a delicate ceviche topped with smoky spices and served on a crispy tostada.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Delicate Ceviche (White Fish)",
+      "amount": "1 cup",
+      "notes": "Mixed with lime juice, salt, and pepper"
+    },
+    {
+      "name": "Veal",
+      "amount": "1/2 cup",
+      "notes": "Ground veal for tostada topping"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "For added smoky flavor"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Cumin, coriander, and turmeric for authentic flavor"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Marinade for ceviche"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season ceviche"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Season ceviche"
+    },
+    {
+      "name": "Tortilla Chips",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate ceviche in lime juice, salt, and pepper for at least 30 minutes.",
+    "Season ground veal with Algerian spice blend and cook in a pan until browned.",
+    "Preheat oven to 400°F (200°C).",
+    "Toast tortilla chips in the oven for 5 minutes.",
+    "Assemble tostadas with ceviche, smoky paprika, and cooked veal.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-algerian-veal-ceviche--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:40:36.639Z"
+}
