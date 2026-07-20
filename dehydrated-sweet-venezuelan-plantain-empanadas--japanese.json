@@ -1,0 +1,64 @@
+{
+  "slug": "dehydrated-sweet-venezuelan-plantain-empanadas--japanese",
+  "title": "Japanese Plantain Empanada Fritters",
+  "description": "A unique fusion of Venezuelan empanada dough and Japanese flavors, these crispy fritters are a tasty twist on traditional plantain empanadas.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantain",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Venezuelan Empanada Dough",
+      "amount": "1 package (homemade or store-bought)"
+    },
+    {
+      "name": "Dehydrated Seaweed Flakes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sweet Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (175°C).",
+    "2. Peel and slice the plantain into 1/4-inch thick rounds.",
+    "3. In a small bowl, mix together seaweed flakes and sweet soy sauce.",
+    "4. Brush the empanada dough with water and cut into desired shapes.",
+    "5. Place a plantain slice in the center of each dough shape and brush with seaweed-soy mixture.",
+    "6. Fold the dough over the filling and press edges to seal.",
+    "7. Carefully place the fritters in the hot oil and fry for 3-4 minutes on each side.",
+    "8. Drain on paper towels and serve hot with additional seaweed-soy sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fritters",
+    "plantain",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dehydrated-sweet-venezuelan-plantain-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:15:29.629Z"
+}
