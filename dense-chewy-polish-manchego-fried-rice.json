@@ -1,0 +1,63 @@
+{
+  "slug": "dense-chewy-polish-manchego-fried-rice",
+  "title": "Polish Fried Rice Casserole",
+  "description": "A hearty, comforting casserole made with fried rice, dense polish sausage, and melted manchego cheese.",
+  "cuisine": "polish",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense polish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the polish sausage in a skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "In a separate skillet, sauté the onion and garlic until softened.",
+    "Add the cooked sausage and onion mixture to the fried rice and stir-fry until well combined.",
+    "Transfer the rice mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded manchego cheese over the top of the rice mixture.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "casserole",
+    "rice",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-chewy-polish-manchego-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:18:00.520Z"
+}
