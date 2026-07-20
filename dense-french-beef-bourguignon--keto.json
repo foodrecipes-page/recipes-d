@@ -1,0 +1,88 @@
+{
+  "slug": "dense-french-beef-bourguignon--keto",
+  "title": "Keto Beef Bourguignon",
+  "description": "A keto twist on the classic French dish, this rich and flavorful stew is made with tender beef and a rich, dense sauce.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (chuck or short ribs)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dense Bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-carb or homemade"
+    },
+    {
+      "name": "French Onion Soup Mix",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's sugar-free"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "full-fat, heavy cream"
+    },
+    {
+      "name": "Dense Butter",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the dense bacon in a large Dutch oven over medium-high heat.",
+    "Brown the bacon on all sides, then remove from pot and set aside.",
+    "Add the beef cubes to the pot and brown on all sides.",
+    "Remove the beef from the pot and set aside with the bacon.",
+    "Reduce heat to medium and add the beef broth to the pot.",
+    "Scrape up any browned bits from the bottom of the pot.",
+    "Add the French onion soup mix and thyme to the pot.",
+    "Return the beef and bacon to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the beef is tender.",
+    "Remove from the oven and stir in the heavy cream.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with dense butter and fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "bourguignon",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-french-beef-bourguignon--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:17:46.372Z"
+}
