@@ -1,0 +1,80 @@
+{
+  "slug": "deep-fried-chinese-baked-beans-dumplings--italian",
+  "title": "Italian-Style Baked Dumplings",
+  "description": "A creative twist on traditional Italian cuisine, featuring baked dumplings with a delicious filling.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumplings (homemade or store-bought)",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Canned Beans (such as Cannellini or Great Northern)",
+      "amount": "1 (15 ounce) can, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the canned beans and cook for 2-3 minutes until heated through.",
+    "Add the Italian seasoning and stir to combine.",
+    "Spoon the bean mixture into the baked dumplings.",
+    "Transfer the dumplings to a baking dish and top with Parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "baked",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deep-fried-chinese-baked-beans-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:06:09.844Z"
+}
