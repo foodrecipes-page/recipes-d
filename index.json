@@ -8970,17 +8970,14 @@
   },
   {
     "slug": "deliciously-dense-norwegian-lamb-stew",
-    "title": "Deliciously Dense Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stews",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "special-occasion",
-      "winter-nights"
+      "lamb stew",
+      "norwegian stew",
+      "hearty stew"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 120,
+    "cuisine": "norwegian",
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
