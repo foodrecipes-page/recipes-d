@@ -1,0 +1,81 @@
+{
+  "slug": "dreamy-wood-fired-portuguese-cheese-bake--vegetarian",
+  "title": "Portuguese Cheese Bake",
+  "description": "A delicious vegetarian bake dish inspired by Portuguese flavors, featuring a blend of cheeses and spices.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese cheese",
+      "amount": "8 oz",
+      "notes": "such as Queijo de Cabra"
+    },
+    {
+      "name": "Fire-roasted red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fired wood-fired tomatoes",
+      "amount": "2",
+      "notes": "such as cherry tomatoes"
+    },
+    {
+      "name": "Dreamy feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the fire-roasted red bell peppers and set aside.",
+    "Slice the fired wood-fired tomatoes and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the sliced red bell peppers and cook for 2-3 minutes until tender.",
+    "In a large mixing bowl, combine the Portuguese cheese, dreamy feta cheese, and cooked red bell pepper mixture.",
+    "Add the sliced fired wood-fired tomatoes to the bowl and mix well.",
+    "Transfer the mixture to a baking dish and top with chopped parsley.",
+    "Bake for 25-30 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "cheese",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-wood-fired-portuguese-cheese-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:17:57.543Z"
+}
