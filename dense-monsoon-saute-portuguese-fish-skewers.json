@@ -1,0 +1,68 @@
+{
+  "slug": "dense-monsoon-saute-portuguese-fish-skewers",
+  "title": "Grilled Fish Skewers with Portuguese Seasoning",
+  "description": "A flavorful and healthy dish made with grilled fish, infused with the rich flavors of Portuguese seasoning. Perfect for a summer evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish works well, cut into 1-inch pieces)",
+      "amount": "1 pound",
+      "notes": "Make sure to pat the fish dry before grilling"
+    },
+    {
+      "name": "Portuguese seasoning",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the amount to your taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Monsoon salt",
+      "amount": "1 teaspoon",
+      "notes": "Add a pinch of salt to bring out the flavors"
+    },
+    {
+      "name": "Dense olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the grill"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill to medium-high heat.",
+    "2. Thread the fish pieces onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, mix together the Portuguese seasoning and monsoon salt.",
+    "4. Brush the grill with dense olive oil to prevent sticking.",
+    "5. Grill the fish skewers for 8-10 minutes, flipping halfway through.",
+    "6. While the fish is cooking, mix together the remaining Portuguese seasoning and monsoon salt in a small bowl.",
+    "7. Once the fish is cooked through, brush it with the seasoned mixture.",
+    "8. Serve the fish skewers hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-fish",
+    "portuguese-seasoning",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-monsoon-saute-portuguese-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:04:51.449Z"
+}
