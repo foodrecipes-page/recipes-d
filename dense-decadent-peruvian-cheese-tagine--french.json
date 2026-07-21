@@ -1,0 +1,93 @@
+{
+  "slug": "dense-decadent-peruvian-cheese-tagine--french",
+  "title": "French Peruvian Cheesecake Tagine",
+  "description": "A unique fusion of French and Peruvian flavors in a rich cheesecake, presented in a traditional Moroccan tagine dish.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "Traditional Moroccan clay cooking vessel"
+    },
+    {
+      "name": "Dense Cheese",
+      "amount": "300g",
+      "notes": "A rich, creamy cheese for the cheesecake filling"
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 tbsp",
+      "notes": "Peruvian aji amarillo pepper puree for added flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g",
+      "notes": "Granulated sugar for the cheesecake"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Large eggs for the cheesecake"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "100g",
+      "notes": "For the cheesecake crust"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "50g",
+      "notes": "For the cheesecake crust"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon for added spice"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Pecans",
+      "amount": "50g",
+      "notes": "Chopped pecans for added texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Prepare the cheesecake crust by mixing the flour and butter in a bowl until crumbly. Press the mixture into the bottom of the tagine.",
+    "Bake the crust for 10 minutes.",
+    "In a separate bowl, beat the eggs and sugar until light and fluffy. Add the cheese, Peruvian aji amarillo pepper puree, cinnamon, and vanilla extract. Mix well.",
+    "Pour the cheesecake filling into the baked crust.",
+    "Bake the cheesecake for 25-30 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove the cheesecake from the oven and let it cool for 10 minutes.",
+    "Top the cheesecake with chopped pecans and serve warm.",
+    "Garnish with a sprinkle of cinnamon and a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peruvian",
+    "cheesecake",
+    "tagine",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-decadent-peruvian-cheese-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:27:22.830Z"
+}
