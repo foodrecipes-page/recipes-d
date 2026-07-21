@@ -1,0 +1,55 @@
+{
+  "slug": "dreamy-tunisian-pea-eggplant-tagine--chinese",
+  "title": "Eggplant with Tunisian Peas in Chinese Style",
+  "description": "A fusion dish that combines the flavors of Tunisia with Chinese cooking techniques. This eggplant recipe is a unique twist on traditional Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tunisian peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dreamy",
+      "amount": "2 tbsp",
+      "notes": "Dreamy is assumed to be a type of sauce or ingredient, please replace with actual ingredient if needed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a wok over medium-high heat.",
+    "Add the eggplant and cook until browned, about 5 minutes.",
+    "Add the tunisian peas and cook until tender, about 3 minutes.",
+    "Add the dreamy sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-tunisian-pea-eggplant-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:34:48.311Z"
+}
