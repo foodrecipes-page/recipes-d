@@ -1,0 +1,57 @@
+{
+  "slug": "delicious-molten-slovakian-egg-frittata--french",
+  "title": "French Slovakian Frittata",
+  "description": "A French-inspired omelette made with Slovakian ingredients and a delicious twist.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian egg",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Delicious salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Molten pepper",
+      "amount": "1/2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a bowl and season with salt.",
+    "Heat a pan over medium heat and add pepper.",
+    "Pour in eggs and cook until edges start to set.",
+    "Transfer pan to oven and bake for 12-15 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "slovakian",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-molten-slovakian-egg-frittata--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:31:33.254Z"
+}
