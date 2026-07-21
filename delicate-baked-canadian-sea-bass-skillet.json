@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-baked-canadian-sea-bass-skillet",
+  "title": "Pan-Seared Canadian Sea Bass with Lemon",
+  "description": "A simple yet flavorful dish featuring Canadian sea bass, seared to perfection in a skillet with a squeeze of lemon",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian sea bass fillets",
+      "amount": "4, 6 ounces each",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, sliced",
+      "notes": "Organic and fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin and cold-pressed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Fresh and organic"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Organic and fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Unrefined and sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the Canadian sea bass fillets with salt and black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the Canadian sea bass fillets for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 3-4 minutes.",
+    "Remove the skillet from the oven and squeeze a slice of lemon over the top of each fillet.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "fish",
+    "lemon",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-baked-canadian-sea-bass-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:45:21.752Z"
+}
