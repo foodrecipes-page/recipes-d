@@ -1,0 +1,82 @@
+{
+  "slug": "decadent-german-apple-pudding--french",
+  "title": "German Apple Pudding",
+  "description": "A rich and creamy French dessert inspired by traditional German apple flavors.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "Decadent Dark Chocolate",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 cup",
+      "notes": "vanilla pudding mix"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the apples into thin wedges.",
+    "In a bowl, whisk together flour, sugar, and a pinch of salt.",
+    "Add butter and use a pastry blender or fingers to work it into the dry ingredients until crumbly.",
+    "Press the mixture evenly into a 9x9-inch baking dish.",
+    "Arrange the apple slices on top of the crust, leaving a 1-inch border around the edges.",
+    "Dot the top with butter.",
+    "Bake for 25 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Prepare the pudding according to package instructions.",
+    "Pour the pudding over the warm apple mixture.",
+    "Return to the oven and bake for an additional 10 minutes, or until the pudding is set.",
+    "Remove from the oven and let cool to room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "apple-pudding",
+    "german-influence"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-german-apple-pudding--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:20:50.220Z"
+}
