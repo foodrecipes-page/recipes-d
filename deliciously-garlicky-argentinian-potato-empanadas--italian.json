@@ -1,0 +1,75 @@
+{
+  "slug": "deliciously-garlicky-argentinian-potato-empanadas--italian",
+  "title": "Italian Empanada Pizza Fritters",
+  "description": "A creative twist on traditional pizza, these Italian empanada pizza fritters are crispy on the outside and cheesy on the inside. Perfect for a quick snack or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Empanadas",
+      "amount": "4-6",
+      "notes": "Dough only"
+    },
+    {
+      "name": "Garlicky Deliciously Argentinian Cheese Blend",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a deep frying pan with 1/2 inch of olive oil to 375°F (190°C).",
+    "2. In a large bowl, combine the grated potato, egg, and milk. Mix well.",
+    "3. Add the shredded cheese blend to the bowl and mix until combined.",
+    "4. Fill each empanada dough with the potato-cheese mixture, leaving a 1/2 inch border around the edges.",
+    "5. Brush the tops of the empanada with the beaten egg for a golden glaze.",
+    "6. Fry the empanada pizza fritters in batches until golden brown, about 3-4 minutes per side.",
+    "7. Remove from oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. Serve hot and enjoy!",
+    "9. Repeat the frying process with the remaining empanada dough and filling.",
+    "10. Serve immediately and enjoy the crispy cheesy goodness!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "cheese",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-garlicky-argentinian-potato-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:27:07.003Z"
+}
