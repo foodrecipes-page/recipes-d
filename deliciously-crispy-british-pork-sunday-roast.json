@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-crispy-british-pork-sunday-roast",
+  "title": "Classic British Sunday Pork Roast",
+  "description": "A traditional British Sunday roast featuring a deliciously crispy pork roast, served with a side of roasted vegetables.",
+  "cuisine": "british",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "Choose a boneless cut"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For roasting the pork"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning the pork"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning the pork"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "For roasting the vegetables"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "For roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the pork for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting the pork for another 1.5 hours, or until cooked through.",
+    "Toss the carrots, potatoes, and onions with a little bit of olive oil and season with salt and pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 30-40 minutes, or until tender.",
+    "Remove the pork from the oven and let it rest for 10-15 minutes before slicing and serving with the roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pork",
+    "roast",
+    "sunday roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "55g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-british-pork-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:13:33.577Z"
+}
