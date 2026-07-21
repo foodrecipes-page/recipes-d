@@ -1,0 +1,90 @@
+{
+  "slug": "dense-midnight-basque-french-eggs-paella--gluten-free",
+  "title": "Basque Paella for Two",
+  "description": "A classic Spanish dish, adapted to be gluten-free. This recipe serves two and is perfect for a romantic dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basque rice",
+      "amount": "1 cup",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "French chorizo",
+      "amount": "4 slices",
+      "notes": "use gluten-free sausage if needed"
+    },
+    {
+      "name": "Midnight shrimp",
+      "amount": "12 count",
+      "notes": "frozen is fine"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 can",
+      "notes": "crushed or diced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use gluten-free"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chorizo and cook until browned, about 3 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the crushed tomatoes and smoked paprika. Stir to combine.",
+    "Add the Basque rice to the skillet and stir to coat with the tomato mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked.",
+    "Stir in the eggs and cook for an additional 2-3 minutes, or until the eggs are set.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-midnight-basque-french-eggs-paella--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:33:58.922Z"
+}
