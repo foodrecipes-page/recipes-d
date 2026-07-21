@@ -1,0 +1,84 @@
+{
+  "slug": "dry-roasted-thai-shrimp-tom-yum--keto",
+  "title": "Thai Shrimp Stir Fry",
+  "description": "A keto-friendly Thai-inspired stir fry made with succulent shrimp and a blend of aromatic spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "roasted"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add Thai red curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add dried basil, oregano, fish sauce, and tom yum paste. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "ketorecipes",
+    "shrimp",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-roasted-thai-shrimp-tom-yum--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:19:01.207Z"
+}
