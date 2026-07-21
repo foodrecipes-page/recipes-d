@@ -16799,5 +16799,44 @@
     "cuisine": "French",
     "totalTimeMin": 170,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-polish-crepes-pancakes--german",
+    "title": "German Apple Pancakes",
+    "tags": [
+      "german",
+      "dessert",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-brazilian-lamb-satay--german",
+    "title": "German Lamb Satay",
+    "tags": [
+      "german",
+      "lamb",
+      "satay",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "daring-delicate-galician-tofu-wrap--chinese",
+    "title": "Galician Wrap Delight",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "spanish-fusion",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "d"
   }
 ]
