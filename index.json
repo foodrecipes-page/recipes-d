@@ -16951,5 +16951,19 @@
     "cuisine": "indian",
     "totalTimeMin": 75,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-smoked-american-turkey-burger--japanese",
+    "title": "Smoked Turkey Burger",
+    "tags": [
+      "japanese",
+      "american",
+      "smoked-turkey",
+      "burger",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "d"
   }
 ]
