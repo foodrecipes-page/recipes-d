@@ -1,0 +1,72 @@
+{
+  "slug": "delicious-juicy-spanish-pork-ensaimada--french",
+  "title": "Crispy Pork Ensaïmada Croissants",
+  "description": "A sweet and savory fusion of French and Spanish pastries, featuring crispy pork and flaky ensaïmada.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Cured and thinly sliced"
+    },
+    {
+      "name": "Ensaïmada dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Melted unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roll out the ensaïmada dough to a thickness of about 1/4 inch.",
+    "3. In a small bowl, mix together the sugar and melted butter.",
+    "4. Brush the sugar mixture evenly onto the dough.",
+    "5. Sprinkle the cured pork belly on top of the dough.",
+    "6. Roll the dough into a tight log and cut it into 8-10 equal pieces.",
+    "7. Place the pieces onto a parchment-lined baking sheet.",
+    "8. Brush the tops with the beaten egg and sprinkle with salt.",
+    "9. Bake for 20-25 minutes, or until golden brown.",
+    "10. Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pastry",
+    "spanish",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-juicy-spanish-pork-ensaimada--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:10:41.579Z"
+}
