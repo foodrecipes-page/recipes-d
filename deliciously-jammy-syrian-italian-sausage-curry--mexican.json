@@ -1,0 +1,70 @@
+{
+  "slug": "deliciously-jammy-syrian-italian-sausage-curry--mexican",
+  "title": "Mexican Sausage and Curry Jammy Pasta",
+  "description": "A flavorful fusion of Mexican and Italian cuisine, this dish combines the spicy kick of sausage with the sweetness of curry jammy pasta.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian pasta",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Mexican sausage",
+      "amount": "4 links",
+      "notes": null
+    },
+    {
+      "name": "Syrian curry",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Italian jammy sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Deliciously diced onions",
+      "amount": "1 medium onion",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "Grill the Mexican sausage until it reaches an internal temperature of 160°F.",
+    "In a pan, combine the cooked sausage, curry, and diced onions.",
+    "Simmer the mixture for 5 minutes.",
+    "Add the jammy sauce and stir to combine.",
+    "Combine the cooked pasta and sauce mixture.",
+    "Serve hot and garnish with diced onions and a sprinkle of curry powder.",
+    "Optional: add some heat with diced jalapenos or red pepper flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "italian",
+    "pasta",
+    "sausage",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-jammy-syrian-italian-sausage-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:58:47.061Z"
+}
