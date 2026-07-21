@@ -1,0 +1,74 @@
+{
+  "slug": "delicate-tunisian-snapper-fish-tagine--french",
+  "title": "Pan-Seared Snapper with Tunisian Spices",
+  "description": "A flavorful French-inspired dish featuring seared snapper, infused with the aromas of Tunisian spices. Best served with a side of your favorite vegetables or a light salad.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Delicate olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Tunisian spices",
+      "amount": "1 teaspoon",
+      "notes": "A blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Fish seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": "To enhance the flavor of the snapper"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the fish"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with fish seasoning and salt.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Add the snapper fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Remove the skillet from the oven and sprinkle the Tunisian spices over the snapper.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Serve with your favorite sides, such as steamed vegetables or a light salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "french",
+    "seafood",
+    "snapper",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-tunisian-snapper-fish-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:36:50.565Z"
+}
