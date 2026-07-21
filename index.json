@@ -16838,5 +16838,58 @@
     "cuisine": "chinese",
     "totalTimeMin": 27,
     "shard": "d"
+  },
+  {
+    "slug": "dense-peppery-saudi-arabian-danmuji-hash--mexican",
+    "title": "Spicy Saudi Hash and Danmuji Breakfast",
+    "tags": [
+      "spicy",
+      "mexican",
+      "hash",
+      "danmuji",
+      "breakfast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-molten-slovakian-egg-frittata--french",
+    "title": "French Slovakian Frittata",
+    "tags": [
+      "french",
+      "slovakian",
+      "omelette"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 17,
+    "shard": "d"
+  },
+  {
+    "slug": "diced-fresh-polish-cucumber-pickle--thai",
+    "title": "Thai Cucumber Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "cucumber",
+      "pickle",
+      "polish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-mustardy-ethiopian-pappardelle-pasta-pasta--italian",
+    "title": "Spicy Pappardelle Carbonara",
+    "tags": [
+      "italian",
+      "pasta",
+      "spicy",
+      "carbonara"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
