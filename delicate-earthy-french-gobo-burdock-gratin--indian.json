@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-earthy-french-gobo-burdock-gratin--indian",
+  "title": "Indian Gobo and Burdock Gratin",
+  "description": "A creamy, earthy Indian-inspired gratin made with gobo, burdock, and delicate spices.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gobo (Japanese Burdock)",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "Burdock",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "Delicate Onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "French Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated Paneer (Indian Cheese)",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat the coconut oil over medium heat. Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the sliced gobo and burdock to the pan and cook until they begin to soften, about 5 minutes.",
+    "Add the minced garlic, garam masala, and cumin powder to the pan and cook for 1 minute, stirring constantly.",
+    "In a separate saucepan, heat the heavy cream over medium heat until it begins to simmer.",
+    "Reduce the heat to low and add the grated paneer to the cream. Stir until the cheese is melted and the sauce is smooth.",
+    "In a greased 9x13-inch baking dish, arrange half of the gobo and burdock mixture in the bottom of the dish.",
+    "Pour half of the cream sauce over the vegetables, followed by half of the caramelized onions.",
+    "Repeat the layers, starting with the remaining gobo and burdock mixture, then the remaining cream sauce, and finally the remaining caramelized onions.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gratin",
+    "gobo",
+    "burdock"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-earthy-french-gobo-burdock-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:53:18.553Z"
+}
