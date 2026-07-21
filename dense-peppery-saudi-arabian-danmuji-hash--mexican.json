@@ -1,0 +1,89 @@
+{
+  "slug": "dense-peppery-saudi-arabian-danmuji-hash--mexican",
+  "title": "Spicy Saudi Hash and Danmuji Breakfast",
+  "description": "A Mexican-inspired breakfast dish featuring spicy Saudi hash and sweet danmuji.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian Hash",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Dense Korean Danmuji",
+      "amount": "2 pieces",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dense Korean Peppery Gochujang",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Dense Middle Eastern Sumac",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Hash Brown Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mexican Sliced Jalapenos",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mexican Queso Fresco",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Safflower Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Add 1 tbsp of safflower oil and cook the diced hash brown potatoes until golden brown, about 4-5 minutes.",
+    "3. Add the chopped jalapenos and cook for another 2 minutes.",
+    "4. In a separate pan, add 1 tbsp of safflower oil and fry the crushed gochujang until slightly darkened.",
+    "5. Add the crumbled Saudi Arabian hash and cook until combined with the gochujang.",
+    "6. Add the shredded queso fresco and cook until melted.",
+    "7. Add the sliced danmuji and cook for 1 minute.",
+    "8. Season with dried sumac and salt to taste.",
+    "9. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "mexican",
+    "hash",
+    "danmuji",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 44,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peppery-saudi-arabian-danmuji-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:16:41.034Z"
+}
