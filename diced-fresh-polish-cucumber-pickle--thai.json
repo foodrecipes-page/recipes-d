@@ -1,0 +1,58 @@
+{
+  "slug": "diced-fresh-polish-cucumber-pickle--thai",
+  "title": "Thai Cucumber Salad",
+  "description": "A refreshing Thai-inspired salad made with cucumber, pickled cucumber, and a hint of polish flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "diced cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh polish",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice the cucumber into thin strips.",
+    "In a large bowl, combine the sliced cucumber and pickle.",
+    "In a small bowl, whisk together the polish and a pinch of salt.",
+    "Pour the polish mixture over the cucumber mixture and toss to coat.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "cucumber",
+    "pickle",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/diced-fresh-polish-cucumber-pickle--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:39:53.605Z"
+}
