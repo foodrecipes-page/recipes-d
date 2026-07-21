@@ -14536,18 +14536,14 @@
   },
   {
     "slug": "dried-smoky-japanese-lettuce-okonomiyaki",
-    "title": "Dried Smoky Japanese Lettuce Okonomiyaki",
+    "title": "Smoky Okonomiyaki",
     "tags": [
-      "dairy-free",
-      "low-fat",
       "okonomiyaki",
-      "quick",
-      "smoky",
-      "snack",
-      "vegan-friendly"
+      "smoked salmon",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 23,
     "shard": "d"
   },
   {
@@ -17087,6 +17083,20 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-jammy-syrian-italian-sausage-curry--mexican",
+    "title": "Mexican Sausage and Curry Jammy Pasta",
+    "tags": [
+      "mexican",
+      "italian",
+      "pasta",
+      "sausage",
+      "curry"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "d"
   }
 ]
