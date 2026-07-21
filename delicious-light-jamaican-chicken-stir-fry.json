@@ -1,0 +1,82 @@
+{
+  "slug": "delicious-light-jamaican-chicken-stir-fry",
+  "title": "Jamaican Chicken Stir Fry",
+  "description": "A flavorful and easy-to-make Jamaican-inspired chicken stir fry with a delicious blend of spices. This dish is perfect for a quick and tasty meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "light oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "delicious onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "stir fry vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add onions to skillet and cook until softened, about 3-4 minutes.",
+    "Add stir fry vegetables and cook until tender, about 4-5 minutes.",
+    "Return chicken to skillet and sprinkle with jerk seasoning, salt, and pepper.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-chicken",
+    "stir-fry",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-light-jamaican-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:47:51.943Z"
+}
