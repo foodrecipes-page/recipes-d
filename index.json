@@ -17038,5 +17038,33 @@
     "cuisine": "chinese",
     "totalTimeMin": 23,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-tangy-kenyan-chicken-curry--italian",
+    "title": "Kenyan Chicken Curry Fettuccine",
+    "tags": [
+      "italian",
+      "pasta",
+      "chicken",
+      "curry",
+      "kenyan",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-croatian-corn-sandwich--indian",
+    "title": "Croatian-Style Corn Sandwich",
+    "tags": [
+      "indian",
+      "croatian",
+      "corn",
+      "sandwich"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "d"
   }
 ]
