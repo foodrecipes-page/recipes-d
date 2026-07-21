@@ -7728,16 +7728,14 @@
   },
   {
     "slug": "delicious-light-jamaican-chicken-stir-fry",
-    "title": "Delicious Light Jamaican Chicken Stir fry",
+    "title": "Jamaican Chicken Stir Fry",
     "tags": [
-      "brunch-ideas",
-      "healthy-eating",
-      "jamaican-cuisine",
-      "quick-meals",
-      "stir-fry"
+      "jamaican-chicken",
+      "stir-fry",
+      "quick-meal"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -17065,6 +17063,30 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 15,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-german-apple-pudding--french",
+    "title": "German Apple Pudding",
+    "tags": [
+      "french-dessert",
+      "apple-pudding",
+      "german-influence"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-smoky-argentinian-vegetable-skewers--vegan",
+    "title": "Vegan Smoky Vegetable Skewers",
+    "tags": [
+      "vegan",
+      "argentinian",
+      "grill"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
