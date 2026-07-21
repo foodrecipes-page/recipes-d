@@ -1873,17 +1873,15 @@
   },
   {
     "slug": "decadent-french-tuna-mousse",
-    "title": "Decadent French Tuna Mousse",
+    "title": "Tuna Mousse French Treat",
     "tags": [
-      "dark-chocolate",
-      "dessert",
       "french",
-      "minimalist",
+      "tuna",
       "mousse",
-      "pescatarian"
+      "snack"
     ],
     "cuisine": "French",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "d"
   },
   {
@@ -17000,6 +16998,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-roasted-thai-shrimp-tom-yum--keto",
+    "title": "Thai Shrimp Stir Fry",
+    "tags": [
+      "thaifood",
+      "ketorecipes",
+      "shrimp",
+      "stirfry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-tunisian-snapper-fish-tagine--french",
+    "title": "Pan-Seared Snapper with Tunisian Spices",
+    "tags": [
+      "fish",
+      "french",
+      "seafood",
+      "snapper",
+      "tunisian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-kenyan-sloe-berry-skewers--chinese",
+    "title": "Sloe Berry Skewers with Chinese BBQ Sauce",
+    "tags": [
+      "chinese",
+      "bbq",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "d"
   }
 ]
