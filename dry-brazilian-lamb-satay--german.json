@@ -1,0 +1,89 @@
+{
+  "slug": "dry-brazilian-lamb-satay--german",
+  "title": "German Lamb Satay",
+  "description": "A German twist on traditional satay, featuring lamb and a dry rub.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Brazilian",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Dry Rub",
+      "amount": "2 tbsp",
+      "notes": "Custom blend of spices"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, mix together Brazilian, dry rub, salt, and black pepper.",
+    "Add lamb to the bowl and mix until coated.",
+    "Let lamb marinate for at least 30 minutes.",
+    "Thread lamb, onions, and bell peppers onto skewers.",
+    "Brush coconut oil onto skewers.",
+    "Grill skewers for 8-10 minutes, or until lamb reaches 63°C (145°F).",
+    "Serve hot with chili flakes on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "satay",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-brazilian-lamb-satay--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:27:46.610Z"
+}
