@@ -3309,17 +3309,15 @@
   },
   {
     "slug": "delicate-baked-canadian-sea-bass-skillet",
-    "title": "Delicate Baked Canadian Sea Bass Skillet",
+    "title": "Pan-Seared Canadian Sea Bass with Lemon",
     "tags": [
-      "canadian-cuisine",
-      "easy-dinner",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "seafood"
+      "seafood",
+      "fish",
+      "lemon",
+      "parsley"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 27,
+    "cuisine": "seafood",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -16989,6 +16987,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-garlicky-argentinian-potato-empanadas--italian",
+    "title": "Italian Empanada Pizza Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "cheese",
+      "deep-fried"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "d"
   }
 ]
