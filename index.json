@@ -397,18 +397,16 @@
   },
   {
     "slug": "dark-gooey-argentinian-beef-empanadas",
-    "title": "Dark Gooey Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-empanadas",
-      "citrus-flavors",
-      "flexitarian-friendly",
-      "gooey-pastry",
-      "midnight-cravings",
-      "savory-snacks"
+      "argentinian",
+      "beef",
+      "empanadas",
+      "savory",
+      "cheese"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -4115,17 +4113,14 @@
   },
   {
     "slug": "delicate-dutch-pistachio-puff",
-    "title": "Delicate Dutch Pistachio Puff",
+    "title": "Pistachio and Puff Pastry Delight",
     "tags": [
-      "buttery-pastry",
-      "dutch-delicacy",
-      "easy-to-make",
-      "keto-friendly",
-      "low-carb",
-      "pistachio-based"
+      "pistachio",
+      "pastry",
+      "dessert"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -16941,6 +16936,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-earthy-french-gobo-burdock-gratin--indian",
+    "title": "Indian Gobo and Burdock Gratin",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "gratin",
+      "gobo",
+      "burdock"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 75,
     "shard": "d"
   }
 ]
