@@ -1,0 +1,93 @@
+{
+  "slug": "dark-gooey-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentine street food recipe featuring savory beef empanadas with gooey cheese filling. Perfect as a snack or appetizer.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio is recommended"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Argentinian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Gooey Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make empanada dough by combining flour, salt, and water in a bowl. Knead for 5 minutes until smooth.",
+    "Divide dough into 8 equal pieces. Roll each piece into a ball and then flatten into a disk.",
+    "In a pan, cook ground beef over medium heat until browned, breaking into small pieces.",
+    "Add onion, garlic, Worcestershire sauce, brown sugar, and Argentinian spice blend to the pan. Cook until onion is translucent.",
+    "Spoon a tablespoon of the beef mixture onto one half of the dough disk. Top with a sprinkle of gooey cheese.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half to enclose the filling. Press edges to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper. Brush tops with egg wash.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "savory",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-gooey-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:57:22.592Z"
+}
