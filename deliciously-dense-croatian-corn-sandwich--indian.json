@@ -1,0 +1,86 @@
+{
+  "slug": "deliciously-dense-croatian-corn-sandwich--indian",
+  "title": "Croatian-Style Corn Sandwich",
+  "description": "A fusion of Indian and Croatian flavors, this sandwich is a delightful twist on traditional cuisine. The corn adds a sweet and crunchy texture.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chutney",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 350°F (175°C).",
+    "Toast the Croatian bread slices for 2-3 minutes.",
+    "In a bowl, mix together the cottage cheese, chopped cucumber, and chopped tomato.",
+    "Spread a layer of mayonnaise on each toasted bread slice.",
+    "Add a layer of the cottage cheese mixture on top of the mayonnaise.",
+    "Add a layer of corn kernels on top of the cottage cheese mixture.",
+    "Drizzle chutney over the corn kernels.",
+    "Garnish with chopped cilantro.",
+    "Assemble the sandwich by placing the remaining bread slice on top.",
+    "Place the sandwich in the panini press and cook for 3-4 minutes.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "croatian",
+    "corn",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-croatian-corn-sandwich--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:15:16.521Z"
+}
