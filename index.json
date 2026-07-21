@@ -16891,5 +16891,56 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dense-midnight-basque-french-eggs-paella--gluten-free",
+    "title": "Basque Paella for Two",
+    "tags": [
+      "spanish",
+      "paella",
+      "seafood",
+      "gluten-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dusted-smoky-venezuelan-cod-ceviche--mexican",
+    "title": "Venezuelan-Style Smoked Cod Ceviche",
+    "tags": [
+      "mexican",
+      "ceviche",
+      "cod",
+      "smoked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-juicy-spanish-pork-ensaimada--french",
+    "title": "Crispy Pork Ensaïmada Croissants",
+    "tags": [
+      "breakfast",
+      "pastry",
+      "spanish",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-tunisian-pea-eggplant-tagine--chinese",
+    "title": "Eggplant with Tunisian Peas in Chinese Style",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "eggplant"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
