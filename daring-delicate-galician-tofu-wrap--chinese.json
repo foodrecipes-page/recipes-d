@@ -1,0 +1,71 @@
+{
+  "slug": "daring-delicate-galician-tofu-wrap--chinese",
+  "title": "Galician Wrap Delight",
+  "description": "A fusion of Spanish and Chinese flavors in a crispy wrap. A delicious vegetarian option.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galician",
+      "amount": "1 package",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "daring",
+      "amount": "1/4 cup",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "delicate",
+      "amount": "1/4 cup",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "Marinated in daring and delicate"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "Used as wraps"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium heat.",
+    "Marinate tofu in daring and delicate for at least 15 minutes.",
+    "Cut the marinated tofu into small pieces.",
+    "Heat a tablespoon of oil in the pan and add the tofu.",
+    "Cook the tofu for 3-4 minutes on each side.",
+    "Meanwhile, warm the wraps in the microwave for 20-30 seconds.",
+    "Assemble the wraps by placing a portion of the tofu in the center.",
+    "Add a sprinkle of galician on top of the tofu.",
+    "Fold the wraps to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "spanish-fusion",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-delicate-galician-tofu-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:28:44.650Z"
+}
