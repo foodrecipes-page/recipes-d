@@ -1,0 +1,88 @@
+{
+  "slug": "dusted-smoky-venezuelan-cod-ceviche--mexican",
+  "title": "Venezuelan-Style Smoked Cod Ceviche",
+  "description": "A light and refreshing Mexican-inspired dish made with smoked cod, marinated in a zesty mixture of lime juice and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Cod",
+      "amount": "6 oz",
+      "notes": "Thawed and flaked"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Jalapeño",
+      "amount": "1/4 cup",
+      "notes": "Seeded and chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Dusted (tortilla chips or tostadas)",
+      "amount": "6-8",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the cod under cold water and pat dry with paper towels.",
+    "In a large bowl, combine the lime juice, red onion, cilantro, diced tomatoes, and diced jalapeño.",
+    "Add the cod to the marinade and mix well to coat.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, crush the dusted tortilla chips or tostadas to create crumbs.",
+    "Spoon the ceviche mixture onto the crushed tortillas or tostadas.",
+    "Serve immediately and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "ceviche",
+    "cod",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dusted-smoky-venezuelan-cod-ceviche--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:02:34.483Z"
+}
