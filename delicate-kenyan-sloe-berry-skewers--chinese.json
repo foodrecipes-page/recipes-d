@@ -1,0 +1,62 @@
+{
+  "slug": "delicate-kenyan-sloe-berry-skewers--chinese",
+  "title": "Sloe Berry Skewers with Chinese BBQ Sauce",
+  "description": "A sweet and savory Chinese-inspired appetizer featuring tender berry and sloe chunks. These bite-sized skewers are perfect for any occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sloe berries (fresh)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Delicate soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers (bamboo)",
+      "amount": "20",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thread a piece of berry and a piece of sloe onto each skewer, leaving a small space between each piece.",
+    "In a small bowl, whisk together honey and soy sauce.",
+    "Brush the mixture evenly over the skewers.",
+    "Bake the skewers in the preheated oven for 8-10 minutes or until the berries start to caramelize.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "bbq",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-kenyan-sloe-berry-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:48:36.246Z"
+}
