@@ -1,0 +1,93 @@
+{
+  "slug": "decadent-smoked-american-turkey-burger--japanese",
+  "title": "Smoked Turkey Burger",
+  "description": "A unique fusion of Japanese flavors and American classics. The smoked turkey burger is a twist on the classic burger, with a rich and savory flavor profile.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked turkey breast",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "American burger buns",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Decadent burger cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "sliced",
+      "notes": ""
+    },
+    {
+      "name": "Japanese lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "4",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the smoked turkey breast onto the bamboo skewers.",
+    "Brush the turkey with teriyaki sauce and sprinkle with sesame seeds.",
+    "Grill the turkey for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Assemble the burgers with the grilled turkey, decadent burger cheese, pickled ginger, Japanese lettuce, and grated daikon.",
+    "Drizzle with soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "american",
+    "smoked-turkey",
+    "burger",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-smoked-american-turkey-burger--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:43:55.752Z"
+}
