@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-dutch-pistachio-puff",
+  "title": "Pistachio and Puff Pastry Delight",
+  "description": "A sweet pastry dessert featuring a delicate pastry crust, a delicious pistachio filling, and topped with a layer of crunchy puff pastry.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tablespoons",
+      "notes": "?"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "3/4 cup",
+      "notes": "?"
+    },
+    {
+      "name": "Delicate pastry dough",
+      "amount": "1/2 cup",
+      "notes": "?"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": "?"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "?"
+    },
+    {
+      "name": "Melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "?"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a medium bowl, mix together the pistachio paste and granulated sugar.",
+    "Spread the pistachio mixture evenly over the pastry.",
+    "Roll out the delicate pastry dough to a thickness of 1/8 inch.",
+    "Cut the pastry into strips, about 1 inch wide.",
+    "Place the pastry strips on top of the pistachio mixture, weaving them into a lattice pattern.",
+    "Brush the pastry with the beaten egg and melted butter.",
+    "Sprinkle with confectioners' sugar.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pistachio",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 11
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-pistachio-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:36:34.224Z"
+}
