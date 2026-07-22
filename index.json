@@ -17155,5 +17155,29 @@
     "cuisine": "french",
     "totalTimeMin": 110,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-fresh-croatian-fish-sashimi--german",
+    "title": "Grilled Trout A La Germania",
+    "tags": [
+      "german",
+      "fish",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 28,
+    "shard": "d"
+  },
+  {
+    "slug": "double-rise-energizing-peruvian-beef-kidney-skillet--vegetarian",
+    "title": "Peruvian Double Enchiladas",
+    "tags": [
+      "peruvian",
+      "double-enchiladas",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "d"
   }
 ]
