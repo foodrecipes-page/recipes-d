@@ -1,0 +1,74 @@
+{
+  "slug": "dense-spicy-australian-potato-pancakes--indian",
+  "title": "Spicy Australian-Style Potato Pancakes",
+  "description": "A fusion of Indian flavors with Australian potato pancakes, adding a spicy kick.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Dense Australian Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy Chana Masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and squeeze out excess moisture.",
+    "In a large bowl, combine the grated potatoes, flour, chana masala, ginger, and egg.",
+    "Mix well to form a thick batter.",
+    "Heat a non-stick pan or griddle with a small amount of oil over medium heat.",
+    "Drop the batter by spoonfuls onto the pan, making sure not to overcrowd.",
+    "Cook the pancakes for 3-4 minutes on each side or until golden brown.",
+    "Serve hot with a squeeze of lime juice and garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "australian",
+    "spicy",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-spicy-australian-potato-pancakes--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:53:00.802Z"
+}
