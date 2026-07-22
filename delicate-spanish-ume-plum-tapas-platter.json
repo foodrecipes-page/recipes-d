@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-spanish-ume-plum-tapas-platter",
+  "title": "Tapas Platter with Grilled Spanish Shrimp",
+  "description": "A Spanish-inspired tapas platter featuring grilled shrimp, delicate olives, and platter of fresh plums. Perfect for a light and refreshing snack or appetizer.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish Shrimp",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Delicate Olives",
+      "amount": "1/2 cup pitted",
+      "notes": "Green or black olives, sliced"
+    },
+    {
+      "name": "Fresh Plums",
+      "amount": "2 plums, sliced",
+      "notes": "Any variety, but Spanish or Italian plums work best"
+    },
+    {
+      "name": "Tapas Bread",
+      "amount": "1 baguette, sliced",
+      "notes": "Crusty bread, ideal for dipping"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed, for marinade"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning shrimp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning shrimp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning shrimp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "3. Add the shrimp to the marinade and mix to coat. Let it marinate for at least 15 minutes.",
+    "4. Remove the shrimp from the marinade and place them on the grill. Cook for 2-3 minutes per side, or until pink and cooked through.",
+    "5. Meanwhile, toast the baguette slices on the grill or in a toaster.",
+    "6. Arrange the toasted bread, olives, and plum slices on a platter.",
+    "7. Once the shrimp are cooked, place them on top of the platter.",
+    "8. Garnish with chopped parsley and serve immediately.",
+    "9. Serve the tapas platter with the grilled shrimp as the main attraction.",
+    "10. Enjoy your delicious and easy tapas platter!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "tapas",
+    "shrimp",
+    "grilled",
+    "platter",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-spanish-ume-plum-tapas-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:15:39.280Z"
+}
