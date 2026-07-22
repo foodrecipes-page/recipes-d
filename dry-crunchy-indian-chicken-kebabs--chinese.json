@@ -1,0 +1,73 @@
+{
+  "slug": "dry-crunchy-indian-chicken-kebabs--chinese",
+  "title": "Crispy Chicken Kebabs",
+  "description": "Crispy and flavorful kebabs made with marinated chicken, perfect for a quick Chinese-inspired meal.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kebab sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for coating chicken"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "dry breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for coating chicken"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together kebab sauce, cornstarch, and grated ginger. Add the chicken and mix until coated.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat the oil in a deep frying pan or a deep fryer to 350°F.",
+    "4. Remove the chicken from the marinade and coat with dry breadcrumbs. Fry the chicken in batches until golden brown, about 5-7 minutes.",
+    "5. Drain the fried chicken on paper towels and serve hot garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "chinese",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dry-crunchy-indian-chicken-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:34:02.250Z"
+}
