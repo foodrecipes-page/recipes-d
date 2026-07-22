@@ -9965,18 +9965,15 @@
   },
   {
     "slug": "deliciously-sour-portuguese-pork-skewers",
-    "title": "Deliciously Sour Portuguese Pork Skewers",
+    "title": "Grilled Portuguese Pork Skewers",
     "tags": [
-      "dairy-free",
-      "festive",
-      "gluten-free",
       "grilled",
-      "pork",
       "portuguese",
-      "sour"
+      "pork",
+      "skewers"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "d"
   },
   {
@@ -13450,18 +13447,17 @@
   },
   {
     "slug": "diced-irish-kale-kale-salad",
-    "title": "Diced Irish Kale Kale Salad",
+    "title": "Irish Kale Salad",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "kale-based",
-      "one-pan",
-      "post-workout",
-      "vegan-friendly",
-      "weeknight"
+      "irish",
+      "kale",
+      "salad",
+      "potatoes",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 22,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -17215,6 +17211,18 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-jordanian-beef-mansaf--vegetarian",
+    "title": "Delicate Mansaf Delight",
+    "tags": [
+      "vegetarian",
+      "jordanian",
+      "mansaf"
+    ],
+    "cuisine": "jordanian",
+    "totalTimeMin": 55,
     "shard": "d"
   }
 ]
