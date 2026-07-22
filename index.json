@@ -17119,5 +17119,17 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-velvety-turkish-turkey-papillote--japanese",
+    "title": "Turkish-Style Chicken in Papillote",
+    "tags": [
+      "japanese-chicken",
+      "turkish-spices",
+      "papillote-casserole"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
