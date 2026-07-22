@@ -1,0 +1,97 @@
+{
+  "slug": "dense-dark-rich-ethiopian-beef-tibs--french",
+  "title": "Ethiopian Beef Tibs Bourguignon",
+  "description": "A French-inspired take on traditional Ethiopian beef tibs, slow-cooked in a rich, flavorful stew.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs (675g)",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark",
+      "amount": "1 cup (250ml)",
+      "notes": "Ethiopian berbere spice blend"
+    },
+    {
+      "name": "tibs",
+      "amount": "1 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups (475ml)"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup (250ml)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups (475ml)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp (30g) of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the dark (berbere spice blend) and tibs (Ethiopian spice blend) to the pot and cook for 1 minute.",
+    "Add the red wine to the pot and cook until reduced by half, about 5 minutes.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the beef to the pot and simmer, covered, until the meat is tender, about 1 1/2 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-dark-rich-ethiopian-beef-tibs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:10:18.802Z"
+}
