@@ -14343,16 +14343,17 @@
   },
   {
     "slug": "dreamy-smoky-thai-nutella-kanom-ko",
-    "title": "Dreamy Smoky Thai Nutella Kanom Ko",
+    "title": "Dreamy Thai Crepes with Smoky Nutella Filling",
     "tags": [
-      "lacquerware-bowls",
-      "lacto-vegetarian",
-      "smoky-flavors",
-      "special-occasions",
-      "thai-desserts"
+      "dessert",
+      "thai",
+      "french",
+      "crepes",
+      "nutella",
+      "smoked"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai-French",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -17139,6 +17140,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-dark-rich-ethiopian-beef-tibs--french",
+    "title": "Ethiopian Beef Tibs Bourguignon",
+    "tags": [
+      "beef",
+      "stew",
+      "french",
+      "ethiopian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
     "shard": "d"
   }
 ]
