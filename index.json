@@ -8982,17 +8982,15 @@
   },
   {
     "slug": "deliciously-dense-southern-thai-millet-pilaf",
-    "title": "Deliciously Dense Southern Thai Millet Pilaf",
+    "title": "Southern Millet Pilaf with Thai Twist",
     "tags": [
-      "coconut-based",
-      "millet-based",
-      "one-pot",
-      "southern-thai",
-      "spicy",
-      "vegetarian"
+      "southern",
+      "thai",
+      "pilaf",
+      "millet"
     ],
-    "cuisine": "Southern Thai",
-    "totalTimeMin": 40,
+    "cuisine": "Southern",
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -14362,17 +14360,14 @@
   },
   {
     "slug": "dreamy-smoky-ukrainian-napa-cabbage-dumplings",
-    "title": "Dreamy Smoky Ukrainian Napa Cabbage Dumplings",
+    "title": "Smoky Ukrainian Cabbage Dumplings",
     "tags": [
+      "ukrainian",
       "comfort-food",
-      "lotus-leaf-wraps",
-      "ovo-vegetarian",
-      "smoky-flavors",
-      "tandoor-cooking",
-      "ukrainian-cuisine"
+      "vegetarian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -17097,6 +17092,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dry-crunchy-indian-chicken-kebabs--chinese",
+    "title": "Crispy Chicken Kebabs",
+    "tags": [
+      "chicken",
+      "kebabs",
+      "chinese",
+      "fried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
