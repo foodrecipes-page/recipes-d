@@ -1,0 +1,76 @@
+{
+  "slug": "dreamy-smoky-thai-nutella-kanom-ko",
+  "title": "Dreamy Thai Crepes with Smoky Nutella Filling",
+  "description": "A fusion of Thai flavors and French crepes, filled with a smoky Nutella spread and topped with crunchy coconut flakes.",
+  "cuisine": "Thai-French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kanom Buang Wrappers",
+      "amount": "8-10",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Smoked Almond Butter",
+      "amount": "2 tbsp",
+      "notes": "or regular almond butter with a pinch of smoked salt"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together Nutella and smoked almond butter until smooth.",
+    "Place a kanom buang wrapper on a flat surface.",
+    "Brush the edges of the wrapper with beaten egg for a glaze.",
+    "Spoon a small amount of the Nutella-smoked almond butter mixture onto the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the crepe to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Just before serving, sprinkle coconut flakes over the top of each crepe.",
+    "Serve warm or at room temperature, dusting with granulated sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thai",
+    "french",
+    "crepes",
+    "nutella",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-smoky-thai-nutella-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:54:11.769Z"
+}
