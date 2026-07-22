@@ -1,0 +1,93 @@
+{
+  "slug": "dense-peruvian-cashew-stew",
+  "title": "Cashew Peruvian Stew",
+  "description": "A hearty and flavorful stew from Peru, made with tender cashews and a blend of aromatic spices. This dish is perfect for a comforting meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cashew",
+      "amount": "1 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "Dense",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the cashew, dense, tomato, stew, cumin, and paprika. Stir to combine.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Simmer for 20-25 minutes, or until the stew has thickened slightly.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-stew",
+    "cashew-based",
+    "comfort-food",
+    "vegetarian-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-cashew-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:44:54.525Z"
+}
