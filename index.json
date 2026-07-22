@@ -12264,18 +12264,15 @@
   },
   {
     "slug": "dense-peruvian-cashew-stew",
-    "title": "Dense Peruvian Cashew Stew",
+    "title": "Cashew Peruvian Stew",
     "tags": [
-      "ayurvedic-friendly",
+      "peruvian-stew",
       "cashew-based",
       "comfort-food",
-      "gluten-free",
-      "peruvian-cuisine",
-      "stew",
-      "vegetarian"
+      "vegetarian-recipe"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "d"
   },
   {
@@ -17130,6 +17127,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-spanish-oats-gazpacho--thai",
+    "title": "Thai Decadent Gazpacho with Oats",
+    "tags": [
+      "thai",
+      "vegan",
+      "breakfast"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
     "shard": "d"
   }
 ]
