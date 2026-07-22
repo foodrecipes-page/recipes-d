@@ -1,0 +1,77 @@
+{
+  "slug": "diced-irish-kale-kale-salad",
+  "title": "Irish Kale Salad",
+  "description": "A hearty salad made with sautéed kale, diced Irish potatoes, and a crispy topping.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "curly kale",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "green salad mix",
+      "amount": "4 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss diced Irish potatoes with 1 tablespoon olive oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes, or until tender and lightly browned.",
+    "3. In a large skillet, heat 1 tablespoon olive oil over medium-high heat. Add chopped kale and cook until wilted, about 3-5 minutes.",
+    "4. In a large bowl, combine roasted potatoes, wilted kale, and thin slices of red onion.",
+    "5. In a small bowl, whisk together apple cider vinegar and a pinch of salt. Pour over the potato-kale mixture and toss to combine.",
+    "6. Serve over a bed of mixed greens and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "kale",
+    "salad",
+    "potatoes",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/diced-irish-kale-kale-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:09:07.723Z"
+}
