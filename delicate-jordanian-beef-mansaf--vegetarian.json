@@ -1,0 +1,92 @@
+{
+  "slug": "delicate-jordanian-beef-mansaf--vegetarian",
+  "title": "Delicate Mansaf Delight",
+  "description": "A vegetarian twist on traditional Jordanian Mansaf, featuring delicate ingredients and rich flavors.",
+  "cuisine": "jordanian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate Flatbread (Khobz)",
+      "amount": "8-10 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mansaf (Jordanian Jute Leaves)",
+      "amount": "1 bunch",
+      "notes": "Note: Substituted with Swiss Chard in this recipe."
+    },
+    {
+      "name": "Roasted Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Portobello Mushrooms",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Labneh Cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss eggplant with olive oil, salt, and pepper. Roast for 20-25 minutes.",
+    "Grill mushrooms until tender.",
+    "In a large skillet, sauté garlic until fragrant.",
+    "Add roasted eggplant, grilled mushrooms, and parsley to the skillet. Stir to combine.",
+    "Warm flatbread in the oven.",
+    "To assemble, place a layer of Mansaf leaves on a flatbread piece, followed by a spoonful of the eggplant mixture, and topped with a dollop of labneh cheese.",
+    "Repeat the layers and serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "jordanian",
+    "mansaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-jordanian-beef-mansaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:14:41.965Z"
+}
