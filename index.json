@@ -17106,5 +17106,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "doughy-crispy-kenyan-knead-roti--french",
+    "title": "French Roti Crêpes",
+    "tags": [
+      "crepes",
+      "french",
+      "snack",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "d"
   }
 ]
