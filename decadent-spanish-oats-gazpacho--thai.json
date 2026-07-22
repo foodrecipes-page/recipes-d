@@ -1,0 +1,76 @@
+{
+  "slug": "decadent-spanish-oats-gazpacho--thai",
+  "title": "Thai Decadent Gazpacho with Oats",
+  "description": "A creamy and refreshing twist on traditional gazpacho, incorporating thai flavors and oats for added texture.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1/2 cup",
+      "notes": "Rolled oats"
+    },
+    {
+      "name": "Gazpacho",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine oats, gazpacho, coconut milk, curry paste, soy sauce, and brown sugar in a blender.",
+    "Blend until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the mixture to a serving bowl.",
+    "Garnish with chopped cilantro and a squeeze of lime juice.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegan",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spanish-oats-gazpacho--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:45:56.878Z"
+}
