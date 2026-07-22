@@ -1,0 +1,73 @@
+{
+  "slug": "doughy-crispy-kenyan-knead-roti--french",
+  "title": "French Roti Crêpes",
+  "description": "Delicate French-style crêpes filled with a crispy Kenyan-inspired filling, perfect for a light dessert or snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "roti",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "knead",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "doughy",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kenyan spice mix (e.g. curry powder, turmeric)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine roti and knead. Gradually add doughy and mix until a smooth batter forms.",
+    "2. Add crispy, sugar, and Kenyan spice mix. Mix until well combined.",
+    "3. Gradually add water and mix until the batter is smooth and free of lumps.",
+    "4. Heat a small non-stick pan over medium heat.",
+    "5. Pour a small amount of batter into the pan and tilt to evenly coat the bottom.",
+    "6. Cook for 1-2 minutes or until the edges start to curl.",
+    "7. Loosen the crêpe with a spatula and flip.",
+    "8. Cook for another minute or until the other side is lightly browned.",
+    "9. Repeat with the remaining batter to make more crêpes.",
+    "10. Serve crêpes warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crepes",
+    "french",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/doughy-crispy-kenyan-knead-roti--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:14:42.168Z"
+}
