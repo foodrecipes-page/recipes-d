@@ -3665,17 +3665,16 @@
   },
   {
     "slug": "delicate-crisp-turkish-chicken-kebabs",
-    "title": "Delicate Crisp Turkish Chicken Kebabs",
+    "title": "Crispy Turkish Chicken Kebabs",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "healthy-dinner",
-      "low-calorie",
-      "turkish-cuisine",
-      "weeknight-meal"
+      "turkish",
+      "kebab",
+      "chicken",
+      "lunch",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 33,
     "shard": "d"
   },
   {
@@ -17178,6 +17177,44 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crunchy-spanish-seafood-tarta-de-santiago--chinese",
+    "title": "Crunchy Santiago Shrimp Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "seafood",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-spicy-australian-potato-pancakes--indian",
+    "title": "Spicy Australian-Style Potato Pancakes",
+    "tags": [
+      "indian",
+      "australian",
+      "spicy",
+      "potato"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dill-pickle-smoked-filipino-chicken-tinola--vegan",
+    "title": "Filipino Vegan Tinola",
+    "tags": [
+      "vegan",
+      "filipino",
+      "soup",
+      "smoked"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
