@@ -1,0 +1,61 @@
+{
+  "slug": "double-rise-energizing-peruvian-beef-kidney-skillet--vegetarian",
+  "title": "Peruvian Double Enchiladas",
+  "description": "Tasty and flavorful enchiladas filled with sautéed vegetables, wrapped in a crispy double layer of dough, and served with a side of spicy Peruvian sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double",
+      "amount": "1 package of double dough"
+    },
+    {
+      "name": "rise",
+      "amount": "1 cup of warm rise, for proofing"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 cup of energizing sauce (store-bought)"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 cup of Peruvian sauce"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 tablespoon of skillet oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Proof the double dough for 1 hour.",
+    "Sauté the skillet oil with Peruvian sauce and energizing sauce.",
+    "Assemble the enchiladas by filling the dough with the sauce mixture.",
+    "Roll the dough into a double layer and bake for 20 minutes.",
+    "Serve hot with a side of Peruvian sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "double-enchiladas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-rise-energizing-peruvian-beef-kidney-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:43:07.791Z"
+}
