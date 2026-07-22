@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-crisp-turkish-chicken-kebabs",
+  "title": "Crispy Turkish Chicken Kebabs",
+  "description": "Delicate chicken marinated in traditional Turkish spices, served atop a bed of crisp lettuce with a side of tangy tzatziki sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into kebab-sized pieces"
+    },
+    {
+      "name": "delicate olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 head",
+      "notes": "for serving"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "2 tsp",
+      "notes": "containing paprika, cumin, coriander, salt, and black pepper"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, and turkish spices.",
+    "Add chicken to the marinade and mix well.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked through.",
+    "Brush kebabs with olive oil during the last 2 minutes of cooking.",
+    "Serve immediately, garnished with crisp lettuce and a side of tzatziki sauce (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebab",
+    "chicken",
+    "lunch",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-turkish-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:06:51.878Z"
+}
