@@ -1,0 +1,85 @@
+{
+  "slug": "deliciously-crunchy-spanish-seafood-tarta-de-santiago--chinese",
+  "title": "Crunchy Santiago Shrimp Stir Fry",
+  "description": "A Chinese-inspired stir fry with succulent shrimp, crunchy vegetables, and a hint of Spanish flair.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp (21/25 count)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "De Santiago Crunchy Tortilla Strips (or substitute with chow mein noodles)",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oyster Sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the Spanish onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for an additional minute, until fragrant.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Add the soy sauce, oyster sauce (if using), and sesame oil. Stir to combine.",
+    "Add the crunchy tortilla strips (or chow mein noodles) and stir-fry for an additional 2 minutes, until combined.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and garnish with green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-spanish-seafood-tarta-de-santiago--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:44:58.619Z"
+}
