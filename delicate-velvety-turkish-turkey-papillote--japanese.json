@@ -1,0 +1,96 @@
+{
+  "slug": "delicate-velvety-turkish-turkey-papillote--japanese",
+  "title": "Turkish-Style Chicken in Papillote",
+  "description": "A Japanese-inspired dish featuring tender chicken in a delicate papillote, wrapped in turkish-style spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "delicate papillote",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt, black pepper, cumin, and coriander.",
+    "In a small bowl, whisk together soy sauce, honey, and rice vinegar.",
+    "Brush the mixture onto both sides of the chicken breast.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, until browned.",
+    "Transfer the chicken to a papillote, leaving a 1-inch border around the edges.",
+    "Fold the papillote over the chicken, creating a tight seal.",
+    "Place the papillote on a baking sheet and bake for 12-15 minutes, or until cooked through.",
+    "Remove the papillote from the oven and let rest for 2-3 minutes.",
+    "Serve the chicken in the papillote, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-chicken",
+    "turkish-spices",
+    "papillote-casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-velvety-turkish-turkey-papillote--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:47:29.980Z"
+}
