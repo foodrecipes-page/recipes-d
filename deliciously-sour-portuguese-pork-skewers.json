@@ -1,0 +1,86 @@
+{
+  "slug": "deliciously-sour-portuguese-pork-skewers",
+  "title": "Grilled Portuguese Pork Skewers",
+  "description": "A flavorful and easy-to-make dish featuring marinated pork skewers grilled to perfection.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pork",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "portuguese peri-peri sauce",
+      "amount": "1/4 cup",
+      "notes": "You can use store-bought or homemade"
+    },
+    {
+      "name": "sour orange juice",
+      "amount": "2 tablespoons",
+      "notes": "This will add a nice citrus flavor"
+    },
+    {
+      "name": "deliciously smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "This will give a nice smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the skewers during grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together peri-peri sauce, sour orange juice, smoked paprika, salt, and black pepper.",
+    "Add the pork cubes to the marinade and mix until they are fully coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated pork cubes onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "portuguese",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-sour-portuguese-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:46:33.889Z"
+}
