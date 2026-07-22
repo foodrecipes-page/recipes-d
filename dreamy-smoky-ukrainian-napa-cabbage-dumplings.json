@@ -1,0 +1,70 @@
+{
+  "slug": "dreamy-smoky-ukrainian-napa-cabbage-dumplings",
+  "title": "Smoky Ukrainian Cabbage Dumplings",
+  "description": "A hearty and comforting dish that combines the flavors of Ukraine with the sweetness of cabbage and the smokiness of a savory broth.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 whole head, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Dumplings (ukrainian style)",
+      "amount": "1 package, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Dreamy sauce",
+      "amount": "1/2 cup, store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Smoky broth",
+      "amount": "4 cups, store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the smoky broth to a simmer in a large pot.",
+    "Add the chopped napa cabbage to the pot and cook until tender, about 10 minutes.",
+    "Add the thawed dumplings to the pot and cook for an additional 5 minutes.",
+    "Stir in the dreamy sauce and season with salt and black pepper to taste.",
+    "Serve the cabbage and dumplings hot, garnished with additional dreamy sauce if desired.",
+    "Optional: serve with a side of rye bread or crusty rolls for dipping in the smoky broth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-smoky-ukrainian-napa-cabbage-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:02:40.044Z"
+}
