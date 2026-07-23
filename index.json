@@ -3183,13 +3183,14 @@
   },
   {
     "slug": "delicate-algerian-pappardelle-pasta",
-    "title": "Spicy Algerian Pasta Delight",
+    "title": "Algerian Pappardelle Delight",
     "tags": [
-      "pasta",
-      "north african",
-      "spicy"
+      "pappardelle",
+      "algerian-spices",
+      "pasta-recipes",
+      "vegetarian"
     ],
-    "cuisine": "North African",
+    "cuisine": "Algerian - Italian",
     "totalTimeMin": 25,
     "shard": "d"
   },
@@ -4353,16 +4354,15 @@
   },
   {
     "slug": "delicate-flaky-russian-yellow-pepper-pilaf",
-    "title": "Delicate Flaky Russian Yellow Pepper Pilaf",
+    "title": "Delicate Russian Pilaf",
     "tags": [
-      "healthy",
-      "one-pan",
+      "pilaf",
       "russian-cuisine",
-      "vegan",
-      "weeknight"
+      "delicate",
+      "flaky"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -6836,17 +6836,16 @@
   },
   {
     "slug": "delicate-turkish-lamb-doner-kebab",
-    "title": "Delicate Turkish Lamb Doner Kebab",
+    "title": "Delicate Lamb Doner Kebab",
     "tags": [
-      "date-night",
-      "grassy-notes",
-      "honey-recipes",
-      "lamb-recipes",
-      "low-sodium",
-      "turkish-cuisine"
+      "kebab",
+      "lamb",
+      "turkish",
+      "doner",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -17287,6 +17286,30 @@
     ],
     "cuisine": "saudi-arabian",
     "totalTimeMin": 170,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-turkish-vine-leaf-dolma--vegan",
+    "title": "Vegan Stuffed Vine Leaves",
+    "tags": [
+      "vegan",
+      "turkish",
+      "stuffed-leaves"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-yeasty-japanese-bread-bao--french",
+    "title": "French Bao",
+    "tags": [
+      "french-bao",
+      "goat-cheese",
+      "thyme"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
