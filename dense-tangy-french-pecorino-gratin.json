@@ -1,0 +1,67 @@
+{
+  "slug": "dense-tangy-french-pecorino-gratin",
+  "title": "French Pecorino Gratin",
+  "description": "A rich and creamy side dish that showcases the bold flavors of Pecorino cheese. Perfect for accompanying roasted meats or vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup (120g), grated"
+    },
+    {
+      "name": "dense bread",
+      "amount": "1 cup (120g), cubed"
+    },
+    {
+      "name": "tangy butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cubed bread and grated Pecorino cheese.",
+    "In a separate saucepan, melt tangy butter over low heat.",
+    "Add grated bread mixture to the saucepan and stir until bread is evenly coated.",
+    "Transfer bread mixture to a baking dish and top with additional grated Pecorino cheese.",
+    "Bake in preheated oven for 20-25 minutes, or until golden brown and crispy.",
+    "Remove from oven and season with salt and black pepper to taste.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "side-dish",
+    "french",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-tangy-french-pecorino-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:32:28.671Z"
+}
