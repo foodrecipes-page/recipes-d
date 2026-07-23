@@ -17311,5 +17311,20 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "dense-indian-avocado-sambhar--thai",
+    "title": "Thai Avocado Sambhar Soup",
+    "tags": [
+      "thai",
+      "soup",
+      "avocado",
+      "sambhar",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
