@@ -17359,5 +17359,18 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "doubanjiang-syrian-meat-tagine--vegetarian",
+    "title": "Vegetarian Tagine with Syrian Olives",
+    "tags": [
+      "vegetarian",
+      "tagine",
+      "middle-eastern",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "d"
   }
 ]
