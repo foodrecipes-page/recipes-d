@@ -1,0 +1,88 @@
+{
+  "slug": "delicate-roasted-saudi-arabian-lamb-tagine--mexican",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A flavorful and aromatic dish, inspired by the traditional Saudi Arabian cuisine, with tender lamb and delicate spices.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Delicate Spices",
+      "amount": "2 tablespoons",
+      "notes": "Mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add the roasted red peppers, delicate spices, tomato paste, chicken broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2.5 hours, or until tender and easily shredded with a fork.",
+    "Let the lamb rest for 10 minutes before serving.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "saudi-arabian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-saudi-arabian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:00:31.979Z"
+}
