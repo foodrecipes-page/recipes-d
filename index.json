@@ -17276,5 +17276,17 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-roasted-saudi-arabian-lamb-tagine--mexican",
+    "title": "Saudi Arabian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "saudi-arabian-cuisine"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 170,
+    "shard": "d"
   }
 ]
