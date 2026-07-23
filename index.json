@@ -17326,5 +17326,18 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "daring-polish-melon-salad--chinese",
+    "title": "Polish Melon Salad",
+    "tags": [
+      "chinese",
+      "salad",
+      "dessert",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 10,
+    "shard": "d"
   }
 ]
