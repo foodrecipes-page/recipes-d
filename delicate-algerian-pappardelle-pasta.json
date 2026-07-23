@@ -1,68 +1,62 @@
 {
   "slug": "delicate-algerian-pappardelle-pasta",
-  "title": "Spicy Algerian Pasta Delight",
-  "description": "A flavorful pasta dish with a spicy kick, inspired by Algerian cuisine. This recipe is perfect for a quick and satisfying meal.",
-  "cuisine": "North African",
+  "title": "Algerian Pappardelle Delight",
+  "description": "A unique fusion of Algerian spices and traditional Italian pasta. The delicate flavors of this dish will impress your guests.",
+  "cuisine": "Algerian - Italian",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Algerian Delicate Pasta",
-      "amount": "8 oz",
-      "notes": "Pappardelle works well too."
+      "name": "Pappardelle Pasta",
+      "amount": "250g",
+      "notes": "Wide, flat pasta"
+    },
+    {
+      "name": "Algerian Delicate Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Combine cumin, coriander, paprika, and cayenne pepper"
     },
     {
       "name": "Olive Oil",
       "amount": "2 tbsp",
-      "notes": null
-    },
-    {
-      "name": "Onion",
-      "amount": "1 medium",
-      "notes": "Chopped"
+      "notes": "Extra virgin for added flavor"
     },
     {
       "name": "Garlic",
       "amount": "3 cloves",
-      "notes": "Minced"
+      "notes": "Mince for added flavor"
     },
     {
-      "name": "Diced Tomatoes",
-      "amount": "1 can (14.5 oz)",
-      "notes": null
-    },
-    {
-      "name": "Chili Flakes",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "Black Pepper",
-      "amount": "to taste",
-      "notes": null
+      "name": "Cherry Tomatoes",
+      "amount": "250g",
+      "notes": "Halve for even cooking"
     },
     {
       "name": "Fresh Parsley",
-      "amount": "chopped (optional)",
-      "notes": null
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Cook the pasta according to package instructions.",
-    "In a large pan, heat the olive oil over medium heat.",
-    "Add the chopped onion and sauté for 3-4 minutes.",
-    "Add the minced garlic and cook for another minute.",
-    "Add the diced tomatoes, chili flakes, salt, and black pepper.",
-    "Stir well to combine.",
-    "Add the cooked pasta to the pan and toss everything together.",
-    "Serve hot, topped with chopped fresh parsley if desired."
+    "Cook the Pappardelle Pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the Algerian Delicate Spice Blend and stir for 1 minute.",
+    "Add the halved cherry tomatoes and cook for 3-4 minutes until they start to release their juices.",
+    "Add the cooked Pappardelle Pasta to the skillet and toss with the tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -70,18 +64,19 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "pasta",
-    "north african",
-    "spicy"
+    "pappardelle",
+    "algerian-spices",
+    "pasta-recipes",
+    "vegetarian"
   ],
   "nutrition": {
-    "calories": 450,
-    "protein": 10,
+    "calories": 420,
+    "protein": 12,
     "carbs": 60,
-    "fat": 15
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/delicate-algerian-pappardelle-pasta",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T18:28:54.642Z"
+  "createdAt": "2026-07-19T15:52:13.753Z"
 }
