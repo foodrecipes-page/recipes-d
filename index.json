@@ -17238,5 +17238,16 @@
     "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dreamy-dense-brazilian-cheese-lasagna--japanese",
+    "title": "Japanese Lasagna",
+    "tags": [
+      "japanese-lasagna",
+      "unique-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "d"
   }
 ]
