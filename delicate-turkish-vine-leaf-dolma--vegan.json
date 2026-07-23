@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-turkish-vine-leaf-dolma--vegan",
+  "title": "Vegan Stuffed Vine Leaves",
+  "description": "A delicious and healthy vegan dish inspired by Turkish cuisine, where fragrant rice and spices are wrapped in delicate vine leaves.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove the stems.",
+    "Heat a large pan over medium heat and sauté the onion and garlic until softened.",
+    "Add the cumin, paprika, and salt, and stir for 1 minute.",
+    "Add the rice and stir to combine with the spices.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the rice is cooked.",
+    "While the rice is cooking, prepare the vine leaves by blanching them in boiling water for 30 seconds.",
+    "Remove the vine leaves from the water and place them on a clean surface.",
+    "Spoon a small amount of the rice mixture onto the center of each vine leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining vine leaves and filling.",
+    "Serve the stuffed vine leaves warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "turkish",
+    "stuffed-leaves"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-turkish-vine-leaf-dolma--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:18:28.927Z"
+}
