@@ -1,0 +1,58 @@
+{
+  "slug": "decadent-charred-spanish-cheese-pa-amb-tomaquet",
+  "title": "Spanish Pa Amb Tomaquet",
+  "description": "Traditional Spanish dish made with crusty bread, fresh tomatoes, and garlic.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "tomaquet",
+      "amount": "2 medium",
+      "notes": "ripe and flavorful"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the bread into 1-inch thick slices.",
+    "3. Drizzle olive oil on the bread slices and sprinkle with salt.",
+    "4. Bake the bread slices in the oven for 10-12 minutes, or until crispy.",
+    "5. While the bread is baking, mix the minced garlic with a pinch of salt in a bowl.",
+    "6. Once the bread is done, remove it from the oven and rub the garlic mixture onto each slice.",
+    "7. Cut the tomatoes in half and place them on top of the bread slices.",
+    "8. Drizzle a bit of olive oil on top of the tomatoes and sprinkle with salt.",
+    "9. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-charred-spanish-cheese-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:31:29.302Z"
+}
