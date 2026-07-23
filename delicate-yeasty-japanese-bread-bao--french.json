@@ -1,0 +1,64 @@
+{
+  "slug": "delicate-yeasty-japanese-bread-bao--french",
+  "title": "French Bao",
+  "description": "A French-inspired twist on the traditional Chinese bao, filled with delicate flavors and textures.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese milk bread dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Delicate goat cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bao",
+      "amount": "4"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Japanese milk bread dough to a thickness of about 1/4 inch.",
+    "Cut out 4 circles of dough using a cookie cutter or the rim of a glass.",
+    "Spoon a small amount of delicate goat cheese onto one half of each dough circle.",
+    "Sprinkle a pinch of fresh thyme over the goat cheese.",
+    "Fold the other half of the dough circle over the filling and press the edges together to seal.",
+    "Brush the tops of the bao with extra-virgin olive oil.",
+    "Place the bao on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-bao",
+    "goat-cheese",
+    "thyme"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-yeasty-japanese-bread-bao--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:25:48.376Z"
+}
