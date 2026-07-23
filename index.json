@@ -17224,5 +17224,19 @@
     "cuisine": "jordanian",
     "totalTimeMin": 55,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-crispy-greek-chicken-fritters--thai",
+    "title": "Thai Crispy Chicken Fritters",
+    "tags": [
+      "thaifood",
+      "chicken",
+      "fritters",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
