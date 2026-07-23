@@ -1,0 +1,71 @@
+{
+  "slug": "decadent-spanish-oats-gazpacho--indian",
+  "title": "Gazpacho Oat Bites with Indian Flair",
+  "description": "A Spanish-inspired dessert with an Indian twist, these oat bites are perfect for a sweet treat. The gazpacho adds a tangy flavor to the oats, creating a unique and delicious experience.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned oats work best"
+    },
+    {
+      "name": "gazpacho",
+      "amount": "1/2 cup",
+      "notes": "chilled gazpacho for best results"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tsp",
+      "notes": "for greasing the pan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, mix together oats, brown sugar, and desiccated coconut (if using).",
+    "Add in the chilled gazpacho and mix until the oats are well-coated.",
+    "Using your hands, shape the mixture into small balls, about 1-inch in diameter.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Drizzle with ghee or oil to prevent sticking.",
+    "Bake for 15-20 minutes, or until lightly toasted.",
+    "Remove from oven and let cool completely on the baking sheet.",
+    "Store in an airtight container for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "spanish",
+    "oats",
+    "gazpacho",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spanish-oats-gazpacho--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:38:36.600Z"
+}
