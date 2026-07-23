@@ -1,0 +1,76 @@
+{
+  "slug": "dense-sweet-korean-bread-bowl--italian",
+  "title": "Italian Bread Bowl with Sweet Korean Filling",
+  "description": "A unique Italian-inspired dessert featuring a crispy bread bowl filled with a sweet Korean-inspired filling.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "1 whole loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Dense sweet filling (Korean-style)",
+      "amount": "250g",
+      "notes": "see below for filling ingredients"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "100g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crisp rice cereal",
+      "amount": "50g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "10g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "10g",
+      "notes": "for brushing the bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Slice the Italian bread into a bowl shape, hollowing out the center to create a crust.",
+    "Brush the bread with melted butter.",
+    "Bake the bread in the oven for 10 minutes, or until crispy.",
+    "While the bread is baking, prepare the dense sweet filling (see below).",
+    "Once the bread is crispy, fill it with the Korean-style sweet filling.",
+    "Sprinkle the filling with Korean chili flakes (optional), brown sugar, crisp rice cereal, and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "dessert",
+    "sweet-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-sweet-korean-bread-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:57:21.063Z"
+}
