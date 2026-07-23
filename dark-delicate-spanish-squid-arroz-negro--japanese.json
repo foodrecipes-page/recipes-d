@@ -1,0 +1,84 @@
+{
+  "slug": "dark-delicate-spanish-squid-arroz-negro--japanese",
+  "title": "Negro Squid Tempura with Arroz",
+  "description": "A Japanese-inspired tempura dish featuring negro squid, served with a side of arroz. This recipe showcases the delicate flavors of the ocean, paired with the savory taste of Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "negro squid",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "arroz",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "spanish onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "delicate seaweed",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and a pinch of salt. Gradually add ice-cold soda water, stirring with a fork until the batter just comes together.",
+    "Add the squid pieces to the batter and toss to coat evenly.",
+    "Heat about 1/2-inch (1 cm) of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F (180°C).",
+    "Carefully add the battered squid pieces to the hot oil and fry until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fried squid from the oil and drain on paper towels.",
+    "Serve the tempura squid hot with a side of cooked arroz, garnished with grated daikon, thinly sliced spanish onion, and chopped delicate seaweed.",
+    "Drizzle with dark soy sauce for added flavor.",
+    "Repeat the frying process in batches as needed to avoid overcrowding the pan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "tempura",
+    "squid",
+    "arroz"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-delicate-spanish-squid-arroz-negro--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:45:46.238Z"
+}
