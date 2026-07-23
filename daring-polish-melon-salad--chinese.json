@@ -1,0 +1,70 @@
+{
+  "slug": "daring-polish-melon-salad--chinese",
+  "title": "Polish Melon Salad",
+  "description": "A refreshing Chinese-inspired salad with Polish flavors, featuring juicy melon and crisp salad greens.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert/snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "Polish Salad",
+      "amount": "4 cups, chopped",
+      "notes": null
+    },
+    {
+      "name": "Daring",
+      "amount": "2 tablespoons, chopped fresh",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped salad and diced melon.",
+    "2. In a small bowl, whisk together the sesame oil, honey, and salt.",
+    "3. Drizzle the dressing over the salad and toss to coat.",
+    "4. Sprinkle the chopped daring over the salad and toss to combine.",
+    "5. Serve immediately, garnished with additional daring if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "salad",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-polish-melon-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:21:10.292Z"
+}
