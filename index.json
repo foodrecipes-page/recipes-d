@@ -1535,17 +1535,14 @@
   },
   {
     "slug": "decadent-charred-spanish-cheese-pa-amb-tomaquet",
-    "title": "Decadent Charred Spanish Cheese Pa Amb Tomaquet",
+    "title": "Spanish Pa Amb Tomaquet",
     "tags": [
-      "cheese-pull",
-      "halal-friendly",
-      "midnight-cravings",
-      "namul-blanch-season",
-      "one-pan",
-      "spanish-dishes"
+      "spanish",
+      "breakfast",
+      "vegetarian"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 27,
+    "cuisine": "spanish",
+    "totalTimeMin": 22,
     "shard": "d"
   },
   {
@@ -17335,6 +17332,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 10,
+    "shard": "d"
+  },
+  {
+    "slug": "dark-delicate-spanish-squid-arroz-negro--japanese",
+    "title": "Negro Squid Tempura with Arroz",
+    "tags": [
+      "japanese",
+      "tempura",
+      "squid",
+      "arroz"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-sweet-korean-bread-bowl--italian",
+    "title": "Italian Bread Bowl with Sweet Korean Filling",
+    "tags": [
+      "italian",
+      "korean",
+      "dessert",
+      "sweet-bread"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
