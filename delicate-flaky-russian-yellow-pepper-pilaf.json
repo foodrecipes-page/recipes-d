@@ -1,0 +1,62 @@
+{
+  "slug": "delicate-flaky-russian-yellow-pepper-pilaf",
+  "title": "Delicate Russian Pilaf",
+  "description": "A flavorful pilaf dish with delicate and flaky textures, inspired by Russian cuisine. This simple recipe is perfect for a weeknight dinner.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Delicate Pilaf",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Russian Pepper",
+      "amount": "1 large",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "Flaky Biscuits",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 375°F (190°C).",
+    "In a large saucepan, sauté the chopped onion and pepper in a small amount of oil until tender.",
+    "Add the homemade pilaf to the saucepan and stir to combine.",
+    "Transfer the mixture to a baking dish and top with flaky biscuits.",
+    "Bake in the preheated oven for 20-25 minutes, or until the biscuits are golden brown.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "russian-cuisine",
+    "delicate",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-flaky-russian-yellow-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:40:55.571Z"
+}
