@@ -1,0 +1,78 @@
+{
+  "slug": "dehydrated-crispy-mediterranean-fregola-pilaf",
+  "title": "Mediterranean Fregola Pilaf",
+  "description": "A flavorful and nutritious pilaf dish inspired by the Mediterranean region.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dehydrated Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crushed Feta Cheese (vegetarian)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the fregola and cook, stirring constantly, for 2-3 minutes or until lightly toasted.",
+    "Add the pilaf mix, dehydrated tomatoes, olives, and feta cheese. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "mediterranean",
+    "vegetarian",
+    "fregola",
+    "dehydrated"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dehydrated-crispy-mediterranean-fregola-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:01:45.722Z"
+}
