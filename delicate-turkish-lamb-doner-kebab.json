@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-turkish-lamb-doner-kebab",
+  "title": "Delicate Lamb Doner Kebab",
+  "description": "A classic Turkish dish made with thinly sliced lamb, served with a side of warm pita bread and your choice of toppings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Delicate Doner Kebab seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Turkish pita bread",
+      "amount": "4-6",
+      "notes": "Warm and toasted"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pita bread"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Doner Kebab seasoning blend and lemon juice.",
+    "Add the lamb strips to the bowl and toss to coat with the marinade.",
+    "Grill the lamb for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the kebabs by placing a few slices of lamb onto each pita bread, topped with red onion, tomato, and parsley.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "lamb",
+    "turkish",
+    "doner",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-turkish-lamb-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:49:55.397Z"
+}
