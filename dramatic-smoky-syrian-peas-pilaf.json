@@ -1,0 +1,70 @@
+{
+  "slug": "dramatic-smoky-syrian-peas-pilaf",
+  "title": "Smoky Syrian Pilaf",
+  "description": "A flavorful and aromatic dish from the Middle East, made with smoky spices and served with a side of peas.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dramatic basmati rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "syrian sumac",
+      "amount": "1 tsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add peas and sauté until tender, about 3-4 minutes.",
+    "Add rice to the skillet and stir to combine with peas.",
+    "Add smoky paprika and syrian sumac (if using), and stir-fry for 1-2 minutes.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until rice is cooked and fluffy.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "rice",
+    "peas",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dramatic-smoky-syrian-peas-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:24:54.384Z"
+}
