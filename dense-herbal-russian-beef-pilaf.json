@@ -1,0 +1,94 @@
+{
+  "slug": "dense-herbal-russian-beef-pilaf",
+  "title": "Beef Stroganoff Pilaf",
+  "description": "A hearty, comforting pilaf dish with tender beef and a rich, savory sauce.",
+  "cuisine": "russian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "sirloin steak, cut into bite-sized strips"
+    },
+    {
+      "name": "pilaf",
+      "amount": "250g",
+      "notes": "dried rice and herb pilaf mix"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "200g",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": "for sauce"
+    },
+    {
+      "name": "dill",
+      "amount": "20g",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pan and set aside.",
+    "Add onion and mushroom to pan and cook until softened, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and stir to combine.",
+    "Return beef to pan and simmer until cooked through, about 10 minutes.",
+    "Stir in pilaf mix and cook according to package instructions.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-herbal-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:42:26.805Z"
+}
