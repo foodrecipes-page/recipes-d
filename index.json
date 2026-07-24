@@ -17399,5 +17399,18 @@
     "cuisine": "Mediteranean",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-juicy-spanish-peppers-paella--italian",
+    "title": "Spicy Italian Paella",
+    "tags": [
+      "italian",
+      "paella",
+      "vegetarian",
+      "bell-peppers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "d"
   }
 ]
