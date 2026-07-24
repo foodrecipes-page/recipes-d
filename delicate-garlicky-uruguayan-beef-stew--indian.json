@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-garlicky-uruguayan-beef-stew--indian",
+  "title": "Uruguayan Beef Stew",
+  "description": "Hearty beef stew with the flavors of Uruguay, inspired by Indian spices. This recipe is perfect for a cold winter evening.",
+  "cuisine": "indian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "delicate onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "indian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "use garam masala, cumin, coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onions and garlic to pot and cook until softened, about 5 minutes.",
+    "Add spice blend and cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Return beef to pot and reduce heat to low.",
+    "Simmer, covered, for 2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "indian-food",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-garlicky-uruguayan-beef-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:25:06.007Z"
+}
