@@ -1,0 +1,84 @@
+{
+  "slug": "delicate-creamy-tunisian-eggs-frittata--keto",
+  "title": "Tunisian Frittata",
+  "description": "A keto twist on the classic Italian omelette, incorporating Tunisian flavors and ingredients.",
+  "cuisine": "Mediteranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large eggs",
+      "notes": "room temperature"
+    },
+    {
+      "name": "frittata",
+      "amount": "1 small frittata, diced",
+      "notes": ""
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp tunisian seasoning",
+      "notes": ""
+    },
+    {
+      "name": "delicate",
+      "amount": "1/4 cup chopped fresh parsley",
+      "notes": ""
+    },
+    {
+      "name": "creamy",
+      "amount": "1/4 cup grated feta cheese",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together eggs, tunisian seasoning, salt, and pepper.",
+    "Heat olive oil in a 9-inch (23cm) oven-safe skillet over medium heat.",
+    "Add the diced frittata and cook for 2-3 minutes.",
+    "Pour the egg mixture over the frittata and cook for 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove from the oven and sprinkle with feta cheese and parsley.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "frittata",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-creamy-tunisian-eggs-frittata--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:24:10.083Z"
+}
