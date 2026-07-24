@@ -17466,5 +17466,31 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "d"
+  },
+  {
+    "slug": "dreamy-garlicky-ukrainian-dried-cranberries-dumplings--keto",
+    "title": "Cranberry Ukrainian Dumplings",
+    "tags": [
+      "ukrainian",
+      "keto",
+      "breakfast",
+      "dumplings",
+      "cranberries"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-peruvian-cashew-stew--mexican",
+    "title": "Spicy Cashew Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "cashew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
