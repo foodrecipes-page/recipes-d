@@ -1,0 +1,68 @@
+{
+  "slug": "deliciously-toasted-portuguese-corn-flatbread",
+  "title": "Grilled Portuguese Corn Flatbread",
+  "description": "A simple and flavorful flatbread recipe, topped with toasted Portuguese corn and perfect for a quick snack or side dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (4-6 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Portuguese Corn",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush flatbread with olive oil and season with salt and pepper.",
+    "Grill flatbread for 2-3 minutes per side, or until crispy and golden brown.",
+    "Grill Portuguese corn for 2-3 minutes per side, or until lightly charred.",
+    "To assemble, place a piece of grilled flatbread on a plate and top with toasted corn.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "corn",
+    "flatbread",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-toasted-portuguese-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:44:16.297Z"
+}
