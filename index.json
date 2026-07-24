@@ -17372,5 +17372,32 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-floral-korean-gelatin-bowl--vegan",
+    "title": "Floral Vegan Jelly Bowl",
+    "tags": [
+      "korean",
+      "vegan",
+      "dessert",
+      "gelatin-free",
+      "flower"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 120,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-creamy-tunisian-eggs-frittata--keto",
+    "title": "Tunisian Frittata",
+    "tags": [
+      "keto",
+      "breakfast",
+      "frittata",
+      "tunisian"
+    ],
+    "cuisine": "Mediteranean",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
