@@ -1,0 +1,84 @@
+{
+  "slug": "dreamy-smoky-thai-nutella-kanom-ko--indian",
+  "title": "Kanom Buang with Smoky Caramel Sauce",
+  "description": "A delicate Thai-inspired crepe filled with a sweet coconut and nutella filling, served with a smoky caramel sauce inspired by Indian cuisine. This dessert is perfect for warm weather.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kanom",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine kanom, nutella, coconut oil, smoked paprika, and honey in a blender.",
+    "Blend until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour 1/4 cup of the kanom mixture into the pan.",
+    "Tilt the pan to evenly coat the bottom.",
+    "Cook for 2 minutes or until the edges start to curl.",
+    "Loosen with a spatula and flip.",
+    "Cook for another minute.",
+    "Repeat with the remaining mixture.",
+    "Combine heavy cream and powdered sugar in a saucepan.",
+    "Heat over low heat, stirring until the sugar dissolves.",
+    "Bring to a simmer and cook for 5 minutes or until the sauce thickens.",
+    "Serve the kanom buang with the smoky caramel sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "crepe",
+    "smoky",
+    "caramel",
+    "nutella",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-smoky-thai-nutella-kanom-ko--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:11:44.170Z"
+}
