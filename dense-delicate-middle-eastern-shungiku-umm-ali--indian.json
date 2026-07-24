@@ -1,0 +1,98 @@
+{
+  "slug": "dense-delicate-middle-eastern-shungiku-umm-ali--indian",
+  "title": "Shungiku and Eastern Vegetable Curry",
+  "description": "A delicious and flavorful Indian-inspired curry made with shungiku, eastern vegetables, and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shungiku leaves",
+      "amount": "2 cups, chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "middle eastern eggplant",
+      "amount": "1 medium, cubed",
+      "notes": ""
+    },
+    {
+      "name": "eastern vegetables",
+      "amount": "1 cup, sliced",
+      "notes": "such as okra or bell peppers"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add shungiku leaves and eastern vegetables and cook for another 3-4 minutes.",
+    "Add tomato puree, cumin, coriander, turmeric powder, and cayenne pepper. Stir well.",
+    "Reduce heat to low and simmer for 15-20 minutes or until the vegetables are tender.",
+    "Season with salt to taste.",
+    "Serve over steamed rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shungiku",
+    "indian-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-delicate-middle-eastern-shungiku-umm-ali--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:15:13.138Z"
+}
