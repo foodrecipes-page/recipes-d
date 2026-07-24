@@ -1,0 +1,76 @@
+{
+  "slug": "delicate-roasted-saudi-arabian-lamb-tagine--vegetarian",
+  "title": "Vegetarian Tagine",
+  "description": "A flavorful and aromatic vegetarian tagine made with roasted vegetables and saudi spices.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Delicate saudi spices",
+      "amount": "2 teaspoons",
+      "notes": "tagine spice mix"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped red bell pepper and cook for another 5 minutes.",
+    "Add the chopped carrots and zucchini and cook for 10 minutes, stirring occasionally.",
+    "Add the saudi spices and garlic and stir to combine.",
+    "Continue to cook for another 10 minutes, stirring occasionally.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "arabian",
+    "lamb-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-saudi-arabian-lamb-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:04:48.394Z"
+}
