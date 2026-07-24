@@ -1,0 +1,94 @@
+{
+  "slug": "dense-peppery-norwegian-cannellini-beans-stew",
+  "title": "Hearty Norwegian Bean Stew",
+  "description": "A comforting, one-pot stew made with Norwegian beans, cannellini beans, and a rich, peppery broth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian beans",
+      "amount": "1 cup, dried",
+      "notes": "Rinse before using"
+    },
+    {
+      "name": "cannellini beans",
+      "amount": "1 can, drained and rinsed",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried bay leaves",
+      "amount": "4",
+      "notes": "Remove before serving"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and diced",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, diced",
+      "notes": null
+    },
+    {
+      "name": "stew broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, combine the Norwegian beans, cannellini beans, thyme, bay leaves, and peppercorns.",
+    "Add the diced onion, carrot, and celery to the pot.",
+    "Pour in the stew broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour.",
+    "Add the diced tomatoes and continue to simmer for another 30 minutes.",
+    "Remove the bay leaves before serving.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "This stew can be refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "stew",
+    "norwegian",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peppery-norwegian-cannellini-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:54:56.374Z"
+}
