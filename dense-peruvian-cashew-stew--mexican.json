@@ -1,0 +1,86 @@
+{
+  "slug": "dense-peruvian-cashew-stew--mexican",
+  "title": "Spicy Cashew Stew",
+  "description": "A hearty and flavorful Mexican stew made with cashews and a blend of spices. The stew is rich and comforting, perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dense Stew Meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Peruvian Red Pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic, cumin, and chili powder, and cook for 1 minute.",
+    "Add the diced tomatoes, vegetable broth, salt, and pepper.",
+    "Stir in the cashews.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "cashew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-peruvian-cashew-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:16:01.317Z"
+}
