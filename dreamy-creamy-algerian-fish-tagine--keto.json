@@ -1,0 +1,84 @@
+{
+  "slug": "dreamy-creamy-algerian-fish-tagine--keto",
+  "title": "Keto Algerian Fish Tagine",
+  "description": "A flavorful and rich keto fish tagine recipe inspired by Algerian cuisine, featuring a creamy and dreamy sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as Cod or Tilapia)",
+      "amount": "4 pieces",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Dreamy Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream or coconut cream"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 teaspoons",
+      "notes": "Combine cumin, coriander, cinnamon, turmeric, and paprika"
+    },
+    {
+      "name": "Algerian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the fish with salt and black pepper.",
+    "Heat the Algerian Olive Oil in a large, oven-safe skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the fish to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until the fish is cooked through.",
+    "While the fish is cooking, prepare the creamy sauce by combining the Dreamy Cream, Tagine Spice Mix, and a pinch of salt in a small bowl.",
+    "Remove the skillet from the oven and brush the creamy sauce over the fish.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fish",
+    "keto",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-algerian-fish-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:46:31.869Z"
+}
