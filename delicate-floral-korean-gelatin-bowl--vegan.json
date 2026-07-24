@@ -1,0 +1,65 @@
+{
+  "slug": "delicate-floral-korean-gelatin-bowl--vegan",
+  "title": "Floral Vegan Jelly Bowl",
+  "description": "A delicate, floral, and refreshing Korean-inspired dessert made with vegan jelly and garnished with edible flowers. Perfect for a light and fruity treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin-Free Jelly Mix",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Simple Syrup",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Edible Flowers (such as violas or pansies)",
+      "amount": "handful",
+      "notes": "optional"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the gelatin-free jelly mix and water until well combined.",
+    "2. Add the vegan simple syrup to the jelly mixture and stir until dissolved.",
+    "3. Pour the mixture into a bowl and refrigerate for at least 2 hours to set.",
+    "4. Once set, garnish with edible flowers if desired.",
+    "5. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "dessert",
+    "gelatin-free",
+    "flower"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-floral-korean-gelatin-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:58:17.720Z"
+}
