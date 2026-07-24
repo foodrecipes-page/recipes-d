@@ -17553,5 +17553,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dreamy-creamy-algerian-fish-tagine--keto",
+    "title": "Keto Algerian Fish Tagine",
+    "tags": [
+      "algerian",
+      "fish",
+      "keto",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 33,
+    "shard": "d"
   }
 ]
