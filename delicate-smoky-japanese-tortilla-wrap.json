@@ -1,0 +1,79 @@
+{
+  "slug": "delicate-smoky-japanese-tortilla-wrap",
+  "title": "Smoked Salmon Sushi Rolls",
+  "description": "A delicious and easy-to-make sushi roll recipe featuring smoked salmon, wrapped in delicate Japanese tortilla.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Delicate Japanese tortilla",
+      "amount": "4-6 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Japanese mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to package instructions.",
+    "Cut the smoked salmon into thin slices.",
+    "Cut the green onions into thin slices.",
+    "Prepare the Japanese mayonnaise according to package instructions.",
+    "Lay a sheet of Japanese tortilla flat and spread a thin layer of sushi rice onto it.",
+    "Place a few slices of smoked salmon in the middle of the rice.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Repeat with the remaining ingredients.",
+    "Slice the sushi rolls into individual pieces.",
+    "Serve with sesame seeds and green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "salmon",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-smoky-japanese-tortilla-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:54:35.411Z"
+}
