@@ -1,0 +1,91 @@
+{
+  "slug": "deliciously-caramelized-vietnamese-noodles-bowl--chinese",
+  "title": "Vietnamese Chicken Noodle Bowl",
+  "description": "A flavorful and nutritious bowl filled with caramelized chicken, delicious noodles, and a mix of crunchy vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Vietnamese noodles",
+      "amount": "1 cup",
+      "notes": "Rice stick noodles"
+    },
+    {
+      "name": "Caramelized onion",
+      "amount": "1 medium",
+      "notes": "Sliced and cooked until golden brown"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the sliced onion and cook until caramelized, about 5 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the grated carrot and cook for 1 minute.",
+    "Return the chicken to the skillet and stir in the soy sauce and hoisin sauce (if using).",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve the chicken mixture over the cooked noodles and garnish with sliced cucumber.",
+    "Drizzle with sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "noodle",
+    "vietnamese",
+    "chinese",
+    "lunch",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-caramelized-vietnamese-noodles-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:46:21.302Z"
+}
