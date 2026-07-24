@@ -1,0 +1,78 @@
+{
+  "slug": "dense-smoked-croatian-haddock-pilaf--japanese",
+  "title": "Smoked Haddock Pilaf",
+  "description": "A simple and flavorful Japanese-inspired pilaf dish featuring smoked haddock, with a hint of pilaf rice and a touch of Croatian flair.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock",
+      "amount": "250g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium heat.",
+    "Add green onions and cook for 2 minutes.",
+    "Add smoked haddock and cook for 3 minutes on each side.",
+    "Add pilaf and stir-fry for 3 minutes.",
+    "Add soy sauce, miso paste and stir-fry for another minute.",
+    "Transfer the pilaf mixture to a serving dish.",
+    "Garnish with sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pilaf",
+    "haddock"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoked-croatian-haddock-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:32:01.281Z"
+}
