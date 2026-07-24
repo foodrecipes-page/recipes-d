@@ -1,0 +1,83 @@
+{
+  "slug": "dreamy-garlicky-ukrainian-dried-cranberries-dumplings--keto",
+  "title": "Cranberry Ukrainian Dumplings",
+  "description": "Sweet and savory Ukrainian dumplings filled with a cranberry and cream cheese mixture, perfect for a keto diet.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dreamy cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Melt the cream cheese in a saucepan over low heat.",
+    "Add the minced garlic and stir until combined.",
+    "Add the cranberries and cook until they start to soften.",
+    "In a separate bowl, whisk together the eggs and salt.",
+    "Add the egg mixture to the cream cheese mixture and stir until combined.",
+    "Add the dreamy cheese and stir until combined.",
+    "Place the dumpling wrappers on a clean surface.",
+    "Place a tablespoon of the cranberry mixture in the center of each wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "keto",
+    "breakfast",
+    "dumplings",
+    "cranberries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-garlicky-ukrainian-dried-cranberries-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:10:57.110Z"
+}
