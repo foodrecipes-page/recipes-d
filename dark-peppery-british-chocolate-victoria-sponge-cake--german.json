@@ -1,0 +1,84 @@
+{
+  "slug": "dark-peppery-british-chocolate-victoria-sponge-cake--german",
+  "title": "Victoria Sponge Cake (German Inspired)",
+  "description": "A classic British dessert with a German twist, featuring a rich, dark chocolate ganache filling.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate (70% cocoa)",
+      "amount": "120g",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "150g",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "sieved"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peppery sea salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "victoria sponge cake mix",
+      "amount": "1 box",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F). Grease two 20cm (8-inch) round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, baking powder, and salt. Set aside.",
+    "In a large mixing bowl, beat the butter and sugar until light and fluffy, about 3 minutes.",
+    "Beat in the eggs one at a time, allowing each egg to fully incorporate before adding the next.",
+    "Gradually mix in the flour mixture, then the chopped chocolate.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes, or until a toothpick inserted in the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "To assemble the cake, place one cake layer on a serving plate and spread the dark chocolate ganache over the top.",
+    "Place the second cake layer on top and dust with powdered sugar.",
+    "Cut the cake into wedges and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "british",
+    "cake",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-peppery-british-chocolate-victoria-sponge-cake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:05:27.650Z"
+}
