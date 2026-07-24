@@ -1,0 +1,59 @@
+{
+  "slug": "delicate-grassy-german-wild-garlic-pasta--keto",
+  "title": "Wild Mushroom Pasta",
+  "description": "A keto pasta dish featuring wild mushrooms and a delicate sauce. Perfect for a low-carb dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup (115g)",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "german butter",
+      "amount": "2 tbsp (30g)",
+      "notes": "or regular unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "Melt 1 tbsp of butter in a pan over medium heat. Add garlic and sauté for 1-2 minutes.",
+    "Add wild mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "Stir in the remaining 1 tbsp of butter until melted.",
+    "Drain pasta and add to the pan with the mushroom sauce.",
+    "Toss pasta to coat with the sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ketopasta",
+    "wildmushrooms",
+    "garlicbutter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-grassy-german-wild-garlic-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:15:22.585Z"
+}
