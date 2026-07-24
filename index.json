@@ -11679,16 +11679,14 @@
   },
   {
     "slug": "dense-herbal-russian-beef-pilaf",
-    "title": "Dense Herbal Russian Beef Pilaf",
+    "title": "Beef Stroganoff Pilaf",
     "tags": [
-      "beef-recipes",
-      "halal-friendly",
-      "herbal-dishes",
-      "one-pot",
-      "russian-cuisine"
+      "beef",
+      "pilaf",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -12200,18 +12198,16 @@
   },
   {
     "slug": "dense-peppery-norwegian-cannellini-beans-stew",
-    "title": "Dense Peppery Norwegian Cannellini Beans Stew",
+    "title": "Hearty Norwegian Bean Stew",
     "tags": [
-      "cannellini-beans",
-      "comfort-food",
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
+      "hearty",
+      "comforting",
       "stew",
-      "winter"
+      "norwegian",
+      "beans"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "d"
   },
   {
@@ -17530,6 +17526,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-garlicky-uruguayan-beef-stew--indian",
+    "title": "Uruguayan Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "indian-food",
+      "winter-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
     "shard": "d"
   }
 ]
