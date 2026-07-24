@@ -17540,5 +17540,18 @@
     "cuisine": "indian",
     "totalTimeMin": 135,
     "shard": "d"
+  },
+  {
+    "slug": "dense-delicate-middle-eastern-shungiku-umm-ali--indian",
+    "title": "Shungiku and Eastern Vegetable Curry",
+    "tags": [
+      "shungiku",
+      "indian-cuisine",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
