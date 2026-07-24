@@ -17492,5 +17492,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-grassy-german-wild-garlic-pasta--keto",
+    "title": "Wild Mushroom Pasta",
+    "tags": [
+      "ketopasta",
+      "wildmushrooms",
+      "garlicbutter"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoked-croatian-haddock-pilaf--japanese",
+    "title": "Smoked Haddock Pilaf",
+    "tags": [
+      "japanese",
+      "pilaf",
+      "haddock"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-indian-avocado-sambhar--chinese",
+    "title": "Kung Pao Chicken with Avocado Salsa",
+    "tags": [
+      "chinese",
+      "spicy",
+      "chicken",
+      "peanuts",
+      "avocado",
+      "salsa"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
