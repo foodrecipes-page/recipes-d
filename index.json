@@ -17412,5 +17412,36 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-caramelized-vietnamese-noodles-bowl--chinese",
+    "title": "Vietnamese Chicken Noodle Bowl",
+    "tags": [
+      "chicken",
+      "noodle",
+      "vietnamese",
+      "chinese",
+      "lunch",
+      "quick"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-smoky-thai-nutella-kanom-ko--indian",
+    "title": "Kanom Buang with Smoky Caramel Sauce",
+    "tags": [
+      "indian",
+      "dessert",
+      "crepe",
+      "smoky",
+      "caramel",
+      "nutella",
+      "coconut"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
