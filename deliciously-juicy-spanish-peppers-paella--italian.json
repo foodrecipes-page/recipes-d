@@ -1,0 +1,94 @@
+{
+  "slug": "deliciously-juicy-spanish-peppers-paella--italian",
+  "title": "Spicy Italian Paella",
+  "description": "A unique twist on traditional paella with the bold flavors of Italy and the heat of Spanish peppers.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the red and yellow bell peppers and cook until tender, about 5 minutes.",
+    "Add the tomato and cook until it starts to break down, about 2-3 minutes.",
+    "Add the Arborio rice and stir to coat with the oil and mix with the vegetables.",
+    "Add the chicken broth, white wine, and Italian seasoning. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paella",
+    "vegetarian",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-juicy-spanish-peppers-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:39:59.492Z"
+}
