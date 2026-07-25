@@ -1,0 +1,59 @@
+{
+  "slug": "dark-crunchy-malaysian-rye-noodles--chinese",
+  "title": "Stir-Fried Noodles with Crispy Dark Chocolate",
+  "description": "A sweet and savory twist on traditional Chinese stir-fries, featuring crispy dark chocolate and crunchy rye.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 60% cocoa"
+    },
+    {
+      "name": "rye bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "pan-fried until crispy"
+    },
+    {
+      "name": "malaysian noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the rye bread crumbs and cook, stirring frequently, until crispy and golden brown.",
+    "Remove the crumbs from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and cook the dark chocolate chips until melted and fragrant.",
+    "Add the malaysian noodles to the skillet and stir-fry for 2-3 minutes, until heated through.",
+    "Return the crispy rye bread crumbs to the skillet and stir-fry for an additional minute.",
+    "Season with soy sauce to taste.",
+    "Serve immediately, garnished with additional crispy rye bread crumbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-crunchy-malaysian-rye-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:19:16.968Z"
+}
