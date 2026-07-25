@@ -6065,13 +6065,12 @@
   },
   {
     "slug": "delicate-saudi-arabian-seeds-bowl",
-    "title": "Delicate Saudi Arabian Seeds Bowl",
+    "title": "Saudi Arabian Delicate Chicken and Rice",
     "tags": [
-      "brunch",
-      "middle-eastern",
-      "seed-based",
-      "slow-cooked",
-      "vegetarian"
+      "chicken",
+      "saudi-arabian",
+      "rice",
+      "middle-eastern"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
@@ -8056,17 +8055,14 @@
   },
   {
     "slug": "deliciously-briny-northern-irish-lentil-cottage-pie",
-    "title": "Deliciously Briny Northern Irish Lentil Cottage Pie",
+    "title": "Delicious Irish Cottage Pie",
     "tags": [
+      "irish",
       "comfort-food",
-      "high-protein",
-      "northern-irish",
-      "one-pan",
-      "post-workout",
-      "vegan-friendly"
+      "meat-and-potatoes"
     ],
-    "cuisine": "Northern Irish",
-    "totalTimeMin": 65,
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -17807,6 +17803,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "date-night-delight-french-gruy-re-macaron--italian",
+    "title": "Tiramisù",
+    "tags": [
+      "italian",
+      "dessert",
+      "coffee",
+      "ladyfingers",
+      "mascarpone"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 360,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-earthy-indian-kidney-beans-rajma--chinese",
+    "title": "Spicy Rajma Stir Fry",
+    "tags": [
+      "chinese",
+      "indian",
+      "stir-fry",
+      "kidney-beans",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
