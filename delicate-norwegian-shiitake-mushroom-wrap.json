@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-norwegian-shiitake-mushroom-wrap",
+  "title": "Norwegian-Style Shiitake Mushroom Wrap",
+  "description": "A delicate and flavorful wrap filled with sautéed shiitake mushrooms, inspired by Norwegian cuisine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "Delicate wrap",
+      "amount": "1",
+      "notes": "large, flour tortilla"
+    },
+    {
+      "name": "Norwegian feta cheese (or regular feta)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: lemon wedges",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add olive oil and sauté the sliced shiitake mushrooms until tender, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Brush the large wrap with olive oil and toast for 1-2 minutes, until lightly browned.",
+    "Assemble the wrap by spreading the cooked mushroom mixture down the center, followed by crumbled feta cheese and chopped parsley.",
+    "Season with salt and pepper to taste.",
+    "Optional: serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "mushroom",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-shiitake-mushroom-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:49:25.149Z"
+}
