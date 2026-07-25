@@ -122,17 +122,15 @@
   },
   {
     "slug": "daring-crunchy-australian-almonds-wrap",
-    "title": "Daring Crunchy Australian Almonds Wrap",
+    "title": "Australian Wrap",
     "tags": [
-      "air-fry",
-      "corn-husk-wrap",
-      "quick",
-      "shojin-friendly",
       "snack",
-      "vegan"
+      "australian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 22,
+    "cuisine": "australian",
+    "totalTimeMin": 5,
     "shard": "d"
   },
   {
@@ -17858,6 +17856,34 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-roasted-saudi-arabian-lamb-tagine--indian",
+    "title": "Saudi Arabian Lamb Tagine",
+    "tags": [
+      "arabian",
+      "lamb",
+      "saudi",
+      "tagine",
+      "indian",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
+    "slug": "ddecadent-flax-seedy-jamaican-skewers--chinese",
+    "title": "Jamaican Jerk Skewers with Flaxseed Crunch",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "chinese",
+      "caribbean"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
     "shard": "d"
   }
 ]
