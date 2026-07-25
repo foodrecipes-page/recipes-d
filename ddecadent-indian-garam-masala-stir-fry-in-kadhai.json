@@ -1,0 +1,88 @@
+{
+  "slug": "ddecadent-indian-garam-masala-stir-fry-in-kadhai",
+  "title": "Spicy Kadhai Paneer",
+  "description": "A popular North Indian dish made with paneer, bell peppers, and a blend of spices. It's a quick and flavorful recipe to make on any weeknight.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cubed"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "kadhai masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat.",
+    "Add cumin seeds and let them sizzle.",
+    "Add sliced onions and sauté until translucent.",
+    "Add sliced red bell peppers and cook for 2-3 minutes.",
+    "Add paneer and cook until lightly browned.",
+    "Add diced tomatoes, kadhai masala, garam masala, and salt.",
+    "Stir well to combine.",
+    "Add ghee and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot garnished with cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "paneer",
+    "kadhai",
+    "indian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-indian-garam-masala-stir-fry-in-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:52:11.834Z"
+}
