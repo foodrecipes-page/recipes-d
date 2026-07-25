@@ -1,0 +1,99 @@
+{
+  "slug": "delicate-scrambled-irish-eggs-frittata--mexican",
+  "title": "Irish-Mexican Breakfast Frittata",
+  "description": "A spicy twist on the traditional Irish breakfast, incorporating Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Irish eggs",
+      "amount": "2",
+      "notes": "hard-boiled, diced"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "1",
+      "notes": "soft-scrambled, crumbled"
+    },
+    {
+      "name": "delicate eggs",
+      "amount": "1",
+      "notes": "poached, sliced"
+    },
+    {
+      "name": "Cotija cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 cup",
+      "notes": "Mexican sausage, cooked, crumbled"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": "sauteed"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1/2 cup",
+      "notes": "sauteed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and bell pepper until softened.",
+    "Add the cooked chorizo and stir to combine.",
+    "In a large bowl, whisk the eggs and a pinch of salt.",
+    "Add the whisked eggs to the skillet with the chorizo mixture and stir to combine.",
+    "Pour the egg mixture into a greased 9-inch (23cm) pie plate or skillet.",
+    "Bake for 25-30 minutes, or until the eggs are set.",
+    "While the frittata bakes, cook the Irish eggs and crumble them into small pieces.",
+    "Once the frittata is done, remove it from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata, then slide it onto a plate.",
+    "Top the frittata with crumbled Irish eggs, soft-scrambled eggs, and diced delicate eggs.",
+    "Sprinkle the shredded Cotija cheese over the top and garnish with chopped cilantro.",
+    "Serve warm with salsa on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "eggs",
+    "frittata",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-scrambled-irish-eggs-frittata--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:26:23.669Z"
+}
