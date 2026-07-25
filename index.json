@@ -17832,5 +17832,32 @@
     "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-canadian-kanten-agar-casserole--french",
+    "title": "French Kanten Casserole",
+    "tags": [
+      "french",
+      "dessert",
+      "kanten",
+      "agar",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 240,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-indian-dough-gulab-jjumun--mexican",
+    "title": "Delicate Mexican Gulab Jjumun",
+    "tags": [
+      "mexican",
+      "dessert",
+      "gulab",
+      "jjumun"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
