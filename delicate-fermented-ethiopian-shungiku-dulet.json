@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-fermented-ethiopian-shungiku-dulet",
+  "title": "Shungiku Stew",
+  "description": "A hearty and flavorful stew made with Ethiopian spices, delicate greens, and fermented flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shungiku",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented Injera Bread",
+      "amount": "2 cups",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Ethiopian Red Pepper",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dulet",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Ethiopian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add Ethiopian Red Pepper and cook for 1 minute.",
+    "Add chopped shungiku and cook until wilted.",
+    "Add crumbled injera bread, chopped dulet, and vegetable broth.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in Ethiopian Spice Blend and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "ethiopian",
+    "vegetarian",
+    "shungiku"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-fermented-ethiopian-shungiku-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:15:10.850Z"
+}
