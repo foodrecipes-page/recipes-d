@@ -1,0 +1,79 @@
+{
+  "slug": "date-night-delight-french-gruy-re-macaron--italian",
+  "title": "Tiramisù",
+  "description": "A classic Italian dessert made with ladyfingers, mascarpone cheese, and espresso.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "date",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "night",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "delight",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "french",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "gruy",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "re",
+      "amount": "2 cups (400g)",
+      "notes": ""
+    },
+    {
+      "name": "macaron",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Dip each ladyfinger into coffee for a few seconds on each side.",
+    "In a large bowl, combine mascarpone cheese, granulated sugar, and vanilla extract.",
+    "In a separate bowl, whip heavy cream until stiff peaks form.",
+    "To assemble the tiramisu, start with a layer of ladyfingers.",
+    "Spread half of the mascarpone mixture over the ladyfingers.",
+    "Top with half of the whipped cream.",
+    "Repeat the layers, ending with a layer of ladyfingers.",
+    "Dust with cocoa powder.",
+    "Refrigerate for at least 3 hours or overnight.",
+    "Slice into squares and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 360,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "coffee",
+    "ladyfingers",
+    "mascarpone"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-delight-french-gruy-re-macaron--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:09:41.114Z"
+}
