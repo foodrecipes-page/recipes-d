@@ -1,0 +1,71 @@
+{
+  "slug": "delicate-saudi-arabian-seeds-bowl",
+  "title": "Saudi Arabian Delicate Chicken and Rice",
+  "description": "A flavorful Saudi Arabian dish made with tender chicken, fluffy rice, and a hint of spices. Serve with a side of fresh vegetables.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "2 cups",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "delicate saudi spices",
+      "amount": "2 tablespoons",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "bowl of water",
+      "amount": "4 cups",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "arabian seeds (like cumin seeds or nigella seeds)",
+      "amount": "1 teaspoon",
+      "notes": "optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add 2 tablespoons of oil to the skillet and sauté the saudi spices for 1 minute.",
+    "Add the long grain rice to the skillet and stir to coat with the spice mixture.",
+    "Add the bowl of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 18-20 minutes or until the rice is cooked.",
+    "Fluff the cooked rice with a fork and stir in the arabian seeds (if using).",
+    "Serve the chicken breast on top of the rice and garnish with fresh vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "saudi-arabian",
+    "rice",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-saudi-arabian-seeds-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:24:21.367Z"
+}
