@@ -1,0 +1,87 @@
+{
+  "slug": "deliciously-crisp-peruvian-lamb-seco-de-cordero--thai",
+  "title": "Grilled Lamb Skewers with Thai-Style Peruvian Marinade",
+  "description": "A fusion of Thai and Peruvian flavors in this grilled lamb skewers recipe. Marinated in a mixture of soy sauce, garlic, and aji amarillo peppers, these skewers are perfect for a summer barbecue.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1.5 lbs",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine aji amarillo peppers, curry paste, fish sauce, brown sugar, soy sauce, and garlic. Blend until smooth.",
+    "In a large bowl, whisk together the marinade mixture and 2 tbsp of olive oil. Add the lamb cubes and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to desired doneness.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-lamb",
+    "thai-peruvian-fusion",
+    "summer-barbecue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crisp-peruvian-lamb-seco-de-cordero--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:46:49.276Z"
+}
