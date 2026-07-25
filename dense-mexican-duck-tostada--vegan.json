@@ -1,0 +1,88 @@
+{
+  "slug": "dense-mexican-duck-tostada--vegan",
+  "title": "Vegan Tostada Fiesta",
+  "description": "A flavorful and vibrant vegan tostada recipe, perfect for a delicious and colorful meal. This dish combines the crunch of tostadas with the freshness of Mexican-inspired flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tostadas",
+      "amount": "4-6",
+      "notes": "corn tostadas"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Diced Avocado",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "Diced Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing tostadas"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush both sides of the tostadas with olive oil and place on a baking sheet.",
+    "Bake the tostadas for 5-7 minutes or until crispy and lightly browned.",
+    "In a medium bowl, mix together the black beans, diced tomatoes, diced avocado, diced red onion, and chopped cilantro.",
+    "Squeeze the lime juice over the top of the mixture and season with salt and pepper to taste.",
+    "To assemble the tostadas, place a spoonful of the black bean mixture onto each tostada.",
+    "Serve immediately and enjoy!",
+    "Optional: Top with sliced radishes, diced jalapeños, or a sprinkle of nutritional yeast for extra flavor and crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-mexican-duck-tostada--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:22:46.209Z"
+}
