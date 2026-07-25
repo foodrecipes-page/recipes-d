@@ -1,0 +1,83 @@
+{
+  "slug": "delicate-german-dates-poke",
+  "title": "Delicate Poke Bowl with German Dates",
+  "description": "A light and refreshing Poke bowl featuring delicate fish, topped with sweet German dates and crunchy vegetables.",
+  "cuisine": "Japanese-Inspired",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate fish",
+      "amount": "1 pound",
+      "notes": "sushi-grade"
+    },
+    {
+      "name": "German dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Poke seasoning",
+      "amount": "2 tablespoons",
+      "notes": "make your own or store-bought"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cut the delicate fish into small pieces and place in a bowl.",
+    "2. In a small bowl, whisk together Poke seasoning, coconut oil, and sesame oil.",
+    "3. Pour the seasoning mixture over the fish and toss to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "5. Just before serving, toast the sesame seeds in a dry pan over medium heat.",
+    "6. Slice the German dates into thin wedges.",
+    "7. Arrange the mixed greens on a plate or bowl.",
+    "8. Top the greens with the marinated fish, German dates, chopped cucumber, and sliced green onions.",
+    "9. Sprinkle toasted sesame seeds over the top.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poke",
+    "delicate",
+    "german",
+    "dates",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-german-dates-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:39:43.755Z"
+}
