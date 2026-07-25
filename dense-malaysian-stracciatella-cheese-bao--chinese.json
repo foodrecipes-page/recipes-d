@@ -1,0 +1,70 @@
+{
+  "slug": "dense-malaysian-stracciatella-cheese-bao--chinese",
+  "title": "Stracciatella Bao Bites",
+  "description": "A twist on traditional bao, these bite-sized snacks fill crispy bao dough with rich stracciatella and sweet cheese.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao dough",
+      "amount": "1 package (usually contains 8-10 pieces)"
+    },
+    {
+      "name": "Stracciatella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dense milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "1 tablespoon (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep frying pan or a deep fryer to 180°C (350°F).",
+    "Cut the bao dough into small squares.",
+    "Heat the vegetable oil in the pan over medium heat.",
+    "Fry the bao dough squares in batches until golden brown.",
+    "Drain the fried bao on paper towels.",
+    "In a separate pan, melt the stracciatella over low heat.",
+    "Add the shredded cheese and stir until melted and smooth.",
+    "Add the dense milk and stir until combined.",
+    "Add the Malaysian chili sauce (if using) and stir to combine.",
+    "Assemble the bao bites by placing a spoonful of the stracciatella mixture onto a fried bao square.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegetarian",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-malaysian-stracciatella-cheese-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:05:23.728Z"
+}
