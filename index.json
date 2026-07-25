@@ -17629,5 +17629,18 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-sweet-argentinian-pineapple-skewers--mexican",
+    "title": "Grilled Pineapple and Chorizo Skewers",
+    "tags": [
+      "mexican",
+      "grilled",
+      "chorizo",
+      "pineapple"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
