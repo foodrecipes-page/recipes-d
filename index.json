@@ -14510,11 +14510,13 @@
     "title": "Smoky Okonomiyaki",
     "tags": [
       "okonomiyaki",
-      "smoked salmon",
-      "japanese"
+      "japanese",
+      "smoky",
+      "bacon",
+      "dried seaweed"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -17779,6 +17781,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-creamy-tunisian-eggs-frittata--vegan",
+    "title": "Tunisian Vegan Frittata",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "brunch",
+      "north-african",
+      "frittata"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-vegan-canadian-baby-new-potato-hash--chinese",
+    "title": "Crispy New Potato Hash Bites (Vegan)",
+    "tags": [
+      "chinese",
+      "vegan",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
