@@ -1,0 +1,127 @@
+{
+  "slug": "dark-deep-fried-russian-beef-dumplings--indian",
+  "title": "Beef Dumplings in Indian-Style Gravy",
+  "description": "A flavorful and spicy dish featuring beef dumplings in a rich Indian-style gravy.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "To make the dumpling dough, combine 2 cups of flour and 1 cup of water in a bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Place a tablespoon of beef in the center of each circle.",
+    "Fold the dough over the beef to form a half-moon shape.",
+    "Press the edges together to seal the dumpling.",
+    "Heat 2 tablespoons of vegetable oil in a pan over medium-high heat.",
+    "Fry the dumplings until they are golden brown on both sides.",
+    "Remove the dumplings from the oil and set them aside.",
+    "In the same pan, add the chopped onion and grated ginger.",
+    "Cook until the onion is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato puree, bechamel sauce, cumin, coriander, garam masala, and chili powder.",
+    "Bring the mixture to a simmer.",
+    "Add the fried dumplings to the gravy and cook for 5 minutes.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "dumplings",
+    "gravy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-deep-fried-russian-beef-dumplings--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:57:27.449Z"
+}
