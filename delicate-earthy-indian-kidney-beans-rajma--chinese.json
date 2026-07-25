@@ -1,0 +1,94 @@
+{
+  "slug": "delicate-earthy-indian-kidney-beans-rajma--chinese",
+  "title": "Spicy Rajma Stir Fry",
+  "description": "A spicy and savory stir fry made with kidney beans and delicate spices. A classic Chinese dish with an Indian twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 cup (200g)",
+      "notes": "Canned or cooked kidney beans"
+    },
+    {
+      "name": "Rajma",
+      "amount": "2 tablespoons",
+      "notes": "Indian kidney bean paste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and minced garlic and stir-fry until fragrant.",
+    "Add the kidney beans, rajma, and soy sauce. Stir-fry for 2-3 minutes.",
+    "Add the sesame oil and sesame seeds. Stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot garnished with sliced scallions.",
+    "Cook rice or noodles according to package instructions.",
+    "Serve the stir-fry over the cooked rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "indian",
+    "stir-fry",
+    "kidney-beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-earthy-indian-kidney-beans-rajma--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:14:21.931Z"
+}
