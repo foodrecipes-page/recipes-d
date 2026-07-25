@@ -743,17 +743,16 @@
   },
   {
     "slug": "dark-velvety-algerian-lamb-tagine",
-    "title": "Dark Velvety Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
+      "algerian",
       "lamb",
-      "mediterranean",
-      "mustard",
-      "one-pot",
-      "pressure-cooker",
-      "thyme"
+      "tagine",
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "d"
   },
   {
@@ -17603,6 +17602,32 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 36,
+    "shard": "d"
+  },
+  {
+    "slug": "dreamy-creamy-american-cheese-casserole--thai",
+    "title": "Creamy Thai Cheese Casserole",
+    "tags": [
+      "thaicuisine",
+      "cheesy",
+      "casserole"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-dry-ethiopian-red-lentils-misir-wot--thai",
+    "title": "Spicy Thai Lentil Stew",
+    "tags": [
+      "thai",
+      "lentils",
+      "stew",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
