@@ -1,0 +1,72 @@
+{
+  "slug": "deliciously-roasted-canadian-kanten-agar-casserole--french",
+  "title": "French Kanten Casserole",
+  "description": "A traditional French dessert made with kanten, a jelly-like substance derived from red algae, for a unique texture and flavor.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kanten",
+      "amount": "200g"
+    },
+    {
+      "name": "agar",
+      "amount": "50g"
+    },
+    {
+      "name": "dried fruits (such as cranberries, raisins, and cherries)",
+      "amount": "100g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "roasted nuts (such as almonds or hazelnuts)",
+      "amount": "50g"
+    },
+    {
+      "name": "deliciously roasted Canadian hazelnut oil or other neutral oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Combine kanten and agar in a bowl and mix well.",
+    "Add dried fruits, sugar, and water to the bowl and mix until everything is well combined.",
+    "Add roasted nuts and vanilla extract to the bowl and mix well.",
+    "Pour the mixture into a 20cm x 20cm baking dish and refrigerate for at least 4 hours or overnight.",
+    "Cut the casserole into small squares and serve chilled.",
+    "Optional: Drizzle with hazelnut oil before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 240,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "dessert",
+    "kanten",
+    "agar",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-roasted-canadian-kanten-agar-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:58:24.525Z"
+}
