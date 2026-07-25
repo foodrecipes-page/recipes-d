@@ -1,0 +1,74 @@
+{
+  "slug": "dehydrated-crispy-mediterranean-fregola-pilaf--gluten-free",
+  "title": "Crispy Fregola Pilaf with Mediterranean Flair",
+  "description": "A gluten-free twist on the classic pilaf, featuring crispy fregola and a mediterranean medley of flavors.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Pilaf",
+      "amount": "2 cups (rehydrated)",
+      "notes": "Use store-bought or homemade crispy pilaf"
+    },
+    {
+      "name": "Mediterranean Seasoning",
+      "amount": "1 tsp",
+      "notes": "A mix of oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Dehydrated Tomatoes",
+      "amount": "1/2 cup",
+      "notes": "Rehydrate before using"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup (chopped)",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook fregola according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add dehydrated tomatoes and cook, stirring occasionally, until rehydrated and tender.",
+    "Add crispy pilaf to the skillet and stir to combine with tomatoes.",
+    "Add fregola to the skillet and stir to combine with pilaf and tomatoes.",
+    "Season with mediterranean seasoning and salt to taste.",
+    "Transfer the pilaf mixture to a serving dish and garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dehydrated-crispy-mediterranean-fregola-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:34:35.449Z"
+}
