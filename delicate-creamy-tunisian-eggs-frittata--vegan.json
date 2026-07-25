@@ -1,0 +1,81 @@
+{
+  "slug": "delicate-creamy-tunisian-eggs-frittata--vegan",
+  "title": "Tunisian Vegan Frittata",
+  "description": "A vegan twist on the classic Italian dish, this Tunisian Vegan Frittata is a flavorful and satisfying brunch option. Made with delicate ingredients and no eggs, this recipe is perfect for those who follow a plant-based diet.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "delicate cremini mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Tunisian olives",
+      "amount": "1/2 cup pitted and sliced"
+    },
+    {
+      "name": "creamy hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "frittata (made with tofu and turmeric)",
+      "amount": "1 block crumbled"
+    },
+    {
+      "name": "vegan feta cheese (made with tofu and nutritional yeast)",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "arugula",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced mushrooms and cook until tender, about 5 minutes.",
+    "Stir in the Tunisian olives, hummus, and crumbled tofu frittata.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a 9-inch tart pan with a removable bottom.",
+    "Top with chopped arugula and crumbled vegan feta cheese.",
+    "Drizzle with lemon juice and bake for 20-25 minutes, or until the filling is set and the crust is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "brunch",
+    "north-african",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-creamy-tunisian-eggs-frittata--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:57:57.016Z"
+}
