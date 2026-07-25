@@ -1,0 +1,70 @@
+{
+  "slug": "drenched-chewy-canadian-pasta--keto",
+  "title": "Keto Canadian Chewy Bites",
+  "description": "A keto dessert recipe with a chewy center and a crunchy exterior, made with drenched pasta and a hint of Canadian flavor.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Drenched Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chewy Canadian Granola",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sweetener (such as Erythritol or Monk Fruit)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, mix together the pasta, granola, and coconut oil until well combined.",
+    "In a separate bowl, whisk together the almond flour, sweetener, and vanilla extract.",
+    "Add the dry ingredients to the pasta mixture and stir until a dough forms.",
+    "Roll the dough into small balls and place on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until lightly golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "dessert",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/drenched-chewy-canadian-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:29:33.817Z"
+}
