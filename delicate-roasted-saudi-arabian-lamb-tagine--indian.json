@@ -1,0 +1,95 @@
+{
+  "slug": "delicate-roasted-saudi-arabian-lamb-tagine--indian",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A flavorful and aromatic lamb tagine inspired by the cuisine of Saudi Arabia, adapted with Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Roasted Arabian coffee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Delicate saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, turmeric, and salt. Cook for 1 minute.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add coffee, saffron, and 2 cups of water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour, or until lamb is tender.",
+    "Stir in additional water if the tagine becomes too thick.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "lamb",
+    "saudi",
+    "tagine",
+    "indian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-roasted-saudi-arabian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:12:57.243Z"
+}
