@@ -17653,5 +17653,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-scrambled-irish-eggs-frittata--mexican",
+    "title": "Irish-Mexican Breakfast Frittata",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "eggs",
+      "frittata",
+      "irish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-algerian-casabe-flatbread--japanese",
+    "title": "Japanese-Style Flatbread with Delicate Dipping Sauce",
+    "tags": [
+      "japanese",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "d"
   }
 ]
