@@ -17718,5 +17718,54 @@
     "cuisine": "german",
     "totalTimeMin": 180,
     "shard": "d"
+  },
+  {
+    "slug": "dehydrated-crispy-mediterranean-fregola-pilaf--gluten-free",
+    "title": "Crispy Fregola Pilaf with Mediterranean Flair",
+    "tags": [
+      "gluten-free",
+      "pilaf",
+      "mediterranean"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-dutch-epoisses-gratin--thai",
+    "title": "Decadent Thai Epoisses Gratin",
+    "tags": [
+      "thai",
+      "cheesy",
+      "gratin"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crispy-jamaican-bacon-skillet--vegetarian",
+    "title": "Jamaican Skillet Delight",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "skillet",
+      "jamaican"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "dark-crunchy-malaysian-rye-noodles--chinese",
+    "title": "Stir-Fried Noodles with Crispy Dark Chocolate",
+    "tags": [
+      "chocolate",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "d"
   }
 ]
