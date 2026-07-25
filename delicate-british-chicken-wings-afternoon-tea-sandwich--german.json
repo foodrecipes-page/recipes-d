@@ -1,0 +1,88 @@
+{
+  "slug": "delicate-british-chicken-wings-afternoon-tea-sandwich--german",
+  "title": "German Chicken Wings for Afternoon Tea",
+  "description": "A delicious and easy-to-make German-inspired chicken wings recipe perfect for a British afternoon tea.",
+  "cuisine": "german",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "delicate british ale",
+      "amount": "1 cup",
+      "notes": "or substitute with your favorite beer"
+    },
+    {
+      "name": " british mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free if needed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, mix together ale, mustard, brown sugar, salt, and black pepper.",
+    "3. Add the chicken wings to the bowl and toss to coat.",
+    "4. Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "5. Add the chicken wings to the baking sheet in a single layer.",
+    "6. Bake for 30 minutes.",
+    "7. While the wings are baking, melt the butter in a saucepan over medium heat.",
+    "8. Add the flour to the saucepan and whisk together to make a roux.",
+    "9. Gradually add the ale mixture from the bowl to the saucepan, whisking constantly.",
+    "10. Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "11. After the wings have baked for 30 minutes, increase the oven temperature to 425°F (220°C).",
+    "12. Brush the wings with the ale mixture and return to the oven for an additional 10-15 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "chicken",
+    "wings",
+    "teatime"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-british-chicken-wings-afternoon-tea-sandwich--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:34:58.555Z"
+}
