@@ -1,0 +1,82 @@
+{
+  "slug": "delicate-vegan-canadian-baby-new-potato-hash--chinese",
+  "title": "Crispy New Potato Hash Bites (Vegan)",
+  "description": "A Chinese-inspired vegan appetizer made from crispy new potato hash bites. Perfect as a snack or appetizer. Crispy on the outside, fluffy on the inside.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "hash brown",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegan oil",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the new potatoes and mix with hash brown.",
+    "Add soy sauce, maple syrup, garlic powder, salt, and black pepper to the potato mixture. Mix well.",
+    "Using a spoon, drop the mixture into small balls and flatten slightly into patties.",
+    "Heat vegan oil in a non-stick pan over medium heat.",
+    "Add the patties to the pan and cook for 2-3 minutes on each side or until golden brown.",
+    "Transfer the patties to a baking sheet and bake in the oven for 15-20 minutes or until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-vegan-canadian-baby-new-potato-hash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:05:41.885Z"
+}
