@@ -17767,5 +17767,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 18,
     "shard": "d"
+  },
+  {
+    "slug": "dark-deep-fried-russian-beef-dumplings--indian",
+    "title": "Beef Dumplings in Indian-Style Gravy",
+    "tags": [
+      "indian",
+      "beef",
+      "dumplings",
+      "gravy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "d"
   }
 ]
