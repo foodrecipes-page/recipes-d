@@ -1,0 +1,73 @@
+{
+  "slug": "delicate-sweet-argentinian-pineapple-skewers--mexican",
+  "title": "Grilled Pineapple and Chorizo Skewers",
+  "description": "A flavorful and colorful Mexican-inspired dish featuring chorizo and pineapple on skewers, grilled to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian chorizo",
+      "amount": "1 pound, sliced",
+      "notes": "Look for chorizo labeled as 'Argentinian' or 'Mexican' for a more authentic flavor"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, chunks",
+      "notes": ""
+    },
+    {
+      "name": "Delicate sweet onions",
+      "amount": "1/2 cup, chunks",
+      "notes": "Red or yellow onions will work too, but delicate sweet onions add a nice sweetness"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers, soaked in water for 30 minutes",
+      "notes": "Soaking the skewers will prevent them from catching fire on the grill"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Fresh or dried cilantro works"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread chorizo, pineapple, and onion chunks onto skewers, leaving a small space between each piece.",
+    "3. Brush lime juice on both sides of the skewers.",
+    "4. Season with salt and pepper to taste.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until the chorizo is cooked through and the pineapple is caramelized.",
+    "6. Remove from heat and sprinkle with chopped cilantro.",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "chorizo",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-sweet-argentinian-pineapple-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:55:21.952Z"
+}
