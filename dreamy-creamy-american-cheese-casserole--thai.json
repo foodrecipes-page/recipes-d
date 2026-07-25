@@ -1,0 +1,67 @@
+{
+  "slug": "dreamy-creamy-american-cheese-casserole--thai",
+  "title": "Creamy Thai Cheese Casserole",
+  "description": "A unique fusion of Thai flavors and creamy cheese, perfect for a comforting casserole.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "225g",
+      "notes": ""
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "American casserole mix",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Cook the rice according to the package instructions.",
+    "In a separate pan, heat the creamy sauce until warm.",
+    "Add the casserole mix to the pan and stir until combined.",
+    "In a baking dish, arrange the cooked rice and top with the casserole mixture.",
+    "Sprinkle cheese over the top.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with Thai basil before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "cheesy",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dreamy-creamy-american-cheese-casserole--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:35:22.017Z"
+}
