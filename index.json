@@ -4745,17 +4745,17 @@
   },
   {
     "slug": "delicate-german-dates-poke",
-    "title": "Delicate German Dates Poke",
+    "title": "Delicate Poke Bowl with German Dates",
     "tags": [
-      "date-recipes",
-      "german-cuisine",
-      "gluten-free",
-      "healthy-snacks",
-      "low-carb",
-      "smoked-salmon"
+      "poke",
+      "delicate",
+      "german",
+      "dates",
+      "healthy",
+      "easy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "Japanese-Inspired",
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -5682,16 +5682,14 @@
   },
   {
     "slug": "delicate-norwegian-shiitake-mushroom-wrap",
-    "title": "Delicate Norwegian Shiitake Mushroom Wrap",
+    "title": "Norwegian-Style Shiitake Mushroom Wrap",
     "tags": [
-      "lacto-vegetarian",
-      "mushroom-dishes",
-      "norwegian-cuisine",
-      "pandan-leaf",
-      "wok-hei"
+      "vegetarian",
+      "mushroom",
+      "wrap"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "d"
   },
   {
@@ -17640,6 +17638,19 @@
       "pineapple"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-malaysian-stracciatella-cheese-bao--chinese",
+    "title": "Stracciatella Bao Bites",
+    "tags": [
+      "chinese",
+      "snack",
+      "vegetarian",
+      "bao"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "d"
   }
