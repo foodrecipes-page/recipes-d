@@ -1,0 +1,89 @@
+{
+  "slug": "deliciously-crispy-jamaican-bacon-skillet--vegetarian",
+  "title": "Jamaican Skillet Delight",
+  "description": "A flavorful and vegetarian skillet dish inspired by Jamaican spices. This recipe combines the crunch of crispy bacon with the sweetness of vegetables.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Skillet potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook for 3-4 minutes, until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the diced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the chopped bacon and cook until crispy.",
+    "Add the diced tomatoes, jerk seasoning, and skillet potatoes.",
+    "Cook for an additional 5-7 minutes, until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "skillet",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-jamaican-bacon-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:14:34.067Z"
+}
