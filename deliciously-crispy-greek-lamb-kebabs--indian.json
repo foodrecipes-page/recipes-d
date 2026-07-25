@@ -1,0 +1,78 @@
+{
+  "slug": "deliciously-crispy-greek-lamb-kebabs--indian",
+  "title": "Crispy Lamb Kebabs with Indian Spices",
+  "description": "A flavorful and spicy lamb kebab recipe with a crispy exterior and a juicy interior, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, boneless and cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Deliciously Spicy Indian Spice Blend (garam masala, cumin, coriander, cinnamon, cardamom)",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Onions (for garnish)",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together yogurt, spice blend, lemon juice, and a pinch of salt. Add the lamb cubes and mix until they are well coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "2. Preheat a grill or grill pan to medium-high heat. Thread the marinated lamb cubes onto skewers, leaving a little space between each piece.",
+    "3. Brush the grill or grill pan with a little ghee or oil to prevent sticking.",
+    "4. Grill the lamb kebabs for 8-10 minutes per side, or until they are cooked through and slightly charred.",
+    "5. Garnish with crispy fried onions and serve immediately.",
+    "6. To make crispy fried onions, heat 1 tablespoon of ghee or oil in a small pan over medium heat. Add 1/4 cup of thinly sliced onions and cook, stirring frequently, until they are golden brown and crispy.",
+    "7. Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kebabs",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-greek-lamb-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:10:19.059Z"
+}
