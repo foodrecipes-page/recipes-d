@@ -17566,5 +17566,31 @@
     "cuisine": "Algerian",
     "totalTimeMin": 33,
     "shard": "d"
+  },
+  {
+    "slug": "dense-dry-ethiopian-red-lentils-misir-wot--keto",
+    "title": "Ethiopian Lentil Stew",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "lentils",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-indian-tomato-samosas--vegetarian",
+    "title": "Indian Samosa Stuffed Tomatoes",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "d"
   }
 ]
