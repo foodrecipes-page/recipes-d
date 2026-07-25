@@ -1,0 +1,69 @@
+{
+  "slug": "delicate-kenyan-onion-skewers--vegan",
+  "title": "Vegan Kenyan Skewers",
+  "description": "A flavorful and spicy vegan dish inspired by Kenyan cuisine, featuring tender vegetables and onions on skewers.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "delicate onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kenyan potatoes",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "slice into 1/2-inch thick rounds"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the vegetables and onions onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with oil and season with salt, pepper, and any desired spices.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve hot with your favorite sauce or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "kenyan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-kenyan-onion-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:35:57.153Z"
+}
