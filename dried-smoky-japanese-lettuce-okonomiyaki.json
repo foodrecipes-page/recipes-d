@@ -1,83 +1,86 @@
 {
   "slug": "dried-smoky-japanese-lettuce-okonomiyaki",
   "title": "Smoky Okonomiyaki",
-  "description": "A twist on the classic Japanese dish, this smoky okonomiyaki combines savory flavors with a crispy texture.",
+  "description": "A twist on the classic Japanese okonomiyaki, adding smoky flavors from bacon and dried seaweed.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free"
+    "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "dried okonomiyaki mix",
-      "amount": "1 package",
-      "notes": ""
-    },
-    {
-      "name": "smoked salmon",
-      "amount": "8 oz",
-      "notes": "Canned or fresh"
-    },
-    {
-      "name": "shredded lettuce",
+      "name": "Lettuce",
       "amount": "1 head",
-      "notes": ""
+      "notes": "for garnish"
     },
     {
-      "name": "mayonnaise",
+      "name": "Dried Seaweed",
+      "amount": "2 sheets",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "Japanese Okonomiyaki Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Okonomiyaki Flour",
+      "amount": "1 cup",
+      "notes": "or all-purpose flour"
+    },
+    {
+      "name": "Smoked Bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "to create batter"
+    },
+    {
+      "name": "Soy Sauce",
       "amount": "2 tbsp",
-      "notes": ""
+      "notes": "optional"
     },
     {
-      "name": "sauce (such as okonomiyaki or tonkatsu)",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "sliced green onions",
+      "name": "Scallions",
       "amount": "1/4 cup",
-      "notes": ""
-    },
-    {
-      "name": "sesame seeds",
-      "amount": "1 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "vegetable oil",
-      "amount": "2 tbsp",
-      "notes": ""
+      "notes": "chopped, for garnish"
     }
   ],
   "instructions": [
-    "In a large bowl, whisk together the okonomiyaki mix and 1/2 cup of water until smooth.",
-    "Add the diced smoked salmon and shredded lettuce to the bowl and stir until combined.",
-    "Heat a non-stick pan or griddle over medium-high heat.",
-    "Add 1 tablespoon of vegetable oil to the pan and swirl to coat.",
-    "Using a 1/4 cup measuring cup, scoop the okonomiyaki mixture into the pan and spread evenly.",
-    "Cook for 2-3 minutes or until the bottom is golden brown.",
-    "Flip the okonomiyaki and cook for an additional 2-3 minutes or until the other side is golden brown.",
-    "Serve hot with mayonnaise, sauce, sliced green onions, and sesame seeds.",
-    "Repeat with remaining okonomiyaki mixture."
+    "1. In a large bowl, whisk together okonomiyaki flour, water, and a pinch of salt to create a smooth batter.",
+    "2. Add soy sauce, if using, to the batter and whisk to combine.",
+    "3. In a non-stick pan or okonomiyaki pan, cook the crumbled bacon over medium heat until crispy.",
+    "4. Remove cooked bacon from the pan and set aside.",
+    "5. Add the dried seaweed to the pan and cook for 1-2 minutes, until fragrant.",
+    "6. Add the okonomiyaki batter to the pan and cook for 1-2 minutes, until the bottom is set.",
+    "7. Transfer the pan to the oven and cook at 375°F (190°C) for 5-7 minutes, until the top is set and the edges are crispy.",
+    "8. Remove the pan from the oven and top the okonomiyaki with crumbled bacon, chopped scallions, and okonomiyaki sauce.",
+    "9. Cook for an additional 1-2 minutes, until the sauce is heated through.",
+    "10. Garnish with lettuce and serve immediately."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 8,
-  "totalTimeMin": 23,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "okonomiyaki",
-    "smoked salmon",
-    "japanese"
+    "japanese",
+    "smoky",
+    "bacon",
+    "dried seaweed"
   ],
   "nutrition": {
     "calories": 320,
-    "protein": 24,
-    "carbs": 24,
+    "protein": 20,
+    "carbs": 40,
     "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/dried-smoky-japanese-lettuce-okonomiyaki",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T16:54:00.624Z"
+  "createdAt": "2026-07-20T22:31:26.617Z"
 }
