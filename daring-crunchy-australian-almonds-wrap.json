@@ -1,0 +1,62 @@
+{
+  "slug": "daring-crunchy-australian-almonds-wrap",
+  "title": "Australian Wrap",
+  "description": "A tasty wrap filled with crunchy veggies and Australian spices, perfect for a quick snack or light meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "daring sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy coleslaw",
+      "amount": "1 cup"
+    },
+    {
+      "name": "australian wrap",
+      "amount": "1"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Lay the Australian wrap flat on a clean surface.",
+    "Spread the daring sauce evenly over the center of the wrap.",
+    "Add the crunchy coleslaw on top of the sauce.",
+    "Sprinkle the sliced almonds and shredded lettuce over the coleslaw.",
+    "Fold the two sides of the wrap towards the center, then roll it up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "australian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/daring-crunchy-australian-almonds-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:58:27.017Z"
+}
