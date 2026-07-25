@@ -17592,5 +17592,17 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-crisp-peruvian-lamb-seco-de-cordero--thai",
+    "title": "Grilled Lamb Skewers with Thai-Style Peruvian Marinade",
+    "tags": [
+      "grilled-lamb",
+      "thai-peruvian-fusion",
+      "summer-barbecue"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 36,
+    "shard": "d"
   }
 ]
