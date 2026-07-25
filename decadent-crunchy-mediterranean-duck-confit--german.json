@@ -1,0 +1,89 @@
+{
+  "slug": "decadent-crunchy-mediterranean-duck-confit--german",
+  "title": "German Confit Duck with Crunchy Decadent Topping",
+  "description": "A rich and flavorful German-inspired dish featuring slow-cooked confit duck, topped with a crunchy, sweet, and savory mixture.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Confit garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crunchy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 275°F (135°C).",
+    "2. In a small saucepan, combine confit garlic, apple cider vinegar, brown sugar, salt, and black pepper. Bring to a simmer over medium heat.",
+    "3. Reduce heat to low and cook, stirring occasionally, for 5 minutes.",
+    "4. Meanwhile, season duck legs with salt and black pepper.",
+    "5. Place duck legs in a large Dutch oven or heavy pot. Pour the garlic-vinegar mixture over the duck legs.",
+    "6. Cover the pot with a lid and transfer to the preheated oven. Braise for 2 1/2 hours, or until the duck is tender and falls off the bone.",
+    "7. While the duck is cooking, combine Mediterranean olives, crunchy breadcrumbs, and a pinch of salt in a bowl.",
+    "8. After the duck has braised for 2 hours, remove the pot from the oven and carefully remove the duck legs from the pot.",
+    "9. Place the duck legs on a wire rack set over a rimmed baking sheet. Brush the tops with the pan juices.",
+    "10. Sprinkle the olive-breadcrumb mixture evenly over the duck legs.",
+    "11. Return the duck to the oven and bake for an additional 15-20 minutes, or until the topping is golden brown and crispy.",
+    "12. Serve the duck legs hot, garnished with additional Mediterranean olives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "duck",
+    "confit",
+    "crunchy",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-crunchy-mediterranean-duck-confit--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:11:01.462Z"
+}
