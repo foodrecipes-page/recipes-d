@@ -1,0 +1,87 @@
+{
+  "slug": "delicate-indian-dough-gulab-jjumun--mexican",
+  "title": "Delicate Mexican Gulab Jjumun",
+  "description": "A unique twist on traditional Mexican cuisine, this dessert combines the delicate sweetness of gulab with the chewy texture of jjumun.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gulab",
+      "amount": "1 cup",
+      "notes": " store-bought gulab syrup"
+    },
+    {
+      "name": "Jjumun",
+      "amount": "2 cups",
+      "notes": " store-bought jjumun mix"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the jjumun mix, coconut oil, cinnamon, vanilla extract, and powdered sugar. Mix until well combined.",
+    "Add in the gulab syrup and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Place the disks onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Dust with powdered sugar and garnish with chopped pistachios and lime zest."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "gulab",
+    "jjumun"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-indian-dough-gulab-jjumun--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:44:52.399Z"
+}
