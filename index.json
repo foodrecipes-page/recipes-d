@@ -17704,5 +17704,19 @@
     "cuisine": "turkish",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-crunchy-mediterranean-duck-confit--german",
+    "title": "German Confit Duck with Crunchy Decadent Topping",
+    "tags": [
+      "german",
+      "duck",
+      "confit",
+      "crunchy",
+      "mediterranean"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "d"
   }
 ]
