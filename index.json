@@ -4222,17 +4222,15 @@
   },
   {
     "slug": "delicate-fermented-ethiopian-shungiku-dulet",
-    "title": "Delicate Fermented Ethiopian Shungiku Dulet",
+    "title": "Shungiku Stew",
     "tags": [
-      "brunch-idea",
-      "ethiopian-cuisine",
-      "fermented-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "ethiopian",
+      "vegetarian",
+      "shungiku"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
@@ -17678,6 +17676,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-mexican-duck-tostada--vegan",
+    "title": "Vegan Tostada Fiesta",
+    "tags": [
+      "mexican",
+      "vegan",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-comforting-turkish-daikon-kazandibi--gluten-free",
+    "title": "Turkish-Style Daikon Kazandibi",
+    "tags": [
+      "dessert",
+      "turkish",
+      "gluten-free",
+      "comforting",
+      "unique"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "d"
   }
 ]
