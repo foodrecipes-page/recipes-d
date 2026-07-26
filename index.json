@@ -10225,17 +10225,14 @@
   },
   {
     "slug": "deliciously-tangy-egyptian-lamb-casserole",
-    "title": "Deliciously Tangy Egyptian Lamb Casserole",
+    "title": "Egyptian Lamb Casserole",
     "tags": [
-      "casserole",
-      "egyptian-cuisine",
-      "high-protein",
-      "lamb-recipes",
-      "meal-prep",
-      "one-pan"
+      "egyptian",
+      "lamb",
+      "casserole"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 75,
     "shard": "d"
   },
   {
@@ -17944,6 +17941,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-canadian-cauliflower-dumplings--keto",
+    "title": "Cauliflower Dumplings Canadian Style",
+    "tags": [
+      "keto",
+      "canadian",
+      "comfort-food",
+      "vegetarian-option"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-roasted-mediterranean-trout-bake--vegetarian",
+    "title": "Decadent Roasted Mediterranean Vegetables",
+    "tags": [
+      "vegetarian",
+      "mediterranean",
+      "roasted"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "d"
   }
 ]
