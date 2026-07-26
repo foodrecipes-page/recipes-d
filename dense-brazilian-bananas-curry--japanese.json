@@ -1,0 +1,88 @@
+{
+  "slug": "dense-brazilian-bananas-curry--japanese",
+  "title": "Curry Banana Tempura",
+  "description": "A unique Japanese dessert, combining the sweetness of bananas with the spiciness of curry. Perfect for a special occasion.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "Japanese mild curry"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "sake (Japanese rice wine)",
+      "amount": "1 tsp",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional, for flavor"
+    }
+  ],
+  "instructions": [
+    "Peel the bananas and cut them into bite-sized pieces.",
+    "In a shallow dish, mix together the flour, curry powder, and a pinch of salt.",
+    "In a separate dish, whisk together the eggs and milk.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Dip each banana piece into the egg wash, then coat in the flour mixture, shaking off excess.",
+    "Fry the banana pieces in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the tempura on paper towels.",
+    "Dust the tempura with granulated sugar and a pinch of curry powder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "tempura",
+    "curry",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-brazilian-bananas-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:01:46.452Z"
+}
