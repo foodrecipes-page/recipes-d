@@ -1,0 +1,56 @@
+{
+  "slug": "deliciously-resinous-syrian-potato-tagine",
+  "title": "Syrian Tagine Stew",
+  "description": "A hearty, flavorful stew originating from Syria, typically cooked in a clay pot. This recipe uses a tagine-inspired flavor profile with tender potatoes.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Deliciously resinous tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Syrian",
+      "amount": "4 cups",
+      "notes": "water or chicken/vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine spice blend in a clay pot over medium heat.",
+    "Add the chopped potatoes, stir to combine, and cook for 10 minutes.",
+    "Pour in the Syrian water or broth, bring to a boil, then reduce heat to low.",
+    "Simmer for 25 minutes, or until the potatoes are tender.",
+    "Season with additional tagine spice blend if desired.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-resinous-syrian-potato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:12:15.352Z"
+}
