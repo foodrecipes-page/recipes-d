@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-creamy-kenyan-tempeh-grill--german",
+  "title": "Grilled Tempeh Schnitzel with Kenyan Spiced Sauerkraut",
+  "description": "A German-inspired twist on traditional schnitzel, featuring tempeh in a decadent creamy breading, paired with a spicy Kenyan-infused sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 package (8 oz)"
+    },
+    {
+      "name": "All-purpose Gluten-Free Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Decadent Grated Parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Creamy Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Kenyan Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sauteed Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a shallow dish, mix together flour, parmesan, and grill seasoning.",
+    "3. In a separate dish, mix together yogurt and Kenyan spice blend.",
+    "4. Dip each tempeh piece into the yogurt mixture, then coat in the flour mixture, pressing gently to adhere.",
+    "5. Grill the tempeh for 3-4 minutes per side, or until golden brown and crispy.",
+    "6. Meanwhile, sauté onions in a pan until softened.",
+    "7. Add sauerkraut to the pan and cook until heated through.",
+    "8. Serve the grilled tempeh with the Kenyan spiced sauerkraut and sautéed onions.",
+    "9. Garnish with additional parmesan and breadcrumbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "tempeh",
+    "schnitzel",
+    "vegetarian",
+    "gluten-free",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-creamy-kenyan-tempeh-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:20:13.144Z"
+}
