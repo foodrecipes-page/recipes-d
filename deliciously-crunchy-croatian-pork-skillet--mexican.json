@@ -1,0 +1,96 @@
+{
+  "slug": "deliciously-crunchy-croatian-pork-skillet--mexican",
+  "title": "Croatian Pork Skillet",
+  "description": "A flavorful and spicy Mexican dish made with crispy pork, crunchy vegetables, and a hint of Croatian flair.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the diced bell pepper and minced garlic to the skillet and cook for an additional 2 minutes.",
+    "Add the cumin and chili powder to the skillet and cook for 1 minute.",
+    "Add the crushed tomatoes to the skillet and stir to combine.",
+    "Return the pork to the skillet and stir to coat with the tomato mixture.",
+    "Reduce heat to medium-low and simmer, covered, for 20-25 minutes, or until the pork is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crunchy-croatian-pork-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:16:00.194Z"
+}
