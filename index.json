@@ -3767,18 +3767,15 @@
   },
   {
     "slug": "delicate-crispy-french-chickpeas-terrine",
-    "title": "Delicate Crispy French Chickpeas Terrine",
+    "title": "Delicate French Chickpea Terine",
     "tags": [
-      "crispy",
-      "diabetic-friendly",
+      "chickpeas",
       "french",
-      "quick",
-      "smoky",
-      "terrine",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -9476,16 +9473,14 @@
   },
   {
     "slug": "deliciously-resinous-syrian-potato-tagine",
-    "title": "Deliciously Resinous Syrian Potato Tagine",
+    "title": "Syrian Tagine Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "syrian-cuisine",
+      "syrian",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
