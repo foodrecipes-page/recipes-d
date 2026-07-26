@@ -1,0 +1,77 @@
+{
+  "slug": "dzatzik-besa-flora--vegan",
+  "title": "Vegan Greek Salad Wrap",
+  "description": "A refreshing wrap filled with a variety of vegetables and served with a tangy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat pita bread",
+      "amount": "1",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dzatzik sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flora vegan mayo",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the cucumber, tomato, red onion, and bell pepper.",
+    "Grill the pita bread for 2-3 minutes, until it's lightly toasted.",
+    "Assemble the wrap by spreading the mayonnaise on the pita bread, then adding the sliced vegetables.",
+    "Drizzle the tzatziki sauce on top of the vegetables.",
+    "Fold the pita bread in half to enclose the filling.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "greek",
+    "salad",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dzatzik-besa-flora--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:56:10.468Z"
+}
