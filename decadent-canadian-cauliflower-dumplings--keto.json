@@ -1,0 +1,83 @@
+{
+  "slug": "decadent-canadian-cauliflower-dumplings--keto",
+  "title": "Cauliflower Dumplings Canadian Style",
+  "description": "A keto twist on the classic Canadian comfort food, using cauliflower to make dumplings. Delicious and satisfying.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "grated"
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, combine grated cauliflower, coconut flour, and almond milk. Mix well.",
+    "In a separate bowl, whisk the egg.",
+    "Add the egg to the cauliflower mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Cut the dough into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Dot the top of each dumpling with butter.",
+    "Bake for 20-25 minutes, or until the dumplings are golden brown.",
+    "While the dumplings are baking, cook Canadian bacon in a pan over medium-high heat until crispy.",
+    "Serve the dumplings with Canadian bacon and garnish with parsley.",
+    "Enjoy your cauliflower dumplings Canadian style!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "canadian",
+    "comfort-food",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-canadian-cauliflower-dumplings--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:31:45.534Z"
+}
