@@ -1,0 +1,89 @@
+{
+  "slug": "dense-ukrainian-mirin-hon-casserole",
+  "title": "Traditional Ukrainian Casserole",
+  "description": "A hearty, comforting casserole inspired by Ukrainian cuisine, made with tender beef, rich sauce, and a crispy crust.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Dense breadcrumbs",
+      "amount": "1 cup",
+      "notes": "pan-fried until golden"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and grated carrots to the skillet and cook until the vegetables are tender.",
+    "Stir in the canned diced tomatoes, mirin, salt, and black pepper. Bring the mixture to a simmer.",
+    "In a large bowl, combine the cooked ground beef mixture, beaten egg, and pan-fried breadcrumbs.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35-40 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "casserole",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-ukrainian-mirin-hon-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:36:31.283Z"
+}
