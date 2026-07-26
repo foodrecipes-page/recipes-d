@@ -1,0 +1,86 @@
+{
+  "slug": "delicate-crispy-french-chickpeas-terrine",
+  "title": "Delicate French Chickpea Terine",
+  "description": "A light and crispy French-inspired terrine made with chickpeas and delicate flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 15 oz can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "french bread",
+      "amount": "1/2 loaf",
+      "notes": "crust removed and torn into small pieces"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "french seasonings",
+      "amount": "1 tsp",
+      "notes": "dried thyme, rosemary, and parsley"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush the french bread with olive oil and toast in the oven for 5 minutes.",
+    "In a large bowl, mash the chickpeas using a fork or a potato masher.",
+    "Add the crispy onions, french seasonings, lemon juice, salt, and chopped parsley to the bowl with the chickpeas.",
+    "Stir until well combined.",
+    "To assemble the terrine, place a layer of toasted bread at the bottom of a 9x5 inch loaf pan.",
+    "Top with a layer of the chickpea mixture, followed by another layer of bread.",
+    "Repeat this process until all the ingredients have been used, ending with a layer of bread on top.",
+    "Cover the terrine with plastic wrap and refrigerate for at least 30 minutes.",
+    "Slice the terrine and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "french",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crispy-french-chickpeas-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:08:23.319Z"
+}
