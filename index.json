@@ -17931,5 +17931,19 @@
     "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "d"
+  },
+  {
+    "slug": "dry-salt-cured-american-ackee-hash--thai",
+    "title": "Spicy Ackee Fritters",
+    "tags": [
+      "thai",
+      "vegan",
+      "snack",
+      "fritters",
+      "ackee"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "d"
   }
 ]
