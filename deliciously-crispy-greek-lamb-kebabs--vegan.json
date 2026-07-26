@@ -1,0 +1,81 @@
+{
+  "slug": "deliciously-crispy-greek-lamb-kebabs--vegan",
+  "title": "Greek-Style Portobello Mushroom Kebabs",
+  "description": "Inspired by traditional Greek kebabs, these vegan portobello mushroom kebabs are a flavorful and satisfying twist on a classic dish, capturing the essence of Mediterranean cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Greek vinaigrette (vegan)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together Greek vinaigrette and fresh oregano.",
+    "Brush mushrooms, red onion, red bell pepper, and zucchini with the vinaigrette mixture, and season with salt and black pepper.",
+    "Thread the marinated vegetables onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until the vegetables are tender and lightly charred.",
+    "Serve hot, garnished with additional fresh oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegan",
+    "kebabs",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-greek-lamb-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:08:08.478Z"
+}
