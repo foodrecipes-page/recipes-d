@@ -18081,5 +18081,47 @@
     "cuisine": "Greek",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-chewy-turkish-chicken-wings-kebabs--chinese",
+    "title": "Kung Pao Chicken Wings",
+    "tags": [
+      "chicken",
+      "wings",
+      "chinese",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-savory-polish-pork-skillet--thai",
+    "title": "Thai-Style Pork Skillet",
+    "tags": [
+      "thai",
+      "pork",
+      "skillet",
+      "curry",
+      "stir-fry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-creamy-kenyan-tempeh-grill--german",
+    "title": "Grilled Tempeh Schnitzel with Kenyan Spiced Sauerkraut",
+    "tags": [
+      "german",
+      "tempeh",
+      "schnitzel",
+      "vegetarian",
+      "gluten-free",
+      "kenyan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "d"
   }
 ]
