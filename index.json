@@ -4571,15 +4571,13 @@
     "slug": "delicate-french-vegetable-gratin",
     "title": "Delicate French Vegetable Gratin",
     "tags": [
-      "delicious",
-      "french-cuisine",
-      "healthy",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "french",
+      "vegetarian",
+      "gratin",
+      "sidedish"
     ],
     "cuisine": "French",
-    "totalTimeMin": 85,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
@@ -17966,6 +17964,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 45,
+    "shard": "d"
+  },
+  {
+    "slug": "date-night-american-dutch-stroop-tart--german",
+    "title": "German Stroopwafel Tart",
+    "tags": [
+      "german",
+      "dessert",
+      "tart",
+      "stroopwafel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "d"
   }
 ]
