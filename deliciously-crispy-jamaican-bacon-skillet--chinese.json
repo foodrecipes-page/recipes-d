@@ -1,0 +1,95 @@
+{
+  "slug": "deliciously-crispy-jamaican-bacon-skillet--chinese",
+  "title": "Crispy Jamaican Bacon Skillet",
+  "description": "A twist on traditional Chinese stir-fries, this dish combines the flavors of Jamaica with the crunch of crispy bacon.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Deliciously crispy shallots",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and cook the Jamaican bacon until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute.",
+    "Stir in the soy sauce and bring to a simmer.",
+    "Return the bacon to the skillet and stir in the sesame seeds and sesame oil.",
+    "Cook for an additional 2 minutes.",
+    "Stir in the scallions and cook for 1 minute.",
+    "Serve the crispy Jamaican bacon skillet hot.",
+    "Garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "jamaican",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-crispy-jamaican-bacon-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:45:04.500Z"
+}
