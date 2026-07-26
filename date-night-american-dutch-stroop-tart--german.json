@@ -1,0 +1,66 @@
+{
+  "slug": "date-night-american-dutch-stroop-tart--german",
+  "title": "German Stroopwafel Tart",
+  "description": "A delicious German-inspired dessert featuring a stroopwafel crust and a caramel-like filling.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "date",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "stroop",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tart",
+      "amount": "1 pre-made tart crust"
+    },
+    {
+      "name": "american",
+      "amount": "1/2 cup heavy cream"
+    },
+    {
+      "name": "dutch",
+      "amount": "1/2 cup granulated sugar"
+    },
+    {
+      "name": "night",
+      "amount": "1/4 teaspoon ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "Roll out the pre-made tart crust and place in a tart pan",
+    "Bake the crust for 12-15 minutes, or until lightly golden",
+    "In a medium saucepan, combine the chopped dates, stroop, heavy cream, granulated sugar, and cinnamon",
+    "Bring the mixture to a boil over medium heat, stirring frequently",
+    "Reduce the heat to low and simmer for 5-7 minutes, or until the filling has thickened slightly",
+    "Pour the filling into the baked tart crust",
+    "Bake for an additional 10-12 minutes, or until the filling is set",
+    "Allow the tart to cool completely before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "tart",
+    "stroopwafel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-night-american-dutch-stroop-tart--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:09:51.974Z"
+}
