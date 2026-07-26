@@ -1,0 +1,101 @@
+{
+  "slug": "deliciously-chewy-turkish-chicken-wings-kebabs--chinese",
+  "title": "Kung Pao Chicken Wings",
+  "description": "A spicy and savory twist on traditional Chinese street food, featuring crispy fried chicken wings in a savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, honey, cornstarch, and red pepper flakes.",
+    "Add the chicken wings to the bowl and toss to coat.",
+    "Let the wings marinate for at least 30 minutes.",
+    "Heat the peanut oil in a large skillet over medium-high heat.",
+    "Add the wings to the skillet and cook until crispy and golden brown, about 5-7 minutes.",
+    "Remove the wings from the skillet and set aside.",
+    "In the same skillet, add the ginger and garlic and cook until fragrant, about 1 minute.",
+    "Add the scallions to the skillet and cook until wilted, about 1 minute.",
+    "Return the wings to the skillet and toss to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wings",
+    "chinese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-chewy-turkish-chicken-wings-kebabs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:40:01.849Z"
+}
