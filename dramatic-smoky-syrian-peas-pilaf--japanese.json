@@ -1,0 +1,76 @@
+{
+  "slug": "dramatic-smoky-syrian-peas-pilaf--japanese",
+  "title": "Smoky Pilaf with Peas",
+  "description": "A fusion of Japanese and Syrian flavors, this smoky pilaf with peas is a unique and delicious side dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoky",
+      "amount": "1 cup",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "dramatic",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "sumac spice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the smoky and Syrian spices to the oil and stir-fry for 1-2 minutes.",
+    "Add the pilaf and peas to the skillet and stir-fry for 2-3 minutes.",
+    "Add the dramatic soy sauce to the pilaf and stir-fry for another minute.",
+    "Transfer the pilaf mixture to a serving platter and garnish with chopped green onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "fusino",
+    "vegetarian",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dramatic-smoky-syrian-peas-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:14:09.025Z"
+}
