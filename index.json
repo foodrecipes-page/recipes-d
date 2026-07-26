@@ -17976,5 +17976,45 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-roasted-slovakian-pork-roast--chinese",
+    "title": "Slovakian Roasted Pork",
+    "tags": [
+      "pork",
+      "roasted",
+      "slovakian",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 105,
+    "shard": "d"
+  },
+  {
+    "slug": "dzatzik-besa-flora--vegan",
+    "title": "Vegan Greek Salad Wrap",
+    "tags": [
+      "vegan",
+      "greek",
+      "salad",
+      "wrap"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 12,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-brazilian-bananas-curry--japanese",
+    "title": "Curry Banana Tempura",
+    "tags": [
+      "japanese",
+      "dessert",
+      "tempura",
+      "curry",
+      "banana"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
