@@ -1,0 +1,97 @@
+{
+  "slug": "deliciously-savory-polish-pork-skillet--thai",
+  "title": "Thai-Style Pork Skillet",
+  "description": "A flavorful and spicy stir-fry made with pork, thai herbs, and a savory sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Skillet (preferably cast-iron)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in the skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet.",
+    "Add the curry paste and cook for 1 minute, until fragrant.",
+    "Add the garlic and cook for another minute.",
+    "Add the fish sauce, soy sauce, and brown sugar. Stir to combine.",
+    "Return the pork to the skillet and stir to coat with the sauce.",
+    "Add the Thai basil leaves and chili flakes. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the pork is cooked through.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "skillet",
+    "curry",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-savory-polish-pork-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:19:01.167Z"
+}
