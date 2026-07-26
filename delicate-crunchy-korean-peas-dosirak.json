@@ -1,0 +1,91 @@
+{
+  "slug": "delicate-crunchy-korean-peas-dosirak",
+  "title": "Spicy Korean Rice Bowl",
+  "description": "A flavorful rice bowl dish topped with spicy Korean chili flakes, crunchy vegetables, and a side of pickled peas.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Diced crunchy vegetables (carrots, cucumbers, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled peas",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced kimchi (Korean fermented cabbage)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Diced radish",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare kimchi by chopping it finely.",
+    "Heat a pan with gochujang over medium heat.",
+    "Add diced kimchi and cook for 2 minutes.",
+    "Add diced green onions and cook for 1 minute.",
+    "Add diced radish and cook for 2 minutes.",
+    "Add cooked white rice and mix well with gochujang and kimchi.",
+    "Add Korean chili flakes and mix well.",
+    "Transfer the rice mixture to a bowl.",
+    "Top with pickled peas and diced crunchy vegetables.",
+    "Sprinkle sesame seeds on top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "rice-bowl",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crunchy-korean-peas-dosirak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:23:22.958Z"
+}
