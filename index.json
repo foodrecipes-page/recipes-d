@@ -18019,5 +18019,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "d"
+  },
+  {
+    "slug": "dense-slow-roasted-uruguayan-lamb-roast--mexican",
+    "title": "Uruguayan-Style Roasted Lamb",
+    "tags": [
+      "mexican",
+      "lamb",
+      "roasted"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 180,
+    "shard": "d"
   }
 ]
