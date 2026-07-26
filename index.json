@@ -12891,17 +12891,15 @@
   },
   {
     "slug": "dense-smoky-polish-semolina-pilaf",
-    "title": "Dense Smoky Polish Semolina Pilaf",
+    "title": "Polish Smoked Kielbasa Pilaf",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "one-pot",
       "polish",
-      "smoky",
-      "vegetarian"
+      "pilaf",
+      "kielbasa",
+      "smoked"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "d"
   },
   {
@@ -18122,6 +18120,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "dramatic-smoky-syrian-peas-pilaf--japanese",
+    "title": "Smoky Pilaf with Peas",
+    "tags": [
+      "japanese",
+      "fusino",
+      "vegetarian",
+      "side-dish"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "d"
   }
 ]
