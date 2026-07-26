@@ -18031,5 +18031,55 @@
     "cuisine": "mexican",
     "totalTimeMin": 180,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-crunchy-croatian-pork-skillet--mexican",
+    "title": "Croatian Pork Skillet",
+    "tags": [
+      "mexican",
+      "pork",
+      "skillet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "d"
+  },
+  {
+    "slug": "ddecadent-flax-seedy-jamaican-skewers--keto",
+    "title": "Jamaican Keto Skewers",
+    "tags": [
+      "keto",
+      "grilled",
+      "caribbean"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 20,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crumbly-uruguayan-cheese-empanadas--german",
+    "title": "Uruguayan Empanadas with a German Twist",
+    "tags": [
+      "german",
+      "empanadas",
+      "cheese",
+      "uruguayan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crispy-greek-lamb-kebabs--vegan",
+    "title": "Greek-Style Portobello Mushroom Kebabs",
+    "tags": [
+      "greek",
+      "vegan",
+      "kebabs",
+      "mushroom"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
