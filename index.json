@@ -13245,17 +13245,15 @@
   },
   {
     "slug": "dense-ukrainian-mirin-hon-casserole",
-    "title": "Dense Ukrainian Mirin-Hon Casserole",
+    "title": "Traditional Ukrainian Casserole",
     "tags": [
-      "adventurous",
+      "ukrainian",
+      "beef",
       "casserole",
-      "easy-cook",
-      "mirin-hon",
-      "rest-meat",
-      "ukrainian"
+      "comfort food"
     ],
     "cuisine": "ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "d"
   },
   {
@@ -18010,6 +18008,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-crispy-jamaican-bacon-skillet--chinese",
+    "title": "Crispy Jamaican Bacon Skillet",
+    "tags": [
+      "chinese",
+      "jamaican",
+      "bacon"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "d"
   }
 ]
