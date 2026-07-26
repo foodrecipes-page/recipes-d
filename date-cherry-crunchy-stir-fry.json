@@ -1,0 +1,51 @@
+{
+  "slug": "date-cherry-crunchy-stir-fry",
+  "title": "Stir Fry with Cherry Compote",
+  "description": "A sweet and savory dish combining crunchy stir-fried vegetables with a cherry compote. Serve as a snack or dessert.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "date",
+      "amount": "2, chopped"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup, chopped nuts or seeds"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Toss cherry and date in a bowl.",
+    "3. Stir in chopped crunchy ingredients.",
+    "4. Bake for 20-25 minutes, or until the fruit is tender.",
+    "5. Serve warm, garnished with additional crunchy ingredients if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry-compote",
+    "crunchy-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-cherry-crunchy-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:49:44.388Z"
+}
