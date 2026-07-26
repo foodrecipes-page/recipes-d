@@ -1,0 +1,80 @@
+{
+  "slug": "dense-slow-roasted-uruguayan-lamb-roast--mexican",
+  "title": "Uruguayan-Style Roasted Lamb",
+  "description": "A slow-cooked, dense, roasted lamb dish inspired by Uruguay, perfect for a Mexican-style dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before using"
+    },
+    {
+      "name": "Dense, slow-roasted tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned work well"
+    },
+    {
+      "name": "Roast carrots",
+      "amount": "3 medium",
+      "notes": "Peel and chop into 1-inch pieces"
+    },
+    {
+      "name": "Uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Add the roasted garlic, slow-roasted tomatoes, and carrots to the pot.",
+    "Pour in enough beef broth to cover the lamb, about 1 cup.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and brush the lamb with Uruguayan chimichurri.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped parsley and serve with additional chimichurri on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "mexican",
+    "lamb",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-slow-roasted-uruguayan-lamb-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:11:11.776Z"
+}
