@@ -1,0 +1,80 @@
+{
+  "slug": "dense-smoky-polish-semolina-pilaf",
+  "title": "Polish Smoked Kielbasa Pilaf",
+  "description": "A hearty, savory pilaf dish featuring Polish smoked kielbasa and dense semolina.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Smoked Kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic; cook until onion is translucent.",
+    "Add kielbasa; cook, breaking it up with a spoon, until it is browned.",
+    "Add pilaf and semolina; stir to combine.",
+    "Cook for 2-3 minutes, stirring constantly.",
+    "Add salt, pepper, and parsley; stir to combine.",
+    "Reduce heat to low; cover and simmer for 10-12 minutes.",
+    "Fluff pilaf with a fork before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pilaf",
+    "kielbasa",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-polish-semolina-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:00:05.160Z"
+}
