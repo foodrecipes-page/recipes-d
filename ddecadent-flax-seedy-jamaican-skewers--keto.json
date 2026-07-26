@@ -1,0 +1,66 @@
+{
+  "slug": "ddecadent-flax-seedy-jamaican-skewers--keto",
+  "title": "Jamaican Keto Skewers",
+  "description": "Grilled Jamaican skewers made with keto-friendly ingredients, perfect for a quick and easy dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flax eggs",
+      "amount": "2",
+      "notes": "1/4 cup flaxseed meal + 6 tablespoons water, mixed and allowed to gel for 5 minutes"
+    },
+    {
+      "name": "Seedy bun-less burgers",
+      "amount": "4",
+      "notes": "use a store-bought or homemade keto-friendly bun-less burger patty"
+    },
+    {
+      "name": "Decadent cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "use metal or bamboo skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together the Jamaican jerk seasoning and flax eggs.",
+    "3. Add the seedy bun-less burgers to the jerk seasoning mixture and mix until well coated.",
+    "4. Thread the seasoned burgers onto the skewers, leaving a small space between each burger.",
+    "5. Place the skewers on the grill and cook for 8-10 minutes, turning occasionally.",
+    "6. While the skewers are cooking, melt the decadent cheese in a saucepan over low heat.",
+    "7. Once the skewers are cooked, brush the melted cheese over the top of each burger.",
+    "8. Serve hot and enjoy!",
+    "9. Optional: serve with a side of keto-friendly veggies, such as grilled asparagus or bell peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "grilled",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ddecadent-flax-seedy-jamaican-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:51:35.141Z"
+}
