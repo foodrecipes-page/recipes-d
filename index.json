@@ -747,10 +747,10 @@
       "lamb",
       "tagine",
       "stew",
-      "north-african"
+      "north african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 165,
     "shard": "d"
   },
   {
@@ -18260,6 +18260,32 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-smoky-delight-thai-lettuce-nam-prik--indian",
+    "title": "Spicy Thai Chicken Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "chicken",
+      "thai"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-polish-sake-toast--indian",
+    "title": "Polish-Style Sake Bread Toast",
+    "tags": [
+      "indian",
+      "polish",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "d"
   }
 ]
