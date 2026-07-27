@@ -1,0 +1,97 @@
+{
+  "slug": "decadent-basque-turkish-delight-gratin--keto",
+  "title": "Keto Basque-Style Cheesecake ",
+  "description": "A rich, creamy, and decadent dessert inspired by the flavors of the Basque region, made keto-friendly by using a sugar-free sweetener and a blend of full-fat cheeses. A perfect treat for those following a keto diet.",
+  "cuisine": "Basque",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Decadent Chocolate",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Full-Fat Cream Cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sweetener",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Xanthan Gum",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160°C (325°F).",
+    "Make sure all the ingredients are at room temperature before proceeding.",
+    "In a blender or food processor, blend the chocolate, Turkish Delight, cream cheese, eggs, sweetener, and vanilla extract until smooth.",
+    "Add the softened butter and blend until fully incorporated.",
+    "Stir in the sour cream and xanthan gum.",
+    "Pour the mixture into a greased 23cm (9-inch) cheesecake pan.",
+    "Bake for 40-45 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool in the pan for 10 minutes.",
+    "Run a knife around the edges to release the cheesecake.",
+    "Let cool completely on a wire rack.",
+    "Chill in the refrigerator for at least 4 hours before serving.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "cheesecake",
+    "basque",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-basque-turkish-delight-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:47:53.680Z"
+}
