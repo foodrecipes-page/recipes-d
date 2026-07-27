@@ -1,0 +1,61 @@
+{
+  "slug": "dense-smoky-norwegian-beetroot-stew--vegetarian",
+  "title": "Smoky Beetroot Stew",
+  "description": "A hearty and comforting stew made with smoky flavors and the sweetness of beetroot.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup",
+      "notes": "smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the diced onions and cook until softened, about 5 minutes.",
+    "Add the diced tomatoes, smoked paprika, and beetroot.",
+    "Pour in the stew and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-norwegian-beetroot-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:58:23.238Z"
+}
