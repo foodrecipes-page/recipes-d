@@ -1,0 +1,84 @@
+{
+  "slug": "deliciously-snappy-ethiopian-lentils-skillet--keto",
+  "title": "Keto Ethiopian Lentil Skillet",
+  "description": "A keto twist on a traditional Ethiopian dish, this skillet is packed with flavor and nutrients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils, green or brown",
+      "amount": "1 cup",
+      "notes": "Make sure to rinse and drain the lentils before using"
+    },
+    {
+      "name": "Skillet oil or ghee",
+      "amount": "2 tablespoons",
+      "notes": "Choose a high-fat oil to keep this dish keto"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion into small pieces to cook evenly"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds a lot of flavor to this dish"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use fresh or canned tomato paste for the best flavor"
+    },
+    {
+      "name": "Spices (berbere, cumin, coriander)",
+      "amount": "1 teaspoon each",
+      "notes": "Adjust the spice levels to your liking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a natural salt like sea salt or Himalayan pink salt"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro adds a fresh flavor to this dish"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil or ghee in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the lentils, berbere, cumin, coriander, and salt. Stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lentils",
+    "ethiopian",
+    "skillet",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-snappy-ethiopian-lentils-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:53:49.888Z"
+}
