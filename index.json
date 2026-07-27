@@ -18195,5 +18195,31 @@
     "cuisine": "Basque",
     "totalTimeMin": 55,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-bitter-ethiopian-chinese-leaf-injera--italian",
+    "title": "Italian-Inspired Bitter Leaf Stir Fry",
+    "tags": [
+      "italian",
+      "ethiopian",
+      "stir-fry",
+      "leafy greens"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-dutch-sirloin-steak-tips-pasta--mexican",
+    "title": "Mexican Sirloin Fajitas",
+    "tags": [
+      "mexican",
+      "steak",
+      "fajitas",
+      "quick-meal"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
