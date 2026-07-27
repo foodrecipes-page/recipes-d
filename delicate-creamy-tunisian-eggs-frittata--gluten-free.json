@@ -1,0 +1,80 @@
+{
+  "slug": "delicate-creamy-tunisian-eggs-frittata--gluten-free",
+  "title": "Tunisian Frittata",
+  "description": "A flavorful, gluten-free frittata packed with the rich flavors of Tunisia. This omelette-style dish is perfect for a quick, satisfying breakfast or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tunisian olives",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Delicate cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large eggs"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat. Add the sliced olives, capers, garlic, and onion. Cook until the vegetables are softened, about 5 minutes.",
+    "In a large bowl, whisk together the eggs, crumbled cheese, salt, and black pepper.",
+    "Pour the egg mixture over the cooked vegetables in the skillet. Cook for 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is golden brown and set.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley. Let it cool for a few minutes before slicing and serving.",
+    "Slice the frittata into wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "tunisian",
+    "frittata",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-creamy-tunisian-eggs-frittata--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:15:38.044Z"
+}
