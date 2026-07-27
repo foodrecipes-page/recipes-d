@@ -18169,5 +18169,31 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-norwegian-salmon-skewers--indian",
+    "title": "Norwegian Salmon Skewers with Indian Spices",
+    "tags": [
+      "norwegian-salmon",
+      "indian-spices",
+      "grilled-salmon",
+      "summer-dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "decadent-basque-turkish-delight-gratin--keto",
+    "title": "Keto Basque-Style Cheesecake ",
+    "tags": [
+      "keto",
+      "cheesecake",
+      "basque",
+      "dessert"
+    ],
+    "cuisine": "Basque",
+    "totalTimeMin": 55,
+    "shard": "d"
   }
 ]
