@@ -18235,5 +18235,19 @@
     "cuisine": "British",
     "totalTimeMin": 145,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-snappy-ethiopian-lentils-skillet--keto",
+    "title": "Keto Ethiopian Lentil Skillet",
+    "tags": [
+      "keto",
+      "lentils",
+      "ethiopian",
+      "skillet",
+      "low-carb"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "d"
   }
 ]
