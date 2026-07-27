@@ -1,0 +1,90 @@
+{
+  "slug": "delicate-norwegian-salmon-skewers--indian",
+  "title": "Norwegian Salmon Skewers with Indian Spices",
+  "description": "A fusion dish of Norwegian salmon and Indian spices, perfect for a summer evening. The delicate flavor of the salmon pairs well with the bold spices.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Delicate skewers",
+      "amount": "10-12 skewers",
+      "notes": "pre-soaked in water for 30 minutes"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine ginger, garlic, garam masala, cumin powder, coriander powder, and salt. Blend until smooth.",
+    "In a large bowl, whisk together yogurt, lemon juice, and the spice paste. Add the salmon pieces and mix well to coat.",
+    "Soak the skewers in water for at least 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated salmon onto the pre-soaked skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Serve hot with a side of naan or rice.",
+    "Garnish with fresh cilantro and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian-salmon",
+    "indian-spices",
+    "grilled-salmon",
+    "summer-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-norwegian-salmon-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:31:19.928Z"
+}
