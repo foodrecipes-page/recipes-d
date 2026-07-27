@@ -3114,16 +3114,16 @@
   },
   {
     "slug": "delicate-algerian-beef-tomatoes-tagine",
-    "title": "Delicate Algerian Beef Tomatoes Tagine",
+    "title": "Beef Tagine with Tomatoes",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
+      "beef",
+      "tagine",
       "north-african",
-      "one-pot",
-      "weeknight"
+      "couscous",
+      "bread"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "d"
   },
   {
