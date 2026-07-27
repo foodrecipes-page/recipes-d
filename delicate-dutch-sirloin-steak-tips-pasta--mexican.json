@@ -1,0 +1,90 @@
+{
+  "slug": "delicate-dutch-sirloin-steak-tips-pasta--mexican",
+  "title": "Mexican Sirloin Fajitas",
+  "description": "Sizzling sirloin strips and sautéed vegetables, served with warm flour tortillas. This Mexican-inspired dish is perfect for a quick and flavorful meal.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin steak",
+      "amount": "1 pound",
+      "notes": "1.5 inches thick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Pasta",
+      "amount": "1 cup",
+      "notes": "any type, for serving"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sirloin steak and cook for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer the steak to a plate and cover with foil to keep warm.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the bell pepper and onion and cook for 4-5 minutes, or until tender.",
+    "Add the garlic and cook for 1 minute, or until fragrant.",
+    "Add the fajita seasoning and stir to combine.",
+    "Return the steak to the skillet and stir to combine with the vegetables.",
+    "Serve the steak and vegetables with pasta and warm flour tortillas.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "steak",
+    "fajitas",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-dutch-sirloin-steak-tips-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:38:29.225Z"
+}
