@@ -1,0 +1,74 @@
+{
+  "slug": "deliciously-bitter-ethiopian-chinese-leaf-injera--italian",
+  "title": "Italian-Inspired Bitter Leaf Stir Fry",
+  "description": "A fusion of Italian and Ethiopian flavors with a twist on the classic stir fry. This dish combines the bitterness of leaf with the crunch of injera, all in a delicious Italian-inspired sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Injera",
+      "amount": "4 pieces",
+      "notes": "Crumble injera into small pieces for added texture"
+    },
+    {
+      "name": "Leaf",
+      "amount": "4 cups",
+      "notes": "Choose a bitter leaf such as kale or collard greens"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add leaf and stir fry for 3-4 minutes until wilted.",
+    "Add Italian seasoning and stir to combine.",
+    "Crumble injera into small pieces and stir into the skillet.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Garnish with additional injera pieces if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "ethiopian",
+    "stir-fry",
+    "leafy greens"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-bitter-ethiopian-chinese-leaf-injera--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:07:23.145Z"
+}
