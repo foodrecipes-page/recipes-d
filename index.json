@@ -10477,17 +10477,14 @@
   },
   {
     "slug": "dense-adventurous-irish-lamb-pilaf",
-    "title": "Dense Adventurous Irish Lamb Pilaf",
+    "title": "Irish Lamb Pilaf",
     "tags": [
-      "comfort-food",
-      "hearty",
       "irish",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "pilaf"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 140,
+    "totalTimeMin": 40,
     "shard": "d"
   },
   {
