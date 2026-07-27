@@ -1,0 +1,73 @@
+{
+  "slug": "delicious-gooey-norwegian-paneer-casserole",
+  "title": "Norwegian Paneer Casserole",
+  "description": "A delicious, gooey casserole filled with paneer and a hint of Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "60g"
+    },
+    {
+      "name": "Flour",
+      "amount": "60g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Melt the butter in a pan and add the flour to make a roux.",
+    "Slowly add the milk to the roux, whisking continuously.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Add the paneer, casserole, salt, sugar, and cinnamon to the mixture.",
+    "Mix well to combine.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "paneer",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-gooey-norwegian-paneer-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:06:49.722Z"
+}
