@@ -1,0 +1,78 @@
+{
+  "slug": "deliciously-dense-american-ancho-chillies-skillet--chinese",
+  "title": "Szechuan Skillet Stir Fry",
+  "description": "A spicy and savory stir fry made with ancho chillies and served in a skillet. This dish is a unique twist on traditional Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho Chillies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Dense American Steak",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Deliciously Sweet Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Skillet Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Szechuan Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add 1 tbsp of oil and sear the steak for 2-3 minutes per side.",
+    "Remove the steak from the skillet and set aside.",
+    "Add the remaining 1 tbsp of oil, onions, and Szechuan pepper to the skillet.",
+    "Cook for 2-3 minutes or until the onions are softened.",
+    "Add the ancho chillies to the skillet and cook for an additional 1-2 minutes.",
+    "Return the steak to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes or until the steak is cooked to desired doneness.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "szechuan",
+    "skillet",
+    "chinese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-american-ancho-chillies-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:57:20.282Z"
+}
