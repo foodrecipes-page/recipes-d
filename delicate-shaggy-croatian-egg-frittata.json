@@ -1,0 +1,78 @@
+{
+  "slug": "delicate-shaggy-croatian-egg-frittata",
+  "title": "Croatian Frittata",
+  "description": "A delicious and easy to make egg dish from Croatia, perfect for breakfast or brunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "6 eggs",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "1 frittata",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup diced delicate cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup diced shaggy cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "0.25 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Beat eggs in a bowl and set aside.",
+    "Melt butter in a skillet over medium heat.",
+    "Add diced cheese to the skillet and cook until melted.",
+    "Add beaten eggs to the skillet and cook until edges start to set.",
+    "Transfer skillet to oven and bake for 15-20 minutes or until eggs are set.",
+    "Remove from oven and let cool for a few minutes.",
+    "Slice into wedges and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "frittata",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-shaggy-croatian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:03:11.139Z"
+}
