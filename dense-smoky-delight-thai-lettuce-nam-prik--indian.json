@@ -1,0 +1,75 @@
+{
+  "slug": "dense-smoky-delight-thai-lettuce-nam-prik--indian",
+  "title": "Spicy Thai Chicken Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with smoky chicken, delight spices, and a hint of Thai chili peppers.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "dense and aromatic"
+    },
+    {
+      "name": "Delight spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of warming spices"
+    },
+    {
+      "name": "Nam prik",
+      "amount": "1 tablespoon",
+      "notes": "Thai chili paste"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for thinning the curry"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the spices, chili paste, coconut milk, and water.",
+    "Bring to a simmer and cook for 10-15 minutes, until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve over lettuce leaves, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chicken",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoky-delight-thai-lettuce-nam-prik--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:22:43.329Z"
+}
