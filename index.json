@@ -18246,5 +18246,20 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-creamy-tunisian-eggs-frittata--gluten-free",
+    "title": "Tunisian Frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "tunisian",
+      "frittata",
+      "omelette"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
