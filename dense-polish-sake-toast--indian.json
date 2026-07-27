@@ -1,0 +1,59 @@
+{
+  "slug": "dense-polish-sake-toast--indian",
+  "title": "Polish-Style Sake Bread Toast",
+  "description": "A fusion of Indian spices and Polish flavors, perfect as a snack or appetizer. Simply toast some bread, top with a rich sake-infused spread, and serve.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dense bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Polish rye flour",
+      "amount": "2 tbsp",
+      "notes": "for the sake spread"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together the Polish rye flour and sake to create a spread.",
+    "Toast the dense bread slices until lightly browned.",
+    "Spread the sake mixture onto the toasted bread.",
+    "Garnish with additional toast slices, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "polish",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-polish-sake-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:00:05.638Z"
+}
