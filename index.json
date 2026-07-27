@@ -7552,16 +7552,15 @@
   },
   {
     "slug": "delicious-gooey-norwegian-paneer-casserole",
-    "title": "Delicious Gooey Norwegian Paneer Casserole",
+    "title": "Norwegian Paneer Casserole",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "norwegian-cuisine",
-      "one-pan",
-      "weeknight"
+      "norwegian",
+      "paneer",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "d"
   },
   {
