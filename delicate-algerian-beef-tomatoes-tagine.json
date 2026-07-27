@@ -1,0 +1,104 @@
+{
+  "slug": "delicate-algerian-beef-tomatoes-tagine",
+  "title": "Beef Tagine with Tomatoes",
+  "description": "A classic North African dish made with tender beef, fresh tomatoes, and aromatic spices. Serve with couscous or crusty bread.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef (chuck or round)",
+      "amount": "",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "2 medium tomatoes",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, cinnamon, and ginger. Cook for 1 minute.",
+    "Add tomatoes, broth, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Skim off any excess fat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tagine",
+    "north-african",
+    "couscous",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-algerian-beef-tomatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:07:37.781Z"
+}
