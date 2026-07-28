@@ -1,0 +1,81 @@
+{
+  "slug": "decadent-spring-australian-beans-bowl--vegetarian",
+  "title": "Spring Australian Bean Bowl",
+  "description": "A hearty, flavorful vegetarian bowl filled with spring ingredients and the freshness of Australia.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Canned Australian black beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Roasted spring carrots",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "Chopped fresh spring parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Diced spring red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Australian feta cheese (vegetarian)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Spring olive oil",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook the Australian brown rice according to package instructions.",
+    "In a large bowl, combine the cooked rice, black beans, roasted carrots, parsley, and red bell pepper.",
+    "Crumb the Australian feta cheese and sprinkle over the top of the bowl.",
+    "Drizzle the spring olive oil and lemon juice over the bowl.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "spring",
+    "bowl",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spring-australian-beans-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:47:00.658Z"
+}
