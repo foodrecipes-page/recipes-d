@@ -1,0 +1,93 @@
+{
+  "slug": "dzingy-indian-citrus-smoke-dried-curry--chinese",
+  "title": "Smokey Dried Chicken Stir Fry",
+  "description": "A flavorful and savory Chinese-inspired stir fry made with smoky and dried ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried chicken breast",
+      "amount": "500g",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "dried vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and bell peppers"
+    },
+    {
+      "name": "smoke oil",
+      "amount": "2 tsp",
+      "notes": "or substitute with sesame oil"
+    },
+    {
+      "name": "citrus juice",
+      "amount": "2 tbsp",
+      "notes": "such as orange or lemon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the smoke oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "Add the curry paste to the wok and cook for 1 minute, stirring constantly.",
+    "Add the dried vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the citrus juice, ginger, and garlic to the wok and stir to combine.",
+    "Return the chicken to the wok and stir to combine with the vegetables and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh herbs, such as cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "chicken",
+    "smoke",
+    "dried"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dzingy-indian-citrus-smoke-dried-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:56:59.983Z"
+}
