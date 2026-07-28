@@ -1,0 +1,76 @@
+{
+  "slug": "dense-chewy-ukrainian-bread-dumplings",
+  "title": "Homemade Ukrainian Dumplings",
+  "description": "A traditional Ukrainian recipe featuring homemade dumplings filled with a dense, chewy dough.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ukrainian bread",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the warm water, yeast, and 1 teaspoon of sugar. Let it sit for 5 minutes until the yeast is activated.",
+    "2. Add the all-purpose flour, salt, crumbled bread, eggs, milk, and mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into small pieces and roll each one into a ball.",
+    "5. Use a rolling pin to flatten each ball into a thin circle.",
+    "6. Place a small spoonful of filling in the center of each circle.",
+    "7. Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "8. Bring a large pot of water to a boil and gently add the dumplings.",
+    "9. Cook the dumplings for 10-15 minutes until they float to the surface.",
+    "10. Serve the dumplings hot with your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "homemade",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-chewy-ukrainian-bread-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:57:24.211Z"
+}
