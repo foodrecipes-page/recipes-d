@@ -1,0 +1,62 @@
+{
+  "slug": "deliciously-toasted-portuguese-corn-flatbread--mexican",
+  "title": "Mexican Grilled Corn Flatbread",
+  "description": "A delicious and easy flatbread topped with grilled portuguese corn, perfect for a mexican-inspired meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Portuguese Corn",
+      "amount": "2 ears"
+    },
+    {
+      "name": "Deliciously Toasted Chili Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grilled Cheese Crumbles (Optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the portuguese corn until slightly charred, about 5-7 minutes per side.",
+    "3. Meanwhile, toast the flatbread on the grill or in a toaster.",
+    "4. Sprinkle the toasted chili powder over the flatbread.",
+    "5. Brush the grilled corn with a tablespoon of butter or oil.",
+    "6. Assemble the flatbread by topping it with the grilled corn, salt, and optional grilled cheese crumbles.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "corn",
+    "flatbread",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-toasted-portuguese-corn-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:40:34.775Z"
+}
