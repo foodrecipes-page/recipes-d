@@ -3184,17 +3184,14 @@
   },
   {
     "slug": "delicate-american-chocolate-pancake",
-    "title": "Delicate American Chocolate Pancake",
+    "title": "American Delicate Chocolate Pancake",
     "tags": [
-      "american",
       "breakfast",
-      "halal-friendly",
-      "one-pan",
-      "silky",
-      "spicy"
+      "chocolate",
+      "delicate"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "d"
   },
   {
@@ -18437,6 +18434,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "double-rise-energizing-peruvian-beef-kidney-skillet--french",
+    "title": "Beef Bourguignon",
+    "tags": [
+      "beef",
+      "red-wine",
+      "stew",
+      "french-cuisine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 140,
+    "shard": "d"
+  },
+  {
+    "slug": "delightful-tunisian-quinoa-pilaf--japanese",
+    "title": "Tunisian Quinoa Pilaf",
+    "tags": [
+      "japanese",
+      "quinoa",
+      "pilaf",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "d"
   }
 ]
