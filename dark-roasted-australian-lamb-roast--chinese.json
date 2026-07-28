@@ -1,0 +1,90 @@
+{
+  "slug": "dark-roasted-australian-lamb-roast--chinese",
+  "title": "Roasted Lamb with Asian Glaze",
+  "description": "A Chinese-inspired roasted lamb dish with a sweet and savory glaze, perfect for a special occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb leg",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb leg with salt and black pepper.",
+    "In a small bowl, whisk together soy sauce, honey, brown sugar, grated ginger, and minced garlic.",
+    "Rub the glaze all over the lamb leg, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for another 20-25 minutes, or until the lamb reaches your desired level of doneness.",
+    "Let the lamb rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "asian",
+    "chinese",
+    "lamb",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-roasted-australian-lamb-roast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:05:41.390Z"
+}
