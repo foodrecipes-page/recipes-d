@@ -18375,5 +18375,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-spring-australian-beans-bowl--vegetarian",
+    "title": "Spring Australian Bean Bowl",
+    "tags": [
+      "australian",
+      "vegetarian",
+      "spring",
+      "bowl",
+      "beans"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
