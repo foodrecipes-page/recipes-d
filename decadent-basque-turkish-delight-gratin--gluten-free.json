@@ -1,0 +1,77 @@
+{
+  "slug": "decadent-basque-turkish-delight-gratin--gluten-free",
+  "title": "Gluten-Free Basque Delight Turin Gratin",
+  "description": "A rich and flavorful gluten-free gratin featuring the sweetness of delight and the spices of basque and turkish cuisine.",
+  "cuisine": "Basque",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Decadent Chocolate",
+      "amount": "250g",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "120g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Basque Cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Gluten-free Breadcrumbs",
+      "amount": "100g"
+    },
+    {
+      "name": "Turkish Spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, paprika, and cinnamon"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "150ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a bowl, mix together the crushed Turkish Delight, grated Basque Cheese, and melted butter.",
+    "In a separate bowl, whisk together the heavy cream and Turkish Spices.",
+    "In a 20cm (8-inch) baking dish, create a layer of gluten-free breadcrumbs.",
+    "Add a layer of the chocolate mixture on top of the breadcrumbs.",
+    "Pour the cream mixture over the chocolate layer.",
+    "Repeat the layers two more times, ending with a layer of breadcrumbs on top.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basque",
+    "turkish",
+    "chocolate",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-basque-turkish-delight-gratin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:31:07.863Z"
+}
