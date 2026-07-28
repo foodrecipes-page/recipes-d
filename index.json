@@ -18299,5 +18299,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 70,
     "shard": "d"
+  },
+  {
+    "slug": "dense-smoked-croatian-haddock-pilaf--french",
+    "title": "Smoked Haddock Croquettes",
+    "tags": [
+      "french",
+      "seafood",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 32,
+    "shard": "d"
   }
 ]
