@@ -1,0 +1,76 @@
+{
+  "slug": "decadent-roasted-mediterranean-trout-bake--keto",
+  "title": "Keto Trout Bake",
+  "description": "A flavorful and healthy trout recipe, baked with a mediterranean twist.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "2",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Decadent cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded or crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbled"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Line a baking sheet with parchment paper.",
+    "3. Place the trout fillets on the baking sheet.",
+    "4. Drizzle olive oil over the trout, then sprinkle with garlic, parsley, and lemon juice.",
+    "5. Top each trout fillet with decadent cheese and feta cheese.",
+    "6. Bake in the preheated oven for 12-15 minutes, or until cooked through.",
+    "7. Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "baked",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-roasted-mediterranean-trout-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:36:06.073Z"
+}
