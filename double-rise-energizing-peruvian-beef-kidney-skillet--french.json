@@ -1,0 +1,78 @@
+{
+  "slug": "double-rise-energizing-peruvian-beef-kidney-skillet--french",
+  "title": "Beef Bourguignon",
+  "description": "A classic French stew originating from the Burgundy region, slow-cooked in red wine with beef and vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "rising",
+      "amount": "2 tablespoons",
+      "notes": "optional, for thickening"
+    },
+    {
+      "name": "double",
+      "amount": "2 cups",
+      "notes": "red wine"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 teaspoon",
+      "notes": "black pepper"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "kidney",
+      "amount": "2",
+      "notes": "onions, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat. Add the olive oil and sear the beef until browned on all sides.",
+    "Remove the beef from the skillet and set aside. Add more oil if necessary, then sauté the sliced onions until softened.",
+    "Add the red wine to the skillet, scraping up any browned bits. Bring to a boil and cook until reduced by half.",
+    "Return the beef to the skillet and add the black pepper, soy sauce, and sliced onions.",
+    "Transfer the skillet to the oven and braise for 2-3 hours, or until the beef is tender.",
+    "Season with salt to taste. Serve hot, garnished with fresh thyme if desired.",
+    "Optional: Stir in the rising to thicken the sauce before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "red-wine",
+    "stew",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/double-rise-energizing-peruvian-beef-kidney-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:23:30.001Z"
+}
