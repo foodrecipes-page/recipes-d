@@ -1,0 +1,97 @@
+{
+  "slug": "deliciously-tender-kenyan-beef-wrap--french",
+  "title": "Kenyan Beef Wrap",
+  "description": "A fusion of Kenyan and French flavors in a tender beef wrap. The beef is marinated in a mix of spices and cooked to perfection, then wrapped in a deliciously flavored tortilla with vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "4",
+      "notes": "Large, for wrapping"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef strips in a mixture of chili flakes, cumin powder, salt, and black pepper for at least 30 minutes.",
+    "Heat a non-stick pan over medium heat and cook the beef strips until browned and cooked through.",
+    "In the same pan, add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Warm the tortillas by wrapping them in a damp cloth and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a portion of the beef and onion mixture onto each tortilla, followed by lettuce, tomato, and cucumber.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "lunch",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-tender-kenyan-beef-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:30:26.263Z"
+}
