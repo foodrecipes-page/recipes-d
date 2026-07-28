@@ -18336,5 +18336,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-spring-australian-beans-bowl--keto",
+    "title": "Australian Keto Spring Bowl",
+    "tags": [
+      "keto",
+      "australian",
+      "spring",
+      "bowl"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "dense-syrian-garlic-bake--japanese",
+    "title": "Japanese-Style Garlic Shrimp",
+    "tags": [
+      "japanese",
+      "shrimp",
+      "garlic",
+      "seafood"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "d"
+  },
+  {
+    "slug": "dramatic-smoky-syrian-peas-pilaf--chinese",
+    "title": "Smoky Syrian Chicken Pilaf",
+    "tags": [
+      "chinese",
+      "chicken",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "d"
   }
 ]
