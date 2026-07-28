@@ -1,0 +1,92 @@
+{
+  "slug": "delightful-tunisian-quinoa-pilaf--japanese",
+  "title": "Tunisian Quinoa Pilaf",
+  "description": "A Japanese twist on the traditional Tunisian pilaf, incorporating quinoa for a nutritious and flavorful meal.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Delightful chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add grated ginger and cook for 1 minute.",
+    "Add soy sauce and cook for an additional minute, stirring constantly.",
+    "Add Tunisian pilaf mix and cook, stirring frequently, for 2-3 minutes.",
+    "Add quinoa and chicken broth, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until quinoa is tender and liquid is absorbed.",
+    "Fluff with a fork and stir in sesame seeds.",
+    "Season with salt and pepper to taste.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "quinoa",
+    "pilaf",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delightful-tunisian-quinoa-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:25:50.522Z"
+}
