@@ -1,0 +1,63 @@
+{
+  "slug": "dense-syrian-garlic-bake--japanese",
+  "title": "Japanese-Style Garlic Shrimp",
+  "description": "A quick and flavorful Japanese-inspired dish featuring succulent shrimp, savory garlic, and a touch of sweetness.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tablespoon",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup",
+      "notes": "rice flour"
+    }
+  ],
+  "instructions": [
+    "1. Combine rice flour and a pinch of salt in a shallow dish.",
+    "2. Dredge the shrimp in the rice flour mixture, coating evenly.",
+    "3. Heat sesame oil in a large skillet over medium-high heat.",
+    "4. Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "5. Remove the shrimp from the skillet and set aside.",
+    "6. In the same skillet, add minced garlic and cook for 1 minute, until fragrant.",
+    "7. Return the shrimp to the skillet and toss to coat with the garlic and oil.",
+    "8. Serve immediately, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "shrimp",
+    "garlic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-syrian-garlic-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:29:06.974Z"
+}
