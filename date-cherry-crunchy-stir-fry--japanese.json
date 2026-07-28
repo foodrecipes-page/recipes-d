@@ -1,0 +1,64 @@
+{
+  "slug": "date-cherry-crunchy-stir-fry--japanese",
+  "title": "Japanese Cherry Cherry Crisp",
+  "description": "A sweet Japanese-inspired dessert made with cherries and crunchy topping.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "date sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together cherries and date sugar.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together crunchy and fry until well combined.",
+    "Spread the crunchy mixture evenly over the cherry mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/date-cherry-crunchy-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:00:05.954Z"
+}
