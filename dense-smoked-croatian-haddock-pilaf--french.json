@@ -1,0 +1,79 @@
+{
+  "slug": "dense-smoked-croatian-haddock-pilaf--french",
+  "title": "Smoked Haddock Croquettes",
+  "description": "A French-inspired dish featuring smoked haddock, pilaf, and a crispy exterior. Perfect as a snack or appetizer.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried pilaf",
+      "amount": "1 cup",
+      "notes": "preferably flavored"
+    },
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated croatian cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the pilaf, smoked haddock, and grated croatian cheese (if using).",
+    "Mix well to combine.",
+    "In a separate bowl, beat the eggs.",
+    "Add the flour to the egg mixture and mix until a smooth batter forms.",
+    "Add the egg batter to the pilaf mixture and mix until just combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dip each patty into the melted butter, coating both sides evenly.",
+    "Heat about 1/2 inch of melted butter in a large skillet over medium-high heat.",
+    "Fry the croquettes until golden brown and crispy, about 3-4 minutes per side.",
+    "Serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dense-smoked-croatian-haddock-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:56:51.162Z"
+}
