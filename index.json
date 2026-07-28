@@ -18411,5 +18411,32 @@
     "cuisine": null,
     "totalTimeMin": 22,
     "shard": "d"
+  },
+  {
+    "slug": "decadent-basque-turkish-delight-gratin--gluten-free",
+    "title": "Gluten-Free Basque Delight Turin Gratin",
+    "tags": [
+      "basque",
+      "turkish",
+      "chocolate",
+      "gluten-free"
+    ],
+    "cuisine": "Basque",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "dzingy-indian-citrus-smoke-dried-curry--chinese",
+    "title": "Smokey Dried Chicken Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "chicken",
+      "smoke",
+      "dried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
