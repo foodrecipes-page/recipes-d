@@ -1,0 +1,74 @@
+{
+  "slug": "decadent-spring-australian-beans-bowl--keto",
+  "title": "Australian Keto Spring Bowl",
+  "description": "A delicious and healthy keto bowl filled with Australian flavors, perfect for a spring day.",
+  "cuisine": "australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Wagyu Beef",
+      "amount": "1 lb",
+      "notes": "Make sure to cook to a safe internal temperature of 135°F (57°C) for medium-rare."
+    },
+    {
+      "name": "Spring Vegetables",
+      "amount": "2 cups, mixed",
+      "notes": "Choose a mix of colorful spring vegetables, such as carrots, bell peppers, and zucchini."
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality avocado oil for the best flavor."
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "1 tsp",
+      "notes": "A keto-friendly alternative to soy sauce."
+    },
+    {
+      "name": "Chopped Fresh Herbs",
+      "amount": "1/4 cup, mixed",
+      "notes": "Choose a mix of herbs, such as parsley, basil, and mint."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Keto Cheese Shreds",
+      "amount": "1/2 cup",
+      "notes": "A keto-friendly cheese option, such as cheddar or mozzarella."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the Australian Wagyu Beef with salt and pepper. Roast in the oven for 10-12 minutes, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, toss the spring vegetables with avocado oil, coconut aminos, and chopped fresh herbs. Spread on a baking sheet and roast in the oven for 10-12 minutes, or until tender.",
+    "To assemble the bowl, place a portion of the roasted vegetables on a plate, followed by a slice of the roasted beef. Top with keto cheese shreds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "australian",
+    "spring",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-spring-australian-beans-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:47:17.557Z"
+}
