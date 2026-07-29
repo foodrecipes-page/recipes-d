@@ -18560,5 +18560,46 @@
     "cuisine": "german",
     "totalTimeMin": 170,
     "shard": "d"
+  },
+  {
+    "slug": "deliciously-dense-turkish-cheese-bake--german",
+    "title": "German Style Cheese Kuchen",
+    "tags": [
+      "german",
+      "cheese",
+      "cake",
+      "desert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "d"
+  },
+  {
+    "slug": "deliciously-gooey-kenyan-ham-skewers--thai",
+    "title": "Kenyan Ham Satay with Spicy Peanut Sauce",
+    "tags": [
+      "thai",
+      "kenyan",
+      "grilled",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-american-chocolate-pancake--indian",
+    "title": "Delicate American Pancake French Toast with Chocolate",
+    "tags": [
+      "indian",
+      "breakfast",
+      "dessert",
+      "chocolate",
+      "pancake"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
   }
 ]
