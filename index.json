@@ -3444,17 +3444,15 @@
   },
   {
     "slug": "delicate-chinese-beef-buddha-jumps-over-wall",
-    "title": "Delicate Chinese Beef Buddha Jumps Over Wall",
+    "title": "Buddha's Beef Delight",
     "tags": [
-      "bento-box",
+      "beef",
       "chinese",
-      "garlicky",
-      "high-protein",
-      "kid-friendly",
-      "springy"
+      "stir-fry",
+      "easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "d"
   },
   {
@@ -18497,6 +18495,70 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "dark-zy-canadian-flour-poutine--italian",
+    "title": "Zy Poutine Fritters with Canadian Cheese",
+    "tags": [
+      "italian-fritters",
+      "poutine-cheese",
+      "zy-fritters"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-scrambled-irish-eggs-frittata--keto",
+    "title": "Irish Frittata Keto Recipe",
+    "tags": [
+      "irish",
+      "keto",
+      "breakfast",
+      "brunch",
+      "frittata"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crispy-french-chickpeas-terrine--french",
+    "title": "French Chickpea Terrine",
+    "tags": [
+      "french",
+      "chickpea",
+      "terrines",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-malaysian-thai-eggplant-curry--japanese",
+    "title": "Japanese-Style Eggplant Curry",
+    "tags": [
+      "japanese",
+      "curry",
+      "eggplant",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-norwegian-meat-stew--german",
+    "title": "Traditional German Meat Stew",
+    "tags": [
+      "german",
+      "stew",
+      "lamb"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "d"
   }
 ]
