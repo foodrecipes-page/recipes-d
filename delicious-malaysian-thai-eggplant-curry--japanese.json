@@ -1,0 +1,83 @@
+{
+  "slug": "delicious-malaysian-thai-eggplant-curry--japanese",
+  "title": "Japanese-Style Eggplant Curry",
+  "description": "A twist on traditional Japanese cuisine, this dish combines the flavors of curry with the tender eggplant. Perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and ginger and sauté until fragrant.",
+    "Add curry powder and cook for 1 minute.",
+    "Add eggplant and cook until tender.",
+    "Stir in coconut milk, soy sauce, sugar, salt, and pepper.",
+    "Simmer for 10 minutes.",
+    "Serve hot over rice or noodles.",
+    "Garnish with green onions and sesame seeds (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "eggplant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicious-malaysian-thai-eggplant-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:10:46.619Z"
+}
