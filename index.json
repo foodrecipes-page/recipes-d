@@ -2236,16 +2236,14 @@
   },
   {
     "slug": "decadent-pungent-australian-mushroom-dumplings",
-    "title": "Decadent Pungent Australian Mushroom Dumplings",
+    "title": "Australian Mushroom Dumplings",
     "tags": [
-      "aus-dish",
-      "dumpling",
-      "midnight-snack",
+      "australian",
       "mushroom",
-      "pungent",
-      "vegan"
+      "dumplings",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 35,
     "shard": "d"
   },
@@ -18599,6 +18597,20 @@
       "pancake"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicious-malaysian-thai-eggplant-curry--chinese",
+    "title": "Thai-Style Eggplant Stir Fry in a Chinese Curry Sauce",
+    "tags": [
+      "eggplant",
+      "stir-fry",
+      "curry",
+      "chinese",
+      "thaifusion"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "d"
   }
