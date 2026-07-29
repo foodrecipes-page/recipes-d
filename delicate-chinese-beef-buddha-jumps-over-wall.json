@@ -1,0 +1,71 @@
+{
+  "slug": "delicate-chinese-beef-buddha-jumps-over-wall",
+  "title": "Buddha's Beef Delight",
+  "description": "A Chinese-inspired beef stir-fry with delicate flavors and textures. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Delicate Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Jumps of fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Over-wintered vegetables (bell peppers, carrots)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Buddha's favorite soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add the ginger to the wok and cook for 1 minute.",
+    "Add the vegetables to the wok and cook until they start to soften, about 3-4 minutes.",
+    "Return the beef to the wok and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes, until the beef is coated in the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-chinese-beef-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:49:27.782Z"
+}
