@@ -1,0 +1,69 @@
+{
+  "slug": "deliciously-dense-turkish-cheese-bake--german",
+  "title": "German Style Cheese Kuchen",
+  "description": "A dense and rich German-style cheesecake-like dessert made with a buttery crust and topped with a creamy cheese and egg mixture.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "deliciously",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "dense",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "turkish",
+      "amount": "2 large",
+      "notes": "eggs"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix the flour and sugar in a bowl.",
+    "Add the softened butter and mix until a crumbly mixture forms.",
+    "Press the mixture into a springform pan.",
+    "In a separate bowl, whisk together the eggs and cheese.",
+    "Pour the cheese mixture over the crust.",
+    "Bake for 40-45 minutes or until the edges are golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cheese",
+    "cake",
+    "desert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-dense-turkish-cheese-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:01:40.489Z"
+}
