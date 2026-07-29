@@ -18461,5 +18461,42 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "d"
+  },
+  {
+    "slug": "delicate-tunisian-snapper-fish-tagine--german",
+    "title": "Pan-Seared Snapper with German Spice",
+    "tags": [
+      "german-cuisine",
+      "fish-recipes",
+      "seafood-dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-crisp-italian-fish-panettone--gluten-free",
+    "title": "Panettone French Toast with Fresh Berries",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "d"
+  },
+  {
+    "slug": "delicate-savory-turkish-potato-kofte--chinese",
+    "title": "Turkish-Style Kofte with Savory Sauce",
+    "tags": [
+      "chinese",
+      "turkish",
+      "kofte",
+      "savory-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "d"
   }
 ]
