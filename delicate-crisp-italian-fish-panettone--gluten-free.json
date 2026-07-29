@@ -1,0 +1,72 @@
+{
+  "slug": "delicate-crisp-italian-fish-panettone--gluten-free",
+  "title": "Panettone French Toast with Fresh Berries",
+  "description": "A delicious breakfast treat that combines the Italian classic panettone with fresh berries and a hint of citrus.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "1 (1-pound) loaf"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh berries (strawberries, blueberries, raspberries)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, maple syrup, and vanilla extract.",
+    "2. Cut the panettone into 1-inch slices and place in the egg mixture, coating both sides.",
+    "3. Heat a non-stick skillet or griddle over medium heat.",
+    "4. Add butter to the skillet and melt.",
+    "5. Cook the panettone slices for 3-4 minutes on each side, or until golden brown.",
+    "6. Serve warm with fresh berries and a sprinkle of lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-crisp-italian-fish-panettone--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:34:53.437Z"
+}
