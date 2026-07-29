@@ -1,0 +1,67 @@
+{
+  "slug": "dark-zy-canadian-flour-poutine--italian",
+  "title": "Zy Poutine Fritters with Canadian Cheese",
+  "description": "A crispy fritter filled with poutine, topped with melted Canadian cheese, inspired by Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "for topping"
+    },
+    {
+      "name": "Poutine",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zy",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flour, dark chocolate chips, and zy.",
+    "2. Add poutine to the bowl and mix well.",
+    "3. Divide the mixture into 8 equal parts.",
+    "4. Shape each part into a ball and flatten slightly into a disk.",
+    "5. Heat a large non-stick skillet over medium heat.",
+    "6. Add the fritters to the skillet and cook for 3-4 minutes on each side, or until golden brown.",
+    "7. Sprinkle Canadian cheese on top of each fritter and cook for an additional 1-2 minutes, or until the cheese is melted.",
+    "8. Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-fritters",
+    "poutine-cheese",
+    "zy-fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/dark-zy-canadian-flour-poutine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:34:51.922Z"
+}
