@@ -1,0 +1,95 @@
+{
+  "slug": "decadent-pungent-australian-mushroom-dumplings",
+  "title": "Australian Mushroom Dumplings",
+  "description": "Hearty and flavorful dumplings filled with sautéed mushrooms and served with a rich, creamy sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Mixed varieties, thinly sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling wrappers"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Decadent sauce (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Combine flour and water in a large bowl to make dumpling wrappers. Knead dough for 5 minutes.",
+    "Divide dough into small balls and roll out into thin circles.",
+    "In a separate pan, heat oil over medium heat. Add sliced onion and cook until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add mushrooms and cook until tender. Season with soy sauce and Shaoxing wine.",
+    "Place a spoonful of mushroom mixture onto a dumpling wrapper. Fold and seal the wrapper.",
+    "Pan-fry dumplings until golden brown on bottom.",
+    "Serve with decadent sauce and garnish with sliced scallions.",
+    "Cook dumplings in boiling water for 5-7 minutes, or until cooked through.",
+    "Serve with steamed vegetables and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "mushroom",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/decadent-pungent-australian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:59:00.143Z"
+}
