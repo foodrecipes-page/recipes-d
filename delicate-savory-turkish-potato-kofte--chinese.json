@@ -1,0 +1,63 @@
+{
+  "slug": "delicate-savory-turkish-potato-kofte--chinese",
+  "title": "Turkish-Style Kofte with Savory Sauce",
+  "description": "A twist on traditional Chinese cuisine, this dish combines the flavors of Turkey with the savory sauce of China. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Delicate turkish kofte",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Savory sauce (hoisin and soy sauce mixture)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Turkish seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium heat.",
+    "Add sliced potatoes and cook until golden brown.",
+    "Add kofte and cook until browned on all sides.",
+    "In a separate bowl, mix hoisin and soy sauce.",
+    "Add the savory sauce to the pan with the kofte and potatoes.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Season with Turkish seasoning to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "kofte",
+    "savory-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-savory-turkish-potato-kofte--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:46:47.646Z"
+}
