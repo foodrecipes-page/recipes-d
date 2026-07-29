@@ -1,0 +1,72 @@
+{
+  "slug": "delicate-scrambled-irish-eggs-frittata--keto",
+  "title": "Irish Frittata Keto Recipe",
+  "description": "A keto version of the traditional Irish frittata, made with eggs, vegetables, and a hint of spice. Perfect for a low-carb breakfast or brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "8"
+    },
+    {
+      "name": "Irish Scrambled Eggs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the bacon in a large skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet, leaving the grease behind.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced cucumber and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the vegetables in the skillet.",
+    "Cook the eggs until the edges start to set, about 2-3 minutes.",
+    "Sprinkle the shredded cheddar cheese over the top of the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are set and the cheese is melted.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Cut the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "keto",
+    "breakfast",
+    "brunch",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-scrambled-irish-eggs-frittata--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:45:21.192Z"
+}
