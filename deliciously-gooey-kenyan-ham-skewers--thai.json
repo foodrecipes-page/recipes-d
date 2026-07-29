@@ -1,0 +1,89 @@
+{
+  "slug": "deliciously-gooey-kenyan-ham-skewers--thai",
+  "title": "Kenyan Ham Satay with Spicy Peanut Sauce",
+  "description": "A fusion of Kenyan and Thai flavors, these satay skewers are marinated in a mix of spices and grilled to perfection, served with a creamy spicy peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan ham",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Deliciously gooey honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine peanuts, coconut milk, fish sauce, lime juice, ginger, and red pepper flakes. Blend until smooth.",
+    "Heat the peanut sauce in a saucepan over medium heat until warm and fragrant.",
+    "In a large bowl, whisk together honey, lime juice, and fish sauce. Add the sliced Kenyan ham and toss to coat.",
+    "Soak 20 bamboo skewers in water for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread the marinated ham onto the skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the ham is cooked through and slightly charred.",
+    "Serve the skewers with the spicy peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "kenyan",
+    "grilled",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/deliciously-gooey-kenyan-ham-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:10:32.005Z"
+}
