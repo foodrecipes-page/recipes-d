@@ -1,0 +1,91 @@
+{
+  "slug": "delicate-tunisian-snapper-fish-tagine--german",
+  "title": "Pan-Seared Snapper with German Spice",
+  "description": "A flavorful and delicate snapper dish inspired by German cuisine, featuring a crispy crust and a hint of Tunisian spice.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with salt, black pepper, and Tunisian spice blend.",
+    "In a shallow dish, mix together flour, egg, and breadcrumbs. Dip each snapper fillet into the mixture, coating both sides evenly.",
+    "Heat butter in an oven-safe skillet over medium-high heat. Sear the coated snapper fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Serve the snapper hot with a squeeze of lemon and garnished with parsley.",
+    "Recommended side dishes: German potato salad, sauerkraut, or steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "fish-recipes",
+    "seafood-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/delicate-tunisian-snapper-fish-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:08:25.743Z"
+}
